@@ -1,4 +1,4 @@
-*/data/*
-*/outputs/*
+*data/*
+*outputs/*
 .DS_store
-*..ipynb_checkpoints*
+*.ipynb_checkpoints*
