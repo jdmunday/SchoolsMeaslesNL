@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Large measles outbreaks still occasionally occur in the Netherlands despite very high MMR uptake - which would be expected to contain outbreaks to a small number of cases. This is largely associated with a two socio-religious groups who refuse vaccination in large numbers - the protestant orthodox church (Rerformatorisch) and the Anthroposophic community. 
+Large measles outbreaks still occasionally occur in the Netherlands despite very high MMR uptake - which would be expected to contain outbreaks to a small number of cases. This is linked to a concentration of a lower vaccination rate in two distinct groups - the protestant orthodox church (Rerformatorisch) and the Anthroposophic community. 
 
 The school system in the Netherlands allows for a high degree of structure in terms of faith and philosophical alignment, both of these communities have schools associated with their particular beliefs and values. 
 
