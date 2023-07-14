@@ -6,7 +6,7 @@ Large measles outbreaks still occasionally occur in the Netherlands despite very
 
 The school system in the Netherlands allows for a high degree of structure in terms of faith and philosophical alignment, both of these communities have schools associated with their particular beliefs and values. 
 
-We use data from the Dutch Education Executive (DUO) to construct a network of schcools linked through households. We analyse this network and simulate outbreaks on the network, to evaluate the role of schools in facilitating large national outbreaks within these communities. 
+We use data from the Dutch Education Executive (DUO) to construct a network of schcools linked through households. We analyse this network and simulate outbreaks on the network, to evaluate the role of schools in facilitating large national outbreaks within these communities.   
 
 ![](plots/consensus_community_9.png)
 
