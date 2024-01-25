@@ -21,15 +21,15 @@ import igraph as ig
 
 importlib.reload(models)
 
-def create_transmat_from_adjmat(adj_mat, vacc_dict=False, nodelist=[], R0=15., q=0.5):
+def create_transmat_from_adjmat_asym(adj_mat, vacc_dict=False, nodelist=[], R0=15., q=0.5):
     if vacc_dict == False:
         vacc_dict = dict(np.transpose([nodelist, np.zeros_like(nodelist)]))
     #print 'making fsvec'
-    FSLIST = [models.op_fs(p, R0) for p in np.arange(0, 1., 0.001)]
+    FSLIST = [max(0,models.op_fs(p, 15.))for p in np.arange(0, 1., 0.001)]
   
                          
     #fs_vec = np.array([ models.op_fs(1.-vacc_dict[n], R0) for n in nodelist])
-    fs_vec = np.array([FSLIST[int((1.-vacc_dict[n])*1000) - 1] for n in nodelist])
+    fs_vec = np.array([FSLIST[max(0, int((1.-vacc_dict[n])*1000) - 1)] for n in nodelist])
    # print 'making vacvec'
     vac_vec = np.array([vacc_dict[n] for n in nodelist])
 
@@ -43,6 +43,31 @@ def create_transmat_from_adjmat(adj_mat, vacc_dict=False, nodelist=[], R0=15., q
     trans_mat = 1. - (1. - pairprob) ** adj_mat
     
     return trans_mat
+
+
+def create_transmat_from_adjmat(adj_mat, vacc_dict=False, nodelist=[], R0=15., q=0.5):
+    if vacc_dict == False:
+        vacc_dict = dict(np.transpose([nodelist, np.zeros_like(nodelist)]))
+    #print 'making fsvec'
+    FSLIST = [max(0,models.op_fs(p, R0))for p in np.arange(0, 1., 0.001)]
+  
+                         
+    #fs_vec = np.array([ models.op_fs(1.-vacc_dict[n], R0) for n in nodelist])
+    fs_vec = np.array([FSLIST[max(0, int((1.-vacc_dict[n])*1000) - 1)] for n in nodelist])
+   # print 'making vacvec'
+    vac_vec = np.array([vacc_dict[n] for n in nodelist])
+
+ 
+   # print 'making Pstvec'
+    Pst_vec = fs_vec  # equivalent to the final size for gaussian offspring distribution
+    #Pst_mat = np.outer(np.ones(len(nodelist)), 1.-Pst_vec)
+    #print 'making pairprob'
+    pairprob = np.outer( q*fs_vec, (1.-vac_vec)*Pst_vec)
+    #print 'making transmat'
+    trans_mat = 1. - (1. - pairprob) ** adj_mat
+    
+    return trans_mat
+
 
 
 def create_network_from_transmat(trans_mat, nodelist):
