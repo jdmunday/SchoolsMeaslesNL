@@ -1,5 +1,6 @@
-*data/*
+*Measles_per_PC4.csv
+data/Vaccination\ data/*
 *outputs/*
-.DS_store
+*.DS_store
 *.ipynb_checkpoints*
 */__pycache__/*
