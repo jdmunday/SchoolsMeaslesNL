@@ -698,7 +698,11 @@ def schools_pc4():
     
     return schools_pc4
 
-def plot_rocmap(pc4shapes):
+def plot_rocmap(pc4shapes, vmax = np.nan, legendon=False):
+    if vmax == np.nan: 
+        vmax = pc4shapes['mod'].max()
+
+    
     fig = plt.figure(figsize=[7, 10])
     ax = fig.add_subplot(111)
     
@@ -706,11 +710,16 @@ def plot_rocmap(pc4shapes):
     pc4shapes['logcount'] = np.log(pc4shapes['Count'])
     
     pc4shapes.plot(color='grey', linewidth=0., ax=ax)
-    pc4shapes.query('cir == True and cim == True').plot('mod', cmap =  'Greens', linewidth=0., ax=ax, vmin=0, vmax=pc4shapes['mod'].max(), alpha=1.)
-    pc4shapes.query('cir == False and cim == True').plot('mod', cmap ='Reds', linewidth=0., ax=ax, vmin=0, vmax=pc4shapes['mod'].max(), alpha=1.)
+    if legendon: 
+        pc4shapes.query('cir == True and cim == True').plot('mod', cmap =  'Greens', legend=legendon, linewidth=0., ax=ax, vmin=0, vmax=vmax, alpha=1., legend_kwds={"location": "left", "shrink":0.3, 'label':'Mean infections in PC4s \nwhere cases reported'})
+        pc4shapes.query('cir == False and cim == True').plot('mod', cmap ='Reds', legend=legendon, linewidth=0., ax=ax, vmin=0, vmax=vmax, alpha=1., legend_kwds={"location": "left", "shrink":0.3, 'label':'where cases not reported'})
+    else:
+        pc4shapes.query('cir == True and cim == True').plot('mod', cmap =  'Greens',  linewidth=0., ax=ax, vmin=0, vmax=vmax, alpha=1.)
+        pc4shapes.query('cir == False and cim == True').plot('mod', cmap ='Reds', linewidth=0., ax=ax, vmin=0, vmax=vmax, alpha=1.)
     #pc4shapes.query('cir == True and cim == False').plot(color='b', linewidth=0., ax=ax)
     ax.set_xticklabels([])
     ax.set_yticklabels([])
     ax.set_aspect('equal')
+    
     
     
