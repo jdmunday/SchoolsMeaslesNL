@@ -1,0 +1,65 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;534;Hillegom;2021;Haarlem;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2121;Bloemendaal;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2144;Haarlemmermeer;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;534;Hillegom;2151;Haarlemmermeer;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2162;Lisse;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2181;Hillegom;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;6;8;10;11;10;9;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;534;Hillegom;2182;Hillegom;06GB;00;RK Jozefschool;2182EN;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;6;13;9;13;17;18;20;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;534;Hillegom;2114;Bloemendaal;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2144;Haarlemmermeer;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;1;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;534;Hillegom;2151;Haarlemmermeer;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2161;Lisse;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2181;Hillegom;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;19;14;19;16;17;18;16;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;534;Hillegom;2182;Hillegom;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;9;7;15;10;7;7;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;534;Hillegom;2215;Teylingen;07KJ;00;De Fontein;2181TA;HILLEGOM;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2025;Haarlem;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2144;Haarlemmermeer;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;534;Hillegom;2152;Haarlemmermeer;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2163;Lisse;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2181;Hillegom;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;5;5;3;5;3;6;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;534;Hillegom;2182;Hillegom;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;44;48;49;29;50;44;38;33;1;0;0;0;0;0;0;0;0;0;0;0;0;0;336
+20171001;534;Hillegom;2316;Leiden;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2441;Nieuwkoop;08KD;00;RK Basisschool De Giraf;2182WB;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2136;Haarlemmermeer;09JZ;00;Johannesschool;2181CT;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2144;Haarlemmermeer;09JZ;00;Johannesschool;2181CT;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;534;Hillegom;2181;Hillegom;09JZ;00;Johannesschool;2181CT;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;26;31;31;37;23;45;28;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;247
+20171001;534;Hillegom;2182;Hillegom;09JZ;00;Johannesschool;2181CT;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;21;27;23;17;28;11;22;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;534;Hillegom;2211;Noordwijkerhout;09JZ;00;Johannesschool;2181CT;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2144;Haarlemmermeer;10FF;00;De Leerwinkel;2181VD;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;3;0;2;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;534;Hillegom;2181;Hillegom;10FF;00;De Leerwinkel;2181VD;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;10;17;15;21;15;14;13;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;534;Hillegom;2182;Hillegom;10FF;00;De Leerwinkel;2181VD;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;1;1;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;534;Hillegom;2191;Noordwijkerhout;10FF;00;De Leerwinkel;2181VD;HILLEGOM;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;1187;Amstelveen;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2104;Heemstede;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2144;Haarlemmermeer;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2151;Haarlemmermeer;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;534;Hillegom;2152;Haarlemmermeer;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2161;Lisse;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2162;Lisse;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2165;Haarlemmermeer;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2172;Teylingen;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2181;Hillegom;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;4;6;4;4;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;534;Hillegom;2182;Hillegom;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;1;6;3;4;6;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;534;Hillegom;2191;Noordwijkerhout;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2211;Noordwijkerhout;14VQ;00;SSBO Savio;2181CZ;HILLEGOM;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;1187;Amstelveen;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;534;Hillegom;2114;Bloemendaal;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2121;Bloemendaal;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2144;Haarlemmermeer;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;534;Hillegom;2162;Lisse;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2181;Hillegom;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;6;13;14;12;17;9;13;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;534;Hillegom;2182;Hillegom;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;5;4;7;7;8;3;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;534;Hillegom;2332;Leiden;18HR;00;Daltonschool Hillegom;2181CZ;HILLEGOM;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;1082;Amsterdam;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2103;Heemstede;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2114;Bloemendaal;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;534;Hillegom;2121;Bloemendaal;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;534;Hillegom;2134;Haarlemmermeer;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2144;Haarlemmermeer;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;534;Hillegom;2151;Haarlemmermeer;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;534;Hillegom;2152;Haarlemmermeer;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;534;Hillegom;2161;Lisse;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;534;Hillegom;2181;Hillegom;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;3;2;4;1;4;2;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;534;Hillegom;2182;Hillegom;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;12;7;8;11;3;6;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;534;Hillegom;2324;Leiden;24RB;00;De Toermalijn Bollenstr;2182TZ;HILLEGOM;Zuid-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

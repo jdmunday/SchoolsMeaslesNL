@@ -1,0 +1,627 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1883;Sittard-Geleen;  20;Duitsland;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;  30;ander land;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6102;Echt-Susteren;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;4;1;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;2;0;3;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;3;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;0;0;1;1;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;2;2;0;2;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;2;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6155;Schinnen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;2;3;3;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6171;Stein;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6191;Beek;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6361;Nuth;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6438;Schinnen;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6446;Brunssum;00BW;00;Jenaplanschool De Vlieger;6131KJ;SITTARD;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;  30;ander land;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6075;Roerdalen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6101;Echt-Susteren;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;2;3;3;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6123;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6124;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6129;Stein;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;1;2;3;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;2;2;3;1;1;5;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;2;2;2;1;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;1;0;1;1;0;1;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6176;Beek;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6181;Stein;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6191;Beek;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;1;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6365;Schinnen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6431;Heerlen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6438;Schinnen;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6443;Brunssum;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6456;Onderbanken;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;8256;Dronten;01DM;00;SSBO Het Mozaiek;6135GC;SITTARD;Limburg;Sbo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;1;1;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6155;Schinnen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;1;2;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;1;1;1;3;4;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;1;0;2;0;2;6;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6171;Stein;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;2;2;3;3;2;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1883;Sittard-Geleen;6176;Beek;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6181;Stein;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6191;Beek;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;2;5;5;1;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1883;Sittard-Geleen;6365;Schinnen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6372;Landgraaf;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6431;Heerlen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6438;Schinnen;02RS;00;SBO De Blinker;6166XM;GELEEN;Limburg;Sbo;Algemeen bijzonder;83280;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;  20;Duitsland;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6104;Echt-Susteren;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;2;6;5;3;7;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;1;0;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;4;5;3;1;1;3;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;1;1;3;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;3;0;2;1;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;03GW;00;PC Basisschool de hoefer;6131KJ;SITTARD;Limburg;Bo;Protestants-Christelijk;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  30;ander land;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6049;Roermond;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;1;2;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;1;3;1;1;3;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;1;2;0;3;1;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6176;Beek;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6438;Schinnen;03GW;01;PC BS De Regenboog;6164GM;GELEEN;Limburg;Bo;Protestants-Christelijk;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  30;ander land;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6116;Echt-Susteren;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;1;0;2;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6123;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6124;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;4;7;4;6;7;6;8;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;10;9;16;12;13;10;14;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;8;15;17;18;9;17;14;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;03WD;00;Basisschool De Kingbeek;6127BC;GREVENBICHT;Limburg;Bo;Samenwerking PC, RK;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;1066;Amsterdam;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6101;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6104;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6116;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6124;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;1;1;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;3;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;2;3;0;0;1;1;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;3;2;0;1;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6153;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6155;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6155;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;4;1;1;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;3;5;4;3;3;0;0;0;0;0;0;0;0;18
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;2;2;1;0;1;1;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6171;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;0;0;2;1;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6171;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6176;Beek;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6181;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;1;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6181;Stein;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6191;Beek;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;3;1;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6191;Beek;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6217;Maastricht;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6218;Maastricht;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6235;Meerssen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6251;Eijsden-Margraten;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6333;Nuth;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6361;Nuth;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6365;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6365;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6369;Simpelveld;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6373;Landgraaf;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6374;Landgraaf;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6413;Heerlen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6431;Heerlen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6431;Heerlen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6432;Heerlen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;2;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6438;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6438;Schinnen;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6441;Brunssum;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6443;Brunssum;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6445;Brunssum;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6446;Brunssum;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6451;Onderbanken;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6451;Onderbanken;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6461;Kerkrade;04EP;00;ZMOK Sch Xaverius;6135GC;SITTARD;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  30;ander land;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;3;3;4;3;4;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;6;4;6;5;2;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;14;23;16;14;12;16;16;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;6;10;4;8;2;3;6;8;2;1;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;11;17;19;17;13;15;12;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;4;3;4;0;1;7;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1883;Sittard-Geleen;6174;Schinnen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6176;Beek;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6191;Beek;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6365;Schinnen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6367;Voerendaal;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6431;Heerlen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6438;Schinnen;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6443;Brunssum;06BA;00;BS de Duizendpoot;6165TV;GELEEN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;4;8;9;17;4;9;6;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;8;4;12;9;12;5;11;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;8;4;6;9;3;6;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6176;Beek;06JS;00;RK BS De Leeuwerik;6142AD;EINIGHAUSEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;23;21;29;25;29;34;30;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;214
+20171001;1883;Sittard-Geleen;6153;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;1;4;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6191;Beek;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6291;Vaals;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6361;Nuth;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6439;Schinnen;06MC;00;Basisschool Munstergeleen;6151GM;MUNSTERGELEEN;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  10;Belgie;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  20;Duitsland;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  30;ander land;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6129;Stein;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;1;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;3;1;8;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;8;13;5;15;8;16;13;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;1;1;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;2;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6171;Stein;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;5;2;2;4;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1883;Sittard-Geleen;6181;Stein;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6431;Heerlen;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;9341;Noordenveld;06YH;00;Bs De Tovertuin;6137XT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;07TX;00;BS het Avontuur;6122ET;BUCHTEN;Limburg;Bo;Rooms-Katholiek;41506;0;4;1;2;2;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;07TX;00;BS het Avontuur;6122ET;BUCHTEN;Limburg;Bo;Rooms-Katholiek;41506;0;7;5;11;7;8;9;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;1883;Sittard-Geleen;6123;Sittard-Geleen;07TX;00;BS het Avontuur;6122ET;BUCHTEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;5;6;5;4;4;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;1883;Sittard-Geleen;  10;Belgie;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6155;Schinnen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;5;5;3;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;3;1;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;13;13;6;8;10;5;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;20;15;14;16;5;9;4;11;2;1;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;7;4;4;1;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1883;Sittard-Geleen;6174;Schinnen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6176;Beek;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6191;Beek;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6241;Meerssen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6431;Heerlen;07UK;00;Basisschool De Kluis;6165SW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;2;2;2;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1883;Sittard-Geleen;  30;ander land;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6104;Echt-Susteren;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;10;5;4;9;1;2;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;8;8;13;8;16;10;11;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;13;12;10;11;14;11;13;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;3;2;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;5;1;1;2;2;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;5;7;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;3;2;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6155;Schinnen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6444;Brunssum;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6451;Onderbanken;07VS;00;Basisschool Leijenbroek;6132CD;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  20;Duitsland;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;30;18;22;19;26;23;15;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;7;4;7;5;5;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;3;1;2;1;1;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;4;4;3;5;4;5;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;1;1;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1883;Sittard-Geleen;6174;Schinnen;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6191;Beek;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6333;Nuth;08KT;00;Basisschool Sterrenrijk;6161CV;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;  30;ander land;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;5;8;8;6;10;9;15;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;21;28;24;28;16;21;17;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;3;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6153;Sittard-Geleen;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6171;Stein;08ME;00;Basisschool De Lemborgh;6141LK;LIMBRICHT;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  30;ander land;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;5037;Tilburg;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;17;28;32;26;38;27;23;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;209
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6123;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6124;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;08ZL;00;Basisschool Swentibold;6121LH;BORN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  30;ander land;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;5971;Horst aan de Maas;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;0;1;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;5;9;6;10;12;13;5;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;1883;Sittard-Geleen;6167;Sittard-Geleen;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6171;Stein;08ZR;00;Basissch De Springplank;6163XW;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  10;Belgie;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6014;Leudal;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;15;23;16;20;13;12;19;21;10;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6416;Heerlen;09WW;00;Basisschool 't Heuvelke;6163CH;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  20;Duitsland;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6051;Maasgouw;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6101;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6102;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6104;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6109;Maasgouw;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6112;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;3;2;1;1;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6129;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;1;1;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;3;2;1;1;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6155;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;2;4;2;2;1;3;1;0;1;0;0;0;0;0;16
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;1;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6171;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6171;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;2;3;1;0;2;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6174;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6176;Beek;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6176;Beek;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6181;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6181;Stein;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6191;Beek;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6191;Beek;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;2;1;0;2;2;1;1;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6214;Maastricht;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6231;Meerssen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6241;Meerssen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6333;Nuth;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6333;Nuth;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6336;Nuth;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6361;Nuth;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6369;Simpelveld;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6373;Landgraaf;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6413;Heerlen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6415;Heerlen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6432;Heerlen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6433;Heerlen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6438;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6438;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6439;Schinnen;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6441;Brunssum;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6442;Brunssum;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6443;Brunssum;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6446;Brunssum;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;So;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6446;Brunssum;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6451;Onderbanken;12QN;00;De Parkschool;6141AZ;LIMBRICHT;Limburg;Vso;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;  30;ander land;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;9;11;8;5;17;10;10;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;5;6;4;4;5;4;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1883;Sittard-Geleen;6174;Schinnen;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6369;Simpelveld;14IH;00;RK Basisschool Baandert;6136KE;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  10;Belgie;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;  20;Duitsland;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6049;Roermond;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6051;Maasgouw;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6067;Maasgouw;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6099;Maasgouw;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6116;Echt-Susteren;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;2;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6155;Schinnen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;1;1;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;19;11;18;20;27;11;14;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;3;4;2;4;7;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;3;1;3;0;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;18;26;20;16;33;19;26;21;8;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;1883;Sittard-Geleen;6171;Stein;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6176;Beek;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6181;Stein;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6191;Beek;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;1;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6226;Maastricht;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6231;Meerssen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6336;Nuth;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6343;Voerendaal;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6365;Schinnen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;2;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6372;Landgraaf;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6374;Landgraaf;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6411;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6412;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6413;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6415;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6417;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6418;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6433;Heerlen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6438;Schinnen;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6444;Brunssum;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6463;Kerkrade;15DD;00;Basissch de Driesprong;6166EG;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  10;Belgie;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;2;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;  30;ander land;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6102;Echt-Susteren;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;1;8;2;6;5;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;25;21;25;20;20;12;24;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;2;5;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6415;Heerlen;15FU;00;Kath Basissch Overhoven;6136AT;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;8;1;2;1;2;5;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1883;Sittard-Geleen;  30;ander land;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;1;4;2;2;7;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1883;Sittard-Geleen;6043;Roermond;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6129;Stein;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;23;19;22;21;25;14;17;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;3;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;16;12;20;20;13;14;24;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6191;Beek;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6456;Onderbanken;15XN;00;Kath Basissch Lahrhof;6132GN;SITTARD;Limburg;Bo;Rooms-Katholiek;83280;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  10;Belgie;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;15;18;14;24;16;10;14;17;3;1;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;7;7;2;1;2;3;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6176;Beek;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6191;Beek;16WB;00;Basisschool Reuzepas;6164CK;GELEEN;Limburg;Bo;Rooms-Katholiek;40987;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;  20;Duitsland;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;6;4;7;9;5;8;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;1883;Sittard-Geleen;  30;ander land;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;4;1;2;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1883;Sittard-Geleen;1066;Amsterdam;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;1087;Amsterdam;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6114;Echt-Susteren;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;2;3;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;3;3;6;1;5;4;8;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;2;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;6;9;8;13;14;10;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;28;22;19;24;22;18;18;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6155;Schinnen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6419;Heerlen;18ES;00;OBS De Sjtadssjool;6137AM;SITTARD;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;2;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;  30;ander land;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;1;2;0;2;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;1;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6133;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;12;15;12;12;20;12;12;15;6;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;5;2;11;1;5;10;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;3;2;2;2;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;1;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6151;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6446;Brunssum;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6471;Kerkrade;22JO;00;OBS aan de Meule;6133AA;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  10;Belgie;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;  20;Duitsland;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;2;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;  30;ander land;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;3;2;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6155;Schinnen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6161;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6164;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6243;Meerssen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6363;Nuth;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6436;Schinnen;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6442;Brunssum;22NL;01;Talander;6132GN;SITTARD;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6116;Echt-Susteren;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;17;30;27;33;33;28;36;28;9;0;0;0;0;0;0;0;0;0;0;0;0;0;241
+20171001;1883;Sittard-Geleen;6122;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;3;1;3;4;5;10;2;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;1883;Sittard-Geleen;6123;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;5;1;3;1;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1883;Sittard-Geleen;6124;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6127;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6142;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6166;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6167;Sittard-Geleen;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6446;Brunssum;24DB;00;OBS de Wissel;6121NE;BORN;Limburg;Bo;Openbaar;83280;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;  20;Duitsland;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;  30;ander land;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6116;Echt-Susteren;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6118;Echt-Susteren;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6121;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6125;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6131;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1883;Sittard-Geleen;6132;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6134;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1883;Sittard-Geleen;6135;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;39;29;47;44;38;41;46;40;4;0;0;0;0;0;0;0;0;0;0;0;0;0;328
+20171001;1883;Sittard-Geleen;6136;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;3;1;4;5;7;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1883;Sittard-Geleen;6137;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;2;2;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1883;Sittard-Geleen;6141;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;1;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1883;Sittard-Geleen;6143;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6162;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1883;Sittard-Geleen;6163;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6165;Sittard-Geleen;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1883;Sittard-Geleen;6228;Maastricht;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1883;Sittard-Geleen;6466;Kerkrade;30TE;00;Loedoes;6135JK;SITTARD;Limburg;Bo;Openbaar;83280;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

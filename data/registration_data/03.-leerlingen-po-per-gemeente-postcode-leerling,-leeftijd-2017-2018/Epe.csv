@@ -1,0 +1,155 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;232;Epe;7396;Voorst;01AJ;02;Dr A Verschoor School;8162BB;EPE;Gelderland;So;Algemeen bijzonder;62129;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;01AJ;02;Dr A Verschoor School;8162BB;EPE;Gelderland;So;Algemeen bijzonder;62129;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8162;Epe;01AJ;02;Dr A Verschoor School;8162BB;EPE;Gelderland;So;Algemeen bijzonder;62129;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8171;Epe;01AJ;02;Dr A Verschoor School;8162BB;EPE;Gelderland;So;Algemeen bijzonder;62129;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8172;Epe;01AJ;02;Dr A Verschoor School;8162BB;EPE;Gelderland;So;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7316;Apeldoorn;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7323;Apeldoorn;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7324;Apeldoorn;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;232;Epe;7325;Apeldoorn;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7345;Apeldoorn;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;4;0;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;232;Epe;8166;Epe;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8167;Epe;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8171;Epe;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;11;14;11;16;14;9;12;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;232;Epe;8172;Epe;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;1;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;8181;Heerde;03JI;00;Rk Basisschool G Majella;8171KC;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7417;Deventer;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8014;Zwolle;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;1;4;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;232;Epe;8162;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;9;17;8;19;10;17;18;14;1;1;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;232;Epe;8166;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8167;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8171;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8172;Epe;04NV;00;K Norel-School;8162JA;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;2;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;7397;Voorst;04PQ;00;School met de Bijbel;8167PL;OENE;Gelderland;Bo;Protestants-Christelijk;36778;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8161;Epe;04PQ;00;School met de Bijbel;8167PL;OENE;Gelderland;Bo;Protestants-Christelijk;36778;0;2;0;1;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;232;Epe;8167;Epe;04PQ;00;School met de Bijbel;8167PL;OENE;Gelderland;Bo;Protestants-Christelijk;36778;0;12;7;11;9;8;9;12;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;232;Epe;8196;Olst-Wijhe;04PQ;00;School met de Bijbel;8167PL;OENE;Gelderland;Bo;Protestants-Christelijk;36778;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7316;Apeldoorn;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8161;Epe;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;232;Epe;8162;Epe;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8166;Epe;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;7;12;5;14;10;9;10;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;232;Epe;8171;Epe;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8172;Epe;05NW;00;Christelijke Basisschool;8166KA;EMST;Gelderland;Bo;Protestants-Christelijk;84215;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7312;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7314;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7315;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7323;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;1;1;0;3;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;232;Epe;7324;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7333;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7341;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;7345;Apeldoorn;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8071;Nunspeet;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8072;Nunspeet;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8162;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8166;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;10;1;2;4;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;232;Epe;8167;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8171;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;3;3;1;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;232;Epe;8172;Epe;05OK;00;PC Bs Het Mosterdzaadje;8166JD;EMST;Gelderland;Bo;Reformatorisch;84787;0;2;1;2;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;232;Epe;7322;Apeldoorn;06FV;00;RK Bs De Krugerstee;8172VT;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7345;Apeldoorn;06FV;00;RK Bs De Krugerstee;8172VT;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8166;Epe;06FV;00;RK Bs De Krugerstee;8172VT;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8171;Epe;06FV;00;RK Bs De Krugerstee;8172VT;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;1;3;3;2;3;9;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;232;Epe;8172;Epe;06FV;00;RK Bs De Krugerstee;8172VT;VAASSEN;Gelderland;Bo;Rooms-Katholiek;76806;0;26;21;19;24;13;18;14;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;232;Epe;8021;Zwolle;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8076;Nunspeet;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;4;6;9;7;12;6;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;232;Epe;8162;Epe;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;10;8;10;9;10;9;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;232;Epe;8166;Epe;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;2;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;8167;Epe;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8172;Epe;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8181;Heerde;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;0;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;232;Epe;8261;Kampen;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8262;Kampen;06YN;00;Basisschool St Bernardus;8162ET;EPE;Gelderland;Bo;Rooms-Katholiek;76806;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7312;Apeldoorn;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;5;5;4;3;6;7;9;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;232;Epe;8162;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;11;13;10;8;10;10;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;232;Epe;8166;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;2;2;1;2;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;232;Epe;8167;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8171;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;232;Epe;8172;Epe;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;0;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8181;Heerde;07CM;00;Jenaplan Bs 't Hogeland;8162GM;EPE;Gelderland;Bo;Algemeen bijzonder;41634;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8161;Epe;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;3;5;3;2;3;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;232;Epe;8162;Epe;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;10;7;9;12;9;8;9;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;232;Epe;8166;Epe;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8167;Epe;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8172;Epe;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8181;Heerde;07KS;00;WG vd Hulstsch;8162XC;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8071;Nunspeet;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8081;Elburg;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8084;Elburg;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8161;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;2;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;232;Epe;8162;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;0;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;8166;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8167;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8171;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;3;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8172;Epe;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;1;4;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;8181;Heerde;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8191;Heerde;08CG;00;SSBO vd Reijden;8162BB;EPE;Gelderland;Sbo;Algemeen bijzonder;62129;0;0;0;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;232;Epe;3531;Utrecht;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7326;Apeldoorn;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8161;Epe;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;9;12;10;18;14;10;13;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;232;Epe;8162;Epe;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;7;10;7;8;10;5;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;232;Epe;8166;Epe;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;232;Epe;8167;Epe;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8172;Epe;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8181;Heerde;08VI;00;Basissch Anne de Vries;8162AE;EPE;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7345;Apeldoorn;13JJ;00;OBS de Sprenge;8171KC;VAASSEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8162;Epe;13JJ;00;OBS de Sprenge;8171KC;VAASSEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8171;Epe;13JJ;00;OBS de Sprenge;8171KC;VAASSEN;Gelderland;Bo;Openbaar;41345;0;4;4;6;10;14;12;9;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;232;Epe;8172;Epe;13JJ;00;OBS de Sprenge;8171KC;VAASSEN;Gelderland;Bo;Openbaar;41345;0;2;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;1024;Amsterdam;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7315;Apeldoorn;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7325;Apeldoorn;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7345;Apeldoorn;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7397;Voorst;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8162;Epe;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8166;Epe;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;2;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;232;Epe;8171;Epe;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;3;3;3;6;2;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;232;Epe;8172;Epe;13JJ;01;Obs De Sprenge Vaassen;8171LH;VAASSEN;Gelderland;Bo;Openbaar;41345;0;2;1;4;6;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;232;Epe;7001;Doetinchem;13JJ;02;Obs De Sprenge Lok Emst;8166AP;EMST;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;13JJ;02;Obs De Sprenge Lok Emst;8166AP;EMST;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8162;Epe;13JJ;02;Obs De Sprenge Lok Emst;8166AP;EMST;Gelderland;Bo;Openbaar;41345;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8166;Epe;13JJ;02;Obs De Sprenge Lok Emst;8166AP;EMST;Gelderland;Bo;Openbaar;41345;0;4;12;10;8;6;13;14;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;232;Epe;8172;Epe;13JJ;02;Obs De Sprenge Lok Emst;8166AP;EMST;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;3971;Utrechtse Heuvelrug;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8051;Hattem;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8161;Epe;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;2;2;6;3;9;3;12;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;232;Epe;8162;Epe;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8166;Epe;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;232;Epe;8167;Epe;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;4;5;4;4;6;5;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;232;Epe;8181;Heerde;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8196;Olst-Wijhe;13SQ;00;Obs Zuuk;8161RJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;13WE;00;OBS Gildeschool;8161HG;EPE;Gelderland;Bo;Openbaar;41345;0;10;17;14;17;18;16;24;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;232;Epe;8162;Epe;13WE;00;OBS Gildeschool;8161HG;EPE;Gelderland;Bo;Openbaar;41345;0;6;5;4;3;7;4;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;232;Epe;8166;Epe;13WE;00;OBS Gildeschool;8161HG;EPE;Gelderland;Bo;Openbaar;41345;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;232;Epe;8167;Epe;13WE;00;OBS Gildeschool;8161HG;EPE;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8172;Epe;13WE;00;OBS Gildeschool;8161HG;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;2241;Wassenaar;14CY;00;OBS Nieuwe Wisselse Sch;8162HJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7315;Apeldoorn;14CY;00;OBS Nieuwe Wisselse Sch;8162HJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;14CY;00;OBS Nieuwe Wisselse Sch;8162HJ;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8162;Epe;14CY;00;OBS Nieuwe Wisselse Sch;8162HJ;EPE;Gelderland;Bo;Openbaar;41345;0;7;8;7;5;15;8;11;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;232;Epe;  40;Onbekend;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7345;Apeldoorn;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8161;Epe;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;7;3;0;4;4;8;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;232;Epe;8162;Epe;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;10;11;13;6;11;19;15;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;232;Epe;8166;Epe;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;232;Epe;8167;Epe;14FS;00;OPB Hoge Weerdschool;8162XC;EPE;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;7316;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7323;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7324;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7326;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;7328;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7335;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7345;Apeldoorn;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;232;Epe;8161;Epe;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8166;Epe;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8171;Epe;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;6;5;6;6;5;5;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;232;Epe;8172;Epe;19LF;00;Chr BS t Mozaiek;8172VT;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;26;22;20;34;20;21;21;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;232;Epe;7323;Apeldoorn;19LW;00;CBS De Violier;8171BA;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;7345;Apeldoorn;19LW;00;CBS De Violier;8171BA;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;232;Epe;8166;Epe;19LW;00;CBS De Violier;8171BA;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;232;Epe;8171;Epe;19LW;00;CBS De Violier;8171BA;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;26;32;17;26;26;23;27;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;200
+20171001;232;Epe;8172;Epe;19LW;00;CBS De Violier;8171BA;VAASSEN;Gelderland;Bo;Protestants-Christelijk;41736;0;4;2;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12

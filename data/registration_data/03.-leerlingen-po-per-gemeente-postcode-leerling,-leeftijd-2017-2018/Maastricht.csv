@@ -1,0 +1,727 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;935;Maastricht;  10;Belgie;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6116;Echt-Susteren;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6121;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6121;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6124;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6127;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6129;Stein;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6132;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6135;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6136;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6151;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6161;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6164;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6166;Sittard-Geleen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6171;Stein;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6181;Stein;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6181;Stein;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;3;1;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6191;Beek;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6211;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6212;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6213;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6215;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6215;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;3;2;4;3;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6216;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6216;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6217;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;3;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6217;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;2;1;1;3;2;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6218;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6218;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6219;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6221;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6222;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6222;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6223;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6223;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6224;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6224;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6225;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6225;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;3;2;4;1;1;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6226;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6227;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6228;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;1;1;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6228;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;3;2;3;2;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6229;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6229;Maastricht;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6231;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6231;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6235;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6241;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6241;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6243;Meerssen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6245;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6245;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;3;2;3;0;1;0;1;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6247;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6251;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6262;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6267;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6269;Eijsden-Margraten;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6271;Gulpen-Wittem;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6273;Gulpen-Wittem;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6287;Gulpen-Wittem;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6291;Vaals;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6321;Gulpen-Wittem;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6321;Gulpen-Wittem;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6336;Nuth;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6343;Voerendaal;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6367;Voerendaal;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6367;Voerendaal;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6369;Simpelveld;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6372;Landgraaf;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6374;Landgraaf;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6415;Heerlen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6418;Heerlen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6433;Heerlen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6438;Schinnen;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6451;Onderbanken;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6466;Kerkrade;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6471;Kerkrade;00SH;00;Inst v Orthopedagog Ond;6225AR;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6164;Sittard-Geleen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6166;Sittard-Geleen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6171;Stein;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6215;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6216;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6217;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;3;2;1;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6218;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6218;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6219;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6219;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6222;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6222;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6225;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6225;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6226;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6228;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6229;Maastricht;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6231;Meerssen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6241;Meerssen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6241;Meerssen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6265;Eijsden-Margraten;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6333;Nuth;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6413;Heerlen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6431;Heerlen;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6461;Kerkrade;02SP;00;Don Boscoschool ZMOK;6222AM;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;1;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6211;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6212;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6213;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;5;4;1;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;935;Maastricht;6214;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;4;6;3;4;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;935;Maastricht;6215;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;26;27;40;30;29;33;30;39;4;0;0;0;0;0;0;0;0;0;0;0;0;0;258
+20171001;935;Maastricht;6216;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;21;18;26;20;25;20;23;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;935;Maastricht;6217;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;4;1;2;4;5;5;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;935;Maastricht;6218;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;7;3;5;3;4;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;935;Maastricht;6219;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6222;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6228;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6229;Maastricht;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6305;Valkenburg aan de Geul;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6431;Heerlen;03IY;00;Basisschool Jf Kennedy;6216ED;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6213;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;2;0;0;1;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6215;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;1;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6216;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;2;2;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6217;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;1;1;3;4;2;11;7;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;935;Maastricht;6218;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;2;0;0;2;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;935;Maastricht;6219;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6221;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;0;2;1;2;0;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6222;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;2;0;2;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;935;Maastricht;6223;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6225;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6226;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;1;1;1;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6227;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;1;0;0;1;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6228;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;0;1;0;5;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;935;Maastricht;6229;Maastricht;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;1;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6231;Meerssen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6235;Meerssen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6241;Meerssen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6243;Meerssen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6245;Eijsden-Margraten;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6333;Nuth;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6418;Heerlen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6432;Heerlen;03LO;00;Talententuin Maastricht;6222AM;MAASTRICHT;Limburg;Sbo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;2171;Teylingen;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6151;Sittard-Geleen;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6171;Stein;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6211;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6213;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6222;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6223;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;3;5;5;5;8;7;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;935;Maastricht;6225;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;2;2;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6226;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;20;36;27;49;35;33;42;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;275
+20171001;935;Maastricht;6227;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;5;1;1;0;2;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;935;Maastricht;6228;Maastricht;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;1;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6245;Eijsden-Margraten;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6267;Eijsden-Margraten;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6268;Eijsden-Margraten;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;3;0;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6436;Schinnen;03NC;00;Basisonderwijs Scharn;6226BP;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;7;5;6;4;9;5;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;935;Maastricht;6215;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6216;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6217;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;8;12;12;14;9;7;15;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;935;Maastricht;6218;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;3;2;0;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6219;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6224;Maastricht;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6431;Heerlen;03OP;00;Basisschool St Oda;6217KM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6211;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6213;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;13;16;16;10;13;17;20;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;935;Maastricht;6214;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6215;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;7;14;6;12;7;3;11;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;935;Maastricht;6216;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6217;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6218;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6221;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6245;Eijsden-Margraten;03QD;00;Petrus en Paulus School;6213HM;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6191;Beek;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6215;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6218;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6222;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;8;3;3;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;935;Maastricht;6223;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6225;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;42;53;46;54;47;51;44;43;4;0;0;0;0;0;0;0;0;0;0;0;0;0;384
+20171001;935;Maastricht;6226;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;2;0;3;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6227;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6228;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6229;Maastricht;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6231;Meerssen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;3;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6243;Meerssen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6245;Eijsden-Margraten;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6267;Eijsden-Margraten;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6411;Heerlen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6415;Heerlen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6418;Heerlen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6431;Heerlen;04IP;00;Basisschool Amby;6225BR;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6221;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6222;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;3;3;2;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6224;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;15;8;9;8;7;12;9;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;935;Maastricht;6225;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6226;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;2;1;2;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;935;Maastricht;6228;Maastricht;04KM;00;De Letterdoes;6224AZ;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6215;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6216;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;2;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6217;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;16;8;13;16;11;14;7;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;935;Maastricht;6218;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;1;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6219;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;05KP;00;BS Het Mozaïek;6217XX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6222;Maastricht;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6223;Maastricht;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;12;5;10;12;11;3;17;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;935;Maastricht;6231;Meerssen;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6241;Meerssen;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6243;Meerssen;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6262;Eijsden-Margraten;06OJ;00;RK Basisschool de Maaskopkes;6223BD;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;2;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6222;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;3;0;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6224;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;11;7;13;11;7;8;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;935;Maastricht;6225;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6226;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;6;10;8;6;12;7;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;935;Maastricht;6227;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;1;4;4;4;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;935;Maastricht;6228;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6229;Maastricht;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6235;Meerssen;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6243;Meerssen;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6267;Eijsden-Margraten;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6295;Vaals;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;06WW;00;Basisschool Nuts Oost;6224JR;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;  10;Belgie;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;2;0;4;5;3;2;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;935;Maastricht;  30;ander land;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;5305;Zaltbommel;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6191;Beek;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6212;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6213;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6214;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;2;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6215;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6216;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6219;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6221;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;4;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6222;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6223;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6224;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;2;2;2;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6225;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6226;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;3;2;1;1;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;935;Maastricht;6227;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;2;1;0;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6228;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;5;1;3;2;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;935;Maastricht;6229;Maastricht;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;4;2;5;3;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;935;Maastricht;6231;Meerssen;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6235;Meerssen;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6241;Meerssen;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;1;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6243;Meerssen;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6245;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6247;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6251;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6252;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6255;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6261;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6262;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6265;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6267;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;0;0;1;0;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6269;Eijsden-Margraten;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6281;Gulpen-Wittem;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;2;0;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6305;Valkenburg aan de Geul;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6321;Gulpen-Wittem;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;3;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6336;Nuth;07CP;00;Bernard Lievegoed School;6229GX;MAASTRICHT;Limburg;Bo;Antroposofisch;41246;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6211;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6212;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;2;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6214;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;2;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6216;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6219;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;6;9;10;8;11;7;13;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;935;Maastricht;6222;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;1;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6223;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6224;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;5;2;1;2;2;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;935;Maastricht;6225;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6228;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6229;Maastricht;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6241;Meerssen;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6267;Eijsden-Margraten;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;07WV;00;Basisschool Wijck;6221CW;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6211;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;2;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6212;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;37;27;35;30;22;22;30;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;223
+20171001;935;Maastricht;6213;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;2;4;2;3;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;935;Maastricht;6215;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6217;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6218;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6219;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6223;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6228;Maastricht;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6245;Eijsden-Margraten;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6261;Eijsden-Margraten;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6267;Eijsden-Margraten;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6367;Voerendaal;08QO;00;Basisschool St Pieter;6212CX;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6171;Stein;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6181;Stein;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6213;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;2;1;4;2;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;935;Maastricht;6215;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;16;10;12;16;18;11;10;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;935;Maastricht;6216;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;4;1;3;4;4;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;935;Maastricht;6217;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6218;Maastricht;08UC;00;Kc Kindcentrum Dynamiek;6216TT;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6219;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6223;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6225;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;3;0;1;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6228;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;19;22;25;13;26;23;12;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;935;Maastricht;6229;Maastricht;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6245;Eijsden-Margraten;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6247;Eijsden-Margraten;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6265;Eijsden-Margraten;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;09SF;00;OBS De Kring;6228GC;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;4;6;3;5;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;935;Maastricht;  20;Duitsland;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;2;4;2;4;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;935;Maastricht;  30;ander land;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;2592;'s-Gravenhage;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;2904;Capelle aan den IJssel;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;3828;Amersfoort;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6116;Echt-Susteren;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6135;Sittard-Geleen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6162;Sittard-Geleen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6171;Stein;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6199;Beek;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6211;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6212;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6213;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6215;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6216;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6218;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6219;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6221;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;3;3;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;935;Maastricht;6222;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6224;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;0;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6225;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;6;7;10;4;7;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;935;Maastricht;6226;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;8;3;9;8;6;10;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;935;Maastricht;6227;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;36;36;35;36;29;30;17;23;1;0;0;0;0;0;0;0;0;0;0;0;0;0;243
+20171001;935;Maastricht;6228;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;12;7;10;11;13;8;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;935;Maastricht;6229;Maastricht;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;3;3;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6231;Meerssen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6241;Meerssen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6243;Meerssen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6245;Eijsden-Margraten;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;2;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6247;Eijsden-Margraten;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6252;Eijsden-Margraten;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6267;Eijsden-Margraten;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6268;Eijsden-Margraten;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6285;Gulpen-Wittem;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6291;Vaals;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6333;Nuth;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6365;Schinnen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6413;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6414;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6418;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6419;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6432;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6433;Heerlen;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6441;Brunssum;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6442;Brunssum;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6443;Brunssum;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6444;Brunssum;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6445;Brunssum;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6451;Onderbanken;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6456;Onderbanken;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6471;Kerkrade;10FZ;00;BS De Vlinderboom;6227VA;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6215;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6222;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6223;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;6;3;6;3;5;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;935;Maastricht;6225;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;4;6;15;4;14;8;12;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;935;Maastricht;6227;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;2;0;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6228;Maastricht;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6231;Meerssen;10LX;00;OBS De Regenboog;6226AR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6043;Roermond;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6102;Echt-Susteren;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6102;Echt-Susteren;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6116;Echt-Susteren;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6129;Stein;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6131;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6132;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6133;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6133;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6135;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6136;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6137;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6137;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6143;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6162;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6162;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6163;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6163;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6164;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6165;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6166;Sittard-Geleen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6171;Stein;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6171;Stein;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6181;Stein;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6181;Stein;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6191;Beek;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6213;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6218;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6219;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6229;Maastricht;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2;0;1;1;0;0;0;0;0;6
+20171001;935;Maastricht;6241;Meerssen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6241;Meerssen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;935;Maastricht;6243;Meerssen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6269;Eijsden-Margraten;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6291;Vaals;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;2;0;0;2;1;0;0;1;1;0;0;0;0;0;7
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6333;Nuth;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6336;Nuth;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6343;Voerendaal;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;935;Maastricht;6361;Nuth;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6365;Schinnen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6369;Simpelveld;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6373;Landgraaf;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6411;Heerlen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6418;Heerlen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6431;Heerlen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6436;Schinnen;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6443;Brunssum;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6446;Brunssum;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6461;Kerkrade;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6462;Kerkrade;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6466;Kerkrade;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6471;Kerkrade;14YY;00;Tytylschool de Maasgouw;6226NK;MAASTRICHT;Limburg;So;Rooms-Katholiek;27445;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;15BR;00;Emile Wesly Basisschool;6216EA;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;5;4;7;5;5;7;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;935;Maastricht;6215;Maastricht;15BR;00;Emile Wesly Basisschool;6216EA;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6216;Maastricht;15BR;00;Emile Wesly Basisschool;6216EA;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;15BR;00;Emile Wesly Basisschool;6216EA;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;  30;ander land;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6223;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6225;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6226;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6227;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;7;5;3;4;4;8;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;935;Maastricht;6228;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;3;0;2;0;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6229;Maastricht;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6231;Meerssen;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6245;Eijsden-Margraten;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6247;Eijsden-Margraten;15BR;01;Emile Wesly Basisschool;6227RS;MAASTRICHT;Limburg;Bo;Protestants-Christelijk;40717;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;1;2;2;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;935;Maastricht;6211;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;6;6;4;1;9;6;0;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;935;Maastricht;6212;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;3;1;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6213;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;3;1;2;0;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;935;Maastricht;6214;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;1;2;4;0;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;935;Maastricht;6215;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;4;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6216;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;4;1;3;1;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;935;Maastricht;6217;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;9;9;15;10;7;7;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;935;Maastricht;6218;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;2;3;4;5;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;935;Maastricht;6219;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;3;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6221;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;3;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6222;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6223;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6229;Maastricht;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6247;Eijsden-Margraten;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6251;Eijsden-Margraten;15FK;00;Basisschool St Aloysius;6211PG;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;1;1;0;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;2721;Zoetermeer;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;15;5;13;11;8;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;935;Maastricht;6212;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;4;5;1;3;3;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;935;Maastricht;6213;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;3;1;0;3;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;935;Maastricht;6214;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;3;6;5;4;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;935;Maastricht;6215;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;1;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6216;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6217;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;4;10;9;8;12;10;9;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;935;Maastricht;6218;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;2;3;0;2;6;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;935;Maastricht;6219;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;6;3;4;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;935;Maastricht;6221;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;5;3;5;8;2;4;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;935;Maastricht;6222;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6223;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;1;1;2;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6225;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;3;2;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6227;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6229;Maastricht;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6231;Meerssen;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6241;Meerssen;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6261;Eijsden-Margraten;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;0;2;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6431;Heerlen;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6445;Brunssum;15IQ;00;Montessori Basisschool;6211RT;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6217;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6222;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;16;18;19;20;14;15;21;9;1;1;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;935;Maastricht;6223;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6225;Maastricht;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;16UN;00;IKC de Geluksvogel;6222BE;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6213;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6222;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6227;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6228;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6229;Maastricht;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;20;20;16;23;29;19;17;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;935;Maastricht;6245;Eijsden-Margraten;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6333;Nuth;16VU;00;Basissch Anne Frank;6229AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6171;Stein;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6212;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6214;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6215;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6215;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6216;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6216;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6217;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6218;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6218;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6221;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6222;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6222;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;3;0;1;0;2;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6223;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6224;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;1;1;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;935;Maastricht;6224;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;2;0;1;1;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6225;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6225;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6226;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6227;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6228;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;1;0;3;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6228;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6229;Maastricht;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6231;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6231;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6235;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6241;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6241;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6243;Meerssen;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6245;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6245;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6247;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6251;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;1;0;1;4;1;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6255;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6261;Eijsden-Margraten;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6271;Gulpen-Wittem;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6291;Vaals;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;So;Rooms-Katholiek;41373;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6325;Valkenburg aan de Geul;17LV;00;Jan Baptist;6216BP;MAASTRICHT;Limburg;Vso;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;  10;Belgie;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;  40;Onbekend;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6215;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6216;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;1;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6217;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;9;5;3;6;6;7;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;935;Maastricht;6218;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;23;20;20;19;16;14;20;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;155
+20171001;935;Maastricht;6224;Maastricht;19VJ;00;Basisschool Manjefiek;6218AV;MAASTRICHT;Limburg;Bo;Rooms-Katholiek;41373;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6212;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6219;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6221;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;1;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;935;Maastricht;6223;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6227;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;0;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6228;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;2;0;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6229;Maastricht;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;12;15;11;12;14;16;11;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;935;Maastricht;6245;Eijsden-Margraten;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6247;Eijsden-Margraten;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6342;Valkenburg aan de Geul;21NU;00;OBS De Spiegel;6229HD;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  30;ander land;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6222;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6224;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6226;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6227;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;1;4;2;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;935;Maastricht;6228;Maastricht;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;17;18;16;24;19;18;21;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;935;Maastricht;6247;Eijsden-Margraten;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6251;Eijsden-Margraten;22KO;00;OBS Perroen;6228XZ;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  10;Belgie;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;5951;Venlo;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6211;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;2;3;3;3;5;1;4;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;935;Maastricht;6212;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;5;1;4;6;4;9;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;935;Maastricht;6213;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;7;5;9;4;8;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;935;Maastricht;6214;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;3;1;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6215;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6216;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6217;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;2;0;1;1;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;935;Maastricht;6218;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6219;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;2;1;5;3;2;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;935;Maastricht;6221;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;3;3;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6224;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6226;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6227;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6228;Maastricht;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;2;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;935;Maastricht;6241;Meerssen;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6243;Meerssen;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6252;Eijsden-Margraten;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6262;Eijsden-Margraten;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6267;Eijsden-Margraten;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6271;Gulpen-Wittem;23BU;00;OBS Binnenstad;6211JR;MAASTRICHT;Limburg;Bo;Openbaar;42669;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;  30;ander land;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6212;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6217;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6218;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;3;1;1;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;935;Maastricht;6219;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6221;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;13;6;17;4;8;4;8;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;935;Maastricht;6222;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;2;4;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6224;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;935;Maastricht;6227;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6228;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6229;Maastricht;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;2;1;2;3;3;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;935;Maastricht;6231;Meerssen;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6237;Meerssen;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6245;Eijsden-Margraten;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6247;Eijsden-Margraten;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6251;Eijsden-Margraten;24EE;00;Montessori Bs De Poort;6221SZ;MAASTRICHT;Limburg;Bo;Algemeen bijzonder;42669;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;  10;Belgie;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;21;16;16;17;10;7;12;10;1;1;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;935;Maastricht;6129;Stein;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6134;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6135;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6136;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6161;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6162;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6163;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;3;2;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6164;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;1;1;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6165;Sittard-Geleen;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6171;Stein;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6191;Beek;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;0;2;0;0;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;935;Maastricht;6211;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6214;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;2;4;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;935;Maastricht;6215;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;1;1;2;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;935;Maastricht;6216;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;4;4;6;4;3;3;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;935;Maastricht;6217;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;10;8;13;13;10;4;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;935;Maastricht;6218;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;3;3;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;935;Maastricht;6221;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;2;1;0;3;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;935;Maastricht;6222;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;0;0;1;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;935;Maastricht;6224;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;2;1;1;4;4;3;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;935;Maastricht;6225;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6226;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6227;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;935;Maastricht;6228;Maastricht;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;935;Maastricht;6291;Vaals;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;935;Maastricht;6301;Valkenburg aan de Geul;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;935;Maastricht;6312;Voerendaal;27CD;00;Islam BSO El Habib;6216XB;MAASTRICHT;Limburg;Bo;Islamitisch;41891;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

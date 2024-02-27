@@ -1,0 +1,236 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;119;Meppel;7941;Meppel;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7942;Meppel;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7944;Meppel;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7948;Meppel;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;21;22;21;25;17;22;20;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;169
+20171001;119;Meppel;7971;Westerveld;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;0;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;8344;Steenwijkerland;04HW;00;Bs Commissaris Gaarlandt;7948AW;NIJEVEEN;Drenthe;Bo;Openbaar;41629;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7942;Meppel;04VK;00;Chr Basissch De Wel;7948AE;NIJEVEEN;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7946;Steenwijkerland;04VK;00;Chr Basissch De Wel;7948AE;NIJEVEEN;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;2;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;119;Meppel;7948;Meppel;04VK;00;Chr Basissch De Wel;7948AE;NIJEVEEN;Drenthe;Bo;Protestants-Christelijk;41196;0;14;11;20;18;14;25;18;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;119;Meppel;7971;Westerveld;04VK;00;Chr Basissch De Wel;7948AE;NIJEVEEN;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7942;Meppel;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;1;2;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;119;Meppel;7943;Meppel;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;3;1;3;4;5;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;119;Meppel;7944;Meppel;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;15;6;12;8;12;8;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;119;Meppel;7948;Meppel;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7951;Staphorst;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7957;De Wolden;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7958;De Wolden;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7961;De Wolden;06EP;00;Johannes Calvijnschool;7941HN;MEPPEL;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7941;Meppel;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;8;5;3;6;4;4;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;119;Meppel;7942;Meppel;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;5;10;6;4;4;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;119;Meppel;7943;Meppel;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;4;1;0;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;119;Meppel;7944;Meppel;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;6;3;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;119;Meppel;7948;Meppel;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7957;De Wolden;06GS;00;K B S De Plataan;7941LC;MEPPEL;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;6708;Wageningen;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7761;Emmen;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7910;Midden-Drenthe;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7921;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7924;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7932;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7941;Meppel;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;2;1;3;4;6;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;119;Meppel;7942;Meppel;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;5;1;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;119;Meppel;7943;Meppel;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;2;3;0;1;3;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;119;Meppel;7944;Meppel;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;3;1;5;5;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;119;Meppel;7946;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7948;Meppel;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;119;Meppel;7951;Staphorst;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7955;Staphorst;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7957;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;119;Meppel;7958;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7961;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;2;1;2;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;119;Meppel;7963;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;3;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;119;Meppel;7964;De Wolden;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7971;Westerveld;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7973;Westerveld;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7975;Westerveld;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;119;Meppel;7991;Westerveld;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;8281;Zwartewaterland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8331;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;119;Meppel;8332;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8338;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;8347;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8351;Westerveld;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;8355;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8375;Steenwijkerland;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8398;Weststellingwerf;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8421;Ooststellingwerf;06PO;00;Toermalijn;7941JC;MEPPEL;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;2;1;2;2;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;119;Meppel;7942;Meppel;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7943;Meppel;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7944;Meppel;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;54;54;74;64;87;62;68;67;6;0;0;0;0;0;0;0;0;0;0;0;0;0;536
+20171001;119;Meppel;7948;Meppel;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7951;Staphorst;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;2;0;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;119;Meppel;7955;Staphorst;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7958;De Wolden;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7975;Westerveld;08OF;00;PC School Het Kompas;7944EE;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7941;Meppel;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7942;Meppel;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7943;Meppel;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;32;24;22;37;21;17;14;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;185
+20171001;119;Meppel;7944;Meppel;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7946;Steenwijkerland;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7965;Meppel;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7971;Westerveld;09MZ;00;Anne Frankschool;7943CV;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;2;1;1;2;3;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;119;Meppel;7942;Meppel;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;19;21;9;9;16;11;20;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;119;Meppel;7943;Meppel;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;119;Meppel;7944;Meppel;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;2;2;2;2;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;119;Meppel;7946;Steenwijkerland;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7951;Staphorst;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7958;De Wolden;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7961;De Wolden;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7966;Meppel;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7971;Westerveld;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7981;Westerveld;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8381;Westerveld;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;9406;Assen;10HM;00;Koningin Beatrixschool;7942EA;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;  40;Onbekend;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7715;Staphorst;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7742;Coevorden;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7902;Hoogeveen;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7924;De Wolden;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7926;De Wolden;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;2;0;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;119;Meppel;7942;Meppel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;2;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;119;Meppel;7943;Meppel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;17;17;19;15;20;21;25;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;119;Meppel;7944;Meppel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;3;3;3;3;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;119;Meppel;7948;Meppel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7951;Staphorst;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7957;De Wolden;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7961;De Wolden;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7991;Westerveld;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;8021;Zwolle;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8023;Zwolle;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8031;Zwolle;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8043;Zwolle;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8326;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8331;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;1;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;119;Meppel;8332;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8334;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8345;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8355;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8375;Steenwijkerland;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8397;Weststellingwerf;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8474;Weststellingwerf;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8483;Weststellingwerf;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8855;Franekeradeel;11LR;00;PC Basisschool d1e Akker;7943LD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;12TP;00;0bs Oosterboerschool;7943CV;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7942;Meppel;12TP;00;0bs Oosterboerschool;7943CV;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7943;Meppel;12TP;00;0bs Oosterboerschool;7943CV;MEPPEL;Drenthe;Bo;Openbaar;41629;0;6;3;11;9;10;20;17;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;119;Meppel;7944;Meppel;12TP;00;0bs Oosterboerschool;7943CV;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8332;Steenwijkerland;12TP;00;0bs Oosterboerschool;7943CV;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;  30;ander land;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;5;7;4;1;11;5;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;119;Meppel;7942;Meppel;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;6;5;3;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;119;Meppel;7943;Meppel;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7944;Meppel;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;53;51;50;55;50;48;38;43;13;1;0;0;0;0;0;0;0;0;0;0;0;0;402
+20171001;119;Meppel;7951;Staphorst;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7955;Staphorst;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7957;De Wolden;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7961;De Wolden;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7963;De Wolden;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7971;Westerveld;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7981;Westerveld;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8333;Steenwijkerland;13AA;00;OBS Sprinkels;7944EE;MEPPEL;Drenthe;Bo;Openbaar;41629;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;2;3;1;3;1;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;119;Meppel;7942;Meppel;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;22;15;17;15;27;19;19;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;119;Meppel;7943;Meppel;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;2;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;119;Meppel;7944;Meppel;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;3;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;119;Meppel;7951;Staphorst;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7954;Staphorst;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8326;Steenwijkerland;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8331;Steenwijkerland;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;8341;Steenwijkerland;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8391;Weststellingwerf;13PS;00;OBS De Woldstroom;7942AH;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7942;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7943;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;10;13;9;17;14;19;20;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;119;Meppel;7944;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;1;0;0;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;119;Meppel;7948;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7949;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7961;De Wolden;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7965;Meppel;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8023;Zwolle;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8332;Steenwijkerland;13TT;00;Obs de Tolter;7943LD;MEPPEL;Drenthe;Bo;Openbaar;41629;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7921;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7941;Meppel;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;1;3;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;119;Meppel;7942;Meppel;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;1;0;1;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;119;Meppel;7943;Meppel;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;119;Meppel;7944;Meppel;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;1;2;0;4;7;7;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;119;Meppel;7948;Meppel;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7951;Staphorst;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;1;2;0;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;119;Meppel;7955;Staphorst;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7957;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7958;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7961;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7963;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7964;De Wolden;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7971;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7973;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7975;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;3;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7981;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7991;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8061;Zwartewaterland;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8064;Zwartewaterland;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8381;Westerveld;19QE;00;SSBO Reestoever;7944EM;MEPPEL;Drenthe;Sbo;Openbaar;41629;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7701;Hardenberg;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7904;Hoogeveen;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7906;Hoogeveen;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7908;Hoogeveen;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7921;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7924;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7942;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;1;2;3;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;119;Meppel;7942;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7943;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7943;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;1;3;2;0;1;0;0;0;0;0;0;8
+20171001;119;Meppel;7944;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;1;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7944;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7948;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7948;Meppel;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;7951;Staphorst;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7954;Staphorst;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7955;Staphorst;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7958;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7961;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;2;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;119;Meppel;7963;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7963;De Wolden;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7971;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7971;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7973;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7975;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7981;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7991;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8064;Zwartewaterland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8064;Zwartewaterland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8325;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8331;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8331;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;119;Meppel;8332;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8332;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;8334;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8335;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8341;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8342;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8346;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8346;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8355;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8375;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8375;Steenwijkerland;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8381;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;8383;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8384;Westerveld;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;So;Openbaar;41629;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8471;Weststellingwerf;19SK;00;Openbare Mackayschool voor ZML;7942BH;MEPPEL;Drenthe;Vso;Openbaar;41629;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7902;Hoogeveen;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7941;Meppel;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;19;17;31;27;23;20;39;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;203
+20171001;119;Meppel;7942;Meppel;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;8;7;7;11;2;8;4;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;119;Meppel;7943;Meppel;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;3;4;3;6;2;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;119;Meppel;7944;Meppel;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;1;7;6;10;6;5;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;119;Meppel;7946;Steenwijkerland;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7948;Meppel;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;119;Meppel;7951;Staphorst;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;119;Meppel;7955;Staphorst;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;7961;De Wolden;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;119;Meppel;7971;Westerveld;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;119;Meppel;8355;Steenwijkerland;30RE;00;Stadskwartier;7941JD;MEPPEL;Drenthe;Bo;Protestants-Christelijk;50195;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

@@ -1,0 +1,619 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;90;Smallingerland;8401;Opsterland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8406;Opsterland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8408;Opsterland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8421;Ooststellingwerf;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8426;Ooststellingwerf;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8431;Ooststellingwerf;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8451;Heerenveen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8491;Heerenveen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8539;De Fryske Marren;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9202;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9203;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9204;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9205;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9207;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9212;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9216;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9217;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9219;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9222;Smallingerland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9241;Opsterland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9247;Opsterland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9258;Tytsjerksteradiel;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9281;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9284;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9286;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9287;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9288;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9289;Achtkarspelen;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9299;Kollumerland en Nieuwkruisland;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9356;Leek;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9367;Marum;00MU;00;SO De Zwaai;9201JE;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8388;Weststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8391;Weststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;3;3;1;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;8406;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8408;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8409;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8411;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8412;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8414;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8423;Ooststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8426;Ooststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8431;Ooststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8434;Ooststellingwerf;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8441;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8447;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8448;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8451;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8456;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8457;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8495;Heerenveen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8751;S∑dwest-Frysl‘n;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8802;Franekeradeel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8923;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8924;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8926;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8932;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8933;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8939;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9088;Leeuwarden;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9101;Dongeradeel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;3;1;3;2;3;4;1;0;0;0;0;0;0;0;17
+20171001;90;Smallingerland;9202;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;2;1;1;3;5;0;0;0;0;0;0;0;0;13
+20171001;90;Smallingerland;9203;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;2;2;0;4;2;2;0;0;0;0;0;0;0;13
+20171001;90;Smallingerland;9204;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;3;1;5;5;4;1;1;0;0;0;0;0;0;0;20
+20171001;90;Smallingerland;9205;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;2;2;2;1;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9207;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;2;2;2;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9212;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9215;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9216;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9219;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9221;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9223;Smallingerland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9231;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;4;0;2;3;0;0;1;0;0;0;0;0;0;10
+20171001;90;Smallingerland;9233;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9241;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9243;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9244;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;1;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9245;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9247;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9248;Opsterland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;1;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9254;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9256;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9258;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9261;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9281;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;3;0;4;1;0;1;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9283;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9284;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9285;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9286;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9288;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9289;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9291;Kollumerland en Nieuwkruisland;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9363;Marum;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9367;Marum;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9825;Marum;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9828;Leek;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9861;Grootegast;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9862;Grootegast;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9865;Grootegast;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9873;Achtkarspelen;00RS;00;Talryk;9201HJ;DRACHTEN;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9202;Smallingerland;02YL;03;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9211;Smallingerland;02YL;03;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;2;0;3;5;2;2;2;0;0;0;0;0;0;0;16
+20171001;90;Smallingerland;9271;Dantumadiel;02YL;03;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9791;Ten Boer;02YL;03;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8602;S∑dwest-Frysl‘n;02YL;05;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8915;Leeuwarden;02YL;05;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9211;Smallingerland;02YL;05;Portalis;9211TV;KORTEHEMMEN;Friesland;Vso;Algemeen bijzonder;95863;0;0;0;0;0;0;0;0;0;0;5;6;6;2;3;0;0;0;0;0;0;0;0;22
+20171001;90;Smallingerland;8401;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;8407;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8408;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8411;Heerenveen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8414;Heerenveen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8415;Heerenveen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8423;Ooststellingwerf;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8434;Ooststellingwerf;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8442;Heerenveen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8471;Weststellingwerf;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8495;Heerenveen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8926;Leeuwarden;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9001;Leeuwarden;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;2;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;90;Smallingerland;9202;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;1;1;1;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;90;Smallingerland;9203;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;2;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9204;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;3;0;2;0;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;90;Smallingerland;9205;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9207;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9216;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9218;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9222;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9223;Smallingerland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9231;Achtkarspelen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9233;Achtkarspelen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9241;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9243;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9244;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9247;Opsterland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9258;Tytsjerksteradiel;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9269;Dantumadiel;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9281;Achtkarspelen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9288;Achtkarspelen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9289;Achtkarspelen;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9291;Kollumerland en Nieuwkruisland;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9351;Leek;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9363;Marum;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9367;Marum;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9865;Grootegast;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9866;Grootegast;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9882;Zuidhorn;03PB;00;SO Kleurrijk;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8406;Opsterland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8409;Opsterland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8457;Heerenveen;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9104;Dantumadiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9109;Dantumadiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9201;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9202;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;1;1;2;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;90;Smallingerland;9203;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;2;1;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;90;Smallingerland;9204;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9212;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9218;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;3;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9221;Smallingerland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9241;Opsterland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9248;Opsterland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9249;Opsterland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9254;Tytsjerksteradiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9256;Tytsjerksteradiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9257;Tytsjerksteradiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9271;Dantumadiel;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9281;Achtkarspelen;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9286;Achtkarspelen;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9291;Kollumerland en Nieuwkruisland;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9863;Grootegast;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9865;Grootegast;03ZH;00;Eben Haezer;9202AN;DRACHTEN;Friesland;Bo;Reformatorisch;60322;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8406;Opsterland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8408;Opsterland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8409;Opsterland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9201;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;5;4;2;3;6;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;90;Smallingerland;9202;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;6;6;2;6;2;7;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;90;Smallingerland;9203;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;16;14;24;15;13;12;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;90;Smallingerland;9204;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;8;12;15;10;11;11;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;90;Smallingerland;9205;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;5;2;2;4;1;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;90;Smallingerland;9206;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9207;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;3;8;7;5;5;5;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;90;Smallingerland;9212;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9213;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9217;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9218;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9222;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9223;Smallingerland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9241;Opsterland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9244;Opsterland;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9264;Tytsjerksteradiel;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9284;Achtkarspelen;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9367;Marum;05JH;00;RK Basissch Sint Lukas;9203SG;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9011;Leeuwarden;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9204;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9205;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9211;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9212;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;8;8;4;7;9;9;14;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;90;Smallingerland;9213;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;1;1;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;90;Smallingerland;9215;Smallingerland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9244;Opsterland;06NU;00;Basissch Bij de Boarne;9212PS;BOORNBERGUM;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9216;Smallingerland;06QJ;00;SWS De Diamant;9216WE;OUDEGA GEM SMALLINGERLND;Friesland;Bo;Protestants-Christelijk;40342;0;12;16;25;19;18;18;11;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;90;Smallingerland;9217;Smallingerland;06QJ;00;SWS De Diamant;9216WE;OUDEGA GEM SMALLINGERLND;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9218;Smallingerland;06QJ;00;SWS De Diamant;9216WE;OUDEGA GEM SMALLINGERLND;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;06QJ;00;SWS De Diamant;9216WE;OUDEGA GEM SMALLINGERLND;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9201;Smallingerland;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9202;Smallingerland;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9207;Smallingerland;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9222;Smallingerland;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;9;10;10;9;8;9;14;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;90;Smallingerland;9223;Smallingerland;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;3;3;3;3;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;90;Smallingerland;9231;Achtkarspelen;06SG;00;SWS De Frissel;9222NJ;DRACHTSTERCOMPAGNIE;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9074;Ferwerderadiel;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9203;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9217;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;5;2;1;2;4;0;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;90;Smallingerland;9218;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;6;8;12;16;10;21;13;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;90;Smallingerland;9219;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9221;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9222;Smallingerland;07JX;00;SWS De Leister Igge;9218RH;OPEINDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8031;Zwolle;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9201;Smallingerland;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;8;3;7;5;5;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;90;Smallingerland;9202;Smallingerland;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;13;20;9;16;9;14;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;90;Smallingerland;9203;Smallingerland;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;1;2;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;90;Smallingerland;9205;Smallingerland;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;3;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9207;Smallingerland;07VT;00;Basisschool De Wiekslag;9202CA;DRACHTEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9206;Smallingerland;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9207;Smallingerland;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9217;Smallingerland;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9219;Smallingerland;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;3;2;4;2;2;8;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;08BA;00;Basissch De Gielguorde;9219VM;DE TIKE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;6;11;6;4;7;3;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;90;Smallingerland;9202;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;12;9;13;10;15;9;16;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;90;Smallingerland;9203;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;6;7;8;7;10;5;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;90;Smallingerland;9204;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;12;5;4;6;6;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;90;Smallingerland;9205;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;2;4;1;3;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;90;Smallingerland;9206;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9207;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;9;5;6;5;2;5;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;90;Smallingerland;9212;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9213;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9215;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9217;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9218;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9221;Smallingerland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9231;Achtkarspelen;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9245;Opsterland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9247;Opsterland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;1;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9248;Opsterland;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;08JH;00;GBS De Parel;9202CN;DRACHTEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8409;Opsterland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;22;35;30;30;32;14;21;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;90;Smallingerland;9202;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9203;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;4;0;5;5;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;90;Smallingerland;9204;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;0;1;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9207;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;2;6;1;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;90;Smallingerland;9219;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9221;Smallingerland;14GN;00;De Swetten;9201EE;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;  30;ander land;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;  40;Onbekend;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;7963;De Wolden;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8407;Opsterland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8408;Opsterland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8918;Leeuwarden;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9201;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;2;1;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9202;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;16;7;8;14;7;12;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;90;Smallingerland;9203;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;2;2;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9204;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9205;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9207;Smallingerland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;5;0;4;4;3;6;5;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;90;Smallingerland;9247;Opsterland;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9341;Noordenveld;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9342;Noordenveld;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9665;Pekela;14LR;00;Obs de Barte;9202LM;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8407;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8411;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8412;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8421;Ooststellingwerf;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8426;Ooststellingwerf;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8431;Ooststellingwerf;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8433;Ooststellingwerf;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8441;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8442;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8443;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8446;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8447;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8456;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8458;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8459;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8465;De Fryske Marren;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8491;Heerenveen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8501;De Fryske Marren;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8535;De Fryske Marren;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8608;S∑dwest-Frysl‘n;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8921;Leeuwarden;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9061;Tytsjerksteradiel;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9123;Dongeradeel;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9202;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;2;5;1;2;4;0;0;0;0;0;0;0;0;16
+20171001;90;Smallingerland;9203;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;2;2;3;1;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9204;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9205;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9207;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9211;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9212;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9215;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9216;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9223;Smallingerland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9231;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9233;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9241;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9243;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9244;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9245;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9247;Opsterland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9255;Tytsjerksteradiel;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9281;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9283;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9284;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9285;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9286;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9288;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9289;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9291;Kollumerland en Nieuwkruisland;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9301;Noordenveld;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9306;Noordenveld;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9351;Leek;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;1;1;1;2;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9354;Leek;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9356;Leek;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9363;Marum;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;2;2;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9366;Marum;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9367;Marum;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9721;Groningen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9824;Marum;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9861;Grootegast;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9865;Grootegast;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9871;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9873;Achtkarspelen;14OR;00;VSO De Zwaai;9202LC;DRACHTEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;8409;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8411;Heerenveen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8426;Ooststellingwerf;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8433;Ooststellingwerf;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8435;Ooststellingwerf;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8451;Heerenveen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;1;2;1;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;90;Smallingerland;9202;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;2;1;5;4;4;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;90;Smallingerland;9203;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;2;0;2;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;90;Smallingerland;9204;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;0;1;0;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;90;Smallingerland;9205;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;3;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9207;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;3;4;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;90;Smallingerland;9212;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9217;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9218;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9221;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9222;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9223;Smallingerland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9231;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9233;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9243;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9244;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9245;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9247;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9248;Opsterland;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;2;0;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9261;Tytsjerksteradiel;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9262;Tytsjerksteradiel;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9281;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;1;4;1;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;90;Smallingerland;9283;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9284;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9286;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9288;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9289;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;1;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9363;Marum;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9367;Marum;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9864;Grootegast;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9865;Grootegast;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9873;Achtkarspelen;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9932;Delfzijl;14WQ;00;Chr SSBO Sjalom;9203JV;DRACHTEN;Friesland;Sbo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;14XM;00;OBS De Kameleon;9202GV;DRACHTEN;Friesland;Bo;Openbaar;41735;0;5;8;6;4;3;3;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;90;Smallingerland;9202;Smallingerland;14XM;00;OBS De Kameleon;9202GV;DRACHTEN;Friesland;Bo;Openbaar;41735;0;17;23;22;13;21;15;14;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;90;Smallingerland;9203;Smallingerland;14XM;00;OBS De Kameleon;9202GV;DRACHTEN;Friesland;Bo;Openbaar;41735;0;2;6;2;3;3;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;90;Smallingerland;9207;Smallingerland;14XM;00;OBS De Kameleon;9202GV;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;2;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9216;Smallingerland;14XM;00;OBS De Kameleon;9202GV;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9202;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;2;2;3;3;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;90;Smallingerland;9203;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;6;10;4;9;9;10;13;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;90;Smallingerland;9204;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;5;1;1;5;0;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;90;Smallingerland;9205;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9207;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9213;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9221;Smallingerland;15KG;00;De Tille;9203NP;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9201;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;2;4;7;4;4;4;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;90;Smallingerland;9202;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9203;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;2;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9204;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9205;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9206;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9207;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;23;22;20;30;22;34;18;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;90;Smallingerland;9217;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9218;Smallingerland;15UB;00;De Bolder;9207CZ;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9201;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;3;3;6;2;2;0;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;90;Smallingerland;9202;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9203;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9204;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9205;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9206;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9207;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;23;25;31;27;37;37;30;32;4;0;0;0;0;0;0;0;0;0;0;0;0;0;246
+20171001;90;Smallingerland;9213;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9218;Smallingerland;15UV;00;Chr Basissch Het Anker;9207CZ;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9201;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;4;7;2;5;7;1;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;90;Smallingerland;9202;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;19;21;14;34;23;25;21;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;90;Smallingerland;9203;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;4;4;0;4;2;8;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;90;Smallingerland;9204;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9205;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9207;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9222;Smallingerland;15XD;00;Het Mozaiek;9202GV;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9205;Smallingerland;15YO;00;Finneblom;9212PJ;BOORNBERGUM;Friesland;Bo;Openbaar;41735;0;0;0;1;1;1;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;90;Smallingerland;9212;Smallingerland;15YO;00;Finneblom;9212PJ;BOORNBERGUM;Friesland;Bo;Openbaar;41735;0;8;13;4;3;8;8;5;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;90;Smallingerland;9213;Smallingerland;15YO;00;Finneblom;9212PJ;BOORNBERGUM;Friesland;Bo;Openbaar;41735;0;0;1;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9215;Smallingerland;15YO;00;Finneblom;9212PJ;BOORNBERGUM;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;2;1;5;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;90;Smallingerland;9202;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;9;9;12;7;11;7;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;90;Smallingerland;9203;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;21;17;16;10;16;15;9;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;90;Smallingerland;9204;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9205;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9212;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9222;Smallingerland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9247;Opsterland;15ZE;00;De Spreng;9203GC;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9204;Smallingerland;16AY;00;PCBO 't Foarhus;9205BN;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;2;0;3;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;90;Smallingerland;9205;Smallingerland;16AY;00;PCBO 't Foarhus;9205BN;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;5;17;29;17;14;18;26;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;90;Smallingerland;9211;Smallingerland;16AY;00;PCBO 't Foarhus;9205BN;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9213;Smallingerland;16AY;00;PCBO 't Foarhus;9205BN;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9218;Smallingerland;16CB;00;De Wiksel;9223NM;HOUTIGEHAGE;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9223;Smallingerland;16CB;00;De Wiksel;9223NM;HOUTIGEHAGE;Friesland;Bo;Openbaar;41735;0;5;6;7;3;6;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;90;Smallingerland;8401;Opsterland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8423;Ooststellingwerf;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9202;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9203;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;5;2;4;5;0;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;90;Smallingerland;9204;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;48;25;25;30;44;37;29;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;90;Smallingerland;9205;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;3;7;2;3;4;6;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;90;Smallingerland;9207;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9213;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9221;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9222;Smallingerland;16DW;00;Chr Basissch De Voorde;9204JT;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;8606;S∑dwest-Frysl‘n;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9204;Smallingerland;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9207;Smallingerland;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9221;Smallingerland;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;7;8;13;7;13;7;9;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;90;Smallingerland;9223;Smallingerland;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9233;Achtkarspelen;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;1;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9281;Achtkarspelen;16HM;00;it Werfl‚n;9221TD;ROTTEVALLE;Friesland;Bo;Openbaar;41735;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9201;Smallingerland;16JI;00;It Ambyld;9201CP;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;17;24;20;25;20;14;20;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;90;Smallingerland;9202;Smallingerland;16JI;00;It Ambyld;9201CP;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9203;Smallingerland;16JI;00;It Ambyld;9201CP;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9207;Smallingerland;16JI;00;It Ambyld;9201CP;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;1;1;4;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;90;Smallingerland;9865;Grootegast;16JI;00;It Ambyld;9201CP;DRACHTEN;Friesland;Bo;Protestants-Christelijk;40342;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8391;Weststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8397;Weststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8408;Opsterland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8411;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;8426;Ooststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8431;Ooststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8435;Ooststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8442;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8443;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8446;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8448;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8471;Weststellingwerf;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;8491;Heerenveen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8493;De Fryske Marren;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8501;De Fryske Marren;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8502;De Fryske Marren;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8567;De Fryske Marren;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8604;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8608;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8611;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8621;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8702;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8731;Littenseradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8734;Littenseradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8772;S∑dwest-Frysl‘n;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8801;Franekeradeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8831;Littenseradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8861;Harlingen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8914;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8916;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8917;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8923;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8924;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8926;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8927;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8933;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;8935;Leeuwarden;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9036;Menameradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9044;Menameradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9051;Leeuwarderadeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9074;Ferwerderadiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9076;het Bildt;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9079;het Bildt;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9101;Dongeradeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9104;Dantumadiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9108;Dantumadiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9112;Ferwerderadiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9123;Dongeradeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9132;Dongeradeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9134;Dongeradeel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9202;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9203;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9204;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9205;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9212;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9222;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9223;Smallingerland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9231;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9243;Opsterland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9245;Opsterland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9254;Tytsjerksteradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9255;Tytsjerksteradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9257;Tytsjerksteradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9263;Tytsjerksteradiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9269;Dantumadiel;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9281;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9284;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9285;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9287;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9288;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9289;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9294;Kollumerland en Nieuwkruisland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9298;Kollumerland en Nieuwkruisland;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9356;Leek;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9864;Grootegast;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9873;Achtkarspelen;17GW;01;Kentalis De Skelp;9207BK;DRACHTEN;Friesland;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8407;Opsterland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;3;4;1;3;6;4;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;90;Smallingerland;9202;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;2;0;0;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;90;Smallingerland;9203;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;90;Smallingerland;9204;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;2;1;2;3;6;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;90;Smallingerland;9205;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;2;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;90;Smallingerland;9207;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;0;0;1;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;90;Smallingerland;9212;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9213;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9216;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9219;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9221;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9223;Smallingerland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9231;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9233;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9247;Opsterland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9248;Opsterland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9258;Tytsjerksteradiel;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9271;Dantumadiel;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9281;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9284;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9285;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9286;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9288;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;90;Smallingerland;9291;Kollumerland en Nieuwkruisland;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9363;Marum;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9367;Marum;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9861;Grootegast;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9863;Grootegast;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9864;Grootegast;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9865;Grootegast;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9873;Achtkarspelen;19QG;00;it Heechhof;9201XZ;DRACHTEN;Friesland;Sbo;Openbaar;41735;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9202;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9203;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;90;Smallingerland;9204;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;7;6;9;5;9;8;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;90;Smallingerland;9205;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;6;1;3;5;5;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;90;Smallingerland;9207;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9211;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9212;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9213;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9218;Smallingerland;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;90;Smallingerland;9363;Marum;23EE;00;De Plotter;9204CK;DRACHTEN;Friesland;Bo;Algemeen bijzonder;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8401;Opsterland;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8404;Opsterland;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8435;Ooststellingwerf;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9202;Smallingerland;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9231;Achtkarspelen;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9251;Tytsjerksteradiel;23JT;09;De Monoliet;9204WC;DRACHTEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;  40;Onbekend;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;8406;Opsterland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9201;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9202;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9203;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;2;1;1;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;90;Smallingerland;9204;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;30;27;33;41;30;34;30;37;1;0;0;0;0;0;0;0;0;0;0;0;0;0;263
+20171001;90;Smallingerland;9205;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;15;13;13;22;19;20;22;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;90;Smallingerland;9207;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9211;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9212;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;90;Smallingerland;9213;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;90;Smallingerland;9215;Smallingerland;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;90;Smallingerland;9882;Zuidhorn;27UC;00;OBS de Meander;9204JT;DRACHTEN;Friesland;Bo;Openbaar;41735;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

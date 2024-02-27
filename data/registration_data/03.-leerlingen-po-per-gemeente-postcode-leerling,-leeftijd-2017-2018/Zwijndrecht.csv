@@ -1,0 +1,185 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;642;Zwijndrecht;2951;Alblasserdam;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2992;Barendrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2995;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3331;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;2;4;4;9;6;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;642;Zwijndrecht;3332;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;1;3;1;2;7;1;12;3;1;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;642;Zwijndrecht;3333;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;1;2;0;1;5;3;6;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;642;Zwijndrecht;3334;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;4;0;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3335;Zwijndrecht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;2;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;1;2;3;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;1;0;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;1;1;0;4;3;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;642;Zwijndrecht;4285;Woudrichem;00UE;00;SBO De Steenen Kamer;3332KP;ZWIJNDRECHT;Zuid-Holland;Sbo;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2991;Barendrecht;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;642;Zwijndrecht;2995;Zwijndrecht;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;8;17;11;10;12;18;10;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;642;Zwijndrecht;3075;Rotterdam;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3131;Vlaardingen;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3332;Zwijndrecht;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3335;Zwijndrecht;04MZ;00;KC De Rank;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3317;Dordrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;3;13;10;9;13;9;10;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;642;Zwijndrecht;3332;Zwijndrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;7;11;7;9;8;5;5;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;642;Zwijndrecht;3333;Zwijndrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;4;3;4;5;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;642;Zwijndrecht;3334;Zwijndrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;0;1;2;3;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;642;Zwijndrecht;3335;Zwijndrecht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;0;2;2;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;06KQ;00;Ds. Abraham Hellenbroek;3332RN;ZWIJNDRECHT;Zuid-Holland;Bo;Reformatorisch;43175;0;2;6;3;5;2;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;642;Zwijndrecht;2516;'s-Gravenhage;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3016;Rotterdam;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;2;9;8;18;15;12;18;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;642;Zwijndrecht;3332;Zwijndrecht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;8;13;5;17;14;18;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;642;Zwijndrecht;3333;Zwijndrecht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;4;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;642;Zwijndrecht;3334;Zwijndrecht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;11QX;00;KBS De Toermalijn;3332HW;ZWIJNDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;5;1;4;6;3;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;642;Zwijndrecht;  20;Duitsland;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;  30;ander land;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;  40;Onbekend;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2995;Zwijndrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3122;Schiedam;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3311;Dordrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3312;Dordrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;14;18;21;8;20;20;19;16;9;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;642;Zwijndrecht;3332;Zwijndrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;2;1;2;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;642;Zwijndrecht;3333;Zwijndrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;20;15;10;24;21;24;16;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;642;Zwijndrecht;3334;Zwijndrecht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;0;0;0;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;4335;Middelburg;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;4721;Rucphen;12ID;00;Basisschool de Dolfijn;3333VE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;  30;ander land;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;  40;Onbekend;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2586;'s-Gravenhage;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2951;Alblasserdam;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3207;Nissewaard;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;8;5;9;6;9;8;11;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;642;Zwijndrecht;3332;Zwijndrecht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;9;10;17;12;6;12;21;12;5;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;642;Zwijndrecht;3333;Zwijndrecht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3335;Zwijndrecht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;2;3;3;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;642;Zwijndrecht;4758;Moerdijk;13OJ;00;Basisschool Tandem;3332KW;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2995;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3317;Dordrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;2;3;3;1;4;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;642;Zwijndrecht;3332;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;1;3;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;642;Zwijndrecht;3333;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;4;8;2;1;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;642;Zwijndrecht;3334;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;14;12;13;12;8;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;642;Zwijndrecht;3335;Zwijndrecht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;31;46;34;36;15;31;24;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;239
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;13SN;00;Basisschool de Develhoek;3335BE;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;2988;Ridderkerk;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3079;Rotterdam;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3312;Dordrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3314;Dordrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3317;Dordrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;2;5;2;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;642;Zwijndrecht;3332;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3333;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;6;9;6;9;6;4;6;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;642;Zwijndrecht;3334;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;24;21;18;24;24;15;21;29;6;1;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;642;Zwijndrecht;3335;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;8;2;7;6;7;10;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;642;Zwijndrecht;3336;Zwijndrecht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;4285;Woudrichem;13WB;00;Bs De Twee Wieken;3334EH;ZWIJNDRECHT;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2651;Lansingerland;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2951;Alblasserdam;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;642;Zwijndrecht;2953;Alblasserdam;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2954;Alblasserdam;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;642;Zwijndrecht;2957;Molenwaard;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3311;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3312;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;642;Zwijndrecht;3314;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;3;0;2;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3315;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;1;3;1;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;642;Zwijndrecht;3317;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3319;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;642;Zwijndrecht;3328;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;3;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;642;Zwijndrecht;3329;Dordrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;13;3;5;5;6;3;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;642;Zwijndrecht;3332;Zwijndrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;4;6;9;4;10;4;9;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;642;Zwijndrecht;3333;Zwijndrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;6;4;4;3;7;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;642;Zwijndrecht;3334;Zwijndrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;2;5;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3335;Zwijndrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;4;5;1;3;6;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;5;7;9;8;8;7;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;3;2;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;4;4;3;6;5;3;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;9;5;3;5;4;8;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;642;Zwijndrecht;3351;Papendrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3352;Papendrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3353;Papendrecht;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;4761;Moerdijk;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;642;Zwijndrecht;4762;Moerdijk;14YV;00;De Wegwijzer;3332RG;ZWIJNDRECHT;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3077;Rotterdam;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3331;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3332;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3333;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;3;1;1;0;3;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;642;Zwijndrecht;3334;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;12;13;11;12;16;11;14;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;642;Zwijndrecht;3335;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;4;6;12;10;9;8;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;642;Zwijndrecht;3336;Zwijndrecht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;15NZ;00;KC De Brug;3334BN;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3086;Rotterdam;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3124;Schiedam;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;642;Zwijndrecht;3332;Zwijndrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3333;Zwijndrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;23;24;26;26;36;36;19;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;212
+20171001;642;Zwijndrecht;3334;Zwijndrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;2;1;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;642;Zwijndrecht;3335;Zwijndrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3353;Papendrecht;15SZ;00;KC De Bron;3333BS;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2969;Molenwaard;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3311;Dordrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;2;2;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;642;Zwijndrecht;3332;Zwijndrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3333;Zwijndrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;6;6;7;8;8;0;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;642;Zwijndrecht;3334;Zwijndrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;11;5;11;3;15;4;10;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;642;Zwijndrecht;3335;Zwijndrecht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;3;3;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;4771;Moerdijk;15SZ;02;KC De Kim;3334AG;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;26;22;27;28;26;21;17;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;642;Zwijndrecht;3332;Zwijndrecht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;5;3;5;9;7;5;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;642;Zwijndrecht;3333;Zwijndrecht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;3;2;5;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;642;Zwijndrecht;3334;Zwijndrecht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3335;Zwijndrecht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;2;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;15VH;00;KC Juliana;3331BJ;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2995;Zwijndrecht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3077;Rotterdam;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;9;9;12;11;16;9;16;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;642;Zwijndrecht;3332;Zwijndrecht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;30;31;33;27;26;35;20;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;224
+20171001;642;Zwijndrecht;3333;Zwijndrecht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;4;1;3;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;642;Zwijndrecht;3334;Zwijndrecht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;3341;Hendrik-Ido-Ambacht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;2;0;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3343;Hendrik-Ido-Ambacht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;5;8;6;10;7;6;5;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;642;Zwijndrecht;5708;Helmond;16EC;00;CKC De Impuls;3332CR;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;  30;ander land;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;2985;Ridderkerk;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2991;Barendrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;2;1;1;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;642;Zwijndrecht;2992;Barendrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;642;Zwijndrecht;2993;Barendrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;2994;Barendrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;2995;Zwijndrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;16;20;24;17;24;21;20;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;642;Zwijndrecht;3076;Rotterdam;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;642;Zwijndrecht;3082;Rotterdam;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3335;Zwijndrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3336;Zwijndrecht;18GD;00;Kon Juliana-School;2995VN;HEERJANSDAM;Zuid-Holland;Bo;Openbaar;42709;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;  40;Onbekend;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;1019;Amsterdam;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3314;Dordrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3328;Dordrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3331;Zwijndrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;17;8;17;16;14;8;12;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;642;Zwijndrecht;3332;Zwijndrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;642;Zwijndrecht;3333;Zwijndrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;3;3;2;6;2;2;1;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;642;Zwijndrecht;3334;Zwijndrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;4;2;4;2;3;5;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;642;Zwijndrecht;3335;Zwijndrecht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;10;15;10;5;13;11;14;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;642;Zwijndrecht;3342;Hendrik-Ido-Ambacht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;642;Zwijndrecht;3344;Hendrik-Ido-Ambacht;22LK;00;KC De Notenbalk;3335DD;ZWIJNDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;80433;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

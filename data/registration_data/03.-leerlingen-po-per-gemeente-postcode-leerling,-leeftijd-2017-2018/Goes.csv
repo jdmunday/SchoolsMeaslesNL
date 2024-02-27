@@ -1,0 +1,618 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;664;Goes;3244;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3247;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;3248;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3253;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;3257;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3258;Goeree-Overflakkee;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4301;Schouwen-Duiveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4315;Schouwen-Duiveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4322;Schouwen-Duiveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4325;Schouwen-Duiveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4331;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4333;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4334;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4335;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4339;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4341;Middelburg;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4356;Veere;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4371;Veere;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4373;Veere;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4374;Veere;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4381;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4382;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4383;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;1;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4384;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4385;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4387;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4388;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4389;Vlissingen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4413;Reimerswaal;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4414;Reimerswaal;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4417;Reimerswaal;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4421;Kapelle;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4431;Borsele;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4434;Borsele;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4453;Borsele;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4456;Borsele;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4461;Goes;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4462;Goes;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4463;Goes;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4486;Noord-Beveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4493;Noord-Beveland;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4505;Sluis;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4507;Sluis;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4511;Sluis;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4513;Sluis;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4521;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4532;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4536;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4537;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4538;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4541;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4542;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4543;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4551;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4561;Hulst;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4571;Terneuzen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4587;Hulst;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4695;Tholen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4698;Tholen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4756;Steenbergen;01JO;02;Auris De Kring;4461DS;GOES;Zeeland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;2985;Ridderkerk;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4301;Schouwen-Duiveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4302;Schouwen-Duiveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4311;Schouwen-Duiveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;664;Goes;4332;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4333;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4335;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4336;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4341;Middelburg;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4356;Veere;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4381;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4382;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4383;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4384;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4385;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4388;Vlissingen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4401;Reimerswaal;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4411;Reimerswaal;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4417;Reimerswaal;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4421;Kapelle;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4424;Kapelle;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4434;Borsele;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4461;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4462;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;4
+20171001;664;Goes;4463;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4464;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4474;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4484;Noord-Beveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;664;Goes;4493;Noord-Beveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4494;Noord-Beveland;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4501;Sluis;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4532;Terneuzen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4533;Terneuzen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4536;Terneuzen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4542;Terneuzen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4561;Hulst;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4571;Terneuzen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4587;Hulst;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4615;Bergen op Zoom;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4624;Bergen op Zoom;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4651;Steenbergen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4661;Bergen op Zoom;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4671;Steenbergen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4691;Tholen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4695;Tholen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4696;Tholen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4698;Tholen;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4707;Roosendaal;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4794;Moerdijk;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4891;Zundert;01JO;23;Auris College Goes;4461NB;GOES;Zeeland;Vso;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;  10;Belgie;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4301;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4301;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4311;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4318;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4321;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4328;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4328;Schouwen-Duiveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4331;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4332;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4333;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;664;Goes;4334;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4335;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4335;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4336;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4336;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;2;1;2;2;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4339;Middelburg;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4357;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4357;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4365;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4365;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4371;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4371;Veere;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4381;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4381;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4382;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4382;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4383;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4384;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4384;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4385;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4386;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4388;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4388;Vlissingen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4401;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4401;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4411;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4411;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;664;Goes;4413;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4413;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4414;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4417;Reimerswaal;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4421;Kapelle;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;1;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4421;Kapelle;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4424;Kapelle;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4433;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4433;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4435;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4435;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4438;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4441;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4441;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4443;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4444;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4451;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;664;Goes;4453;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4454;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4455;Borsele;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4461;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4462;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4462;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;664;Goes;4463;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4463;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4486;Noord-Beveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4491;Noord-Beveland;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4527;Sluis;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4532;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4532;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4533;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4533;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4535;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4536;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4537;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4543;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4543;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4551;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4551;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4553;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4561;Hulst;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4561;Hulst;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4562;Hulst;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4571;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4576;Terneuzen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4585;Hulst;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4587;Hulst;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4631;Woensdrecht;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4661;Bergen op Zoom;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4664;Bergen op Zoom;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4691;Tholen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4694;Tholen;02CK;00;Mytylschool De Sprienke;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4382;Vlissingen;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;2;2;2;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;664;Goes;4424;Kapelle;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;6;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;664;Goes;4438;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4443;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4444;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4451;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4455;Borsele;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4458;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4461;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;6;3;2;9;2;4;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;664;Goes;4462;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;2;4;1;3;2;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;664;Goes;4463;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;2;4;3;4;5;4;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;664;Goes;4464;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;5;5;8;5;5;6;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;664;Goes;4465;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4471;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4474;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4475;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;3;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;664;Goes;4481;Goes;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;4;0;1;2;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4484;Noord-Beveland;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;9472;Tynaarlo;02ZY;00;Geref Bs De Wingerd;4464JA;GOES;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4385;Vlissingen;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4421;Kapelle;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4424;Kapelle;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4431;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4435;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4436;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4443;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4451;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4456;Borsele;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;4;9;5;2;11;5;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;664;Goes;4462;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;9;7;7;6;2;10;3;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;664;Goes;4463;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;3;0;3;0;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;664;Goes;4464;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;664;Goes;4474;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4475;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;03CJ;00;Montessorischool;4462EK;GOES;Zeeland;Bo;Algemeen bijzonder;77533;0;0;1;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;664;Goes;4461;Goes;03GJ;00;De Poeljeugd;4472AT;'S-HEER HENDRIKSKINDEREN;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;1;1;1;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4472;Goes;03GJ;00;De Poeljeugd;4472AT;'S-HEER HENDRIKSKINDEREN;Zeeland;Bo;Protestants-Christelijk;41582;0;6;4;9;5;9;7;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;664;Goes;4431;Borsele;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4443;Borsele;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4444;Borsele;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4458;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;10;11;10;9;11;12;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;664;Goes;4462;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;2;5;4;3;2;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;664;Goes;4463;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;1;0;4;2;2;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;664;Goes;4464;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;4;1;3;2;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;664;Goes;4465;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;1;2;2;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;664;Goes;4475;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;1;1;1;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4481;Goes;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;2;3;1;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4484;Noord-Beveland;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;1;1;3;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4485;Noord-Beveland;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4493;Noord-Beveland;03HB;00;Koelmanschool;4461RH;GOES;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4413;Reimerswaal;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4414;Reimerswaal;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;1;3;0;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;664;Goes;4416;Reimerswaal;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;6;6;3;5;4;3;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;664;Goes;4421;Kapelle;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;1;4;2;1;1;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;664;Goes;4423;Kapelle;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;2;1;4;2;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4433;Borsele;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4435;Borsele;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;2;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4456;Borsele;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4461;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4463;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4464;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4472;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4481;Goes;04AM;00;Dr. C. Steenblokschool;4461HB;GOES;Zeeland;Bo;Reformatorisch;70358;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;3085;Rotterdam;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3232;Brielle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3251;Goeree-Overflakkee;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;3253;Goeree-Overflakkee;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4301;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4301;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;2;4;2;1;0;1;0;1;0;0;0;0;0;0;11
+20171001;664;Goes;4302;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4305;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4306;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4306;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4307;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4311;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4316;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4316;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4318;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4318;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4323;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4325;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4328;Schouwen-Duiveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4331;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4332;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4332;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4333;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4333;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4334;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4335;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4335;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4336;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4336;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4337;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4339;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4341;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4341;Middelburg;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4351;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4356;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4357;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4361;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4373;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4374;Veere;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4381;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4381;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4382;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4382;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4383;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4383;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4384;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4384;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;664;Goes;4385;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4385;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4386;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;664;Goes;4387;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4388;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;664;Goes;4388;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;8;2;0;0;0;0;0;0;0;0;0;0;10
+20171001;664;Goes;4389;Vlissingen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4411;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4411;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4413;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4413;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4414;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4417;Reimerswaal;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4421;Kapelle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4423;Kapelle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4424;Kapelle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4433;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4435;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4436;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4437;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4438;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4438;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4441;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4443;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4453;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4453;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4454;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4454;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4455;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4456;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4456;Borsele;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4461;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;2;3;2;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4462;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4462;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4463;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;2;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;664;Goes;4463;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;3;2;1;5;2;1;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4464;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4471;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4471;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4475;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4482;Kapelle;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4493;Noord-Beveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4493;Noord-Beveland;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4501;Sluis;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4511;Sluis;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4515;Sluis;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4521;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4527;Sluis;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4531;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4532;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4533;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4533;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4535;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4537;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4541;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4542;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4561;Hulst;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4562;Hulst;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4569;Hulst;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4571;Terneuzen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4581;Hulst;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4587;Hulst;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4611;Bergen op Zoom;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4614;Bergen op Zoom;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4615;Bergen op Zoom;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4631;Woensdrecht;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4651;Steenbergen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4661;Bergen op Zoom;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4691;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4694;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4694;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4695;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4697;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4697;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4698;Tholen;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4761;Moerdijk;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4904;Oosterhout;04EY;09;SO/VSO Respont (OdyZee);4481PM;KLOETINGE;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;  10;Belgie;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4301;Schouwen-Duiveland;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4306;Schouwen-Duiveland;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;664;Goes;4307;Schouwen-Duiveland;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4335;Middelburg;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4337;Middelburg;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;4
+20171001;664;Goes;4385;Vlissingen;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4484;Noord-Beveland;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4486;Noord-Beveland;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4695;Tholen;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4904;Oosterhout;04EY;10;SO/VSO Respont (Acreon);4462EZ;GOES;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4455;Borsele;04WQ;00;Johannes Calvijn-School;4471CN;WOLPHAARTSDIJK;Zeeland;Bo;Reformatorisch;42724;0;1;5;1;1;4;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;664;Goes;4456;Borsele;04WQ;00;Johannes Calvijn-School;4471CN;WOLPHAARTSDIJK;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4471;Goes;04WQ;00;Johannes Calvijn-School;4471CN;WOLPHAARTSDIJK;Zeeland;Bo;Reformatorisch;42724;0;4;7;6;3;6;5;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;664;Goes;4401;Reimerswaal;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4424;Kapelle;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;17;27;18;28;28;26;22;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;664;Goes;4462;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;3;4;2;2;3;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;664;Goes;4463;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;1;2;7;1;4;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;664;Goes;4464;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;12;9;11;13;5;13;3;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;664;Goes;4465;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;2;2;1;5;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;664;Goes;4471;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4474;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;1;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4475;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;8;1;2;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;664;Goes;4486;Noord-Beveland;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4494;Noord-Beveland;05GY;00;RK BS Bisschop Ernst;4461LX;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;3284;Korendijk;05UX;00;Het Samenspel;4471BR;WOLPHAARTSDIJK;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4465;Goes;05UX;00;Het Samenspel;4471BR;WOLPHAARTSDIJK;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4471;Goes;05UX;00;Het Samenspel;4471BR;WOLPHAARTSDIJK;Zeeland;Bo;Protestants-Christelijk;41582;0;19;17;17;16;16;15;14;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;664;Goes;4421;Kapelle;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4433;Borsele;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4441;Borsele;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4444;Borsele;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4451;Borsele;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4461;Goes;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;5;6;6;3;6;3;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;664;Goes;4462;Goes;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;13;17;18;21;21;14;31;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;664;Goes;4463;Goes;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;1;1;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;664;Goes;4481;Goes;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;8;8;6;8;9;6;4;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;664;Goes;4482;Kapelle;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4491;Noord-Beveland;08LR;00;Prinses Beatrixschool;4462LB;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;  40;Onbekend;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4411;Reimerswaal;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4461;Goes;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;2;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;664;Goes;4462;Goes;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;2;2;2;3;0;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;664;Goes;4463;Goes;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;31;27;43;23;21;24;28;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;664;Goes;4464;Goes;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4486;Noord-Beveland;08ZS;00;RK BS Holtkamp;4463CV;GOES;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4431;Borsele;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4454;Borsele;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;12;17;20;11;14;7;8;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;664;Goes;4462;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;4;2;2;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;664;Goes;4463;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;664;Goes;4464;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;4;4;5;5;3;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;664;Goes;4465;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4471;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4474;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4475;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;10GA;00;Prinses Ireneschool;4461NK;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;664;Goes;4444;Borsele;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4461;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;2;1;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;664;Goes;4462;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;3;5;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;664;Goes;4463;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;8;13;16;17;26;34;19;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;664;Goes;4464;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4465;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;10XC;00;P.C.B.S. 't Noorderlicht;4463CW;GOES;Zeeland;Bo;Protestants-Christelijk;41582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;8;13;9;8;6;11;5;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;664;Goes;4463;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;7;4;2;2;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;664;Goes;4464;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;4;2;3;2;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;664;Goes;4465;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4471;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4474;Goes;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4484;Noord-Beveland;12RD;00;Obs Prof. Dr. Kohnstamm;4461RE;GOES;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;  40;Onbekend;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4411;Reimerswaal;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4417;Reimerswaal;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4437;Borsele;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;5;7;6;7;6;7;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;664;Goes;4462;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;10;8;18;13;13;12;13;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;664;Goes;4463;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4464;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4481;Goes;13EH;00;Obs de Zuidwesthoek;4462LB;GOES;Zeeland;Bo;Openbaar;41670;0;4;2;4;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;664;Goes;4388;Vlissingen;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4417;Reimerswaal;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4444;Borsele;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4456;Borsele;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4458;Goes;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;17;8;12;11;12;8;13;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;664;Goes;4461;Goes;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4471;Goes;13JR;00;Obs Schengehof;4458BJ;'S-HEER ARENDSKERKE;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4423;Kapelle;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4441;Borsele;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;0;1;2;1;5;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;664;Goes;4462;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;1;3;2;3;7;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;664;Goes;4463;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4464;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;2;4;3;0;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;664;Goes;4465;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4474;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4475;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4481;Goes;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;7;9;8;9;15;7;17;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;664;Goes;4485;Noord-Beveland;13OS;00;Obs de Kloetingse School;4481BK;KLOETINGE;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4458;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4462;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4463;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4465;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4471;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4472;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4474;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4475;Goes;13WI;00;OBS St@mperius;4475AL;WILHELMINADORP;Zeeland;Bo;Openbaar;41670;0;1;4;4;5;5;6;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;664;Goes;1701;Heerhugowaard;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;1782;Den Helder;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4462;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;2;5;7;2;1;2;3;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;664;Goes;4463;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;8;14;4;7;16;9;8;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;664;Goes;4464;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4472;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4475;Goes;14FX;00;OBS De Tweemaster;4463SH;GOES;Zeeland;Bo;Openbaar;41670;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4315;Schouwen-Duiveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4381;Vlissingen;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4382;Vlissingen;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;2;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;664;Goes;4411;Reimerswaal;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4413;Reimerswaal;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4416;Reimerswaal;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;1;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;664;Goes;4417;Reimerswaal;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4421;Kapelle;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4424;Kapelle;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;664;Goes;4431;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;1;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;664;Goes;4433;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4435;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4437;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4438;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4441;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4443;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;2;1;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;664;Goes;4453;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4454;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4455;Borsele;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4458;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4461;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;4;2;4;4;3;4;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;664;Goes;4462;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;2;3;1;1;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;664;Goes;4463;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;3;3;2;5;4;9;4;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;664;Goes;4464;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4471;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4472;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4484;Noord-Beveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4485;Noord-Beveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4486;Noord-Beveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4491;Noord-Beveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4493;Noord-Beveland;14OJ;00;SSBO De Tweern;4461XS;GOES;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4382;Vlissingen;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4401;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4413;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4414;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4416;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4417;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4417;Reimerswaal;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4421;Kapelle;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;664;Goes;4424;Kapelle;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4434;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4435;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4438;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4451;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4451;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;5
+20171001;664;Goes;4453;Borsele;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4458;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4461;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;664;Goes;4462;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4462;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;664;Goes;4463;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;2;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;664;Goes;4463;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;1;0;0;2;2;0;0;0;0;0;0;0;0;6
+20171001;664;Goes;4464;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4472;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4481;Goes;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4486;Noord-Beveland;14PR;00;Deltaschool;4462JA;GOES;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;664;Goes;4486;Noord-Beveland;14PR;00;Deltaschool;4462JA;GOES;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1

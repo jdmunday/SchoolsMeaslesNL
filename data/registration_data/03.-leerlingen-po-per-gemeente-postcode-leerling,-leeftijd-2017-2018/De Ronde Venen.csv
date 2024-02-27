@@ -1,0 +1,166 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;736;De Ronde Venen;1075;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1102;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;1104;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1105;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1106;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;2;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;736;De Ronde Venen;1107;Amsterdam;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;2;3;3;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;736;De Ronde Venen;1391;De Ronde Venen;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;11;15;29;20;22;22;22;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;736;De Ronde Venen;1396;De Ronde Venen;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;2;0;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;736;De Ronde Venen;8255;Dronten;03SY;00;KBs Pius;1391XL;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1017;Amsterdam;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1102;Amsterdam;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1106;Amsterdam;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;1107;Amsterdam;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;1109;Amsterdam;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1186;Amstelveen;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;33;24;23;21;16;29;21;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;736;De Ronde Venen;3645;De Ronde Venen;05MC;00;Chr NAT BS Abcoude;1391VC;ABCOUDE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;2431;Nieuwkoop;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3441;Woerden;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3626;Stichtse Vecht;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;12;13;10;15;11;8;18;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;736;De Ronde Venen;3646;De Ronde Venen;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;3648;De Ronde Venen;05TW;00;Basisschool De Schakel;3645GR;VINKEVEEN;Utrecht;Bo;Protestants-Christelijk;92210;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;736;De Ronde Venen;1107;Amsterdam;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1221;Hilversum;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1396;De Ronde Venen;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;13;12;14;9;11;16;8;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;736;De Ronde Venen;3621;Stichtse Vecht;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3633;Stichtse Vecht;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3634;Stichtse Vecht;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;06DX;00;Basisschool Ichthus;1396KJ;BAAMBRUGGE;Utrecht;Bo;Protestants-Christelijk;41138;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;1103;Amsterdam;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1106;Amsterdam;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1107;Amsterdam;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;26;27;32;25;23;29;27;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;211
+20171001;736;De Ronde Venen;1396;De Ronde Venen;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;3543;Utrecht;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3581;Utrecht;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;06LL;00;KBs Paulus;1391CZ;ABCOUDE;Utrecht;Bo;Rooms-Katholiek;70002;0;1;1;0;1;4;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;736;De Ronde Venen;1426;De Ronde Venen;06ZS;00;Basisschool St Antonius;1426AE;DE HOEF;Utrecht;Bo;Rooms-Katholiek;41233;0;7;5;3;8;8;7;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;736;De Ronde Venen;2435;Nieuwkoop;06ZS;00;Basisschool St Antonius;1426AE;DE HOEF;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;736;De Ronde Venen;2461;Nieuwkoop;06ZS;00;Basisschool St Antonius;1426AE;DE HOEF;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;06ZS;00;Basisschool St Antonius;1426AE;DE HOEF;Utrecht;Bo;Rooms-Katholiek;41233;0;0;3;2;1;3;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;736;De Ronde Venen;3646;De Ronde Venen;06ZS;00;Basisschool St Antonius;1426AE;DE HOEF;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1074;Amsterdam;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1078;Amsterdam;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1107;Amsterdam;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;2441;Nieuwkoop;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3641;De Ronde Venen;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;10;15;12;17;9;19;19;19;3;1;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;736;De Ronde Venen;3646;De Ronde Venen;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3648;De Ronde Venen;07LI;00;Basisschool St Jozef;3645EX;VINKEVEEN;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1427;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3628;Stichtse Vecht;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;9;11;15;4;12;5;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;736;De Ronde Venen;3642;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;5;5;10;9;7;6;7;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;736;De Ronde Venen;3643;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3646;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3648;De Ronde Venen;08HN;00;OBS Molenland;3642BS;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1191;Ouder-Amstel;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3112;Schiedam;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3471;Woerden;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3604;Stichtse Vecht;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;736;De Ronde Venen;3642;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3643;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;3646;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;1;2;1;2;0;4;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;736;De Ronde Venen;3648;De Ronde Venen;08XD;00;Kids College;3648HC;WILNIS;Utrecht;Bo;Protestants-Christelijk;41138;0;6;3;6;4;5;15;13;9;1;1;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;736;De Ronde Venen;1432;Aalsmeer;09HU;00;Basisschool De Trekvogel;3641ZE;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;09HU;00;Basisschool De Trekvogel;3641ZE;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;4;4;1;1;8;1;14;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;736;De Ronde Venen;3642;De Ronde Venen;09HU;00;Basisschool De Trekvogel;3641ZE;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3648;De Ronde Venen;09HU;00;Basisschool De Trekvogel;3641ZE;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;6;6;3;5;3;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;736;De Ronde Venen;3642;De Ronde Venen;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;0;1;4;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;736;De Ronde Venen;3646;De Ronde Venen;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3648;De Ronde Venen;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;10;8;17;9;13;17;16;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;736;De Ronde Venen;3652;Nieuwkoop;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3947;Wijk bij Duurstede;09UW;00;Koningin Julianaschool;3648AN;WILNIS;Utrecht;Bo;Protestants-Christelijk;41278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1396;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1426;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;4;6;12;11;10;13;18;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;736;De Ronde Venen;3642;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3643;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;2;0;5;3;4;2;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;736;De Ronde Venen;3645;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3646;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3648;De Ronde Venen;10DI;00;Basisschool De Eendracht;3641ML;MIJDRECHT;Utrecht;Bo;Openbaar;41544;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1433;Aalsmeer;11LB;00;RK Basisschool Driehuis;3641AJ;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;11LB;00;RK Basisschool Driehuis;3641AJ;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;1;2;2;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;736;De Ronde Venen;3642;De Ronde Venen;11LB;00;RK Basisschool Driehuis;3641AJ;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;6;11;5;9;4;7;13;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;736;De Ronde Venen;3648;De Ronde Venen;11LB;00;RK Basisschool Driehuis;3641AJ;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;2;2;4;3;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;736;De Ronde Venen;1421;Uithoorn;11WN;00;RK Basisschool De Windroos;3641AT;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1426;De Ronde Venen;11WN;00;RK Basisschool De Windroos;3641AT;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;2435;Nieuwkoop;11WN;00;RK Basisschool De Windroos;3641AT;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;11WN;00;RK Basisschool De Windroos;3641AT;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;11;12;13;18;20;11;23;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;736;De Ronde Venen;3642;De Ronde Venen;11WN;00;RK Basisschool De Windroos;3641AT;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;6;8;17;6;13;9;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;736;De Ronde Venen;3471;Woerden;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;16;7;16;13;14;15;8;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;736;De Ronde Venen;3642;De Ronde Venen;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3643;De Ronde Venen;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;10;6;6;12;6;12;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;736;De Ronde Venen;3646;De Ronde Venen;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3648;De Ronde Venen;12GB;00;RK Basisschool Hofland;3641ML;MIJDRECHT;Utrecht;Bo;Rooms-Katholiek;41233;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1431;Aalsmeer;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;2435;Nieuwkoop;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;20;36;39;20;21;23;25;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;200
+20171001;736;De Ronde Venen;3642;De Ronde Venen;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;3;4;5;7;3;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;736;De Ronde Venen;3643;De Ronde Venen;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;736;De Ronde Venen;3645;De Ronde Venen;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3648;De Ronde Venen;12QH;00;Basisschool De Fontein;3641KN;MIJDRECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;1191;Ouder-Amstel;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3641;De Ronde Venen;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;1;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;736;De Ronde Venen;3642;De Ronde Venen;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3645;De Ronde Venen;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;2;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;736;De Ronde Venen;3646;De Ronde Venen;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;3648;De Ronde Venen;18DX;00;Openb BSO Willespoort;3648HP;WILNIS;Utrecht;Bo;Openbaar;41544;0;24;16;24;18;15;19;22;20;4;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;736;De Ronde Venen;1067;Amsterdam;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1381;Weesp;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1394;Wijdemeren;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3641;De Ronde Venen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;3645;De Ronde Venen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;45;27;53;42;39;36;42;39;5;0;0;0;0;0;0;0;0;0;0;0;0;0;328
+20171001;736;De Ronde Venen;3646;De Ronde Venen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;1;2;0;2;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;736;De Ronde Venen;3648;De Ronde Venen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;7201;Zutphen;18ET;00;De Pijlstaart;3645GR;VINKEVEEN;Utrecht;Bo;Openbaar;41544;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;  30;ander land;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1018;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1079;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1093;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1102;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;1;1;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;736;De Ronde Venen;1103;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;736;De Ronde Venen;1104;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1106;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;2;2;2;1;3;7;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;736;De Ronde Venen;1107;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;2;2;1;4;5;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;736;De Ronde Venen;1108;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;1109;Amsterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1111;Diemen;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1112;Diemen;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;31;37;29;31;31;35;34;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;257
+20171001;736;De Ronde Venen;1396;De Ronde Venen;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;736;De Ronde Venen;2141;Haarlemmermeer;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;2584;'s-Gravenhage;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3068;Rotterdam;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3453;Utrecht;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3521;Utrecht;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3621;Stichtse Vecht;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3634;Stichtse Vecht;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;3645;De Ronde Venen;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;1;5;1;1;3;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;736;De Ronde Venen;3768;Soest;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3769;Soest;18IQ;00;Piet Mondriaan;1391XL;ABCOUDE;Utrecht;Bo;Openbaar;41843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1076;Amsterdam;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;1391;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;1422;Uithoorn;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;1426;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;1427;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;2431;Nieuwkoop;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;736;De Ronde Venen;2435;Nieuwkoop;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3626;Stichtse Vecht;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;736;De Ronde Venen;3641;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;5;5;4;7;7;7;10;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;736;De Ronde Venen;3642;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;1;2;1;2;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;736;De Ronde Venen;3643;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;1;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;736;De Ronde Venen;3645;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;4;3;5;2;5;7;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;736;De Ronde Venen;3646;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;1;0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;736;De Ronde Venen;3648;De Ronde Venen;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;8;11;12;13;10;16;13;15;6;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;736;De Ronde Venen;3652;Nieuwkoop;24PU;00;Vlinderbos;3648HB;WILNIS;Utrecht;Bo;Algemeen bijzonder;40281;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

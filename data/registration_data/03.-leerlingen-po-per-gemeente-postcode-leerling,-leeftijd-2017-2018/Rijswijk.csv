@@ -1,0 +1,534 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;603;Rijswijk;2274;Leidschendam-Voorburg;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2283;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;1;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2284;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;1;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;603;Rijswijk;2285;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;7;6;3;11;8;11;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;603;Rijswijk;2286;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;21;21;15;17;17;11;20;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;603;Rijswijk;2287;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;7;3;4;3;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;603;Rijswijk;2288;Rijswijk;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2522;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2523;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2524;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2531;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2532;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2533;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2545;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2548;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;2;0;5;5;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;603;Rijswijk;2552;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2583;'s-Gravenhage;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2625;Delft;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2675;Westland;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2691;Westland;03PQ;00;Petrusschool;2286RL;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2274;Leidschendam-Voorburg;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2281;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2282;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2283;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2284;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2285;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2286;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2287;Rijswijk;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;3;4;2;4;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;603;Rijswijk;2291;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2492;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2493;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2496;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2497;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2498;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2521;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;2;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2524;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2525;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2531;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2532;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2545;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2548;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;3;0;0;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;603;Rijswijk;2553;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2573;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2583;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2587;'s-Gravenhage;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2612;Delft;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2614;Delft;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;0;2;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2622;Delft;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2625;Delft;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2627;Delft;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2632;Pijnacker-Nootdorp;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2635;Midden-Delfland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2645;Pijnacker-Nootdorp;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2671;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2673;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2681;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;0;0;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2691;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2694;Westland;07MH;00;Geref Basissch De Akker;2287TK;RIJSWIJK ZH;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;  40;Onbekend;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2161;Lisse;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2264;Leidschendam-Voorburg;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2283;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;14;19;10;25;18;14;16;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;603;Rijswijk;2284;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;18;13;18;14;7;9;10;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;603;Rijswijk;2285;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;1;4;5;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;603;Rijswijk;2286;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2287;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;1;3;2;6;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;603;Rijswijk;2288;Rijswijk;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2512;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2521;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2522;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2523;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2524;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;4;2;4;3;3;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;603;Rijswijk;2525;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2531;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2532;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2545;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2548;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2552;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2563;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2573;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2574;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2591;'s-Gravenhage;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2612;Delft;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2624;Delft;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2671;Westland;10GK;00;Basisschool De Piramide;2283GT;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;  40;Onbekend;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2281;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;1;0;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2282;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;10;4;8;9;10;6;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;603;Rijswijk;2283;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;2;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2284;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2285;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2286;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2289;Rijswijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2492;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2496;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2512;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2515;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2521;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2522;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;8;6;3;7;7;8;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;603;Rijswijk;2523;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;2;4;1;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;603;Rijswijk;2524;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;3;2;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;603;Rijswijk;2525;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2526;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2531;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2532;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2533;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2542;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2544;'s-Gravenhage;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2726;Zoetermeer;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;3025;Rotterdam;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3843;Harderwijk;10XK;00;Mariaschool v Kath Bso;2282SE;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2265;Leidschendam-Voorburg;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2281;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;0;3;1;3;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;603;Rijswijk;2282;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;26;17;19;12;13;16;11;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;603;Rijswijk;2283;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;7;7;9;9;4;13;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;603;Rijswijk;2284;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;2;1;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2285;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2286;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;2;7;4;4;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;603;Rijswijk;2287;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2288;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2289;Rijswijk;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2496;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2512;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2515;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2516;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2521;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2522;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;3;0;4;6;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;603;Rijswijk;2523;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;6;1;3;2;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;603;Rijswijk;2524;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;2;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;603;Rijswijk;2531;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2571;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2573;'s-Gravenhage;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2632;Pijnacker-Nootdorp;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2645;Pijnacker-Nootdorp;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2718;Zoetermeer;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3112;Schiedam;11LE;00;Godfried Bomansschool;2288EJ;RIJSWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;  20;Duitsland;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;  30;ander land;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2264;Leidschendam-Voorburg;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2267;Leidschendam-Voorburg;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;3;3;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;603;Rijswijk;2281;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;20;23;18;21;12;23;15;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;603;Rijswijk;2282;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;12;16;11;6;16;8;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;603;Rijswijk;2283;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;10;3;5;2;8;5;4;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;603;Rijswijk;2284;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;2;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2285;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2286;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2287;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2288;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2289;Rijswijk;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2291;Westland;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2492;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2496;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2497;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2511;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2512;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2515;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2516;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;4;0;1;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;603;Rijswijk;2521;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2522;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;3;0;1;3;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;603;Rijswijk;2523;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2524;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;0;3;1;1;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;603;Rijswijk;2531;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2532;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2533;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2543;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2546;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2552;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2574;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2595;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2596;'s-Gravenhage;12EX;00;Basisschool 't Prisma;2283LK;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2283;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;0;1;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2284;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;5;0;4;2;2;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;603;Rijswijk;2285;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;29;23;21;22;17;11;10;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;603;Rijswijk;2286;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;6;5;6;8;8;4;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;603;Rijswijk;2287;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;1;3;4;2;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;603;Rijswijk;2288;Rijswijk;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;5;0;5;5;9;2;6;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;603;Rijswijk;2291;Westland;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2292;Westland;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2295;Westland;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2332;Leiden;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2497;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2498;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2512;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2522;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;2;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2523;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2524;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;3;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2531;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;0;2;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2532;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;3;0;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2533;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2544;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2545;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2548;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;1;6;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;603;Rijswijk;2551;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2561;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2563;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2583;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2584;'s-Gravenhage;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2731;Alphen aan den Rijn;12WB;00;Basisschool Steenvoorde;2285VD;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;  10;Belgie;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2283;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2284;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2285;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;11;6;6;14;7;8;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;603;Rijswijk;2286;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;13;9;15;14;11;13;12;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;603;Rijswijk;2287;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;4;0;4;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;603;Rijswijk;2288;Rijswijk;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2291;Westland;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2295;Westland;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2492;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2522;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2523;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2524;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2532;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2545;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2548;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;1;4;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;603;Rijswijk;2552;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2572;'s-Gravenhage;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2614;Delft;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2661;Lansingerland;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2671;Westland;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2675;Westland;13HM;00;Bs Wethouder Brederode;2286MV;RIJSWIJK ZH;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2281;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;9;3;9;5;8;8;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;603;Rijswijk;2282;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;11;25;20;17;16;21;13;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;603;Rijswijk;2283;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;4;0;1;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;603;Rijswijk;2284;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2285;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2287;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2289;Rijswijk;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2496;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2497;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2516;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2517;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2522;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2523;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2524;'s-Gravenhage;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2741;Waddinxveen;13IL;00;Prins Mauritsschool;2282CN;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;  30;ander land;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2263;Leidschendam-Voorburg;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2266;Leidschendam-Voorburg;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2272;Leidschendam-Voorburg;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2281;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;7;7;7;6;4;2;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;603;Rijswijk;2282;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;26;26;24;21;20;18;23;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;174
+20171001;603;Rijswijk;2283;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;9;8;5;11;11;9;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;603;Rijswijk;2284;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;3;4;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;603;Rijswijk;2285;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;1;1;2;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;603;Rijswijk;2286;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;3;0;2;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2287;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2288;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2289;Rijswijk;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2492;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2498;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2515;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2516;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2518;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2522;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;3;2;5;3;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;603;Rijswijk;2523;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;4;3;1;1;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;603;Rijswijk;2524;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;5;2;4;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;603;Rijswijk;2532;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2533;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2546;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2548;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2551;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2552;'s-Gravenhage;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2632;Pijnacker-Nootdorp;13RY;00;J.H. Snijdersschool;2282HM;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;  30;ander land;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;  40;Onbekend;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2101;Heemstede;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2281;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2282;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2283;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2284;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;4;4;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;603;Rijswijk;2285;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2286;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;3;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2287;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;25;13;16;17;20;13;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;603;Rijswijk;2288;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2289;Rijswijk;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2496;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2522;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2524;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2531;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2533;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2545;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2564;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2571;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2572;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2573;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2574;'s-Gravenhage;13VQ;00;"Christelijke BS ""Melodie""";2287BS;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;1816;Alkmaar;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2282;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2283;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2284;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2285;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;2;2;0;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;603;Rijswijk;2286;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;18;18;19;15;22;11;22;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;603;Rijswijk;2287;Rijswijk;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;2;0;0;4;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;603;Rijswijk;2517;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2521;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2524;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2532;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2533;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2548;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2572;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2583;'s-Gravenhage;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2614;Delft;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2645;Pijnacker-Nootdorp;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2712;Zoetermeer;13ZE;00;Het Kristal;2286GE;RIJSWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;20281;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2203;Noordwijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2274;Leidschendam-Voorburg;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2281;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2284;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2285;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2286;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2287;Rijswijk;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2291;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2292;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2496;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2497;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2498;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2513;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2516;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2521;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2522;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2524;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2525;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2532;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2542;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2543;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2544;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2545;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2547;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2548;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;2;2;2;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2552;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2553;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2561;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2563;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2565;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2566;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2573;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2574;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2582;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2583;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2584;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2585;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2592;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2593;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2595;'s-Gravenhage;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2612;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2613;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2614;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2622;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2624;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2625;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2629;Delft;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2635;Midden-Delfland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2636;Midden-Delfland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2642;Pijnacker-Nootdorp;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2645;Pijnacker-Nootdorp;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2673;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2675;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2678;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2685;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2692;Westland;17GW;06;Kentalis Rijswijk De Voorde;2287EE;RIJSWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2272;Leidschendam-Voorburg;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2281;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2283;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;2;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2284;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2285;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;2;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2286;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;2;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2287;Rijswijk;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2291;Westland;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2493;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2518;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2524;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;2;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2531;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2532;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2533;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2548;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2552;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2591;'s-Gravenhage;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2728;Zoetermeer;18SG;00;SSBO Elsenburg;2283EG;RIJSWIJK ZH;Zuid-Holland;Sbo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2273;Leidschendam-Voorburg;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2274;Leidschendam-Voorburg;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2281;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2282;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2283;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;1;4;0;0;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;603;Rijswijk;2284;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;2;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2285;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;1;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;603;Rijswijk;2286;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2287;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;0;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;603;Rijswijk;2288;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2289;Rijswijk;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2496;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2497;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2521;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2522;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;2;1;0;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;603;Rijswijk;2523;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2524;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2531;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2532;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2533;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2541;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2542;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2544;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2546;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2548;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2573;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2592;'s-Gravenhage;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2625;Delft;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2643;Pijnacker-Nootdorp;19HH;00;SSBO Rehoboth;2283XA;RIJSWIJK ZH;Zuid-Holland;Sbo;Protestants-Christelijk;70176;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2262;Leidschendam-Voorburg;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2272;Leidschendam-Voorburg;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2284;Rijswijk;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2285;Rijswijk;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2286;Rijswijk;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;31;35;29;18;15;2;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;603;Rijswijk;2287;Rijswijk;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2288;Rijswijk;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2523;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2531;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2545;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2548;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2565;'s-Gravenhage;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2611;Delft;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2614;Delft;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2624;Delft;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2635;Midden-Delfland;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2665;Lansingerland;30WX;00;Buitenrijck;2286KC;RIJSWIJK ZH;Zuid-Holland;Bo;Samenwerking PC, RK;20281;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2215;Teylingen;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2244;Wassenaar;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2261;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2263;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2264;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2271;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2272;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2274;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2275;Leidschendam-Voorburg;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;2;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2281;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;2;2;5;4;4;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;603;Rijswijk;2282;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;3;5;3;6;9;7;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;603;Rijswijk;2283;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;2;1;2;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;603;Rijswijk;2284;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2285;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;3;1;0;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;603;Rijswijk;2286;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2287;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;603;Rijswijk;2289;Rijswijk;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2291;Westland;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2353;Leiderdorp;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2492;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;603;Rijswijk;2493;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2495;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2496;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;2;1;1;3;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;603;Rijswijk;2497;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2498;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2512;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2516;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2521;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2522;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2523;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2531;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2532;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2533;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2542;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2544;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2545;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2548;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;3;2;3;2;4;4;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;603;Rijswijk;2551;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2552;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2555;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2561;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2563;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2564;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2565;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2582;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2583;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2584;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2585;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2586;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2587;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;603;Rijswijk;2591;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2593;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2595;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2597;'s-Gravenhage;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;603;Rijswijk;2613;Delft;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2622;Delft;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;603;Rijswijk;2627;Delft;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2631;Pijnacker-Nootdorp;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2632;Pijnacker-Nootdorp;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2635;Midden-Delfland;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2636;Midden-Delfland;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2681;Westland;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2716;Zoetermeer;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;603;Rijswijk;2721;Zoetermeer;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2752;Zuidplas;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;2802;Gouda;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3037;Rotterdam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3039;Rotterdam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3053;Rotterdam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3111;Schiedam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3116;Schiedam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3117;Schiedam;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;603;Rijswijk;3145;Maassluis;30XM;00;Kronenburgh;2283JA;RIJSWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;42679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

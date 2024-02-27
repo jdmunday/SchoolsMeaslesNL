@@ -1,0 +1,558 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;141;Almelo;  20;Duitsland;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7157;Berkelland;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7414;Deventer;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7415;Deventer;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7442;Hellendoorn;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7443;Hellendoorn;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;141;Almelo;7447;Hellendoorn;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;141;Almelo;7448;Hellendoorn;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;141;Almelo;7451;Rijssen-Holten;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7462;Rijssen-Holten;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7463;Rijssen-Holten;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7468;Wierden;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7471;Hof van Twente;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7491;Hof van Twente;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7511;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7521;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7523;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7524;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;2
+20171001;141;Almelo;7534;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;141;Almelo;7541;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7542;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7545;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7546;Enschede;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;2
+20171001;141;Almelo;7553;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7555;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7556;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7557;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7558;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7559;Hengelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7561;Dinkelland;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7582;Losser;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7586;Losser;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7602;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;3;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7603;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;3
+20171001;141;Almelo;7604;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;5
+20171001;141;Almelo;7605;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7606;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7607;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7608;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;6
+20171001;141;Almelo;7609;Almelo;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;2
+20171001;141;Almelo;7641;Wierden;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;3
+20171001;141;Almelo;7642;Wierden;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;3
+20171001;141;Almelo;7665;Tubbergen;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7671;Twenterand;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7676;Twenterand;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;4
+20171001;141;Almelo;7678;Tubbergen;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7681;Twenterand;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7693;Hardenberg;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7772;Hardenberg;00KM;21;Mota;7602PD;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7442;Hellendoorn;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7443;Hellendoorn;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7451;Rijssen-Holten;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7461;Rijssen-Holten;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7462;Rijssen-Holten;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7463;Rijssen-Holten;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7468;Wierden;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7471;Hof van Twente;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7475;Hof van Twente;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7491;Hof van Twente;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7495;Hof van Twente;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7521;Enschede;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7523;Enschede;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7545;Enschede;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7553;Hengelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7591;Dinkelland;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7602;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7603;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7604;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7605;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7606;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7607;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7608;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7609;Almelo;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7614;Tubbergen;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7615;Tubbergen;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7642;Wierden;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7651;Tubbergen;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7667;Tubbergen;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7672;Twenterand;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7676;Twenterand;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7681;Twenterand;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7683;Twenterand;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7687;Hellendoorn;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7693;Hardenberg;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7742;Coevorden;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7772;Hardenberg;00KM;22;Scholengroep Twente Speciaal;7602XR;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7141;Oost Gelre;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;141;Almelo;7161;Berkelland;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7442;Hellendoorn;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7461;Rijssen-Holten;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7462;Rijssen-Holten;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7468;Wierden;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7475;Hof van Twente;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7482;Haaksbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7553;Hengelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7576;Oldenzaal;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7602;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;1;3;0;1;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7603;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7604;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7605;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7606;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;3;1;0;1;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7607;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7608;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;4;1;3;1;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7609;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;3;3;5;1;1;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7611;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7615;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7621;Borne;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;2
+20171001;141;Almelo;7627;Almelo;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7635;Dinkelland;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7642;Wierden;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7645;Wierden;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7651;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7661;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7665;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7666;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7667;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7676;Twenterand;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7678;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7679;Tubbergen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7681;Twenterand;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7683;Twenterand;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7731;Ommen;00KM;23;Scholengroep Twente Speciaal;7604JE;ALMELO;Overijssel;Vso;Algemeen bijzonder;25859;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7462;Rijssen-Holten;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7468;Wierden;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7602;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7603;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7604;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7605;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7606;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7607;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7608;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7609;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7627;Almelo;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7651;Tubbergen;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7661;Tubbergen;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7665;Tubbergen;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7672;Twenterand;00KM;55;Attendiz;7601CT;ALMELO;Overijssel;So;Algemeen bijzonder;25859;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;  30;ander land;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;6822;Arnhem;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7211;Lochem;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7241;Lochem;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7351;Apeldoorn;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7443;Hellendoorn;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7468;Wierden;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7481;Haaksbergen;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7511;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7522;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7523;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7531;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7534;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7541;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7542;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7544;Enschede;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7553;Hengelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7555;Hengelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7557;Hengelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7558;Hengelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7572;Oldenzaal;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7576;Oldenzaal;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7577;Oldenzaal;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7581;Losser;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7602;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;4;5;4;4;0;0;0;0;0;0;0;0;19
+20171001;141;Almelo;7603;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7604;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7605;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;1;4;1;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7607;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7608;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;4;2;4;2;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7609;Almelo;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7615;Tubbergen;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7642;Wierden;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7665;Tubbergen;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7672;Twenterand;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7676;Twenterand;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7826;Emmen;01QH;05;Sgm Klein Borculo;7602PT;ALMELO;Overijssel;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7468;Wierden;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7495;Hof van Twente;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7606;Almelo;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7607;Almelo;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;3;7;6;4;6;4;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;141;Almelo;7621;Borne;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7625;Borne;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7627;Almelo;06RP;00;Basisschool St Stephanus;7627PL;BORNERBROEK;Overijssel;Bo;Rooms-Katholiek;68836;0;19;24;23;17;20;23;20;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;141;Almelo;2586;'s-Gravenhage;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;3;2;2;2;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;141;Almelo;7602;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;2;1;3;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7603;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;4;5;2;3;4;0;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;141;Almelo;7604;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7607;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;4;1;2;2;3;4;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;141;Almelo;7608;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;13;10;11;11;13;13;11;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;141;Almelo;7609;Almelo;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;3;2;1;2;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;141;Almelo;7671;Twenterand;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7678;Tubbergen;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7683;Twenterand;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7736;Ommen;06ZK;00;Basisschool Vrije School;7608RN;ALMELO;Overijssel;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;2;2;2;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7602;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;1;4;2;4;11;4;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;141;Almelo;7603;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;4;2;2;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7604;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;1;2;0;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7605;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;1;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7606;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;1;1;2;0;2;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7607;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;2;3;3;1;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;141;Almelo;7608;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;0;1;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7609;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;0;1;1;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7611;Almelo;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7671;Twenterand;07AI;00;Montessori Basisschool;7602VV;ALMELO;Overijssel;Bo;Algemeen bijzonder;23128;0;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7471;Hof van Twente;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7531;Enschede;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7544;Enschede;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7552;Hengelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7553;Hengelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7555;Hengelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7557;Hengelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7582;Losser;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7586;Losser;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7591;Dinkelland;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7601;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7602;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;1;1;4;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7603;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7604;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7605;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7607;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7608;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;1;0;0;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7609;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7611;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7622;Borne;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7623;Borne;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7627;Almelo;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7642;Wierden;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7665;Tubbergen;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7672;Twenterand;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7676;Twenterand;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7678;Tubbergen;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7683;Twenterand;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7687;Hellendoorn;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7691;Hardenberg;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7694;Hardenberg;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7771;Hardenberg;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7772;Hardenberg;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;8105;Raalte;08PQ;03;Elimschool;7602PT;ALMELO;Overijssel;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7602;Almelo;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7604;Almelo;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7609;Almelo;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7611;Almelo;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;16;11;16;17;8;14;22;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;141;Almelo;7642;Wierden;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;12KM;00;Chr Basisschool De Tweeklank;7611AP;AADORP;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;  30;ander land;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;  40;Onbekend;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;3171;Albrandswaard;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;6021;Cranendonck;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7421;Deventer;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7442;Hellendoorn;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7443;Hellendoorn;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7447;Hellendoorn;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7451;Rijssen-Holten;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7461;Rijssen-Holten;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;3;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7462;Rijssen-Holten;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;2;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7471;Hof van Twente;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;0;1;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;141;Almelo;7481;Haaksbergen;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7496;Hof van Twente;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7557;Hengelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;1;0;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7602;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;4;8;3;6;4;7;10;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;141;Almelo;7603;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;5;1;1;1;2;3;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;141;Almelo;7604;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;1;1;2;5;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;141;Almelo;7605;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;3;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7606;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;1;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7607;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7608;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;21;19;17;25;21;21;24;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;141;Almelo;7609;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7611;Almelo;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7614;Tubbergen;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7621;Borne;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;1;1;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7622;Borne;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;0;1;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7623;Borne;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7631;Dinkelland;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;2;1;2;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;141;Almelo;7642;Wierden;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7651;Tubbergen;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;2;2;1;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;141;Almelo;7665;Tubbergen;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7671;Twenterand;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7676;Twenterand;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7681;Twenterand;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7683;Twenterand;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7688;Hellendoorn;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;9561;Vlagtwedde;13UI;00;De Tandem;7608CL;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7601;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7602;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7603;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;18;20;32;25;22;22;19;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;141;Almelo;7604;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7606;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7607;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;1;1;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7608;Almelo;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;3;2;0;1;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;141;Almelo;7906;Hoogeveen;13XS;00;Het Letterveld;7603TK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;  30;ander land;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7601;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;23;19;21;18;23;27;17;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;141;Almelo;7602;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7603;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7604;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;2;2;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7605;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;4;1;2;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7606;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;4;6;3;6;3;7;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;141;Almelo;7607;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;23;38;41;35;46;47;36;42;3;0;0;0;0;0;0;0;0;0;0;0;0;0;311
+20171001;141;Almelo;7608;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;3;2;3;4;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;141;Almelo;7621;Borne;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7623;Borne;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7625;Borne;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7642;Wierden;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7645;Wierden;14BB;00;Windhoek;7607PB;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;  20;Duitsland;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;1;0;1;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7602;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;25;36;26;40;39;42;37;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;274
+20171001;141;Almelo;7603;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;3;2;1;6;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;141;Almelo;7604;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;11;16;16;9;13;12;16;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;141;Almelo;7605;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;1;2;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7606;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;2;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7607;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;4;2;3;4;3;1;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;141;Almelo;7608;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;4;1;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;141;Almelo;7609;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7611;Almelo;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7671;Twenterand;14XW;00;Basisschool De Weier;7602CP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;  20;Duitsland;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7604;Almelo;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7605;Almelo;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7606;Almelo;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;3;1;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;141;Almelo;7609;Almelo;15HV;00;De Stapvoorde;7609GP;ALMELO;Overijssel;Bo;Openbaar;41522;0;20;20;32;20;20;28;16;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;141;Almelo;7601;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;18;15;27;24;24;24;24;21;8;0;0;0;0;0;0;0;0;0;0;0;0;0;185
+20171001;141;Almelo;7603;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7604;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7605;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;2;2;4;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;141;Almelo;7606;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;4;4;6;3;6;4;5;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;141;Almelo;7607;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;1;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7609;Almelo;15ND;00;Obs de Kubus;7601SZ;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7601;Almelo;15RZ;00;OBS Step;7606TW;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7604;Almelo;15RZ;00;OBS Step;7606TW;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;0;2;2;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7605;Almelo;15RZ;00;OBS Step;7606TW;ALMELO;Overijssel;Bo;Openbaar;41522;0;5;5;8;5;4;13;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;141;Almelo;7606;Almelo;15RZ;00;OBS Step;7606TW;ALMELO;Overijssel;Bo;Openbaar;41522;0;3;3;7;6;4;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;141;Almelo;7609;Almelo;15RZ;00;OBS Step;7606TW;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;3601;Stichtse Vecht;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7555;Hengelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7602;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;9;5;10;8;5;2;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;141;Almelo;7603;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7604;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;21;21;32;29;25;35;26;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;211
+20171001;141;Almelo;7605;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7606;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;3;1;1;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7607;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;2;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7608;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;3;4;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;141;Almelo;7609;Almelo;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7671;Twenterand;17JV;00;De Zegge;7604EH;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;14;14;11;14;18;7;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;141;Almelo;7602;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7603;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7604;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7605;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;3;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7607;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;10;18;7;19;15;17;11;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;141;Almelo;7609;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7611;Almelo;17MM;00;De Heemde;7607NM;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7495;Hof van Twente;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7604;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;3;3;2;2;4;6;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;141;Almelo;7605;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;2;5;2;7;6;3;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;141;Almelo;7606;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;18;10;9;9;10;10;14;5;8;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;141;Almelo;7607;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;17NB;00;De Wierde;7606HZ;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;1;0;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7601;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7602;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7603;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;2;3;2;0;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7604;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7606;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7607;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7608;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;17;22;25;25;30;31;26;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;200
+20171001;141;Almelo;7609;Almelo;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7675;Twenterand;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7678;Tubbergen;17QJ;00;De Telgenborch;7608BW;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;3845;Harderwijk;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7605;Almelo;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;2;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7606;Almelo;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7609;Almelo;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;21;24;17;13;25;20;25;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;141;Almelo;7611;Almelo;17QY;00;De Huve;7609GP;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7442;Hellendoorn;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7442;Hellendoorn;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7443;Hellendoorn;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7451;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7461;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7461;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;3
+20171001;141;Almelo;7462;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7462;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;3;1;0;0;2;1;1;0;0;0;0;0;0;9
+20171001;141;Almelo;7463;Rijssen-Holten;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7468;Wierden;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7495;Hof van Twente;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7558;Hengelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7601;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7601;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7602;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7602;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7603;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;1;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7603;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;1;1;0;0;0;0;0;0;7
+20171001;141;Almelo;7604;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7604;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;2;0;0;2;1;1;1;0;0;0;0;0;0;8
+20171001;141;Almelo;7605;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7605;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7606;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;1;1;0;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7606;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;3;2;1;2;1;1;0;0;0;0;0;0;11
+20171001;141;Almelo;7607;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7607;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7608;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;2;1;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;141;Almelo;7608;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;2;3;4;3;3;5;5;1;0;0;0;0;0;27
+20171001;141;Almelo;7609;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;1;0;1;0;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7609;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;1;1;1;2;2;1;1;1;0;0;0;0;0;11
+20171001;141;Almelo;7611;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;5
+20171001;141;Almelo;7614;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7615;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7621;Borne;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7625;Borne;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7627;Almelo;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7635;Dinkelland;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7641;Wierden;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;2;1;0;1;1;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7642;Wierden;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7642;Wierden;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;3
+20171001;141;Almelo;7651;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7651;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;3
+20171001;141;Almelo;7661;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7661;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7664;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7665;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7665;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7666;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7667;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7668;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7671;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7671;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;4;1;0;1;0;0;1;0;0;0;0;0;0;7
+20171001;141;Almelo;7672;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7676;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7676;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;4;1;1;0;1;0;0;0;0;0;0;8
+20171001;141;Almelo;7678;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7678;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7679;Tubbergen;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7681;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7681;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;1;1;2;0;2;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7686;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;So;Algemeen bijzonder;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7686;Twenterand;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7687;Hellendoorn;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7772;Hardenberg;19QO;00;Dr Herderscheeschool;7608LV;ALMELO;Overijssel;Vso;Algemeen bijzonder;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;141;Almelo;7601;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;14;5;15;13;12;10;13;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;141;Almelo;7604;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7605;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;6;8;3;5;4;7;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;141;Almelo;7606;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;5;7;2;4;5;1;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;141;Almelo;7607;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7608;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7651;Tubbergen;21BM;00;Bs St Egbertus Radboud;7601BA;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7603;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;2;4;6;6;10;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;141;Almelo;7605;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7606;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7607;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7608;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;29;24;38;30;37;24;47;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;261
+20171001;141;Almelo;7609;Almelo;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7615;Tubbergen;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7678;Tubbergen;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;8011;Zwolle;21CX;00;De Noorderborch;7608CL;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7557;Hengelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7602;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;4;0;4;3;4;6;11;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;141;Almelo;7603;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;1;2;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;141;Almelo;7604;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;3;6;5;7;2;9;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;141;Almelo;7605;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7606;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;141;Almelo;7607;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;4;9;11;3;4;8;13;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;141;Almelo;7608;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7609;Almelo;21DZ;00;Basisschool De Wereldboom;7602CH;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7601;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;2;0;1;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7603;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7604;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7605;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;2;2;2;6;0;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;141;Almelo;7606;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;1;10;2;10;18;16;22;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;141;Almelo;7609;Almelo;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;12;9;16;18;17;16;23;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;141;Almelo;7622;Borne;21EI;00;Basisschool De Compaan;7609GP;ALMELO;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7443;Hellendoorn;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7447;Hellendoorn;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7461;Rijssen-Holten;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7468;Wierden;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7471;Hof van Twente;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;4;4;2;4;4;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;141;Almelo;7602;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7603;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;3;2;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;141;Almelo;7604;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;1;0;0;3;2;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;141;Almelo;7605;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;2;0;0;7;4;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;141;Almelo;7606;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;2;4;1;10;4;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;141;Almelo;7607;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;1;0;1;0;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;141;Almelo;7608;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;1;3;2;1;3;4;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;141;Almelo;7609;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;2;4;1;3;6;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;141;Almelo;7621;Borne;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7623;Borne;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7625;Borne;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7627;Almelo;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7637;Dinkelland;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7641;Wierden;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;1;2;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;141;Almelo;7642;Wierden;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7651;Tubbergen;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7663;Tubbergen;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7665;Tubbergen;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7671;Twenterand;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7678;Tubbergen;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7679;Tubbergen;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7773;Hardenberg;21EM;00;SSBO De Toermalijn;7602CH;ALMELO;Overijssel;Sbo;Rooms-Katholiek;42787;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;1;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7602;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;3;2;4;2;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;141;Almelo;7603;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;3;5;3;4;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;141;Almelo;7604;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;4;2;1;3;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;141;Almelo;7606;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;0;3;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7607;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;2;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7608;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;3;6;3;5;2;9;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;141;Almelo;7609;Almelo;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;2;3;1;3;3;4;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;141;Almelo;7614;Tubbergen;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;141;Almelo;7615;Tubbergen;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7671;Twenterand;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7672;Twenterand;21QF;00;Geref Bs De Fakkel;7603VZ;ALMELO;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7601;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;3;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7602;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7603;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7604;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;2;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;141;Almelo;7605;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;141;Almelo;7606;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;4;3;3;1;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;141;Almelo;7608;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;38;41;59;49;63;61;51;46;9;0;0;0;0;0;0;0;0;0;0;0;0;0;417
+20171001;141;Almelo;7627;Almelo;21QG;00;PC Basisschool De Mare;7609VK;ALMELO;Overijssel;Bo;Protestants-Christelijk;41472;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7601;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;2;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;141;Almelo;7602;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7604;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;0;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;141;Almelo;7605;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;1;2;3;3;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;141;Almelo;7606;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;16;18;25;14;17;17;9;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;141;Almelo;7607;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;141;Almelo;7608;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;141;Almelo;7609;Almelo;21QH;00;OBS de Bonkelaar;7609VK;ALMELO;Overijssel;Bo;Openbaar;41522;0;32;18;25;20;26;21;36;23;1;0;0;0;0;0;0;0;0;0;0;0;0;0;202

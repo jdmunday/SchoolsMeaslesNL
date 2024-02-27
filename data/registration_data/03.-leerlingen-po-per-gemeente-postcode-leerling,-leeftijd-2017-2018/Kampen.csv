@@ -1,0 +1,266 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;166;Kampen;8043;Zwolle;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8051;Hattem;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8061;Zwartewaterland;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8091;Oldebroek;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8097;Oldebroek;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8256;Dronten;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;1;0;0;1;1;3;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;166;Kampen;8264;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;2;2;1;4;3;2;5;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;166;Kampen;8266;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;2;1;2;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;166;Kampen;8271;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;1;0;2;3;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;166;Kampen;8274;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8277;Kampen;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8281;Zwartewaterland;02WY;00;SBO Prisma;8264PB;KAMPEN;Overijssel;Sbo;Protestants-Christelijk;86971;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8261;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8262;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;2;4;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;166;Kampen;8264;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8265;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;12;10;11;10;16;14;9;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;166;Kampen;8266;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;2;0;4;1;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;166;Kampen;8267;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8271;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;1;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8278;Kampen;03RE;00;Basisschool De Mirt;8265EA;KAMPEN;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8261;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8267;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8271;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;18;16;20;19;20;22;12;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;166;Kampen;8277;Kampen;04IB;00;OBS Wonderwijs;8271JZ;IJSSELMUIDEN;Overijssel;Bo;Openbaar;41871;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8043;Zwolle;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8044;Zwolle;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8261;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;1;1;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;166;Kampen;8262;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;2;4;2;1;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;166;Kampen;8263;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;2;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;166;Kampen;8264;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;2;1;3;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;166;Kampen;8265;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;7;4;7;7;12;13;10;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;166;Kampen;8266;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;11;12;14;13;10;10;13;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;166;Kampen;8267;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;9;13;10;11;4;8;7;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;166;Kampen;8276;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8278;Kampen;04UB;00;Basissch Gr v Prinsterer;8265KA;KAMPEN;Overijssel;Bo;Reformatorisch;43824;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8267;Kampen;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8271;Kampen;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;22;14;16;14;13;11;16;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;166;Kampen;8275;Kampen;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8277;Kampen;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;6;8;14;10;15;15;10;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;166;Kampen;8281;Zwartewaterland;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8293;Kampen;04UI;00;School met de Bijbel;8277AA;GRAFHORST;Overijssel;Bo;Reformatorisch;44071;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8262;Kampen;04UL;00;Rehoboth-School;8271TC;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;04UL;00;Rehoboth-School;8271TC;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;29;24;22;27;27;23;22;32;1;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;166;Kampen;8277;Kampen;04UL;00;Rehoboth-School;8271TC;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;1;0;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;166;Kampen;  30;ander land;05FA;00;k.b.s. De IJsselster;8271EM;IJSSELMUIDEN;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;05FA;00;k.b.s. De IJsselster;8271EM;IJSSELMUIDEN;Overijssel;Bo;Rooms-Katholiek;40888;0;8;8;4;9;9;9;10;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;166;Kampen;8277;Kampen;05FA;00;k.b.s. De IJsselster;8271EM;IJSSELMUIDEN;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8261;Kampen;05HU;00;Dr Schaepman-School;8265RG;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;05HU;00;Dr Schaepman-School;8265RG;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8265;Kampen;05HU;00;Dr Schaepman-School;8265RG;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;15;15;19;18;14;16;26;15;4;1;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;166;Kampen;8266;Kampen;05HU;00;Dr Schaepman-School;8265RG;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;2;3;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;166;Kampen;8271;Kampen;05HU;00;Dr Schaepman-School;8265RG;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8042;Zwolle;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8043;Zwolle;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8044;Zwolle;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8271;Kampen;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8275;Kampen;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;10;10;5;15;9;8;7;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;166;Kampen;8293;Kampen;05PF;00;Basisschool Pr Juliana;8275AC;'S-HEERENBROEK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;3;0;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;166;Kampen;3036;Rotterdam;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8042;Zwolle;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8042;Zwolle;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8043;Zwolle;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8051;Hattem;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8061;Zwartewaterland;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8061;Zwartewaterland;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8091;Oldebroek;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8091;Oldebroek;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8096;Oldebroek;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8181;Heerde;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8191;Heerde;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8191;Heerde;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8219;Lelystad;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8223;Lelystad;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8225;Lelystad;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8242;Lelystad;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8243;Lelystad;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8252;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8253;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8255;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8256;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8256;Dronten;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8261;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8262;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;2;3;3;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;166;Kampen;8262;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;1;0;0;0;0;0;5
+20171001;166;Kampen;8263;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8264;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8264;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8265;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;3;1;2;1;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;166;Kampen;8265;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;2;1;1;1;5;0;0;0;0;0;0;0;0;11
+20171001;166;Kampen;8266;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;1;1;1;1;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;166;Kampen;8266;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8271;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;2;0;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;166;Kampen;8271;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;3;1;1;1;0;1;0;0;0;0;0;0;0;8
+20171001;166;Kampen;8274;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8275;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8281;Zwartewaterland;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;So;Protestants-Christelijk;86971;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8281;Zwartewaterland;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8293;Kampen;05PZ;00;SO Prisma;8264PB;KAMPEN;Overijssel;Vso;Protestants-Christelijk;86971;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8267;Kampen;05QA;00;Ds Johan v d Wendeschool;8267AH;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;5;4;6;9;4;11;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;166;Kampen;8302;Noordoostpolder;05QA;00;Ds Johan v d Wendeschool;8267AH;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;05QB;00;School Met De Bijbel;8278BC;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;05QB;00;School Met De Bijbel;8278BC;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8278;Kampen;05QB;00;School Met De Bijbel;8278BC;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;3;4;1;7;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;166;Kampen;8271;Kampen;05US;00;Basisschool De Regenboog;8274AR;WILSUM;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8274;Kampen;05US;00;Basisschool De Regenboog;8274AR;WILSUM;Overijssel;Bo;Protestants-Christelijk;41125;0;14;10;12;9;12;9;9;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;166;Kampen;  40;Onbekend;05VD;00;Oranjeschool vBasisond;8276AL;ZALK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8051;Hattem;05VD;00;Oranjeschool vBasisond;8276AL;ZALK;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8276;Kampen;05VD;00;Oranjeschool vBasisond;8276AL;ZALK;Overijssel;Bo;Protestants-Christelijk;41125;0;6;8;12;5;14;6;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;166;Kampen;8261;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8266;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8267;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;42;41;42;30;39;34;28;25;5;0;0;0;0;0;0;0;0;0;0;0;0;0;286
+20171001;166;Kampen;8275;Kampen;06HD;00;CNS De Groenling;8271LB;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;07NQ;00;Ichthusschool;8271EM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;32;28;26;37;26;43;23;28;5;0;0;0;0;0;0;0;0;0;0;0;0;0;248
+20171001;166;Kampen;8274;Kampen;07NQ;00;Ichthusschool;8271EM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8277;Kampen;07NQ;00;Ichthusschool;8271EM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8261;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;9;7;11;8;6;10;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;166;Kampen;8262;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;10;18;16;17;10;8;9;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;166;Kampen;8263;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;2;3;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;166;Kampen;8264;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;1;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8265;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;2;2;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;166;Kampen;8266;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8267;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8271;Kampen;07VA;00;Mgr Zwijsen-School;8261CB;KAMPEN;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8096;Oldebroek;07ZJ;00;Chr Bs Geref Grondslag;8278AP;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;42759;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8097;Oldebroek;07ZJ;00;Chr Bs Geref Grondslag;8278AP;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;42759;0;3;3;1;1;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;166;Kampen;8278;Kampen;07ZJ;00;Chr Bs Geref Grondslag;8278AP;KAMPERVEEN;Overijssel;Bo;Protestants-Christelijk;42759;0;8;2;6;7;7;3;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;166;Kampen;8261;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;1;2;0;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;166;Kampen;8262;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;2;3;0;2;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;166;Kampen;8263;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8264;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;1;2;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8265;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;13;10;15;19;16;22;17;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;166;Kampen;8266;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;2;2;1;3;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;166;Kampen;8278;Kampen;08OZ;00;Basisschool De Fontein;8265DA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;61661;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8226;Lelystad;08WV;00;Eben Haezer;8271BM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;08WV;00;Eben Haezer;8271BM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;2;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8267;Kampen;08WV;00;Eben Haezer;8271BM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8271;Kampen;08WV;00;Eben Haezer;8271BM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;17;24;25;14;17;20;16;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;166;Kampen;8277;Kampen;08WV;00;Eben Haezer;8271BM;IJSSELMUIDEN;Overijssel;Bo;Protestants-Christelijk;44318;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8011;Zwolle;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8091;Oldebroek;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8261;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;5;9;9;8;9;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;166;Kampen;8262;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;3;2;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;166;Kampen;8263;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8264;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8265;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;6;7;8;4;4;11;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;166;Kampen;8266;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;23;18;25;28;20;15;7;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;166;Kampen;8267;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8271;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8278;Kampen;12HZ;00;O.D.S. Engelenberg;8266AC;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;7721;Dalfsen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;7815;Emmen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8261;Kampen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8262;Kampen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;1;2;1;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;166;Kampen;8264;Kampen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;3;0;6;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;166;Kampen;8265;Kampen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;21;16;27;22;28;18;22;20;0;1;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;166;Kampen;8266;Kampen;12QQ;00;Dirk van Dykschool;8265HE;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8251;Dronten;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;166;Kampen;8261;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;3;7;9;9;7;7;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;166;Kampen;8262;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;3;3;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;166;Kampen;8263;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8264;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8265;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;4;5;4;5;6;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;166;Kampen;8266;Kampen;12RW;00;Marnixschool;8266BS;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;12;13;14;13;16;17;12;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;166;Kampen;8261;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;1;2;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;166;Kampen;8262;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;2;1;3;1;1;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;166;Kampen;8264;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8265;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;7;14;15;23;10;10;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;166;Kampen;8266;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;1;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;166;Kampen;8271;Kampen;12XW;00;Het Meerrijk;8265ZD;KAMPEN;Overijssel;Bo;Openbaar;41871;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8262;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;24;19;18;18;9;7;10;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;166;Kampen;8263;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8264;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;7;3;4;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;166;Kampen;8265;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;5;5;3;2;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;166;Kampen;8266;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8271;Kampen;13DR;00;OJS Het Scala;8262SX;KAMPEN;Overijssel;Bo;Openbaar;41871;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;13ER;00;Koningin Emmaschool;8262AN;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;13ER;00;Koningin Emmaschool;8262AN;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;7;9;11;10;16;15;10;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;166;Kampen;8263;Kampen;13ER;00;Koningin Emmaschool;8262AN;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;1;3;7;3;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;166;Kampen;8264;Kampen;13ER;00;Koningin Emmaschool;8262AN;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;6;4;3;0;3;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;166;Kampen;8265;Kampen;13ER;00;Koningin Emmaschool;8262AN;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;2807;Gouda;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8043;Zwolle;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8262;Kampen;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8263;Kampen;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8265;Kampen;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;26;21;26;29;35;31;31;30;4;0;0;0;0;0;0;0;0;0;0;0;0;0;233
+20171001;166;Kampen;8266;Kampen;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8271;Kampen;13KB;00;Willem van Oranjeschool;8265ZD;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8011;Zwolle;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8262;Kampen;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;17;22;34;16;28;20;23;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;166;Kampen;8263;Kampen;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8264;Kampen;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;4;2;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;166;Kampen;8265;Kampen;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;9792;Ten Boer;13KU;00;Dr. H. Boumanschool;8262TZ;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;7722;Dalfsen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8261;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8262;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;3;0;1;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;166;Kampen;8263;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;2;1;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;166;Kampen;8264;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;4;4;3;1;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;166;Kampen;8265;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;38;29;30;31;33;28;30;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;242
+20171001;166;Kampen;8266;Kampen;13PP;00;De Morgenster;8265KA;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8043;Zwolle;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8254;Dronten;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8262;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;4;3;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;166;Kampen;8263;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8264;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;3;3;3;3;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;166;Kampen;8265;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;8;4;4;8;8;6;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;166;Kampen;8266;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8274;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8277;Kampen;13TQ;00;Basisschool de Wegwijzer;8265ED;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;2;1;3;2;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;166;Kampen;8262;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8264;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;4;4;6;5;3;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;166;Kampen;8266;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;13;19;14;16;17;16;16;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;166;Kampen;8278;Kampen;13WZ;00;Rehobothschool;8266BK;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8224;Lelystad;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8225;Lelystad;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8226;Lelystad;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8231;Lelystad;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8243;Lelystad;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8251;Dronten;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8252;Dronten;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8253;Dronten;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8256;Dronten;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;166;Kampen;8262;Kampen;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;2;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8265;Kampen;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;1;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8266;Kampen;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8271;Kampen;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8277;Kampen;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8302;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;166;Kampen;8303;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8304;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8307;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8308;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8309;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;8311;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8314;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;166;Kampen;8315;Noordoostpolder;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8321;Urk;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;1;1;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;166;Kampen;8322;Urk;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;166;Kampen;9001;Leeuwarden;17GW;03;Kentalis Enkschool Kampen;8264PB;KAMPEN;Overijssel;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8261;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;2;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;166;Kampen;8262;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8265;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;5;3;2;1;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;166;Kampen;8266;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;44;61;38;59;50;59;37;38;2;1;0;0;0;0;0;0;0;0;0;0;0;0;389
+20171001;166;Kampen;8271;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;166;Kampen;8278;Kampen;29UM;00;Het Stroomdal;8266KL;KAMPEN;Overijssel;Bo;Protestants-Christelijk;41125;0;0;1;1;0;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12

@@ -1,0 +1,690 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1900;Sudwest-Fryslan;8401;Opsterland;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8471;Weststellingwerf;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8511;De Fryske Marren;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8831;Littenseradiel;00MU;07;De Witakker;8608WK;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8644;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8756;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;00MU;08;De Witakker;8601XC;SNEEK;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8313;Noordoostpolder;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8442;Heerenveen;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8537;De Fryske Marren;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8731;Littenseradiel;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8751;S∑dwest-Frysl‘n;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8801;Franekeradeel;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;00MU;09;De Witakker;8601ZP;SNEEK;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8765;S∑dwest-Frysl‘n;03IB;00;Chr Basissch De Reinboge;8765LM;TJERKWERD;Friesland;Bo;Protestants-Christelijk;42604;0;5;6;4;6;2;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1900;Sudwest-Fryslan;8567;De Fryske Marren;04AW;00;De Barte;8584VW;HEMELUM;Friesland;Bo;Algemeen bijzonder;41385;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8573;De Fryske Marren;04AW;00;De Barte;8584VW;HEMELUM;Friesland;Bo;Algemeen bijzonder;41385;0;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8574;De Fryske Marren;04AW;00;De Barte;8584VW;HEMELUM;Friesland;Bo;Algemeen bijzonder;41385;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8584;S∑dwest-Frysl‘n;04AW;00;De Barte;8584VW;HEMELUM;Friesland;Bo;Algemeen bijzonder;41385;0;8;5;8;6;14;8;8;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;04AW;00;De Barte;8584VW;HEMELUM;Friesland;Bo;Algemeen bijzonder;41385;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;11;3;6;10;2;6;7;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;1;5;2;6;0;5;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1900;Sudwest-Fryslan;8741;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8742;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8743;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8765;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8924;Leeuwarden;04GD;00;Openbare Basisschool;8701LV;BOLSWARD;Friesland;Bo;Openbaar;41856;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8644;S∑dwest-Frysl‘n;04KA;00;Chr Nat Sch De Reinboge;9014CK;TERSOAL;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9013;S∑dwest-Frysl‘n;04KA;00;Chr Nat Sch De Reinboge;9014CK;TERSOAL;Friesland;Bo;Protestants-Christelijk;41419;0;1;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;9014;S∑dwest-Frysl‘n;04KA;00;Chr Nat Sch De Reinboge;9014CK;TERSOAL;Friesland;Bo;Protestants-Christelijk;41419;0;3;5;3;4;2;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1900;Sudwest-Fryslan;8722;S∑dwest-Frysl‘n;04KH;00;Chr Bs It Swannennest;8722HR;MOLKWERUM;Friesland;Bo;Protestants-Christelijk;41385;0;2;3;2;3;7;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8626;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8627;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;2;3;9;1;4;9;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1900;Sudwest-Fryslan;8628;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;1;1;0;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8647;S∑dwest-Frysl‘n;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8734;Littenseradiel;04KN;00;De Twatine;8627SG;GAUW;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8445;Heerenveen;04NI;00;Chr Bs De Oerdracht;8759LJ;EXMORRA;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8755;S∑dwest-Frysl‘n;04NI;00;Chr Bs De Oerdracht;8759LJ;EXMORRA;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8758;S∑dwest-Frysl‘n;04NI;00;Chr Bs De Oerdracht;8759LJ;EXMORRA;Friesland;Bo;Protestants-Christelijk;42604;0;1;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8759;S∑dwest-Frysl‘n;04NI;00;Chr Bs De Oerdracht;8759LJ;EXMORRA;Friesland;Bo;Protestants-Christelijk;42604;0;6;5;4;1;3;8;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;04QJ;00;Chr Basissch De Gearrin;8773KN;FOLSGARE;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8618;S∑dwest-Frysl‘n;04QJ;00;Chr Basissch De Gearrin;8773KN;FOLSGARE;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;04QJ;00;Chr Basissch De Gearrin;8773KN;FOLSGARE;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;04QJ;00;Chr Basissch De Gearrin;8773KN;FOLSGARE;Friesland;Bo;Protestants-Christelijk;42545;0;4;1;4;2;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8753;S∑dwest-Frysl‘n;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;10;11;10;9;15;11;9;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;1900;Sudwest-Fryslan;8755;S∑dwest-Frysl‘n;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8756;S∑dwest-Frysl‘n;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8913;Leeuwarden;05EY;00;R.K. Daltonschool St Martinus;8754BP;MAKKUM FR;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8574;De Fryske Marren;05LU;00;Chr Bs De Hoekstien;8822VP;ARUM;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8821;S∑dwest-Frysl‘n;05LU;00;Chr Bs De Hoekstien;8822VP;ARUM;Friesland;Bo;Protestants-Christelijk;42604;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;05LU;00;Chr Bs De Hoekstien;8822VP;ARUM;Friesland;Bo;Protestants-Christelijk;42604;0;16;6;14;14;15;16;15;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;05LU;00;Chr Bs De Hoekstien;8822VP;ARUM;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8611;S∑dwest-Frysl‘n;05PD;00;Chr Bs It Wraldfinster;8621DR;HEEG;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;05PD;00;Chr Bs It Wraldfinster;8621DR;HEEG;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8615;S∑dwest-Frysl‘n;05PD;00;Chr Bs It Wraldfinster;8621DR;HEEG;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;05PD;00;Chr Bs It Wraldfinster;8621DR;HEEG;Friesland;Bo;Protestants-Christelijk;42545;0;6;14;10;20;17;15;21;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;05PM;00;Basisschool De Skulpe;8713JB;HINDELOOPEN;Friesland;Bo;Protestants-Christelijk;41856;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8713;S∑dwest-Frysl‘n;05PM;00;Basisschool De Skulpe;8713JB;HINDELOOPEN;Friesland;Bo;Protestants-Christelijk;41856;0;12;11;14;10;14;10;18;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;05PM;00;Basisschool De Skulpe;8713JB;HINDELOOPEN;Friesland;Bo;Protestants-Christelijk;41856;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8611;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;3;2;4;5;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1900;Sudwest-Fryslan;8612;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8613;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;10;9;14;9;13;4;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;1900;Sudwest-Fryslan;8616;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8617;S∑dwest-Frysl‘n;05RX;00;Chr Basissch Klaver Trye;8614XD;OUDEGA SUDWEST-FRYSLAN;Friesland;Bo;Protestants-Christelijk;42545;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8255;Dronten;05TM;00;Chr Basissch De Skutslus;8715HW;STAVOREN;Friesland;Bo;Protestants-Christelijk;41385;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8715;S∑dwest-Frysl‘n;05TM;00;Chr Basissch De Skutslus;8715HW;STAVOREN;Friesland;Bo;Protestants-Christelijk;41385;0;8;7;12;11;6;10;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;1900;Sudwest-Fryslan;8757;S∑dwest-Frysl‘n;05XI;00;Basisschool Paadwizer;8763MS;PARREGA;Friesland;Bo;Protestants-Christelijk;42604;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8761;S∑dwest-Frysl‘n;05XI;00;Basisschool Paadwizer;8763MS;PARREGA;Friesland;Bo;Protestants-Christelijk;42604;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8762;S∑dwest-Frysl‘n;05XI;00;Basisschool Paadwizer;8763MS;PARREGA;Friesland;Bo;Protestants-Christelijk;42604;0;2;2;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;05XI;00;Basisschool Paadwizer;8763MS;PARREGA;Friesland;Bo;Protestants-Christelijk;42604;0;7;10;2;4;4;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;1900;Sudwest-Fryslan;8764;S∑dwest-Frysl‘n;05XI;00;Basisschool Paadwizer;8763MS;PARREGA;Friesland;Bo;Protestants-Christelijk;42604;0;0;3;0;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1900;Sudwest-Fryslan;8744;S∑dwest-Frysl‘n;06EX;00;Basisschool De Tryetine;8744EV;SCHETTENS;Friesland;Bo;Protestants-Christelijk;42604;0;0;2;1;3;3;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1900;Sudwest-Fryslan;8745;S∑dwest-Frysl‘n;06EX;00;Basisschool De Tryetine;8744EV;SCHETTENS;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8746;S∑dwest-Frysl‘n;06EX;00;Basisschool De Tryetine;8744EV;SCHETTENS;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8503;De Fryske Marren;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8526;De Fryske Marren;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;1;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;0;2;1;0;1;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8625;S∑dwest-Frysl‘n;06JW;00;Basisschool It Harspit;8625HE;OPPENHUIZEN;Friesland;Bo;Protestants-Christelijk;42545;0;12;3;7;9;9;12;15;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;1900;Sudwest-Fryslan;8529;S∑dwest-Frysl‘n;06PI;00;Meester v d Brugschool;8551NL;WOUDSEND;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;06PI;00;Meester v d Brugschool;8551NL;WOUDSEND;Friesland;Bo;Protestants-Christelijk;42545;0;12;11;8;5;7;14;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;1900;Sudwest-Fryslan;8552;S∑dwest-Frysl‘n;06PI;00;Meester v d Brugschool;8551NL;WOUDSEND;Friesland;Bo;Protestants-Christelijk;42545;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8553;S∑dwest-Frysl‘n;06PI;00;Meester v d Brugschool;8551NL;WOUDSEND;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8554;S∑dwest-Frysl‘n;06PI;00;Meester v d Brugschool;8551NL;WOUDSEND;Friesland;Bo;Protestants-Christelijk;42545;0;0;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;1062;Amsterdam;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;7;11;11;15;12;17;21;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8724;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8757;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8761;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8775;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8823;S∑dwest-Frysl‘n;06QB;00;St Ludgerussch;8711GP;WORKUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8713;S∑dwest-Frysl‘n;06QN;00;De Klimbeam;8723AG;KOUDUM;Friesland;Bo;Protestants-Christelijk;41385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8722;S∑dwest-Frysl‘n;06QN;00;De Klimbeam;8723AG;KOUDUM;Friesland;Bo;Protestants-Christelijk;41385;0;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;06QN;00;De Klimbeam;8723AG;KOUDUM;Friesland;Bo;Protestants-Christelijk;41385;0;16;32;29;24;23;25;27;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;1900;Sudwest-Fryslan;8724;S∑dwest-Frysl‘n;06QN;00;De Klimbeam;8723AG;KOUDUM;Friesland;Bo;Protestants-Christelijk;41385;0;2;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8632;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;15;11;12;11;5;4;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;2;2;1;0;3;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1900;Sudwest-Fryslan;8737;Littenseradiel;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8742;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8743;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8744;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8746;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8757;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8758;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8759;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;1;0;2;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;06UB;00;Basisschool de Opbouw;8701AP;BOLSWARD;Friesland;Bo;Algemeen bijzonder;71463;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;1062;Amsterdam;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;1689;Hoorn;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8442;Heerenveen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8443;Heerenveen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8446;Heerenveen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8448;Heerenveen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8464;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8465;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8491;Heerenveen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;1;2;1;4;4;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1900;Sudwest-Fryslan;8502;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8517;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8521;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8525;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8529;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;1;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8532;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8535;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8536;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8537;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8538;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8539;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8556;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8567;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8572;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8574;De Fryske Marren;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;2;2;1;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;1;3;1;3;8;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;1;2;2;5;6;3;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;1900;Sudwest-Fryslan;8611;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8615;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8625;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8627;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;1;0;2;5;3;5;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;2;2;2;0;5;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1900;Sudwest-Fryslan;8713;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8721;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8722;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8731;Littenseradiel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8734;Littenseradiel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8737;Littenseradiel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8742;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8746;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;1;0;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;2;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1900;Sudwest-Fryslan;8758;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8759;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8762;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8765;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8774;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8823;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8835;Littenseradiel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8861;Harlingen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;3;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8931;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8933;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8935;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8939;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9001;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9005;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9008;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9011;Leeuwarden;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9014;S∑dwest-Frysl‘n;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;9022;Littenseradiel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;9051;Leeuwarderadeel;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9207;Smallingerland;07FF;00;SSBO De Sudwester;8608CX;SNEEK;Friesland;Sbo;Protestants-Christelijk;85321;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8451;Heerenveen;07HP;00;PC Bs De Earste Trimen;8771RT;NIJLAND;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;07HP;00;PC Bs De Earste Trimen;8771RT;NIJLAND;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;07HP;00;PC Bs De Earste Trimen;8771RT;NIJLAND;Friesland;Bo;Protestants-Christelijk;42545;0;11;8;11;8;10;8;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;1900;Sudwest-Fryslan;8802;Franekeradeel;07HP;00;PC Bs De Earste Trimen;8771RT;NIJLAND;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;07HX;00;Basisschool De Bonkelder;8748DW;WITMARSUM;Friesland;Bo;Protestants-Christelijk;42604;0;0;2;0;2;2;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;07HX;00;Basisschool De Bonkelder;8748DW;WITMARSUM;Friesland;Bo;Protestants-Christelijk;42604;0;11;7;9;14;12;10;10;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;1900;Sudwest-Fryslan;8749;S∑dwest-Frysl‘n;07HX;00;Basisschool De Bonkelder;8748DW;WITMARSUM;Friesland;Bo;Protestants-Christelijk;42604;0;1;2;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;07HX;00;Basisschool De Bonkelder;8748DW;WITMARSUM;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;07HX;00;Basisschool De Bonkelder;8748DW;WITMARSUM;Friesland;Bo;Protestants-Christelijk;42604;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8628;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;17;14;11;16;23;12;25;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;128
+20171001;1900;Sudwest-Fryslan;8631;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8642;Littenseradiel;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8644;S∑dwest-Frysl‘n;07IJ;00;Basisschool Op E Hichte;8629RA;SCHARNEGOUTUM;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;  40;Onbekend;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;1336;Almere;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;5;8;5;5;9;6;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;10;9;18;15;13;9;7;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;9;14;13;8;13;14;16;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9022;Littenseradiel;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9079;het Bildt;07VU;00;Thomas Van Aquino-School;8607AT;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;08FI;00;De Utskoat;8748DW;WITMARSUM;Friesland;Bo;Openbaar;41856;0;5;14;10;13;3;9;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;08FI;00;De Utskoat;8748DW;WITMARSUM;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8618;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;18;13;18;14;13;12;14;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;08FX;00;De Kogge;8651CB;IJLST;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;1092;Amsterdam;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8413;Heerenveen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8446;Heerenveen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8458;Heerenveen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8502;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8515;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8532;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8536;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8537;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8556;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8571;De Fryske Marren;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8584;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;1;1;1;3;0;2;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8615;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8627;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8627;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8715;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8721;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8731;Littenseradiel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8731;Littenseradiel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8733;Littenseradiel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8801;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8802;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8804;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8804;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8851;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8855;Franekeradeel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8857;Harlingen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8941;Leeuwarden;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9008;Leeuwarden;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;So;Protestants-Christelijk;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9041;Menameradiel;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9084;Leeuwarden;08ST;00;Piet Bakkerschool;8601XC;SNEEK;Friesland;Vso;Protestants-Christelijk;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;2911;Zuidplas;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;7606;Almelo;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;7;8;7;6;9;13;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;4;5;5;3;2;4;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;13;8;15;12;15;16;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;14;7;12;9;12;6;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;8;6;7;9;9;13;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;7;6;9;4;8;9;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;1;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;2;3;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8635;Littenseradiel;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8642;Littenseradiel;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;09AP;00;St Bonifatius-School;8605AH;SNEEK;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;7331;Apeldoorn;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8529;S∑dwest-Frysl‘n;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8552;S∑dwest-Frysl‘n;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;4;6;9;7;6;8;6;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;09CH;00;Van Haersma Buma School;8622XM;HOMMERTS;Friesland;Bo;Protestants-Christelijk;42545;0;2;1;2;2;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1900;Sudwest-Fryslan;1079;Amsterdam;09FM;00;Basisschool It Leech;8749GV;PINGJUM;Friesland;Bo;Openbaar;41856;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8749;S∑dwest-Frysl‘n;09FM;00;Basisschool It Leech;8749GV;PINGJUM;Friesland;Bo;Openbaar;41856;0;2;6;2;7;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1900;Sudwest-Fryslan;8751;S∑dwest-Frysl‘n;09FM;00;Basisschool It Leech;8749GV;PINGJUM;Friesland;Bo;Openbaar;41856;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8615;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;15;5;8;10;8;5;8;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1900;Sudwest-Fryslan;8616;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8617;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8658;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;5;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8774;S∑dwest-Frysl‘n;09ND;00;Basisschool St Gregorius;8615LV;BLAUWHUIS;Friesland;Bo;Rooms-Katholiek;41000;0;1;3;2;3;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1900;Sudwest-Fryslan;  30;ander land;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;0;2;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8751;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8753;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;10;15;17;14;28;21;16;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;1900;Sudwest-Fryslan;8755;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;2;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8756;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8757;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;0;1;0;2;2;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1900;Sudwest-Fryslan;8758;S∑dwest-Frysl‘n;09NO;00;Basisschool De Ark;8754BT;MAKKUM FR;Friesland;Bo;Protestants-Christelijk;42604;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8617;S∑dwest-Frysl‘n;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8618;S∑dwest-Frysl‘n;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;1;1;1;5;0;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8633;S∑dwest-Frysl‘n;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;15;13;11;18;14;12;22;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;1900;Sudwest-Fryslan;9863;Grootegast;09OA;00;De Twine;8651AC;IJLST;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8751;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8753;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;8;8;8;8;6;4;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;1900;Sudwest-Fryslan;8755;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;10BJ;00;Basisschool De Populier;8754BL;MAKKUM FR;Friesland;Bo;Openbaar;41856;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8611;S∑dwest-Frysl‘n;10HR;00;Basisschool Sint Jozef;8621DR;HEEG;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8614;S∑dwest-Frysl‘n;10HR;00;Basisschool Sint Jozef;8621DR;HEEG;Friesland;Bo;Rooms-Katholiek;41000;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;10HR;00;Basisschool Sint Jozef;8621DR;HEEG;Friesland;Bo;Rooms-Katholiek;41000;0;5;5;7;15;12;13;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;10HR;00;Basisschool Sint Jozef;8621DR;HEEG;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;22;22;13;24;23;18;27;27;0;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;13;11;10;17;13;16;14;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;1900;Sudwest-Fryslan;8742;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;2;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8743;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8744;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8746;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8774;S∑dwest-Frysl‘n;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8911;Leeuwarden;10HZ;00;Chr Bs De Bron;8701LV;BOLSWARD;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;10IC;00;'t Finster;8711DB;WORKUM;Friesland;Bo;Protestants-Christelijk;41385;0;12;12;21;15;20;24;14;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;1900;Sudwest-Fryslan;8724;S∑dwest-Frysl‘n;10IC;00;'t Finster;8711DB;WORKUM;Friesland;Bo;Protestants-Christelijk;41385;0;2;1;2;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1900;Sudwest-Fryslan;8761;S∑dwest-Frysl‘n;10IC;00;'t Finster;8711DB;WORKUM;Friesland;Bo;Protestants-Christelijk;41385;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;10IC;00;'t Finster;8711DB;WORKUM;Friesland;Bo;Protestants-Christelijk;41385;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;5;2;2;4;3;3;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;5;10;5;4;3;5;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;9;7;11;7;6;12;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;5;5;7;2;6;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8627;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;10RE;00;Basisschool Juliana;8603XV;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8516;De Fryske Marren;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8522;De Fryske Marren;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8529;S∑dwest-Frysl‘n;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;4;3;10;9;11;4;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;1900;Sudwest-Fryslan;8553;S∑dwest-Frysl‘n;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8554;S∑dwest-Frysl‘n;10YD;00;Basissch St Bonifatius;8551NL;WOUDSEND;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;12;22;12;15;8;8;22;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;1900;Sudwest-Fryslan;8724;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8757;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8761;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8775;S∑dwest-Frysl‘n;11HJ;00;OBS De Pipegaal;8711GC;WORKUM;Friesland;Bo;Openbaar;41856;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8573;De Fryske Marren;11TD;00;De Meiboom;8721GT;WARNS;Friesland;Bo;Openbaar;41856;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8584;S∑dwest-Frysl‘n;11TD;00;De Meiboom;8721GT;WARNS;Friesland;Bo;Openbaar;41856;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8715;S∑dwest-Frysl‘n;11TD;00;De Meiboom;8721GT;WARNS;Friesland;Bo;Openbaar;41856;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8721;S∑dwest-Frysl‘n;11TD;00;De Meiboom;8721GT;WARNS;Friesland;Bo;Openbaar;41856;0;13;6;5;10;4;12;16;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;1900;Sudwest-Fryslan;8722;S∑dwest-Frysl‘n;11TD;00;De Meiboom;8721GT;WARNS;Friesland;Bo;Openbaar;41856;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;11;13;5;16;13;15;13;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;12TL;00;Basissch Johannes Post;8602BK;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;2;2;3;3;5;2;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;23;28;29;30;33;25;38;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;235
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8644;S∑dwest-Frysl‘n;12ZX;00;Basissch Simon Havinga;8604AS;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;  40;Onbekend;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8442;Heerenveen;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;18;22;9;18;13;10;16;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;2;1;7;3;0;2;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;1;1;1;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;7;3;5;7;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;2;1;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8625;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8633;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8635;Littenseradiel;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8637;Littenseradiel;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8647;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9011;Leeuwarden;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;9012;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9013;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9014;S∑dwest-Frysl‘n;13BQ;00;Master;8602BK;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;1;2;2;2;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;11;16;13;15;13;11;14;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;23;16;31;16;23;25;20;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8636;Littenseradiel;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8644;S∑dwest-Frysl‘n;13HE;00;Zwetteschool;8603BP;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;26;30;25;26;31;27;37;42;2;0;0;0;0;0;0;0;0;0;0;0;0;0;246
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;17;22;26;15;14;11;7;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8632;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8896;Terschelling;13KW;00;Chr BS De Vuurvlinder;8607GM;SNEEK;Friesland;Bo;Protestants-Christelijk;42545;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8401;Opsterland;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;2;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;13;14;20;15;20;10;18;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;1;1;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8624;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8625;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8626;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8631;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;13MI;00;Obs de Oudvaart;8604ZC;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;  30;ander land;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;2253;Voorschoten;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;1;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;33;19;33;40;32;19;23;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;220
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;14;24;19;19;19;17;12;18;6;2;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8622;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;1;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8623;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8625;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8845;Littenseradiel;14BW;00;OBS De Wyken;8607GM;SNEEK;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8529;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;5;0;4;1;3;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;1;0;2;2;3;1;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8632;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8633;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;10;5;3;5;9;8;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8773;S∑dwest-Frysl‘n;14EZ;00;Epemaskoalle;8633KH;YSBRECHTUM;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8647;S∑dwest-Frysl‘n;14IQ;00;De Lege Geaen;8647SM;SIBRANDABUORREN;Friesland;Bo;Openbaar;42546;0;1;4;4;3;3;2;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1900;Sudwest-Fryslan;9014;S∑dwest-Frysl‘n;14IQ;00;De Lege Geaen;8647SM;SIBRANDABUORREN;Friesland;Bo;Openbaar;42546;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;15VO;00;OBS 't Raerderhiem;9012CN;RAERD;Friesland;Bo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8735;Littenseradiel;15VO;00;OBS 't Raerderhiem;9012CN;RAERD;Friesland;Bo;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9012;S∑dwest-Frysl‘n;15VO;00;OBS 't Raerderhiem;9012CN;RAERD;Friesland;Bo;Openbaar;42546;0;8;11;8;3;6;9;12;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;1900;Sudwest-Fryslan;9013;S∑dwest-Frysl‘n;15VO;00;OBS 't Raerderhiem;9012CN;RAERD;Friesland;Bo;Openbaar;42546;0;2;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;9014;S∑dwest-Frysl‘n;15VO;00;OBS 't Raerderhiem;9012CN;RAERD;Friesland;Bo;Openbaar;42546;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;1111;Diemen;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;40;38;47;45;44;42;42;33;2;1;0;0;0;0;0;0;0;0;0;0;0;0;334
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;9;9;11;8;15;10;13;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;1900;Sudwest-Fryslan;8737;Littenseradiel;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8742;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8743;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8744;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8759;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8762;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8765;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8771;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;1;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1900;Sudwest-Fryslan;8774;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8821;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8823;S∑dwest-Frysl‘n;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8831;Littenseradiel;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8845;Littenseradiel;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8933;Leeuwarden;16UZ;00;Sint Maarten Basissch;8701EW;BOLSWARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8502;De Fryske Marren;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8851;Franekeradeel;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;17GW;35;Kentalis De Skelp Sneek;8608CX;SNEEK;Friesland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8491;Heerenveen;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;2;4;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1900;Sudwest-Fryslan;8532;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8536;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8567;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8574;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8581;De Fryske Marren;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8636;Littenseradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1900;Sudwest-Fryslan;8713;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8715;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8721;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8731;Littenseradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8734;Littenseradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8743;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8747;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8748;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8751;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8759;S∑dwest-Frysl‘n;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8835;Littenseradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9021;Littenseradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9251;Tytsjerksteradiel;19RC;00;De Wetterwille;8601ZP;SNEEK;Friesland;Sbo;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8471;Weststellingwerf;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8501;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8517;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8521;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8523;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8531;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8532;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8542;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8551;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8561;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8563;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8567;De Fryske Marren;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8601;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8602;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8603;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8604;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8605;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8606;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8607;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;0;5
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1900;Sudwest-Fryslan;8608;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8611;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8617;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8621;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8629;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8636;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8651;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8701;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;7
+20171001;1900;Sudwest-Fryslan;8702;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8711;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8721;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8723;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8734;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8734;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8736;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8737;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8749;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8754;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1900;Sudwest-Fryslan;8758;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8763;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8801;Franekeradeel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8802;Franekeradeel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8802;Franekeradeel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8821;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8822;S∑dwest-Frysl‘n;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8831;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8857;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8861;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8861;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8862;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1900;Sudwest-Fryslan;8872;Harlingen;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8899;Vlieland;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8915;Leeuwarden;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;8941;Leeuwarden;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9001;Leeuwarden;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9011;Leeuwarden;26MC;00;Sinne;8601ZP;SNEEK;Friesland;So;Openbaar;42546;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9021;Littenseradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9035;Menameradiel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1900;Sudwest-Fryslan;9051;Leeuwarderadeel;26MC;00;Sinne;8601ZP;SNEEK;Friesland;Vso;Openbaar;42546;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1

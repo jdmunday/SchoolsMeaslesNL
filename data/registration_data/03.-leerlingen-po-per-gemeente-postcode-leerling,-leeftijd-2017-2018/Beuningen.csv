@@ -1,0 +1,72 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;209;Beuningen;6533;Nijmegen;03VT;00;Basisschool De Ruijter;6551CH;WEURT;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6542;Nijmegen;03VT;00;Basisschool De Ruijter;6551CH;WEURT;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6544;Nijmegen;03VT;00;Basisschool De Ruijter;6551CH;WEURT;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6551;Beuningen;03VT;00;Basisschool De Ruijter;6551CH;WEURT;Gelderland;Bo;Rooms-Katholiek;43487;0;24;20;14;25;15;18;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;209;Beuningen;6641;Beuningen;06OK;00;Basisschool De Wegwijzer;6645BR;WINSSEN;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;209;Beuningen;6642;Beuningen;06OK;00;Basisschool De Wegwijzer;6645BR;WINSSEN;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6644;Beuningen;06OK;00;Basisschool De Wegwijzer;6645BR;WINSSEN;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;2;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;209;Beuningen;6645;Beuningen;06OK;00;Basisschool De Wegwijzer;6645BR;WINSSEN;Gelderland;Bo;Rooms-Katholiek;43487;0;9;15;16;14;10;18;13;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;209;Beuningen;6653;Druten;06OK;00;Basisschool De Wegwijzer;6645BR;WINSSEN;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6512;Nijmegen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6538;Nijmegen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6641;Beuningen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;1;1;1;1;4;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;209;Beuningen;6642;Beuningen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;209;Beuningen;6644;Beuningen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;39;24;40;27;21;22;18;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;209;Beuningen;6645;Beuningen;06ZC;00;Basissch De Reuzepas;6644EA;EWIJK;Gelderland;Bo;Rooms-Katholiek;43487;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;209;Beuningen;6511;Nijmegen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6541;Nijmegen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6546;Nijmegen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6551;Beuningen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;209;Beuningen;6641;Beuningen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;16;18;22;25;18;31;18;30;8;0;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;209;Beuningen;6642;Beuningen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6644;Beuningen;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6861;Renkum;09LR;00;Basisschool De Vuurvlinder;6641LT;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;2571;'s-Gravenhage;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6545;Nijmegen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6546;Nijmegen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6551;Beuningen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6601;Wijchen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6604;Wijchen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6641;Beuningen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;35;37;33;38;35;35;31;38;4;0;0;0;0;0;0;0;0;0;0;0;0;0;286
+20171001;209;Beuningen;6642;Beuningen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;0;7;3;8;4;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;209;Beuningen;6644;Beuningen;10XO;00;Basisschool de Hoeven;6641WR;BEUNINGEN GLD;Gelderland;Bo;Rooms-Katholiek;43487;0;1;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;209;Beuningen;6542;Nijmegen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;209;Beuningen;6546;Nijmegen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6551;Beuningen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;1;1;2;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;209;Beuningen;6581;Heumen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6634;Wijchen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6641;Beuningen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;24;22;14;13;25;14;21;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;209;Beuningen;6642;Beuningen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;1;1;3;2;2;8;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;209;Beuningen;6644;Beuningen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;4;5;4;1;6;3;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;209;Beuningen;6645;Beuningen;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;209;Beuningen;6651;Druten;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6932;Westervoort;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6957;Rheden;16EA;00;Montessorisch Beuningen;6641LT;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;40144;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;  30;ander land;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;1161;Haarlemmermeer;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6533;Nijmegen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6546;Nijmegen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6551;Beuningen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;209;Beuningen;6641;Beuningen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;14;13;11;12;14;15;13;24;5;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;209;Beuningen;6642;Beuningen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;15;18;16;18;18;11;12;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;209;Beuningen;6644;Beuningen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;3;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;209;Beuningen;6645;Beuningen;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6852;Lingewaard;21NO;00;OBS De Peppel;6642AB;BEUNINGEN GLD;Gelderland;Bo;Openbaar;43487;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6551;Beuningen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;0;1;0;2;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;209;Beuningen;6601;Wijchen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6641;Beuningen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;4;3;2;2;5;8;6;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;209;Beuningen;6642;Beuningen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;1;1;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;209;Beuningen;6644;Beuningen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;1;1;0;1;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;209;Beuningen;6645;Beuningen;23XT;00;SSBO Klavervier;6641ST;BEUNINGEN GLD;Gelderland;Sbo;Openbaar;43487;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6511;Nijmegen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6545;Nijmegen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;1;1;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;209;Beuningen;6546;Nijmegen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6551;Beuningen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;209;Beuningen;6601;Wijchen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6603;Wijchen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;209;Beuningen;6604;Wijchen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;209;Beuningen;6641;Beuningen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;9;7;10;11;9;11;14;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;209;Beuningen;6642;Beuningen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;21;22;31;32;28;34;32;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;222
+20171001;209;Beuningen;6644;Beuningen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;3;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;209;Beuningen;6645;Beuningen;24DR;00;OBD De Dromedaris;6642CM;BEUNINGEN GLD;Gelderland;Bo;Algemeen bijzonder;43487;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

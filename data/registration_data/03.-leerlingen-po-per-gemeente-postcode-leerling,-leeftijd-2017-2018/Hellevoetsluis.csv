@@ -1,0 +1,124 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3232;Brielle;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3251;Goeree-Overflakkee;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3253;Goeree-Overflakkee;01AI;02;Mw Dr CP Gelinksch;3224HE;HELLEVOETSLUIS;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;2526;'s-Gravenhage;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3077;Rotterdam;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3136;Vlaardingen;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3181;Rotterdam;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;13;9;10;16;12;9;10;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;11;7;10;7;11;6;11;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;34;35;44;45;61;49;54;42;5;0;0;0;0;0;0;0;0;0;0;0;0;0;369
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;3;3;2;1;3;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;2;2;3;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;530;Hellevoetsluis;3227;Nissewaard;09XC;00;Hendrik Boogaardschool;3223EV;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;  40;Onbekend;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;2903;Capelle aan den IJssel;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3214;Nissewaard;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;0;1;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;18;12;10;14;11;11;12;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;1;3;0;2;2;8;7;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;530;Hellevoetsluis;3227;Nissewaard;10PO;00;De Sterrenwacht;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Rooms-Katholiek;41240;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;  30;ander land;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;1521;Zaanstad;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3181;Rotterdam;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3202;Nissewaard;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;1;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;7;10;6;10;8;3;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;41;26;31;24;28;15;27;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;530;Hellevoetsluis;3227;Nissewaard;12YU;00;Basisschool de Regenboog;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;3024;Rotterdam;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3028;Rotterdam;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;15;19;15;22;13;14;22;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;5;3;0;1;6;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;530;Hellevoetsluis;3227;Nissewaard;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;4332;Middelburg;13ES;00;De Bron;3224TT;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;  30;ander land;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3194;Rotterdam;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;3;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;2;3;5;9;7;7;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;2;2;5;2;4;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3237;Brielle;13ES;01;Basisschool de Brug;3223XE;HELLEVOETSLUIS;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3181;Rotterdam;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;1;1;0;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;530;Hellevoetsluis;3214;Nissewaard;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3216;Nissewaard;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3218;Nissewaard;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;1;1;0;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;1;1;1;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;1;1;4;5;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;3;1;1;1;8;2;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;3;6;2;2;9;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;530;Hellevoetsluis;3227;Nissewaard;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3231;Brielle;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3232;Brielle;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;2;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;530;Hellevoetsluis;3233;Westvoorne;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;3235;Westvoorne;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3237;Brielle;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3238;Brielle;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3251;Goeree-Overflakkee;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;9761;Tynaarlo;13MH;00;SSBO De Windroos;3221VJ;HELLEVOETSLUIS;Zuid-Holland;Sbo;Openbaar;41570;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;  20;Duitsland;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;7;5;8;8;5;8;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;15;25;18;18;14;19;14;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;5;5;6;6;1;8;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;3;5;4;4;6;4;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;4;6;4;7;6;11;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;530;Hellevoetsluis;3232;Brielle;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3233;Westvoorne;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3235;Westvoorne;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;3237;Brielle;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3253;Goeree-Overflakkee;14EW;00;Obs de Wateringe;3222XA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3201;Nissewaard;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3206;Nissewaard;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;2;2;2;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;4;6;3;2;0;4;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;48;44;33;40;52;28;45;34;2;0;0;0;0;0;0;0;0;0;0;0;0;0;326
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;1;2;5;1;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;4;1;1;5;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;530;Hellevoetsluis;3234;Westvoorne;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3235;Westvoorne;14MS;00;Obs 't Palet;3223HR;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;14YM;00;Obs 't Schrijverke;3221VP;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;11;12;12;11;13;18;13;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;14YM;00;Obs 't Schrijverke;3221VP;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;3;7;1;7;4;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;14YM;00;Obs 't Schrijverke;3221VP;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;14YM;00;Obs 't Schrijverke;3221VP;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;3;3;1;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;14YM;00;Obs 't Schrijverke;3221VP;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;1;1;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;530;Hellevoetsluis;3144;Maassluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3181;Rotterdam;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3193;Rotterdam;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3209;Nissewaard;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;2;1;5;1;3;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;2;2;3;1;6;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;25;41;36;30;34;32;41;32;3;0;0;0;0;0;0;0;0;0;0;0;0;0;274
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;5;4;5;0;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;4;1;3;4;6;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;530;Hellevoetsluis;3253;Goeree-Overflakkee;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;4413;Reimerswaal;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;6003;Weert;15IF;00;Obs de Kring;3223GE;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;530;Hellevoetsluis;3223;Hellevoetsluis;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;24;19;26;22;32;30;41;30;5;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;4;3;6;5;7;6;7;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;530;Hellevoetsluis;3227;Nissewaard;15QA;00;Obs de Brandaris;3224GA;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;530;Hellevoetsluis;2907;Capelle aan den IJssel;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3086;Rotterdam;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;3204;Nissewaard;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3221;Hellevoetsluis;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3222;Hellevoetsluis;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;530;Hellevoetsluis;3224;Hellevoetsluis;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;6;4;4;8;12;2;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;530;Hellevoetsluis;3225;Hellevoetsluis;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;36;35;41;29;33;41;37;36;2;0;0;0;0;0;0;0;0;0;0;0;0;0;290
+20171001;530;Hellevoetsluis;3227;Nissewaard;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;530;Hellevoetsluis;3232;Brielle;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;530;Hellevoetsluis;4301;Schouwen-Duiveland;15SK;00;Obs de Houthoeffe;3225AC;HELLEVOETSLUIS;Zuid-Holland;Bo;Openbaar;41570;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

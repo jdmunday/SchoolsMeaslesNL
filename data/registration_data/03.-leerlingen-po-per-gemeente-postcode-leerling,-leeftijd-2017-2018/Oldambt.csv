@@ -1,0 +1,295 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1895;Oldambt;9943;Oldambt;00BB;00;Obs Letterwies;9944AR;NIEUWOLDA;Groningen;Bo;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9944;Oldambt;00BB;00;Obs Letterwies;9944AR;NIEUWOLDA;Groningen;Bo;Openbaar;41613;0;11;6;8;7;10;9;11;16;6;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;1895;Oldambt;9945;Delfzijl;00BB;00;Obs Letterwies;9944AR;NIEUWOLDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9946;Delfzijl;00BB;00;Obs Letterwies;9944AR;NIEUWOLDA;Groningen;Bo;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9641;Veendam;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9642;Veendam;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;1;2;0;2;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1895;Oldambt;9645;Veendam;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;1;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9646;Veendam;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9648;Veendam;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9651;Menterwolde;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9671;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;1;2;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1895;Oldambt;9673;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;3;1;4;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1895;Oldambt;9674;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9675;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9678;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9679;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9682;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9686;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9693;Oldambt;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9695;Bellingwedde;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9697;Bellingwedde;00CS;00;De Leilinde;9671JA;WINSCHOTEN;Groningen;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9501;Stadskanaal;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9502;Stadskanaal;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9561;Vlagtwedde;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9584;Stadskanaal;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9635;Menterwolde;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9636;Menterwolde;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9641;Veendam;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9642;Veendam;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9648;Veendam;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9663;Pekela;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9665;Pekela;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9672;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9674;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9675;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9677;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9679;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9681;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9686;Oldambt;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9699;Bellingwedde;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9931;Delfzijl;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9948;Delfzijl;02YR;06;Prof W J Bladergroenschool;9675HL;WINSCHOTEN;Groningen;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;  20;Duitsland;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;  30;ander land;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;  40;Onbekend;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;1032;Amsterdam;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;1191;Ouder-Amstel;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;7874;Borger-Odoorn;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9688;Oldambt;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9693;Oldambt;03DW;00;Obs Houwingaham;9693BG;BAD NIEUWESCHANS;Groningen;Bo;Openbaar;41613;0;8;6;11;10;14;7;11;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;1895;Oldambt;  20;Duitsland;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9501;Stadskanaal;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9665;Pekela;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9671;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;5;4;3;4;4;4;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1895;Oldambt;9672;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9673;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;1;0;2;1;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1895;Oldambt;9674;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;6;2;2;3;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1895;Oldambt;9675;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;2;3;6;4;2;8;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1895;Oldambt;9677;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9678;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9685;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;1;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9686;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;1;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9696;Bellingwedde;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9697;Bellingwedde;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9699;Bellingwedde;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9944;Oldambt;05KB;00;RK Basisschool St Vitus;9671KA;WINSCHOTEN;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9651;Menterwolde;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9663;Pekela;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9665;Pekela;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9672;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9674;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9675;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9677;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;3;1;5;4;6;6;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1895;Oldambt;9679;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9681;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9682;Oldambt;05PH;00;Chr Basissch Mons Sinai;9677PA;HEILIGERLEE;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9678;Oldambt;05SY;00;Chr Basissch Annewieke;9679JE;SCHEEMDA;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;05SY;00;Chr Basissch Annewieke;9679JE;SCHEEMDA;Groningen;Bo;Protestants-Christelijk;41845;0;12;10;12;9;4;7;9;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;1895;Oldambt;9681;Oldambt;05SY;00;Chr Basissch Annewieke;9679JE;SCHEEMDA;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9943;Oldambt;05SY;00;Chr Basissch Annewieke;9679JE;SCHEEMDA;Groningen;Bo;Protestants-Christelijk;41845;0;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1895;Oldambt;9944;Oldambt;05SY;00;Chr Basissch Annewieke;9679JE;SCHEEMDA;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9665;Pekela;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9671;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;8;4;9;5;7;9;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1895;Oldambt;9672;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9673;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;5;5;11;5;9;5;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1895;Oldambt;9674;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;3;4;4;2;3;8;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1895;Oldambt;9675;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;2;1;6;4;6;2;3;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1895;Oldambt;9677;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9678;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;1;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1895;Oldambt;9684;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9685;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9686;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9693;Oldambt;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9698;Bellingwedde;05UT;00;Maranathaschool;9671GC;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9674;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9675;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9681;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;15;13;17;9;8;12;11;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;1895;Oldambt;9682;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;3;4;2;2;5;2;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1895;Oldambt;9684;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9685;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9686;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9944;Oldambt;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9946;Delfzijl;06DG;00;Obs De Noordkaap;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;  20;Duitsland;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;  30;ander land;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;0;2;2;0;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1895;Oldambt;9686;Oldambt;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;0;1;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9687;Oldambt;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;1;1;0;1;2;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1895;Oldambt;9688;Oldambt;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;3;3;0;5;5;4;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1895;Oldambt;9693;Oldambt;08DD;00;Obs Drieborg;9688RN;DRIEBORG;Groningen;Bo;Openbaar;41613;0;0;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9675;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9681;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;5;4;6;9;2;6;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;1895;Oldambt;9682;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;7;7;11;8;9;11;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;1895;Oldambt;9684;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9685;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9686;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9695;Bellingwedde;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9944;Oldambt;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9946;Delfzijl;09CS;00;Basisschool De Lichtboei;9682PB;OOSTWOLD GEM OLDAMBT;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1895;Oldambt;9672;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9674;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;3;2;1;2;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1895;Oldambt;9675;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;22;18;12;15;18;16;25;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;1895;Oldambt;9677;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9679;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9681;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9682;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9685;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9686;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9943;Oldambt;09DB;00;De Vossenburcht;9675JA;WINSCHOTEN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;  20;Duitsland;09DO;00;Obs de Uilenburcht;9686NG;BEERTA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9674;Oldambt;09DO;00;Obs de Uilenburcht;9686NG;BEERTA;Groningen;Bo;Openbaar;41613;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9684;Oldambt;09DO;00;Obs de Uilenburcht;9686NG;BEERTA;Groningen;Bo;Openbaar;41613;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9686;Oldambt;09DO;00;Obs de Uilenburcht;9686NG;BEERTA;Groningen;Bo;Openbaar;41613;0;17;10;21;9;16;7;11;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;1895;Oldambt;9687;Oldambt;09DO;00;Obs de Uilenburcht;9686NG;BEERTA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9674;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;0;2;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9675;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;2;0;1;1;1;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1895;Oldambt;9677;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;3;8;6;2;2;4;5;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;1895;Oldambt;9678;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9679;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9686;Oldambt;09EU;00;Obs Heiligerlee;9677PV;HEILIGERLEE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;1271;Huizen;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;8433;Ooststellingwerf;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9545;Vlagtwedde;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9674;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9678;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;15;17;18;20;12;19;17;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;1895;Oldambt;9681;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9685;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9943;Oldambt;10SZ;00;Obs Jaarfke;9679CL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9611;Hoogezand-Sappemeer;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9635;Menterwolde;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9665;Pekela;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9678;Oldambt;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9679;Oldambt;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;9;10;16;11;8;7;19;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;1895;Oldambt;9681;Oldambt;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9682;Oldambt;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9944;Oldambt;11HF;00;Obs Eexterbasisschool;9679EL;SCHEEMDA;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9672;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9674;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9675;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;14;18;21;21;18;27;18;17;8;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;1895;Oldambt;9677;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9678;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9682;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9685;Oldambt;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9695;Bellingwedde;12EJ;00;Obs de Kleine Dollard;9675JA;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;  30;ander land;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9671;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;3;4;3;5;3;5;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;1895;Oldambt;9673;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;2;1;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1895;Oldambt;9674;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;14;15;17;21;19;18;16;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;1895;Oldambt;9675;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;1;3;5;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1895;Oldambt;9677;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9679;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9685;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9693;Oldambt;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9695;Bellingwedde;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9697;Bellingwedde;12VN;00;OBS Beukenlaan;9674CC;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;2923;Krimpen aan den IJssel;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9648;Veendam;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;2;1;2;2;6;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1895;Oldambt;9673;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9674;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;3;0;0;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1895;Oldambt;9675;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;17;19;18;22;24;26;13;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;1895;Oldambt;9677;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9685;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;2;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9686;Oldambt;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9695;Bellingwedde;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9697;Bellingwedde;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9715;Groningen;13BM;00;Obs de Tweemaster;9675AZ;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;2;5;0;0;4;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1895;Oldambt;9672;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9673;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;29;12;16;20;9;20;17;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;1895;Oldambt;9674;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;1;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1895;Oldambt;9675;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9679;Oldambt;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9697;Bellingwedde;13HB;00;OBS de Waterlelie;9673BL;WINSCHOTEN;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9503;Stadskanaal;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9644;Veendam;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9665;Pekela;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9671;Oldambt;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9678;Oldambt;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;7;11;13;12;17;14;19;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;1895;Oldambt;9679;Oldambt;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9685;Oldambt;15DU;00;CBS Het Baken;9678RW;WESTERLEE GN;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9682;Oldambt;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9684;Oldambt;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;12;11;7;12;18;20;16;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;1895;Oldambt;9685;Oldambt;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9686;Oldambt;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;2;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9698;Bellingwedde;18HQ;00;Obs de Bouwsteen;9684AM;FINSTERWOLDE;Groningen;Bo;Openbaar;41613;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9541;Vlagtwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9566;Bellingwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9661;Stadskanaal;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9663;Pekela;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9665;Pekela;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;1;2;1;0;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1895;Oldambt;9671;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9673;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;1;1;2;2;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1895;Oldambt;9674;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9675;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;2;1;2;3;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1895;Oldambt;9677;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;1;0;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1895;Oldambt;9681;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;2;1;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1895;Oldambt;9682;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9686;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;1;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1895;Oldambt;9688;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9693;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9695;Bellingwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9697;Bellingwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9698;Bellingwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9699;Bellingwedde;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9943;Oldambt;19SW;00;SBO Delta;9675HL;WINSCHOTEN;Groningen;Sbo;Openbaar;41613;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9461;Aa en Hunze;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9541;Vlagtwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9602;Hoogezand-Sappemeer;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9636;Menterwolde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9636;Menterwolde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9641;Veendam;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9642;Veendam;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9645;Veendam;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9646;Veendam;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9649;Menterwolde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9665;Pekela;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;2;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1895;Oldambt;9665;Pekela;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;1;4;3;3;0;1;0;0;0;0;0;0;0;12
+20171001;1895;Oldambt;9671;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9672;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9673;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9674;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9674;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9675;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1895;Oldambt;9675;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;6;1;1;1;1;0;0;0;0;0;0;0;0;10
+20171001;1895;Oldambt;9677;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9677;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9678;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9678;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9679;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9679;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9681;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9681;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;1895;Oldambt;9682;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9682;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9684;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9686;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9686;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9688;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9693;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9693;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9695;Bellingwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9697;Bellingwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9697;Bellingwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1895;Oldambt;9698;Bellingwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9699;Bellingwedde;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9907;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9931;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9931;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9933;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9934;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9937;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9937;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1895;Oldambt;9944;Oldambt;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;Vso;Openbaar;41613;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1895;Oldambt;9945;Delfzijl;19TZ;00;Meentsch Openb Sch v SO;9675HL;WINSCHOTEN;Groningen;So;Openbaar;41613;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

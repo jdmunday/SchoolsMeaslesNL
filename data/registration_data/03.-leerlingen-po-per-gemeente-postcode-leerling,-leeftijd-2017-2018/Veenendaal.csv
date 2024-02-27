@@ -1,0 +1,305 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;345;Veenendaal;3901;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;5;4;3;5;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;345;Veenendaal;3902;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;5;3;6;5;4;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;345;Veenendaal;3903;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;4;0;0;1;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;345;Veenendaal;3904;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;2;0;1;1;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;345;Veenendaal;3905;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;2;3;1;2;5;6;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;345;Veenendaal;3906;Veenendaal;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;3;3;2;2;4;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6718;Ede;03ZD;00;GBS De Plantage;3901SM;VEENENDAAL;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3721;De Bilt;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3771;Barneveld;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3781;Barneveld;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;1;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3902;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;1;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3903;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3904;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;1;2;2;2;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;345;Veenendaal;3905;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;1;1;2;1;2;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;345;Veenendaal;3906;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3907;Veenendaal;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;1;1;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;3911;Rhenen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3921;Rhenen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3925;Scherpenzeel;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3927;Renswoude;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3931;Woudenberg;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3956;Utrechtse Heuvelrug;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3958;Utrechtse Heuvelrug;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;4691;Tholen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6706;Wageningen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6707;Wageningen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6708;Wageningen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6709;Wageningen;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6711;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6715;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6717;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6718;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;6721;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6744;Ede;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6861;Renkum;04AK;02;C. P. van Leersumschool;3902DG;VEENENDAAL;Utrecht;So;Protestants-Christelijk;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;4;5;5;6;3;3;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;345;Veenendaal;3902;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;5;5;3;11;13;9;6;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;345;Veenendaal;3903;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;4;2;3;2;7;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;345;Veenendaal;3904;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;3;5;1;5;3;7;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;345;Veenendaal;3905;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;8;7;13;8;8;11;8;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;345;Veenendaal;3906;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;3;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;3907;Veenendaal;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3921;Rhenen;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3927;Renswoude;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;1;1;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3958;Utrechtse Heuvelrug;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;3;1;3;4;3;4;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;345;Veenendaal;6718;Ede;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;1;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;6721;Ede;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;0;1;0;2;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;6741;Ede;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6744;Ede;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;1;2;1;2;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;345;Veenendaal;6745;Ede;06KM;00;Dr C Steenblok School;3901SM;VEENENDAAL;Utrecht;Bo;Reformatorisch;42980;0;0;0;1;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3901;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;5;3;5;5;3;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;345;Veenendaal;3902;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;4;3;10;6;8;10;16;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;345;Veenendaal;3903;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3904;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;4;4;6;7;11;6;12;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;345;Veenendaal;3905;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;10;15;15;13;19;17;12;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;345;Veenendaal;3906;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;5;12;6;12;11;14;11;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;345;Veenendaal;3907;Veenendaal;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3911;Rhenen;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3927;Renswoude;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6744;Ede;06MA;00;De Vuurvlinder;3905RS;VEENENDAAL;Utrecht;Bo;Rooms-Katholiek;31237;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;  30;ander land;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3901;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;4;5;4;5;6;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;345;Veenendaal;3902;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3903;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;13;19;14;11;20;15;12;15;3;1;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;345;Veenendaal;3904;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;21;17;16;22;19;18;14;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;345;Veenendaal;3905;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;2;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3906;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3907;Veenendaal;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;2;1;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;3911;Rhenen;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;1;2;0;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;345;Veenendaal;3921;Rhenen;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6921;Duiven;07RS;00;Basisschool De Ceder;3904LA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3121;Schiedam;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;9;4;7;4;8;8;7;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;345;Veenendaal;3902;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;8;7;18;11;11;14;7;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;345;Veenendaal;3903;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;5;7;5;6;8;3;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;345;Veenendaal;3904;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;9;14;16;12;14;9;15;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;345;Veenendaal;3905;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;14;11;17;13;14;15;18;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;345;Veenendaal;3906;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;1;3;5;5;5;5;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;345;Veenendaal;3907;Veenendaal;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;6;5;4;4;1;7;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;345;Veenendaal;3911;Rhenen;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;0;1;0;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3921;Rhenen;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;0;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3927;Renswoude;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;2;2;3;2;2;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;345;Veenendaal;3956;Utrechtse Heuvelrug;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;4141;Leerdam;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6721;Ede;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6745;Ede;08BF;00;Joh Calvynschool;3905AS;VEENENDAAL;Utrecht;Bo;Reformatorisch;92067;0;1;2;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3901;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;3902;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3903;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;25;18;24;29;36;32;41;28;4;0;0;0;0;0;0;0;0;0;0;0;0;0;237
+20171001;345;Veenendaal;3904;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;3;4;7;6;6;11;6;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;345;Veenendaal;3905;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3907;Veenendaal;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3911;Rhenen;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;4;8;2;2;9;5;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;345;Veenendaal;3953;Utrechtse Heuvelrug;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6536;Nijmegen;08YM;00;Basisschool De Burcht;3903WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;09WB;00;Juliana v Stolbergschool;3901ER;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;2;3;7;4;3;6;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;345;Veenendaal;3902;Veenendaal;09WB;00;Juliana v Stolbergschool;3901ER;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3904;Veenendaal;09WB;00;Juliana v Stolbergschool;3901ER;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;8;3;7;7;5;8;7;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;345;Veenendaal;3905;Veenendaal;09WB;00;Juliana v Stolbergschool;3901ER;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;1;3;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3901;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3902;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3903;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3904;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;16;16;17;16;13;15;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;345;Veenendaal;3905;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;5;7;3;7;1;8;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;345;Veenendaal;3906;Veenendaal;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;19;14;38;22;23;27;20;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;345;Veenendaal;3911;Rhenen;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;11WD;00;Het Baken II;3904NT;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3901;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;12;4;9;11;7;12;11;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;345;Veenendaal;3902;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;2;3;2;3;3;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;345;Veenendaal;3903;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;5;7;14;9;15;12;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;345;Veenendaal;3904;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;1;4;3;5;3;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;345;Veenendaal;3905;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;2;1;3;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;345;Veenendaal;3907;Veenendaal;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3911;Rhenen;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;1;0;1;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;4031;Buren;12DF;00;WereldKidz Mozaiek;3901KC;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3902;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3904;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;1;2;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;3905;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;16;18;31;17;13;24;10;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;345;Veenendaal;3906;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;2;3;2;6;5;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;345;Veenendaal;3907;Veenendaal;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3927;Renswoude;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3956;Utrechtse Heuvelrug;12WK;00;De Schakel;3905WK;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3772;Barneveld;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3823;Amersfoort;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;0;4;7;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;345;Veenendaal;3902;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;10;5;8;5;8;6;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;345;Veenendaal;3903;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3904;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;2;7;4;1;8;3;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;345;Veenendaal;3905;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;2;6;1;7;5;1;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;345;Veenendaal;3906;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;6;3;3;5;3;1;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;345;Veenendaal;3907;Veenendaal;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;9;6;10;11;3;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;345;Veenendaal;3911;Rhenen;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3927;Renswoude;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;4033;Buren;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6707;Wageningen;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6711;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6713;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6714;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6717;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;3;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;6718;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6721;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6741;Ede;13AN;00;WereldKidz Achtbaan;3906AD;VEENENDAAL;Utrecht;Bo;Openbaar;41496;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3901;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3902;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3903;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3904;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;23;25;24;20;15;25;21;26;1;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;345;Veenendaal;3905;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;3;0;1;1;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;345;Veenendaal;3906;Veenendaal;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;2;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;13CG;00;Het Baken I;3904RS;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;14;16;19;11;8;12;9;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;345;Veenendaal;3902;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;16;20;26;17;24;17;26;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;345;Veenendaal;3903;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;2;1;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3904;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;3;2;3;2;0;6;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;345;Veenendaal;3905;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;33;38;34;42;34;39;47;32;1;0;0;0;0;0;0;0;0;0;0;0;0;0;300
+20171001;345;Veenendaal;3906;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;1;2;3;2;1;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;345;Veenendaal;3907;Veenendaal;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;24;13;12;13;9;11;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;345;Veenendaal;3911;Rhenen;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3925;Scherpenzeel;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3927;Renswoude;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6715;Ede;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6716;Ede;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6718;Ede;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;1;3;0;3;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;345;Veenendaal;6744;Ede;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6745;Ede;13CY;00;Engelenburgschool;3901KD;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;1;0;3;1;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;345;Veenendaal;3901;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;6;3;3;1;5;4;3;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;345;Veenendaal;3902;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;22;28;26;19;33;18;30;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;345;Veenendaal;3904;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;2;1;1;2;0;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;345;Veenendaal;3905;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;4;8;3;4;2;6;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;345;Veenendaal;3906;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3907;Veenendaal;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;2;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;6706;Wageningen;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6745;Ede;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;9741;Groningen;13HR;00;Het Erf;3902CZ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;1;2;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;3902;Veenendaal;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3904;Veenendaal;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;1;0;1;0;1;0;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;3905;Veenendaal;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;12;4;7;8;14;7;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;345;Veenendaal;3906;Veenendaal;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3927;Renswoude;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6714;Ede;13NI;00;Prinses Beatrixschool;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3901;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;2;2;3;5;1;3;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;345;Veenendaal;3902;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;1;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3903;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;4;3;3;7;4;6;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;345;Veenendaal;3904;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;28;23;16;38;30;25;20;24;5;0;0;0;0;0;0;0;0;0;0;0;0;0;209
+20171001;345;Veenendaal;3905;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;2;0;2;3;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;345;Veenendaal;3906;Veenendaal;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;2;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;345;Veenendaal;3911;Rhenen;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;1;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;13RU;00;Patrimoniumschool;3904AA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;70085;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3902;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3902;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3903;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3903;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3904;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;1;3;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;345;Veenendaal;3904;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3905;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3905;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;2;0;1;0;2;1;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3906;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3906;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3907;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3907;Veenendaal;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3911;Rhenen;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3911;Rhenen;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;3;0;0;2;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3921;Rhenen;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3921;Rhenen;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3922;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3925;Scherpenzeel;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3925;Scherpenzeel;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3927;Renswoude;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3927;Renswoude;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3931;Woudenberg;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3953;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3953;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3956;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3958;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3958;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4001;Tiel;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4033;Buren;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;4041;Neder-Betuwe;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4051;Neder-Betuwe;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4103;Culemborg;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6669;Neder-Betuwe;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6704;Wageningen;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6711;Ede;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6718;Ede;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;So;Protestants-Christelijk;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6718;Ede;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6721;Ede;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6745;Ede;14NA;00;De Blink;3904ZA;VEENENDAAL;Utrecht;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;1;1;1;0;0;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3902;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;1;2;2;0;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;345;Veenendaal;3903;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;1;0;0;1;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3904;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;2;1;3;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;345;Veenendaal;3905;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;1;0;1;0;3;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;345;Veenendaal;3906;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3907;Veenendaal;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3911;Rhenen;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3921;Rhenen;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3922;Utrechtse Heuvelrug;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3927;Renswoude;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3956;Utrechtse Heuvelrug;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4031;Buren;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4043;Neder-Betuwe;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4051;Neder-Betuwe;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6714;Ede;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6717;Ede;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6744;Ede;16OH;00;SSBO De Windroos;3902XX;VEENENDAAL;Utrecht;Sbo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3564;Utrecht;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;10;10;11;10;12;6;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;345;Veenendaal;3902;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;1;1;2;1;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;345;Veenendaal;3903;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;0;1;1;1;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3904;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;8;4;11;9;7;11;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;345;Veenendaal;3905;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;6;18;10;10;6;12;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;345;Veenendaal;3906;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;1;1;3;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;345;Veenendaal;3907;Veenendaal;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;4;0;1;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;345;Veenendaal;3911;Rhenen;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3927;Renswoude;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6745;Ede;22LJ;00;Montessorisch Veenendaal;3905AV;VEENENDAAL;Utrecht;Bo;Algemeen bijzonder;40207;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3903;Veenendaal;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3904;Veenendaal;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;3905;Veenendaal;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;2;1;3;4;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;345;Veenendaal;3906;Veenendaal;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;29;19;24;22;15;28;30;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;345;Veenendaal;3927;Renswoude;23CW;00;De Grondtoon;3906BW;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3901;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;6;5;5;2;6;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;345;Veenendaal;3902;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;3903;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3904;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;10;10;7;4;7;6;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;345;Veenendaal;3905;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;20;21;25;25;17;13;14;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;345;Veenendaal;3906;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;4;2;4;5;2;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;345;Veenendaal;3907;Veenendaal;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;3912;Rhenen;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6712;Ede;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;345;Veenendaal;6716;Ede;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6744;Ede;23CW;01;De Grondtoon;3905DR;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3772;Barneveld;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;2;5;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;345;Veenendaal;3902;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;6;7;11;8;6;7;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;345;Veenendaal;3903;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;2;0;0;1;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;345;Veenendaal;3904;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3905;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;3;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3907;Veenendaal;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;17;10;19;10;9;8;12;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;345;Veenendaal;3911;Rhenen;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;345;Veenendaal;5363;Grave;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6721;Ede;30JP;00;Tamim;3907NJ;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3901;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;0;1;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;345;Veenendaal;3902;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;33;32;40;38;39;32;36;29;4;0;0;0;0;0;0;0;0;0;0;0;0;0;283
+20171001;345;Veenendaal;3903;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;345;Veenendaal;3904;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3905;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;345;Veenendaal;3906;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;3907;Veenendaal;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;19;8;9;9;11;8;8;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;345;Veenendaal;3911;Rhenen;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;3959;Utrechtse Heuvelrug;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;4041;Neder-Betuwe;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;345;Veenendaal;6714;Ede;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;345;Veenendaal;6718;Ede;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;1;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;345;Veenendaal;6721;Ede;30XT;00;'t Speel-Kwartier;3902JA;VEENENDAAL;Utrecht;Bo;Protestants-Christelijk;41154;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3

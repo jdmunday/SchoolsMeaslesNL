@@ -1,0 +1,686 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;228;Ede;3771;Barneveld;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3901;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3903;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3904;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3905;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3906;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3907;Veenendaal;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3921;Rhenen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3925;Scherpenzeel;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3956;Utrechtse Heuvelrug;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6706;Wageningen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;1;1;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6707;Wageningen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6708;Wageningen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;1;0;0;0;0;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6709;Wageningen;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6711;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6712;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;1;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6713;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6714;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;1;3;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6715;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6716;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6717;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;1;2;2;6;2;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;228;Ede;6718;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6721;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6731;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6833;Arnhem;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6866;Renkum;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6871;Renkum;01JE;01;De Fonkel;6713KM;EDE GLD;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;1251;Laren;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;2742;Waddinxveen;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6733;Ede;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7261;Berkelland;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7381;Apeldoorn;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7571;Oldenzaal;01JH;03;De Brouwerij;6717LX;EDE GLD;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;1031;Amsterdam;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;2263;Leidschendam-Voorburg;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3328;Dordrecht;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6877;Ede;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;1;2;1;1;4;6;11;4;1;0;0;0;0;0;0;0;31
+20171001;228;Ede;6951;Rheden;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7351;Apeldoorn;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7602;Almelo;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;9211;Smallingerland;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;9264;Tytsjerksteradiel;02EY;05;Hoenderloo College voor VSO;6877AE;DEELEN;Gelderland;Vso;Algemeen bijzonder;36700;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6706;Wageningen;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;2;4;6;5;5;5;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;228;Ede;6712;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;3;2;3;3;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;228;Ede;6713;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;16;13;9;6;17;10;6;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;228;Ede;6714;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6715;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6716;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6717;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;5;8;5;5;7;8;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;228;Ede;6718;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;1;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6721;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;2;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6733;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;04NP;00;Bs vd Edese Schoolver;6711NN;EDE GLD;Gelderland;Bo;Algemeen bijzonder;33151;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3771;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;4;3;2;5;1;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;228;Ede;3772;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;0;6;3;7;4;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;228;Ede;3773;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;1;0;2;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;3774;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;0;3;1;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;3781;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3886;Barneveld;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3927;Renswoude;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;04WM;00;Sch md Bijbel Ruitenbeek;6741HB;LUNTEREN;Gelderland;Bo;Reformatorisch;47685;0;3;10;7;5;5;7;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;228;Ede;6704;Wageningen;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6705;Wageningen;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;3;2;2;4;1;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;228;Ede;6706;Wageningen;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6708;Wageningen;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6712;Ede;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6716;Ede;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6721;Ede;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;23;26;30;22;25;26;26;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;201
+20171001;228;Ede;6865;Renkum;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6871;Renkum;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6882;Rheden;05GR;00;Basisschool St Alexander;6721CP;BENNEKOM;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6711;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;2;1;2;2;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6712;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;6;5;6;10;7;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;228;Ede;6713;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;6;10;5;2;5;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;228;Ede;6714;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;2;3;2;0;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;228;Ede;6716;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;2;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6718;Ede;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6845;Arnhem;05NO;00;PC BS Cavaljeschool;6713BM;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;1;2;0;0;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;6712;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;1;1;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6713;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;5;8;1;2;5;6;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;228;Ede;6714;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6715;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6716;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;2;2;3;3;3;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;228;Ede;6717;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;31;21;27;22;25;21;25;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;228;Ede;6718;Ede;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6861;Renkum;05NP;00;Koepelschool;6717AS;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3774;Barneveld;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6718;Ede;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6731;Ede;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;2;2;1;2;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;228;Ede;6732;Ede;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;1;2;1;0;2;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6733;Ede;06JV;00;School met de Bijbel;6733AV;WEKEROM;Gelderland;Bo;Reformatorisch;40887;0;25;18;24;18;19;21;16;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;228;Ede;  30;ander land;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;1;3;2;4;6;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;228;Ede;6712;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;8;9;6;7;3;13;13;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;228;Ede;6713;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;5;10;6;7;5;7;7;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;228;Ede;6714;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;8;6;5;2;8;3;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;228;Ede;6715;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;2;2;6;4;2;8;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;228;Ede;6716;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;2;3;1;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;228;Ede;6717;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;5;7;6;10;8;4;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;228;Ede;6718;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;9;9;9;8;6;7;13;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;228;Ede;6721;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6731;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;0;0;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6732;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;1;0;1;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6733;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;3;1;0;3;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6741;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;9;5;3;2;7;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;228;Ede;6744;Ede;06LA;00;Stadhouder Willem 3 Bs;6712BZ;EDE GLD;Gelderland;Bo;Reformatorisch;42541;0;0;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6703;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6704;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6705;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6706;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;4;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6708;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6709;Wageningen;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6715;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6716;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;0;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6717;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;4;4;6;4;3;5;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;228;Ede;6721;Ede;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;12;14;15;17;19;17;19;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;228;Ede;6866;Renkum;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6871;Renkum;06YM;00;Eben Haezerschool;6721WP;BENNEKOM;Gelderland;Bo;Reformatorisch;76663;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3902;Veenendaal;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3906;Veenendaal;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3911;Rhenen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6703;Wageningen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6704;Wageningen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6706;Wageningen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6708;Wageningen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;1;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6709;Wageningen;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6713;Ede;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6716;Ede;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;3;8;4;6;3;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;228;Ede;6717;Ede;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;3;1;5;6;3;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;228;Ede;6718;Ede;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;5;3;1;3;4;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;228;Ede;6721;Ede;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;16;22;20;22;12;12;14;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;228;Ede;6843;Arnhem;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6866;Renkum;07KR;00;School Met De Bijbel;6721NP;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;33645;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;2922;Krimpen aan den IJssel;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3771;Barneveld;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;1;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;3862;Nijkerk;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;3902;Veenendaal;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;1;1;2;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;3905;Veenendaal;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;1;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;3911;Rhenen;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3921;Rhenen;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3927;Renswoude;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;14;7;5;7;6;5;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;228;Ede;3959;Utrechtse Heuvelrug;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;0;1;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6716;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6718;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6731;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6732;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6733;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6741;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;16;19;13;12;14;11;13;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;228;Ede;6744;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;32;28;27;35;20;21;27;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;213
+20171001;228;Ede;6745;Ede;07KV;00;Calvijnschool;6744WX;EDERVEEN;Gelderland;Bo;Reformatorisch;34139;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3774;Barneveld;07MF;00;Sch md Bijbel De Zaaier;6732BJ;HARSKAMP;Gelderland;Bo;Reformatorisch;38650;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3776;Barneveld;07MF;00;Sch md Bijbel De Zaaier;6732BJ;HARSKAMP;Gelderland;Bo;Reformatorisch;38650;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6731;Ede;07MF;00;Sch md Bijbel De Zaaier;6732BJ;HARSKAMP;Gelderland;Bo;Reformatorisch;38650;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6732;Ede;07MF;00;Sch md Bijbel De Zaaier;6732BJ;HARSKAMP;Gelderland;Bo;Reformatorisch;38650;0;37;28;33;37;41;31;35;44;2;0;0;0;0;0;0;0;0;0;0;0;0;0;288
+20171001;228;Ede;6733;Ede;07MF;00;Sch md Bijbel De Zaaier;6732BJ;HARSKAMP;Gelderland;Bo;Reformatorisch;38650;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;2;1;4;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6712;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;9;5;10;8;5;7;11;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;228;Ede;6713;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;3;2;2;2;2;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;6714;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;6;7;5;7;2;3;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;228;Ede;6715;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;5;7;4;3;6;5;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;228;Ede;6716;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6717;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6718;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;9;13;8;9;15;11;14;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;228;Ede;6744;Ede;07YC;00;Veldhuizerschool;6712DA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3904;Veenendaal;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;5351;Oss;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6718;Ede;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;1;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6741;Ede;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;4;1;2;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;6744;Ede;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;24;29;24;23;19;23;16;16;6;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;228;Ede;6745;Ede;07YD;00;Julianaschool;6744WS;EDERVEEN;Gelderland;Bo;Protestants-Christelijk;41621;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3925;Scherpenzeel;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3927;Renswoude;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6711;Ede;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6718;Ede;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6741;Ede;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;8;9;9;11;2;9;9;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;228;Ede;6744;Ede;07ZT;00;CBS Nederwoud;6741NE;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;2;3;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;3772;Barneveld;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;7;6;12;11;7;6;4;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;228;Ede;6712;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;4;8;10;11;9;7;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;228;Ede;6713;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;3;3;1;3;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;228;Ede;6714;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6715;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;1;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6716;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6718;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;3;5;3;3;2;3;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;228;Ede;6731;Ede;09BT;00;Paasbergschool;6711SP;EDE GLD;Gelderland;Bo;Protestants-Christelijk;83968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3552;Utrecht;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3711;Zeist;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3772;Barneveld;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3794;Barneveld;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3902;Veenendaal;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3904;Veenendaal;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3905;Veenendaal;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6665;Overbetuwe;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6708;Wageningen;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6712;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6713;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;4;4;2;4;1;6;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;228;Ede;6714;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6715;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6716;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6717;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;6;4;1;1;1;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;228;Ede;6718;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6721;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6731;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6744;Ede;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6861;Renkum;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6862;Renkum;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6874;Renkum;09PH;00;De Vuurvogel;6713BW;EDE GLD;Gelderland;Bo;Antroposofisch;41246;0;1;3;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6714;Ede;09YR;00;De Bron;6741BA;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6718;Ede;09YR;00;De Bron;6741BA;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6741;Ede;09YR;00;De Bron;6741BA;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;45;40;51;42;40;52;33;37;2;0;0;0;0;0;0;0;0;0;0;0;0;0;342
+20171001;228;Ede;6744;Ede;09YR;00;De Bron;6741BA;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;5038;Tilburg;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6705;Wageningen;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6712;Ede;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6721;Ede;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;13;14;21;15;17;13;13;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;228;Ede;6866;Renkum;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6871;Renkum;10QL;00;de Wingerd;6721CK;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3906;Veenendaal;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6718;Ede;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;0;3;1;3;1;1;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;6741;Ede;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;20;17;14;16;17;17;19;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;228;Ede;6744;Ede;10QZ;00;De Wegwijzer;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;87920;0;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;3901;Veenendaal;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6711;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6714;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;4;6;7;8;4;12;6;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;228;Ede;6715;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;9;4;6;4;8;7;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;228;Ede;6717;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6718;Ede;11CT;00;Basisschool De Caleidoscoop;6715EA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;3956;Utrechtse Heuvelrug;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6659;West Maas en Waal;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6704;Wageningen;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;2;3;1;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;228;Ede;6705;Wageningen;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;2;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6708;Wageningen;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6721;Ede;11FA;00;Wilhelminaschool;6721VD;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;27;25;26;20;30;39;26;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;217
+20171001;228;Ede;3122;Schiedam;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6666;Overbetuwe;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6712;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6713;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;2;6;2;4;3;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;228;Ede;6714;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;6;8;6;7;3;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;228;Ede;6715;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;17;8;16;9;17;17;15;15;2;1;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;228;Ede;6718;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6744;Ede;11PJ;00;Basisschool Prins Floris;6715KD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6714;Ede;11RC;00;Julianaschool;6721ZJ;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6715;Ede;11RC;00;Julianaschool;6721ZJ;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6721;Ede;11RC;00;Julianaschool;6721ZJ;BENNEKOM;Gelderland;Bo;Protestants-Christelijk;42587;0;4;16;10;17;13;19;17;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;228;Ede;6711;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;21;19;17;17;23;9;21;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;228;Ede;6712;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;2;3;2;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;228;Ede;6713;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;10;3;8;4;5;7;2;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;228;Ede;6714;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;4;5;4;0;2;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;228;Ede;6715;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;5;1;2;4;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;228;Ede;6716;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6717;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;9;10;8;8;11;8;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;228;Ede;6718;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;16;20;16;11;10;21;11;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;228;Ede;6721;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6744;Ede;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6917;Rijnwaarden;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7314;Apeldoorn;11XK;00;Koning Davidschool;6711JD;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6712;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;2;2;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6714;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6715;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6716;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;2;3;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6717;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;34;42;48;53;52;38;35;35;8;1;0;0;0;0;0;0;0;0;0;0;0;0;346
+20171001;228;Ede;6718;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6721;Ede;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;7201;Zutphen;12AM;00;Basisschool Kon Beatrix;6717SB;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;12GU;00;Franciscusschool;6717SE;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6714;Ede;12GU;00;Franciscusschool;6717SE;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6715;Ede;12GU;00;Franciscusschool;6717SE;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6716;Ede;12GU;00;Franciscusschool;6717SE;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6717;Ede;12GU;00;Franciscusschool;6717SE;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;19;14;16;15;13;14;14;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;228;Ede;6711;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6712;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;2;0;3;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6713;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;16;10;4;12;9;1;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;228;Ede;6714;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;1;2;1;4;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;228;Ede;6715;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6716;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;2;1;1;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6718;Ede;12JT;00;Het Startpunt;6713BT;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3772;Barneveld;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6702;Wageningen;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;17;19;10;19;13;20;13;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;228;Ede;6712;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6713;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;6;6;5;8;11;3;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;228;Ede;6714;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6715;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6716;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;3;5;0;2;1;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;228;Ede;6718;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6721;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6733;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6741;Ede;12YY;00;Bs Louise de Coligny;6711JD;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;3;0;1;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6714;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6715;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;8;10;10;13;19;20;8;13;6;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;228;Ede;6718;Ede;13KG;00;Basissch Oranje Nassau;6717JA;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3902;Veenendaal;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;5865;Horst aan de Maas;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6705;Wageningen;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6707;Wageningen;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;0;0;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6712;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6713;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;1;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6714;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;1;2;3;2;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;228;Ede;6715;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;1;0;2;2;2;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;228;Ede;6716;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;3;2;2;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;228;Ede;6717;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;3;0;2;6;5;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;228;Ede;6718;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;1;0;1;5;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6721;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6731;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6744;Ede;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6871;Renkum;14RX;00;SSBO De Regenboog;6711LX;EDE GLD;Gelderland;Sbo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3771;Barneveld;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3774;Barneveld;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;0;0;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;3776;Barneveld;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6732;Ede;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;2;0;3;1;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;6733;Ede;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;2;1;2;1;4;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;228;Ede;6741;Ede;15CF;00;Basissch met de Bijbel;6741GK;LUNTEREN;Gelderland;Bo;Reformatorisch;47438;0;5;6;3;4;5;4;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;228;Ede;  20;Duitsland;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3771;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3773;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3774;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3781;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3784;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3794;Barneveld;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;1;1;1;1;2;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;3901;Veenendaal;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3903;Veenendaal;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3904;Veenendaal;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3907;Veenendaal;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3912;Rhenen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3921;Rhenen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3925;Scherpenzeel;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;4033;Buren;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6675;Overbetuwe;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6702;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6704;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;228;Ede;6705;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6706;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6707;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6708;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6709;Wageningen;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;2;1;0;1;1;0;0;0;0;0;0;0;6
+20171001;228;Ede;6712;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6713;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;2;2;4;2;1;0;1;0;0;0;0;0;0;0;12
+20171001;228;Ede;6714;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;2;0;3;0;3;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6715;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;228;Ede;6716;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;2;2;1;1;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6717;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;5;4;2;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6718;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;3;0;0;3;0;1;0;0;0;0;0;0;0;7
+20171001;228;Ede;6721;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;1;4;1;1;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6733;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6741;Ede;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6861;Renkum;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6862;Renkum;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6865;Renkum;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6871;Renkum;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6874;Renkum;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;8181;Heerde;16QF;00;De Toekomst;6718ZE;EDE GLD;Gelderland;Vso;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6703;Wageningen;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6713;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6714;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;8;9;9;12;8;10;9;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;228;Ede;6715;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;2;3;9;11;2;11;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;228;Ede;6717;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;0;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6718;Ede;17JX;00;Basisschool Groene Vallei;6715BA;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6711;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;7;3;4;5;5;3;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;228;Ede;6712;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;2;0;2;2;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6713;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;1;1;1;0;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6717;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;3;0;0;2;5;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;228;Ede;6718;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;3;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6721;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;18VW;00;Calluna-School;6711JE;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;18WL;00;De Zuiderpoort;6717EX;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;18WL;00;De Zuiderpoort;6717EX;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6714;Ede;18WL;00;De Zuiderpoort;6717EX;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;18WL;00;De Zuiderpoort;6717EX;EDE GLD;Gelderland;Bo;Openbaar;41674;0;10;6;13;9;4;3;6;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;228;Ede;6718;Ede;18WL;00;De Zuiderpoort;6717EX;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3772;Barneveld;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3774;Barneveld;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3794;Barneveld;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3861;Nijkerk;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3925;Scherpenzeel;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6709;Wageningen;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;1;2;4;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6712;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;4;2;5;3;5;3;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;228;Ede;6713;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;6;5;3;2;1;5;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;228;Ede;6714;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;6;2;5;2;3;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;228;Ede;6715;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;2;2;4;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;6717;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;3;4;0;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6718;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;2;2;3;6;2;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;228;Ede;6721;Ede;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6861;Renkum;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6862;Renkum;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6871;Renkum;18WV;00;De Lettertuin;6712DR;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6701;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6704;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6705;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6706;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6707;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6708;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;1;1;1;0;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;6709;Wageningen;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6714;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6716;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;2;3;1;0;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6718;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6721;Ede;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;16;22;13;19;29;18;27;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;228;Ede;6866;Renkum;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6871;Renkum;18YU;00;Prinsenakkerschool;6721ZL;BENNEKOM;Gelderland;Bo;Openbaar;41674;0;0;2;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;1404;Gooise Meren;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3775;Barneveld;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6718;Ede;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6731;Ede;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;16;25;13;19;31;14;23;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;228;Ede;6732;Ede;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;1;3;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6733;Ede;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;0;1;0;0;1;0;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;7351;Apeldoorn;18ZM;00;Ericaschool;6731BA;OTTERLO;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;  40;Onbekend;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;3;2;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6714;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;5;6;4;10;2;2;11;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;228;Ede;6715;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;1;2;1;0;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6716;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6717;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;2;4;0;4;5;4;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;228;Ede;6718;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6721;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6741;Ede;19BA;00;OBS de Bongerd;6714JV;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6713;Ede;19BP;00;OBS Uniek;6717ST;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6714;Ede;19BP;00;OBS Uniek;6717ST;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6716;Ede;19BP;00;OBS Uniek;6717ST;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6717;Ede;19BP;00;OBS Uniek;6717ST;EDE GLD;Gelderland;Bo;Openbaar;41674;0;7;10;14;7;16;15;20;15;0;1;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;228;Ede;6865;Renkum;19BP;00;OBS Uniek;6717ST;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;  40;Onbekend;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;2729;Zoetermeer;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3774;Barneveld;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;3775;Barneveld;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3776;Barneveld;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;5831;Boxmeer;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6732;Ede;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;4;4;3;9;2;4;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;228;Ede;6733;Ede;19BT;00;De Roedel;6732DC;HARSKAMP;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;  30;ander land;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;  40;Onbekend;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3903;Veenendaal;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6718;Ede;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6733;Ede;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;3;8;13;8;15;6;9;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;228;Ede;6744;Ede;19BX;00;De Sprong;6741BD;LUNTEREN;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6706;Wageningen;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;2;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;6712;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6713;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;2;4;3;4;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;228;Ede;6714;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;9;8;3;12;6;8;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;228;Ede;6715;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;4;4;5;2;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;228;Ede;6716;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;3;2;3;4;2;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;228;Ede;6717;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;5;5;2;2;3;5;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;228;Ede;6718;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;3;0;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;228;Ede;6721;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6741;Ede;22KY;00;GBS De Triangel;6714EJ;EDE GLD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;1339;Almere;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3771;Barneveld;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3772;Barneveld;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;3781;Barneveld;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3794;Barneveld;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3812;Amersfoort;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3901;Veenendaal;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3904;Veenendaal;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3905;Veenendaal;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3911;Rhenen;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6702;Wageningen;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6706;Wageningen;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6707;Wageningen;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6708;Wageningen;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6712;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6713;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6714;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6716;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6717;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;1;2;1;2;1;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6718;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6721;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6741;Ede;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6826;Arnhem;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6871;Renkum;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;7312;Apeldoorn;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7333;Apeldoorn;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7339;Apeldoorn;22NX;00;De Wegwijzer;6711CJ;EDE GLD;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3772;Barneveld;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3794;Barneveld;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3901;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3902;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;3903;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;3904;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;2;0;1;4;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;3905;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;4;1;3;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;3907;Veenendaal;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3958;Utrechtse Heuvelrug;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;4043;Neder-Betuwe;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6668;Overbetuwe;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6706;Wageningen;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6707;Wageningen;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;3;5;0;1;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6708;Wageningen;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;2;3;1;1;0;0;0;0;0;0;0;9
+20171001;228;Ede;6711;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;3;2;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6712;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6714;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6715;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6716;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;228;Ede;6717;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;3;2;2;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6718;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;2;2;3;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6721;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;1;2;3;2;1;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6731;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6732;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6741;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6744;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6821;Arnhem;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6871;Renkum;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6877;Ede;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;7071;Oude IJsselstreek;23GK;05;Vester College;6712EA;EDE GLD;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6708;Wageningen;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6712;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6714;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;1;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6715;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6716;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;23;30;26;24;38;39;29;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;236
+20171001;228;Ede;6717;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;7;5;2;5;4;4;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;228;Ede;6718;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6721;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;23PR;00;RK Bo de Panta Rhei;6716HB;EDE GLD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6713;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6714;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6716;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;32;24;39;32;33;34;33;32;2;0;0;0;0;0;0;0;0;0;0;0;0;0;261
+20171001;228;Ede;6717;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;5;8;7;8;3;9;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;228;Ede;6718;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6721;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6731;Ede;23PT;00;PC Basissch de Brugge;6716DN;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6711;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6713;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;2;1;1;3;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6714;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6715;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;2;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6716;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;17;10;13;15;13;9;7;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;228;Ede;6717;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;8;9;6;4;6;1;5;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;228;Ede;6721;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6741;Ede;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;8225;Lelystad;23PU;00;De Vlinderboom PCB;6716PC;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3812;Amersfoort;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6712;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6713;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;3;2;1;1;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;228;Ede;6714;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;5;8;4;1;4;6;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;228;Ede;6715;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;6;9;6;12;15;6;9;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;228;Ede;6716;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;2;3;5;7;2;6;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;228;Ede;6717;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;5;5;4;9;3;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;228;Ede;6718;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;1;1;0;4;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6721;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6732;Ede;23PV;00;Edese OBS;6716EJ;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;  40;Onbekend;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3905;Veenendaal;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3925;Scherpenzeel;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3927;Renswoude;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6718;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;2;3;2;0;0;5;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;228;Ede;6721;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6733;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6741;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;29;22;26;24;23;25;17;16;5;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;228;Ede;6744;Ede;23XP;00;C N S De Triangel;6741BN;LUNTEREN;Gelderland;Bo;Protestants-Christelijk;31204;0;2;1;3;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;3812;Amersfoort;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3901;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3902;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;2;3;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;3903;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;3904;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;3;2;2;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;3905;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;1;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;3907;Veenendaal;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;1;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;3911;Rhenen;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;2;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;4041;Neder-Betuwe;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6707;Wageningen;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6711;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6713;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;3;1;1;0;0;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6714;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;5;4;5;3;7;6;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;228;Ede;6715;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;4;5;0;1;3;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;228;Ede;6716;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;1;0;1;1;1;3;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;6718;Ede;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;2;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6865;Renkum;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6871;Renkum;24ER;00;Al Amana;6714DA;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;1324;Almere;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3902;Veenendaal;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6711;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;228;Ede;6712;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;2;0;1;0;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6713;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;2;1;1;2;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6714;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;14;14;10;13;9;12;11;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;228;Ede;6715;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;3;4;3;4;7;3;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;228;Ede;6716;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6717;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;1;1;3;0;2;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;228;Ede;6718;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;18;26;25;26;31;32;41;33;3;0;0;0;0;0;0;0;0;0;0;0;0;0;235
+20171001;228;Ede;6721;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6741;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;6744;Ede;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6814;Arnhem;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6874;Renkum;27MH;00;Openbare Basisschool De Kern;6718GG;EDE GLD;Gelderland;Bo;Openbaar;41674;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3904;Veenendaal;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3905;Veenendaal;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6709;Wageningen;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;1;2;1;2;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;228;Ede;6712;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;2;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6713;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;5;7;5;9;3;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;228;Ede;6714;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;6;14;12;5;7;9;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;228;Ede;6715;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;8;6;8;5;6;6;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;228;Ede;6716;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;1;3;1;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;228;Ede;6717;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;5;2;5;4;5;5;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;228;Ede;6718;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;2;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6721;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6744;Ede;30FV;00;de Rots;6714DA;EDE GLD;Gelderland;Bo;Evangelisch;42521;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3882;Putten;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3911;Rhenen;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6713;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6714;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;4;4;2;4;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;228;Ede;6715;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;6;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;228;Ede;6718;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;24;30;24;20;27;25;18;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;194
+20171001;228;Ede;6721;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6741;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6744;Ede;30JU;00;De Vuursteen;6718MJ;EDE GLD;Gelderland;Bo;Protestants-Christelijk;42587;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;  20;Duitsland;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;3901;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;4;2;4;0;5;0;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;228;Ede;3902;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;4;3;4;1;7;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;228;Ede;3903;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;2;2;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;228;Ede;3904;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;2;3;5;5;2;3;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;228;Ede;3905;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;3;3;3;3;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;228;Ede;3907;Veenendaal;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;3;2;2;2;0;5;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;3911;Rhenen;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;228;Ede;3925;Scherpenzeel;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;3958;Utrechtse Heuvelrug;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;4051;Neder-Betuwe;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;4125;Vianen;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6702;Wageningen;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6706;Wageningen;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;228;Ede;6708;Wageningen;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6711;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;228;Ede;6712;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;2;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;228;Ede;6713;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;1;0;2;1;0;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;228;Ede;6714;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;7;9;8;10;7;6;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;228;Ede;6715;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;3;2;4;3;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;228;Ede;6716;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;228;Ede;6717;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;16;14;10;12;10;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;228;Ede;6718;Ede;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;1;0;4;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;228;Ede;6865;Renkum;31EC;00;Al Amana;6714JT;EDE GLD;Gelderland;Bo;Islamitisch;41820;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

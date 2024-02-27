@@ -1,0 +1,104 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;629;Wassenaar;2235;Katwijk;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;20;16;21;26;22;21;20;24;6;1;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;629;Wassenaar;2242;Wassenaar;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;4;3;6;2;1;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;629;Wassenaar;2243;Wassenaar;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2245;Wassenaar;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2251;Voorschoten;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2331;Leiden;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2532;'s-Gravenhage;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2591;'s-Gravenhage;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2592;'s-Gravenhage;03YS;00;Basissch St Jan Baptist;2241XH;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;  30;ander land;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;11;14;12;10;10;13;9;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;629;Wassenaar;2242;Wassenaar;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;18;16;17;19;18;16;16;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;629;Wassenaar;2243;Wassenaar;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;3;1;0;1;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;629;Wassenaar;2245;Wassenaar;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2332;Leiden;04RT;00;Ver Nutssch Wassenaar;2242CA;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;39859;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;1016;Amsterdam;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2225;Katwijk;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;12;8;8;7;10;11;8;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;629;Wassenaar;2242;Wassenaar;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;13;19;16;20;11;18;14;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;629;Wassenaar;2243;Wassenaar;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2245;Wassenaar;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;1;4;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;629;Wassenaar;2254;Voorschoten;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2264;Leidschendam-Voorburg;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2274;Leidschendam-Voorburg;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2318;Leiden;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2331;Leiden;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;629;Wassenaar;2591;'s-Gravenhage;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2592;'s-Gravenhage;05EO;00;Sint Bonifacius-School;2242JS;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;2;0;2;1;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;629;Wassenaar;2242;Wassenaar;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;2;3;4;3;2;3;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;629;Wassenaar;2243;Wassenaar;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;4;4;4;5;5;8;7;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;629;Wassenaar;2244;Wassenaar;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;4;2;1;5;4;3;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;629;Wassenaar;2245;Wassenaar;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;2;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;629;Wassenaar;2251;Voorschoten;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;2;1;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;629;Wassenaar;2252;Voorschoten;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;2;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;629;Wassenaar;2261;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;1;0;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;629;Wassenaar;2263;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2264;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;629;Wassenaar;2265;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2271;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;1;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;629;Wassenaar;2272;Leidschendam-Voorburg;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2284;Rijswijk;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2514;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2582;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2587;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2591;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2592;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2594;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2596;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2597;'s-Gravenhage;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;629;Wassenaar;2712;Zoetermeer;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;3055;Rotterdam;05WR;00;Kievietschool;2244AD;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;31019;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2224;Katwijk;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2235;Katwijk;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2241;Wassenaar;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;2;3;3;5;8;4;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;629;Wassenaar;2242;Wassenaar;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;12;10;12;8;6;8;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;629;Wassenaar;2243;Wassenaar;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;1;1;1;0;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;629;Wassenaar;2244;Wassenaar;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2245;Wassenaar;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2251;Voorschoten;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2252;Voorschoten;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;629;Wassenaar;2253;Voorschoten;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2254;Voorschoten;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2341;Oegstgeest;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2361;Teylingen;05WS;00;Montessorischool;2242GW;WASSENAAR;Zuid-Holland;Bo;Algemeen bijzonder;98255;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2201;Noordwijk;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;10;16;11;19;18;16;19;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;629;Wassenaar;2242;Wassenaar;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;9;9;11;13;9;13;6;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;629;Wassenaar;2243;Wassenaar;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2245;Wassenaar;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;629;Wassenaar;2262;Leidschendam-Voorburg;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2265;Leidschendam-Voorburg;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2332;Leiden;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2587;'s-Gravenhage;06OQ;00;Basisschool Sint Jozef;2241KR;WASSENAAR;Zuid-Holland;Bo;Rooms-Katholiek;68329;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;  30;ander land;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2241;Wassenaar;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;2;2;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;629;Wassenaar;2242;Wassenaar;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;1;4;3;1;5;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;629;Wassenaar;2243;Wassenaar;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;6;6;8;11;9;13;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;629;Wassenaar;2244;Wassenaar;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;18;20;24;19;29;21;25;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;629;Wassenaar;2245;Wassenaar;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;12;7;8;9;11;10;12;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;629;Wassenaar;2252;Voorschoten;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2263;Leidschendam-Voorburg;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2272;Leidschendam-Voorburg;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2492;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2493;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2511;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2587;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;629;Wassenaar;2591;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2593;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2594;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;10;7;6;6;5;2;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;629;Wassenaar;2595;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2596;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;629;Wassenaar;2597;'s-Gravenhage;08TM;00;Bloemcampschool;2244EE;WASSENAAR;Zuid-Holland;Bo;Openbaar;41829;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2221;Katwijk;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2241;Wassenaar;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;12;14;10;19;17;16;13;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;629;Wassenaar;2242;Wassenaar;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;19;32;27;33;27;24;28;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;214
+20171001;629;Wassenaar;2243;Wassenaar;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;2;2;5;2;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;629;Wassenaar;2245;Wassenaar;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;0;1;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;629;Wassenaar;2252;Voorschoten;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2253;Voorschoten;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;629;Wassenaar;2331;Leiden;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;629;Wassenaar;2723;Zoetermeer;11MQ;00;Basisschool Herenweg;2242ES;WASSENAAR;Zuid-Holland;Bo;Protestants-Christelijk;74492;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

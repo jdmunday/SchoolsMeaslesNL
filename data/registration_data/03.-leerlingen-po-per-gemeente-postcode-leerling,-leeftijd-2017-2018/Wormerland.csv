@@ -1,0 +1,53 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;880;Wormerland;1441;Purmerend;04IA;00;Basisschool Wijdewormer;1456CB;WIJDEWORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1448;Purmerend;04IA;00;Basisschool Wijdewormer;1456CB;WIJDEWORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1456;Wormerland;04IA;00;Basisschool Wijdewormer;1456CB;WIJDEWORMER;Noord-Holland;Bo;Openbaar;41434;0;9;10;13;10;10;9;11;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;880;Wormerland;1458;Wormerland;04IA;00;Basisschool Wijdewormer;1456CB;WIJDEWORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;880;Wormerland;1531;Wormerland;04IA;00;Basisschool Wijdewormer;1456CB;WIJDEWORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1456;Wormerland;16YE;00;icbs. Wormer Wieken;1531PS;WORMER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1502;Zaanstad;16YE;00;icbs. Wormer Wieken;1531PS;WORMER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1521;Zaanstad;16YE;00;icbs. Wormer Wieken;1531PS;WORMER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;2;3;1;2;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;880;Wormerland;1531;Wormerland;16YE;00;icbs. Wormer Wieken;1531PS;WORMER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;16;17;17;19;15;30;21;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;880;Wormerland;1534;Wormerland;16YE;00;icbs. Wormer Wieken;1531PS;WORMER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;880;Wormerland;1456;Wormerland;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;880;Wormerland;1509;Zaanstad;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1531;Wormerland;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;7;2;3;5;9;6;4;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;880;Wormerland;1534;Wormerland;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1546;Wormerland;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;4;4;6;8;9;8;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;880;Wormerland;1566;Zaanstad;18EP;00;De Harpoen;1546LB;JISP;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1102;Amsterdam;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1458;Wormerland;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;880;Wormerland;1504;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1506;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1509;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1521;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;2;5;2;1;4;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;880;Wormerland;1525;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1531;Wormerland;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;43;39;48;47;33;60;48;35;14;0;0;0;0;0;0;0;0;0;0;0;0;0;367
+20171001;880;Wormerland;1534;Wormerland;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;2;1;3;2;7;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;880;Wormerland;1541;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1561;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1562;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1566;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;880;Wormerland;1567;Zaanstad;18MN;00;OBS De Eendragt;1531AJ;WORMER;Noord-Holland;Bo;Openbaar;41434;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1462;Beemster;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1502;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1509;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1521;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;3;0;1;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;880;Wormerland;1525;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;880;Wormerland;1531;Wormerland;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;30;26;46;32;51;44;41;31;4;0;0;0;0;0;0;0;0;0;0;0;0;0;305
+20171001;880;Wormerland;1534;Wormerland;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;880;Wormerland;1536;Alkmaar;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;880;Wormerland;1544;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1546;Wormerland;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1566;Zaanstad;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1704;Heerhugowaard;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1705;Heerhugowaard;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;3028;Rotterdam;18NU;00;OBS Weremere;1531EK;WORMER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1501;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1506;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1509;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1521;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;2;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;880;Wormerland;1531;Wormerland;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;4;3;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;880;Wormerland;1546;Wormerland;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1561;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;880;Wormerland;1562;Zaanstad;31FM;00;De Eigenwijs;1531PS;WORMER;Noord-Holland;Bo;Algemeen bijzonder;42751;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

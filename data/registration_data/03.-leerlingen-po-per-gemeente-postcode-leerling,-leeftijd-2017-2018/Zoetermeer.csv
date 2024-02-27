@@ -1,0 +1,987 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2493;'s-Gravenhage;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2632;Pijnacker-Nootdorp;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;1;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2716;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;3;2;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;637;Zoetermeer;2717;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;1;2;0;4;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2718;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2719;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2721;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2725;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2727;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;1;1;1;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2728;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2729;Zoetermeer;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;00AP;00;De Schanskorf;2715BT;ZOETERMEER;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;  40;Onbekend;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2272;Leidschendam-Voorburg;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2391;Alphen aan den Rijn;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2411;Bodegraven-Reeuwijk;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2496;'s-Gravenhage;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2645;Pijnacker-Nootdorp;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2652;Lansingerland;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2661;Lansingerland;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2662;Lansingerland;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2711;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2712;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2713;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2715;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;0;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2716;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2717;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2718;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2719;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2723;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2724;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2725;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2726;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2727;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2728;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2743;Waddinxveen;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2771;Alphen aan den Rijn;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2804;Gouda;00NT;01;Prof Dr Leo Kannerschool;2713VM;ZOETERMEER;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2271;Leidschendam-Voorburg;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2381;Zoeterwoude;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2492;'s-Gravenhage;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2493;'s-Gravenhage;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2518;'s-Gravenhage;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2712;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;3;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2713;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;4;1;2;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2715;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;3;0;1;2;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;637;Zoetermeer;2716;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;9;12;7;6;8;9;6;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;637;Zoetermeer;2717;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;3;1;3;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2718;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2719;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2721;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;2;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2722;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2723;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2724;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;3;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2725;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;0;0;3;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2726;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2727;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2728;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2801;Gouda;06MQ;00;Vuurvogel;2716GV;ZOETERMEER;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2283;Rijswijk;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2391;Alphen aan den Rijn;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2493;'s-Gravenhage;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2496;'s-Gravenhage;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2665;Lansingerland;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2712;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2715;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;1;3;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2716;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;1;1;3;2;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2717;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;2;3;1;5;5;3;10;2;1;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;637;Zoetermeer;2718;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;1;0;0;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2719;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;1;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2721;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2723;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2725;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2726;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;1;1;0;2;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2727;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;1;0;1;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2728;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;1;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2729;Zoetermeer;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;1;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3064;Rotterdam;13HO;00;RK SSBO De Horizon;2717CR;ZOETERMEER;Zuid-Holland;Sbo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  40;Onbekend;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2241;Wassenaar;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2724;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;6;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2728;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;16;13;22;16;20;26;21;19;6;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;637;Zoetermeer;2729;Zoetermeer;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;13MR;00;RK Basisschool De Buut;2728AG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2515;'s-Gravenhage;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2712;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2717;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2723;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;4;3;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;637;Zoetermeer;2724;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;2;0;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;637;Zoetermeer;2727;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;10;15;18;16;23;13;18;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;128
+20171001;637;Zoetermeer;2728;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;1;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2729;Zoetermeer;14YX;00;RK BS De Touwladder;2727CV;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2332;Leiden;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2496;'s-Gravenhage;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;3;3;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2712;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2716;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2718;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2723;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;2;4;2;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;637;Zoetermeer;2724;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;16;16;20;15;15;23;18;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;637;Zoetermeer;2725;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;8;5;4;7;7;7;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;637;Zoetermeer;2728;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2729;Zoetermeer;15FE;00;RK Bs de Spelevaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2262;Leidschendam-Voorburg;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2273;Leidschendam-Voorburg;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2286;Rijswijk;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2317;Leiden;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2351;Leiderdorp;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2381;Zoeterwoude;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2493;'s-Gravenhage;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2532;'s-Gravenhage;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2643;Pijnacker-Nootdorp;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2661;Lansingerland;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2662;Lansingerland;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2665;Lansingerland;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2665;Lansingerland;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2715;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2716;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2717;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2717;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;2;2;2;0;0;1;1;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2718;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2718;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2719;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2719;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2721;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2721;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2722;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2722;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2723;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2723;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2724;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;3;1;0;2;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2725;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2725;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;1;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2727;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2728;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2728;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2729;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2729;Zoetermeer;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;3;0;1;0;1;1;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;So;Openbaar;42573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;15KH;00;De Keerkring;2726SK;ZOETERMEER;Zuid-Holland;Vso;Openbaar;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2493;'s-Gravenhage;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;2;2;3;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2712;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2717;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;3;3;2;5;5;6;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;637;Zoetermeer;2724;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2725;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;6;6;9;6;6;8;9;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;637;Zoetermeer;2726;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;11;10;13;12;15;12;12;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;637;Zoetermeer;2727;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2728;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;15LE;00;RK Basissch de Elzenhoek;2725PE;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2282;Rijswijk;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2287;Rijswijk;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2571;'s-Gravenhage;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2712;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2715;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2717;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;3;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2718;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;6;3;6;4;2;2;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;637;Zoetermeer;2723;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;8;5;5;6;8;6;8;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;637;Zoetermeer;2724;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;7;15;13;6;10;6;7;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;637;Zoetermeer;2725;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;1;1;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2726;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;1;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2727;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;5;6;3;2;4;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;637;Zoetermeer;2728;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;1;3;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2729;Zoetermeer;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2751;Zuidplas;15MU;00;Meester Verwers;2724CA;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;11;13;12;24;17;21;26;21;8;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;637;Zoetermeer;2722;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;15NR;00;RK BS `t Schrijverke;2717XK;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;2;1;3;1;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2493;'s-Gravenhage;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2614;Delft;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2715;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;4;1;1;2;5;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;637;Zoetermeer;2716;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;24;27;23;22;33;29;28;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;209
+20171001;637;Zoetermeer;2717;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2722;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2723;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2726;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3132;Vlaardingen;15NR;01;RK B 't Schrijverke;2716LW;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2711;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;7;9;6;4;8;8;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;637;Zoetermeer;2713;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;1;1;3;2;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;637;Zoetermeer;2715;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;2;2;2;3;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;637;Zoetermeer;2717;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;1;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2719;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;2;0;1;2;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2721;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;5;0;4;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;637;Zoetermeer;2722;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;1;1;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2723;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2725;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;1;2;1;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2728;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2729;Zoetermeer;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;1;2;1;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3117;Schiedam;15PE;00;Kon Wilhelminaschool;2713VM;ZOETERMEER;Zuid-Holland;Bo;Reformatorisch;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  30;ander land;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2518;'s-Gravenhage;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;2;2;2;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2713;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2716;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2718;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2719;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;12;16;13;17;14;17;17;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;637;Zoetermeer;2723;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2724;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2725;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2728;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;15PJ;00;OBS De Meerburgh;2722BN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  30;ander land;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2515;'s-Gravenhage;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2571;'s-Gravenhage;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2712;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;7;5;10;6;3;8;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;637;Zoetermeer;2713;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;15;9;12;16;10;14;4;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;637;Zoetermeer;2715;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;2;2;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2716;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2717;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2719;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2721;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;3;1;7;6;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;637;Zoetermeer;2723;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2726;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2728;Zoetermeer;15PJ;01;OBS De Meerburgh;2712RN;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  40;Onbekend;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;0;2;1;1;1;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2712;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2713;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2715;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2721;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2722;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;10;16;10;17;14;12;10;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;637;Zoetermeer;2723;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2725;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;15RM;00;Jacobsvlinder;2722EK;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2518;'s-Gravenhage;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2553;'s-Gravenhage;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2628;Delft;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2713;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;2;0;3;1;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2715;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;7;12;6;3;5;2;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;637;Zoetermeer;2716;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;9;18;14;16;12;15;10;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;637;Zoetermeer;2717;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;4;2;4;2;1;1;2;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;637;Zoetermeer;2718;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2719;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;3;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2723;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2728;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2751;Zuidplas;15UC;00;Het Zwanenbos;2716PH;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2262;Leidschendam-Voorburg;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2713;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;3;3;4;3;7;5;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;637;Zoetermeer;2715;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;18;12;13;14;10;11;11;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;637;Zoetermeer;2716;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;5;7;6;6;8;5;15;8;1;2;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;637;Zoetermeer;2717;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;6;2;0;0;2;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;637;Zoetermeer;2719;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2729;Zoetermeer;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;8251;Dronten;15UT;00;RK BS De Regenboog;2715RP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2586;'s-Gravenhage;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;4;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2712;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;5;4;6;2;6;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;637;Zoetermeer;2713;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;26;13;5;9;9;6;11;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;637;Zoetermeer;2715;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;4;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2716;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;3;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2717;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2721;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;1;1;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2723;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2725;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2728;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2751;Zuidplas;15WH;00;IKC Stella Nova;2713VM;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2545;'s-Gravenhage;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2586;'s-Gravenhage;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2593;'s-Gravenhage;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2612;Delft;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;2;6;7;2;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;637;Zoetermeer;2712;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;14;29;26;19;17;17;17;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;637;Zoetermeer;2713;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;12;14;7;13;14;11;13;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;637;Zoetermeer;2715;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2716;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2717;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2719;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;3;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2722;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;4;3;5;8;4;9;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;637;Zoetermeer;2723;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2725;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;15XB;00;RK Basissch Paulus;2712RN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2612;Delft;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2717;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2721;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2723;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2724;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2725;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2727;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;3;2;3;4;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;637;Zoetermeer;2728;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;16;7;13;13;22;23;13;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;637;Zoetermeer;2729;Zoetermeer;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2735;Zoeterwoude;15YJ;00;Noordeinde;2728DC;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2492;'s-Gravenhage;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2493;'s-Gravenhage;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2496;'s-Gravenhage;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2498;'s-Gravenhage;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2591;'s-Gravenhage;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2612;Delft;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2642;Pijnacker-Nootdorp;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2665;Lansingerland;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;3;4;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;637;Zoetermeer;2715;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;12;10;5;12;14;4;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;637;Zoetermeer;2716;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;43;35;27;28;29;17;25;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;219
+20171001;637;Zoetermeer;2717;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;5;1;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2718;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2719;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2721;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2722;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2723;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2728;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;4;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2729;Zoetermeer;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;3155;Midden-Delfland;15YP;00;OBS De Piramide;2716BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;15ZD;00;RK BS De Achtsprong;2722BN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;15ZD;00;RK BS De Achtsprong;2722BN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;15ZD;00;RK BS De Achtsprong;2722BN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;9;8;8;9;9;5;13;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;637;Zoetermeer;2729;Zoetermeer;15ZD;00;RK BS De Achtsprong;2722BN;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  30;ander land;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2513;'s-Gravenhage;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;15;31;27;22;31;18;21;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;637;Zoetermeer;2719;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;16CC;00;BS De Watersnip;2717BG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2353;Leiderdorp;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;2;3;1;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2715;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;11;12;14;11;10;10;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;637;Zoetermeer;2716;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;4;8;7;11;8;10;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;637;Zoetermeer;2717;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;3;0;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2718;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2722;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2727;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;16DI;00;Prinses Amaliaschool;2715BT;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2541;'s-Gravenhage;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;3;3;4;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2712;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2715;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2716;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2717;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;21;19;19;18;10;10;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;637;Zoetermeer;2721;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2723;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2725;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;6;6;8;3;7;5;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;637;Zoetermeer;2726;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;29;20;31;18;29;16;25;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;637;Zoetermeer;2727;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2728;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2729;Zoetermeer;16GD;00;Bs Het Plankier;2725PG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2262;Leidschendam-Voorburg;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2712;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2716;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;2;5;6;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;637;Zoetermeer;2721;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2723;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2724;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2725;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;34;41;38;33;35;27;31;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;264
+20171001;637;Zoetermeer;2726;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;12;8;9;8;7;5;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;637;Zoetermeer;2727;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;3;6;3;1;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;637;Zoetermeer;2728;Zoetermeer;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;3;0;3;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;6721;Ede;16HN;00;BS De Tjalk;2725BR;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2497;'s-Gravenhage;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2632;Pijnacker-Nootdorp;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2712;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2715;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2718;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;3;2;5;0;1;2;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;637;Zoetermeer;2723;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;8;11;6;11;16;4;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;637;Zoetermeer;2724;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;10;7;18;19;11;8;15;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;637;Zoetermeer;2727;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;2;3;2;5;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;637;Zoetermeer;2728;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;3328;Dordrecht;16IR;00;Bs De Hofvijver;2724CA;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2273;Leidschendam-Voorburg;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;3;0;0;5;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;637;Zoetermeer;2712;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2713;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2716;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;9;7;6;8;13;8;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;637;Zoetermeer;2719;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2724;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2725;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;3;5;6;3;6;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;637;Zoetermeer;2726;Zoetermeer;16JW;00;Prinses Margrietschool;2726KE;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;7;14;10;10;15;16;10;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;637;Zoetermeer;2284;Rijswijk;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2522;'s-Gravenhage;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2523;'s-Gravenhage;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2652;Lansingerland;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;1;0;3;1;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;637;Zoetermeer;2712;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2716;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2717;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2719;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2722;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;4;1;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;637;Zoetermeer;2723;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;9;16;10;14;12;9;16;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;637;Zoetermeer;2724;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;9;24;16;20;17;19;17;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;637;Zoetermeer;2725;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2726;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;2;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2727;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;8;15;9;7;9;9;8;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;637;Zoetermeer;2728;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;5;3;6;3;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;637;Zoetermeer;2729;Zoetermeer;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;2;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;16KB;00;Seghwaert;2724TT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2263;Leidschendam-Voorburg;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2496;'s-Gravenhage;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2574;'s-Gravenhage;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2715;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2716;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2719;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2722;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2723;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;3;0;5;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2725;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;8;9;10;9;7;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;637;Zoetermeer;2728;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;33;37;37;33;27;21;16;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;637;Zoetermeer;2729;Zoetermeer;16ND;00;OBS De Baanbreker;2728AG;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;2;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2221;Katwijk;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2263;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2272;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2275;Leidschendam-Voorburg;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2284;Rijswijk;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2317;Leiden;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2321;Leiden;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2402;Alphen aan den Rijn;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;2;2;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2493;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2496;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2512;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2515;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2516;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2531;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2573;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2591;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2592;'s-Gravenhage;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2623;Delft;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2632;Pijnacker-Nootdorp;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2642;Pijnacker-Nootdorp;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2643;Pijnacker-Nootdorp;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2645;Pijnacker-Nootdorp;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2652;Lansingerland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2661;Lansingerland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2662;Lansingerland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2672;Westland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2678;Westland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2694;Westland;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2713;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2715;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2717;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;2;1;1;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2718;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2719;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2722;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2723;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2725;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2727;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2728;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2729;Zoetermeer;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2742;Waddinxveen;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2771;Alphen aan den Rijn;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2802;Gouda;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2807;Gouda;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2841;Zuidplas;17GW;07;Kentalis Zoetermeer De Voorde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1035;Amsterdam;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1065;Amsterdam;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1091;Amsterdam;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1093;Amsterdam;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1502;Zaanstad;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1622;Hoorn;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1702;Heerhugowaard;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1951;Velsen;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1972;Velsen;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2151;Haarlemmermeer;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2235;Katwijk;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2251;Voorschoten;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2497;'s-Gravenhage;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2516;'s-Gravenhage;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2561;'s-Gravenhage;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2572;'s-Gravenhage;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2694;Westland;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2717;Zoetermeer;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2743;Waddinxveen;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3119;Schiedam;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3812;Amersfoort;17GW;21;Kentalis Zoetermeer VSO;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2261;Leidschendam-Voorburg;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2317;Leiden;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2352;Leiderdorp;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2353;Leiderdorp;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2522;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2523;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2526;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2532;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2542;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2543;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2548;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2563;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2564;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2565;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2573;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2581;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2591;'s-Gravenhage;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2625;Delft;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2652;Lansingerland;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2717;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2719;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2728;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2751;Zuidplas;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2811;Bodegraven-Reeuwijk;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3028;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3038;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3055;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3059;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3061;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3068;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3069;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3131;Vlaardingen;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3137;Vlaardingen;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3162;Albrandswaard;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3194;Rotterdam;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3206;Nissewaard;17GW;22;Kentalis De Tamarinde;2716NR;ZOETERMEER;Zuid-Holland;So;Protestants-Christelijk;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1034;Amsterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1067;Amsterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1078;Amsterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1097;Amsterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1325;Almere;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1521;Zaanstad;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;1567;Zaanstad;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2202;Noordwijk;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2211;Noordwijkerhout;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2225;Katwijk;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2231;Katwijk;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2241;Wassenaar;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2288;Rijswijk;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2289;Rijswijk;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2315;Leiden;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2317;Leiden;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2353;Leiderdorp;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2481;Kaag en Braassem;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2518;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2526;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2541;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2551;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2561;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2592;'s-Gravenhage;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2672;Westland;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2728;Zoetermeer;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2729;Zoetermeer;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2801;Gouda;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2831;Krimpenerwaard;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2904;Capelle aan den IJssel;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3075;Rotterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3078;Rotterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3081;Rotterdam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3122;Schiedam;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3155;Midden-Delfland;17GW;23;Kentalis Zoetermeer De Linde;2716NR;ZOETERMEER;Zuid-Holland;Vso;Protestants-Christelijk;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2711;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2713;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2715;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2716;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2717;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2718;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2721;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;1;0;5;2;3;5;6;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;637;Zoetermeer;2722;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;1;0;2;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2723;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;637;Zoetermeer;2724;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2725;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2726;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2728;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;1;0;2;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2729;Zoetermeer;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;1;1;1;5;10;5;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2751;Zuidplas;19KH;00;SSBO De Vuurtoren;2721GP;ZOETERMEER;Zuid-Holland;Sbo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2273;Leidschendam-Voorburg;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2525;'s-Gravenhage;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2532;'s-Gravenhage;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2713;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2715;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2718;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;35;30;43;29;37;42;29;27;4;0;0;0;0;0;0;0;0;0;0;0;0;0;276
+20171001;637;Zoetermeer;2719;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;5;4;9;8;10;3;8;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;637;Zoetermeer;2721;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2722;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;2;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2724;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2728;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2742;Waddinxveen;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;3137;Vlaardingen;22LY;00;RK Basisschool Het Palet;2718BZ;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  40;Onbekend;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2652;Lansingerland;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2713;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2715;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2717;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;10;17;11;23;17;21;14;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;637;Zoetermeer;2719;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;22MB;00;De Saffier;2718JT;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2642;Pijnacker-Nootdorp;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;1;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2711;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2712;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2713;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2715;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;2;0;0;0;1;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2717;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2718;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;11;13;16;20;21;15;13;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;637;Zoetermeer;2719;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;1;3;3;3;4;1;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;637;Zoetermeer;2724;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2725;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2726;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2728;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2729;Zoetermeer;23FH;00;Passe Partout Mont.school;2718CT;ZOETERMEER;Zuid-Holland;Bo;Algemeen bijzonder;41324;0;0;1;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2265;Leidschendam-Voorburg;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2408;Alphen aan den Rijn;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2493;'s-Gravenhage;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2496;'s-Gravenhage;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2522;'s-Gravenhage;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2631;Pijnacker-Nootdorp;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2651;Lansingerland;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2716;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2718;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2721;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2722;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2723;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2726;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2728;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2729;Zoetermeer;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2741;Waddinxveen;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2742;Waddinxveen;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2841;Zuidplas;23GJ;01;Pleysier College Zoetermeer;2716GV;ZOETERMEER;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2273;Leidschendam-Voorburg;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2643;Pijnacker-Nootdorp;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2652;Lansingerland;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;2;1;2;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;637;Zoetermeer;2713;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;3;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2715;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;637;Zoetermeer;2716;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;1;0;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2717;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2718;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;5;12;11;7;6;12;7;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;637;Zoetermeer;2719;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;25;34;38;37;45;38;35;24;0;0;0;0;0;0;0;0;0;0;0;0;0;0;276
+20171001;637;Zoetermeer;2721;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2724;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2726;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2728;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2729;Zoetermeer;24CP;00;OBS de Waterlelie;2719HE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  30;ander land;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2564;'s-Gravenhage;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;3;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2651;Lansingerland;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2711;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2713;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;1;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2715;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2718;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;13;20;9;9;5;8;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;637;Zoetermeer;2719;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;31;23;35;23;14;9;11;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;637;Zoetermeer;2726;Zoetermeer;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2751;Zuidplas;24CR;00;Prins Clausschool;2719VG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2264;Leidschendam-Voorburg;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2265;Leidschendam-Voorburg;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2266;Leidschendam-Voorburg;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2285;Rijswijk;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2492;'s-Gravenhage;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2493;'s-Gravenhage;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2498;'s-Gravenhage;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2565;'s-Gravenhage;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2611;Delft;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2632;Pijnacker-Nootdorp;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2635;Midden-Delfland;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2641;Pijnacker-Nootdorp;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2645;Pijnacker-Nootdorp;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2651;Lansingerland;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2661;Lansingerland;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2715;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2716;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2718;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;4;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2719;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;16;18;20;18;21;17;12;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;637;Zoetermeer;2721;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2722;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2727;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2728;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2729;Zoetermeer;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2751;Zuidplas;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2802;Gouda;24CT;00;RK Basissch De Floriant;2719HP;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;  30;ander land;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2352;Leiderdorp;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2498;'s-Gravenhage;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2643;Pijnacker-Nootdorp;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2718;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;2;7;5;7;9;3;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;637;Zoetermeer;2722;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2723;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2724;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;1;0;3;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2725;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2726;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2728;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;2;1;2;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;637;Zoetermeer;2729;Zoetermeer;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;34;37;32;46;41;47;52;41;9;0;0;0;0;0;0;0;0;0;0;0;0;0;339
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;3927;Renswoude;27MC;00;Prins Florisschool;2729CN;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;  30;ander land;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2261;Leidschendam-Voorburg;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2281;Rijswijk;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2391;Alphen aan den Rijn;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2497;'s-Gravenhage;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2665;Lansingerland;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2711;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2712;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2713;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2715;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;2;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2716;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2717;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2718;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2719;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2721;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;60;56;63;57;70;63;47;36;8;0;0;0;0;0;0;0;0;0;0;0;0;0;460
+20171001;637;Zoetermeer;2722;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;1;1;3;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2723;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;2;3;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2724;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;1;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2725;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2726;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2727;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2728;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;3;1;1;3;1;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;637;Zoetermeer;2729;Zoetermeer;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;30;40;54;50;50;55;59;54;6;0;0;0;0;0;0;0;0;0;0;0;0;0;398
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;3;1;0;0;2;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;637;Zoetermeer;2751;Zuidplas;27ME;00;RK Basisschool De Oostwijzer;2721GG;ZOETERMEER;Zuid-Holland;Bo;Rooms-Katholiek;40377;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2391;Alphen aan den Rijn;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2713;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2716;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2717;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2721;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;5;5;3;6;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;637;Zoetermeer;2722;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2723;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2724;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2725;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2726;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2727;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2728;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2729;Zoetermeer;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;13;12;15;16;15;14;17;18;4;1;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2735;Zoeterwoude;27MG;00;De Trinoom;2729EB;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;  30;ander land;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2351;Leiderdorp;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2408;Alphen aan den Rijn;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2493;'s-Gravenhage;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2497;'s-Gravenhage;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2591;'s-Gravenhage;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2651;Lansingerland;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2711;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;4;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2712;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;637;Zoetermeer;2713;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2715;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2717;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2718;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2719;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;45;47;60;35;47;43;46;30;3;0;0;0;0;0;0;0;0;0;0;0;0;0;356
+20171001;637;Zoetermeer;2722;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2723;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;3;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;637;Zoetermeer;2724;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;0;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2725;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2726;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2727;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2728;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;5;0;2;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;637;Zoetermeer;2729;Zoetermeer;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;35;31;26;29;29;24;31;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2751;Zuidplas;28AL;00;Fl. Nightingale;2721GE;ZOETERMEER;Zuid-Holland;Bo;Openbaar;41390;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2274;Leidschendam-Voorburg;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2532;'s-Gravenhage;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2665;Lansingerland;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2712;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2713;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2715;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2716;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;637;Zoetermeer;2717;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2719;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;637;Zoetermeer;2721;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;39;51;46;37;51;53;36;52;4;0;0;0;0;0;0;0;0;0;0;0;0;0;369
+20171001;637;Zoetermeer;2722;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;637;Zoetermeer;2723;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2724;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;2725;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2726;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;637;Zoetermeer;2727;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;2728;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;2;1;1;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;637;Zoetermeer;2729;Zoetermeer;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;18;25;20;16;26;18;15;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;637;Zoetermeer;2731;Alphen aan den Rijn;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;637;Zoetermeer;2751;Zuidplas;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;637;Zoetermeer;3069;Rotterdam;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;637;Zoetermeer;8251;Dronten;28DC;00;Oranjerie;2721GG;ZOETERMEER;Zuid-Holland;Bo;Protestants-Christelijk;40377;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

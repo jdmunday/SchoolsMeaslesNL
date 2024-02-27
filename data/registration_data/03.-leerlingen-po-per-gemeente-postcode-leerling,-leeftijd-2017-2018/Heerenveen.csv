@@ -1,0 +1,340 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;74;Heerenveen;8441;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8442;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;3;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8443;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8445;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;8447;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8448;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8458;Heerenveen;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8465;De Fryske Marren;03ZV;00;GBS Futura;8447AT;HEERENVEEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8468;Heerenveen;04DG;00;Chr Basissch De Finne;8495JA;ALDEBOARN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8495;Heerenveen;04DG;00;Chr Basissch De Finne;8495JA;ALDEBOARN;Friesland;Bo;Protestants-Christelijk;41419;0;11;6;14;11;10;9;9;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;74;Heerenveen;8831;Littenseradiel;04DG;00;Chr Basissch De Finne;8495JA;ALDEBOARN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8404;Opsterland;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8411;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8448;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8454;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8455;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8456;Heerenveen;04MO;00;Chr Basissch De Pream;8456HR;DE KNIPE;Friesland;Bo;Protestants-Christelijk;41282;0;1;2;3;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;74;Heerenveen;8441;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8449;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;1;3;2;2;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;74;Heerenveen;8457;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;1;4;0;3;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;74;Heerenveen;8458;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;9;10;11;10;8;12;18;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;74;Heerenveen;8459;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;6;7;9;4;5;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;74;Heerenveen;8469;Heerenveen;04VG;00;SWS De Nijewier;8458BJ;TJALLEBERD;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8401;Opsterland;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;6;10;6;4;2;7;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;74;Heerenveen;8443;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8445;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8446;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;5;1;0;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;74;Heerenveen;8447;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8448;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8451;Heerenveen;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8465;De Fryske Marren;07PR;00;RK Basisschool St Jozef;8442BC;HEERENVEEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;2;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8413;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;4;5;4;6;2;9;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;74;Heerenveen;8414;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;5;5;5;9;5;8;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;74;Heerenveen;8415;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8443;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8455;Heerenveen;08AG;00;Meester S Wybrandisch;8413NM;OUDEHORNE;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8441;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8442;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8446;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;1;2;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;74;Heerenveen;8447;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;13;13;18;18;18;16;12;17;1;1;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;74;Heerenveen;8448;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8469;Heerenveen;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8507;De Fryske Marren;14BO;00;De Optimist;8447BS;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;7961;De Wolden;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8414;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;13;12;22;14;21;18;25;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;74;Heerenveen;8442;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;2;1;2;1;2;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;74;Heerenveen;8445;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8447;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;3;1;2;4;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;74;Heerenveen;8448;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;2;0;3;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;74;Heerenveen;8451;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8456;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8468;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8469;Heerenveen;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;2;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8507;De Fryske Marren;14EP;00;V Maasdijkschool;8441CP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;5;1;1;5;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;74;Heerenveen;8443;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8445;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8446;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;25;19;15;22;16;20;25;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;74;Heerenveen;8447;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;2;1;6;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8453;Heerenveen;14JW;00;Ekke de Haanschool;8446CL;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8442;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;3;0;2;2;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;74;Heerenveen;8443;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8445;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;19;10;17;17;16;21;14;14;4;2;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;74;Heerenveen;8447;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8448;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8451;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8452;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8461;De Fryske Marren;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8465;De Fryske Marren;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8468;Heerenveen;14ML;00;Obs Het Vogelnest;8446HM;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8391;Weststellingwerf;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;5;7;7;7;8;11;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;74;Heerenveen;8443;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;15;9;16;10;13;12;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;74;Heerenveen;8444;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8445;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;5;2;3;2;1;6;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;74;Heerenveen;8446;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8447;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8451;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8452;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8461;De Fryske Marren;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8464;De Fryske Marren;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8491;Heerenveen;14YF;00;OBS Route 0513;8443AJ;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8468;Heerenveen;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8491;Heerenveen;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;12;9;18;17;13;13;14;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;74;Heerenveen;8493;De Fryske Marren;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8494;Heerenveen;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;6;5;5;8;3;11;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;74;Heerenveen;8495;Heerenveen;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8941;Leeuwarden;15BD;00;CBS Ds Hasperschool;8491HA;AKKRUM;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;15ET;00;Skoatterwiis;8451CN;OUDESCHOOT;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;15ET;00;Skoatterwiis;8451CN;OUDESCHOOT;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8451;Heerenveen;15ET;00;Skoatterwiis;8451CN;OUDESCHOOT;Friesland;Bo;Openbaar;41573;0;11;10;15;6;11;6;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;74;Heerenveen;8454;Heerenveen;15ET;00;Skoatterwiis;8451CN;OUDESCHOOT;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8468;Heerenveen;15GC;00;De Boarne;8495KH;ALDEBOARN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8495;Heerenveen;15GC;00;De Boarne;8495KH;ALDEBOARN;Friesland;Bo;Openbaar;41573;0;8;12;16;16;15;12;13;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;74;Heerenveen;9215;Smallingerland;15GC;00;De Boarne;8495KH;ALDEBOARN;Friesland;Bo;Openbaar;41573;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8411;Heerenveen;15IB;00;Op e Grins;8412SW;HOORNSTERZWAAG;Friesland;Bo;Openbaar;41573;0;1;1;1;4;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;74;Heerenveen;8412;Heerenveen;15IB;00;Op e Grins;8412SW;HOORNSTERZWAAG;Friesland;Bo;Openbaar;41573;0;6;4;5;9;5;7;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;74;Heerenveen;8401;Opsterland;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8408;Opsterland;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8411;Heerenveen;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;13;25;16;15;26;17;21;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;74;Heerenveen;8412;Heerenveen;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;2;2;0;2;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;74;Heerenveen;8413;Heerenveen;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8435;Ooststellingwerf;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8447;Heerenveen;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8624;S∑dwest-Frysl‘n;15KU;00;De Feart;8411RC;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;15NI;00;Mr J B Kansch;8411KD;JUBBEGA;Friesland;Bo;Openbaar;41573;0;4;8;11;9;10;8;6;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;74;Heerenveen;8412;Heerenveen;15NI;00;Mr J B Kansch;8411KD;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8413;Heerenveen;15NI;00;Mr J B Kansch;8411KD;JUBBEGA;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;1271;Huizen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8449;Heerenveen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8468;Heerenveen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;0;1;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8491;Heerenveen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;19;15;28;31;17;33;20;23;6;0;0;0;0;0;0;0;0;0;0;0;0;0;192
+20171001;74;Heerenveen;8493;De Fryske Marren;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8494;Heerenveen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;4;9;5;8;9;11;11;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;74;Heerenveen;8495;Heerenveen;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8921;Leeuwarden;15OK;00;OBS Akkrum;8491HA;AKKRUM;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8404;Opsterland;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8407;Opsterland;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8409;Opsterland;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8415;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;1;0;1;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;74;Heerenveen;8441;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8447;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8448;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;3;2;2;4;0;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;74;Heerenveen;8455;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8456;Heerenveen;15PW;00;Compagnonssch;8456HR;DE KNIPE;Friesland;Bo;Openbaar;41573;0;12;6;12;8;4;7;8;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;74;Heerenveen;8392;Weststellingwerf;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8413;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8414;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8415;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8442;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8448;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8451;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8453;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8454;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;4;1;5;3;6;7;4;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;74;Heerenveen;8455;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;0;4;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;74;Heerenveen;8458;Heerenveen;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8474;Weststellingwerf;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8477;Weststellingwerf;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8487;Weststellingwerf;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9204;Smallingerland;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9221;Smallingerland;15SG;00;Tjongerschool;8454KD;MILDAM;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8413;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8414;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;4;9;3;9;7;14;11;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;74;Heerenveen;8415;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8426;Ooststellingwerf;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8455;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;1;0;1;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8458;Heerenveen;15UN;00;Sevenaerschool;8414LR;NIEUWEHORNE;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;3;0;0;1;1;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8443;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;7;2;5;1;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;74;Heerenveen;8445;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8447;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8448;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;3;2;4;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;74;Heerenveen;8451;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8453;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;6;4;6;5;9;7;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;74;Heerenveen;8454;Heerenveen;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8461;De Fryske Marren;15WU;00;Albertine Agnessch;8453XC;ORANJEWOUD;Friesland;Bo;Openbaar;41573;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8442;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;2;0;0;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8443;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;2;4;9;8;5;5;6;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;74;Heerenveen;8445;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8446;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8447;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8448;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8451;Heerenveen;17JL;00;Cbs Spring!;8443AJ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;3;3;3;4;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;74;Heerenveen;8441;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;20;23;17;14;12;9;15;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;74;Heerenveen;8442;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;2;2;2;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;74;Heerenveen;8445;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8447;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;2;4;3;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;74;Heerenveen;8448;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8456;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8468;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8469;Heerenveen;17LQ;00;Chr BS De Hoeksteen;8441CA;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;1;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8401;Opsterland;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8441;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8443;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;2;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;8445;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;5;1;5;4;2;9;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;74;Heerenveen;8446;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;21;17;12;28;10;11;13;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;74;Heerenveen;8447;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;4;1;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;74;Heerenveen;8448;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8451;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8452;Heerenveen;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8461;De Fryske Marren;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;2;0;3;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8463;De Fryske Marren;17MI;00;Chr Bs de Roerganger;8446KC;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8414;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8442;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;1;2;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;74;Heerenveen;8443;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8445;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8446;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;17;16;24;22;17;15;15;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;74;Heerenveen;8447;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;3;2;9;3;6;2;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;74;Heerenveen;8451;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8468;Heerenveen;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8607;S∑dwest-Frysl‘n;17MX;00;Chr Basissch Het Kompas;8446EZ;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8401;Opsterland;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8404;Opsterland;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8406;Opsterland;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8411;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;1;0;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8412;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8414;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8415;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8441;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8442;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8443;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8445;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;3;1;1;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;74;Heerenveen;8447;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8448;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8451;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;1;0;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8456;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8458;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8459;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8463;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8464;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8465;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8467;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8491;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8495;Heerenveen;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8501;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;1;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8506;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8517;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8525;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8539;De Fryske Marren;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8924;Leeuwarden;19QV;00;SSBO I t Oerset;8448GK;HEERENVEEN;Friesland;Sbo;Openbaar;41573;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8383;Westerveld;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8389;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8391;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8391;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8397;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8401;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8404;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8406;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8407;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8411;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8421;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8423;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8423;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8428;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8431;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8431;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;2;0;2;2;0;1;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8433;Ooststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8442;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8442;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8443;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8445;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8446;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8447;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8447;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8448;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8451;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8451;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8453;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8454;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8454;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8458;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8464;De Fryske Marren;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8465;De Fryske Marren;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8471;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;8471;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;3;2;2;0;2;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8477;Weststellingwerf;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8491;Heerenveen;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8502;De Fryske Marren;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8525;De Fryske Marren;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8531;De Fryske Marren;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;9001;Leeuwarden;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9241;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;9245;Opsterland;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9341;Noordenveld;19TX;00;Meester Duisterhoutsch;8448GK;HEERENVEEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;7827;Emmen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8374;Steenwijkerland;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8403;Opsterland;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8441;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;1;2;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;74;Heerenveen;8442;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;6;6;6;8;2;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;74;Heerenveen;8443;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;8445;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8446;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;2;0;3;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8447;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;2;0;1;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;74;Heerenveen;8448;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;18;36;31;29;27;33;37;30;2;0;0;0;0;0;0;0;0;0;0;0;0;0;243
+20171001;74;Heerenveen;8449;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8451;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;74;Heerenveen;8453;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;1;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;74;Heerenveen;8454;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;1;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;74;Heerenveen;8459;Heerenveen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8461;De Fryske Marren;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8465;De Fryske Marren;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8539;De Fryske Marren;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9403;Assen;27RK;00;o.b.s. Het Slingertouw;8448RP;HEERENVEEN;Friesland;Bo;Openbaar;41573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8401;Opsterland;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8403;Opsterland;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8414;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8441;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8442;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;5;5;2;4;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;74;Heerenveen;8443;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;3;3;1;2;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;74;Heerenveen;8445;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8446;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;4;4;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;74;Heerenveen;8447;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8448;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;39;48;43;50;37;45;39;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;332
+20171001;74;Heerenveen;8451;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8453;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;1;4;3;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;74;Heerenveen;8455;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8456;Heerenveen;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;74;Heerenveen;8461;De Fryske Marren;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8462;De Fryske Marren;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8465;De Fryske Marren;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8521;De Fryske Marren;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9311;Noordenveld;30PW;00;De Burcht;8448RP;HEERENVEEN;Friesland;Bo;Protestants-Christelijk;42540;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8409;Opsterland;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8441;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8442;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;74;Heerenveen;8443;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8446;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;4;2;3;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;74;Heerenveen;8447;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8448;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;74;Heerenveen;8451;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8453;Heerenveen;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8461;De Fryske Marren;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;74;Heerenveen;8464;De Fryske Marren;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8476;Weststellingwerf;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;8477;Weststellingwerf;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8507;De Fryske Marren;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;8525;De Fryske Marren;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;74;Heerenveen;9001;Leeuwarden;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;74;Heerenveen;9051;Leeuwarderadeel;31DF;00;Stichting De Buitenkans;8448ML;HEERENVEEN;Friesland;Bo;Algemeen bijzonder;42728;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

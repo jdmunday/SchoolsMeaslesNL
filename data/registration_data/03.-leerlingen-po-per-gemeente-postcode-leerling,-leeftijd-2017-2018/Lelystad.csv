@@ -1,0 +1,612 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;995;Lelystad;1356;Almere;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;3849;Harderwijk;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8219;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8226;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;5;6;3;6;3;4;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;995;Lelystad;8231;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8241;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8244;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;00GZ;00;Maharishi Basisschool;8226LP;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41335;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8211;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;3;2;2;4;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;995;Lelystad;8218;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8219;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8223;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;1;3;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8224;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;5;6;3;4;6;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;995;Lelystad;8226;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;5;6;10;6;7;10;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;995;Lelystad;8231;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;4;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8232;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;3;4;0;3;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;995;Lelystad;8239;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;0;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8243;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;3;1;3;2;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;995;Lelystad;8244;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8245;Lelystad;06RU;00;Basisschool De Helmstok;8226GS;LELYSTAD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;3;1;1;2;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;1602;Enkhuizen;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;7;4;7;6;4;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;995;Lelystad;1611;Stede Broec;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1613;Stede Broec;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1619;Medemblik;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;3892;Zeewolde;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3894;Zeewolde;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;3897;Zeewolde;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;3898;Zeewolde;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8219;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;1;2;2;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8223;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;0;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8224;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8225;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8226;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8231;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8241;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;0;3;0;1;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8245;Lelystad;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;1;1;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8253;Dronten;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8255;Dronten;07AA;00;Timotheussch;8224AD;LELYSTAD;Flevoland;Bo;Reformatorisch;78197;0;1;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;1325;Almere;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;12;22;12;24;22;31;22;19;7;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;995;Lelystad;8224;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;3;4;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;995;Lelystad;8225;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8226;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8231;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8232;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8244;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;12QA;00;Basisschool Laetare;8223ZR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3853;Ermelo;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8224;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8225;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8231;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;7;6;8;7;8;6;10;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;995;Lelystad;8232;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;17;32;33;25;34;15;14;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;995;Lelystad;8241;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;4;1;1;1;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8243;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;7;7;5;8;7;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;995;Lelystad;8244;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8245;Lelystad;12XI;00;RK Basisschool de Kring;8232ZA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8223;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8224;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8226;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8232;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8241;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;7;6;6;1;5;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;995;Lelystad;8243;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;19;28;35;43;35;32;26;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;243
+20171001;995;Lelystad;8244;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;6;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8245;Lelystad;13DH;00;RK Basisschool Toermalijn;8243LR;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1078;Amsterdam;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1363;Almere;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;1;1;1;0;2;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8219;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8224;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;1;1;1;2;0;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;995;Lelystad;8225;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;21;25;28;31;17;39;31;17;7;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;995;Lelystad;8226;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;4;4;6;6;7;6;8;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;995;Lelystad;8231;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8232;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8242;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8243;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8245;Lelystad;13IP;00;RK Bs 't Schrijverke;8225AZ;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;1;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;1333;Almere;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8223;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;0;0;5;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8224;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;2;2;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8225;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;1;2;1;1;0;0;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;995;Lelystad;8226;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;1;1;1;1;6;3;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;995;Lelystad;8231;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;1;1;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8232;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;0;2;1;2;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8241;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;0;1;3;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8243;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;2;2;2;1;1;5;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;995;Lelystad;8244;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;1;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8245;Lelystad;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;1;2;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8255;Dronten;14AK;00;SSBO De Watergeus;8232HM;LELYSTAD;Flevoland;Sbo;Openbaar;42552;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8219;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;1;1;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8224;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;1;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8226;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;1;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8231;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8232;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8242;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8244;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8245;Lelystad;14CG;00;Chr SSBO De Vogelveste;8231JV;LELYSTAD;Flevoland;Sbo;Protestants-Christelijk;60985;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1335;Almere;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;5;12;6;4;10;7;12;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;995;Lelystad;8224;Lelystad;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;1;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8231;Lelystad;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;14KM;00;Ichthus;8223ZL;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;6445;Brunssum;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;16;17;12;18;14;16;18;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;995;Lelystad;8219;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8222;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;3;1;0;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8224;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;4;5;5;4;0;4;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;995;Lelystad;8225;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8231;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8232;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;15FM;00;De Wingerd;8212CA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8223;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8225;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8226;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;9;9;12;6;5;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;995;Lelystad;8232;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;1;2;1;2;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8242;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8243;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8244;Lelystad;15IR;00;Het Mozaiek;8231GD;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;2514;'s-Gravenhage;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8218;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8219;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;7;5;11;9;11;11;10;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;995;Lelystad;8224;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8225;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;3;5;4;3;4;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;995;Lelystad;8226;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;15;17;24;35;31;40;38;33;5;0;0;0;0;0;0;0;0;0;0;0;0;0;238
+20171001;995;Lelystad;8231;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8239;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8241;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;15LH;00;3Sprong;8226TA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1323;Almere;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1325;Almere;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1333;Almere;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;2;1;1;1;2;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8224;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;4;3;3;1;1;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8225;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8225;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;2;1;2;1;1;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8226;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;1;0;1;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8226;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;1;1;0;0;0;0;0;6
+20171001;995;Lelystad;8231;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;1;2;0;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8231;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;1;3;0;1;1;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8241;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8242;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8243;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8243;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8244;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8244;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8245;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8245;Lelystad;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;3;0;0;1;1;0;2;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8251;Dronten;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8251;Dronten;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;Vso;Openbaar;42552;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8252;Dronten;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8253;Dronten;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8255;Dronten;15MR;00;De Zevenster;8233GP;LELYSTAD;Flevoland;So;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1335;Almere;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8219;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8222;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8224;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8225;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;4;7;7;5;8;8;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;995;Lelystad;8226;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8231;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8253;Dronten;15NX;00;Basissch De Wildzang;8225HA;LELYSTAD;Flevoland;Bo;Algemeen bijzonder;41226;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1095;Amsterdam;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;16;15;14;18;23;15;17;18;2;1;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;995;Lelystad;8224;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8225;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8226;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8244;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8245;Lelystad;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8607;S∑dwest-Frysl‘n;15PG;00;De Vuurtoren;8223ZL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;4;1;5;7;2;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;995;Lelystad;8219;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8222;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;6;9;7;9;9;7;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;995;Lelystad;8225;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;11;12;14;10;10;11;9;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;995;Lelystad;8226;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8231;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8232;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;1;1;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8243;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8244;Lelystad;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8312;Noordoostpolder;15QG;00;Horizon;8225AN;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8223;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8231;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;3;5;4;4;4;4;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;995;Lelystad;8242;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;2;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8243;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;8;11;7;11;10;7;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;995;Lelystad;8244;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8245;Lelystad;15SQ;00;De Schakel;8243KW;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;8;14;6;15;8;19;14;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;995;Lelystad;1628;Hoorn;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8219;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8224;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8225;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;2;0;1;1;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8226;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;13;14;12;19;18;26;13;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;995;Lelystad;8231;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8232;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8233;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;0;2;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8245;Lelystad;15UW;00;Driestromenland;8226KA;LELYSTAD;Flevoland;Bo;Protestants-Christelijk;60985;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;11;15;18;20;13;17;17;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;995;Lelystad;8219;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;2;3;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8224;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;3;1;5;8;4;3;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;995;Lelystad;8225;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8239;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8242;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8245;Lelystad;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8251;Dronten;15WK;00;De Regenboog;8212CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8222;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8223;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;3;4;3;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;995;Lelystad;8224;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8226;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;15;15;25;16;18;14;16;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;995;Lelystad;8232;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;4;1;4;1;5;5;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;995;Lelystad;8241;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8242;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;2;2;5;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;995;Lelystad;8243;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8244;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8245;Lelystad;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8255;Dronten;16AK;00;De Windroos;8231BG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8224;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8231;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;21;6;8;13;17;12;6;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;995;Lelystad;8232;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;10;7;10;9;3;6;6;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;995;Lelystad;8242;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8243;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;3;1;2;4;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;995;Lelystad;8244;Lelystad;16CA;00;De Lepelaar;8231VW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8223;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8224;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;13;15;20;16;18;22;26;28;7;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;995;Lelystad;8225;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8226;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8232;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8243;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;16DM;00;OBS De Optimist;8224CM;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8219;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8222;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8224;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8225;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8231;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;11;8;10;8;5;8;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;995;Lelystad;8232;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;3;2;0;5;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;995;Lelystad;8241;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;7;9;6;10;12;14;15;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;995;Lelystad;8242;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;31;18;34;28;35;25;34;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;995;Lelystad;8243;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;3;6;3;8;9;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;995;Lelystad;8244;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;1;1;2;3;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;995;Lelystad;8245;Lelystad;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8255;Dronten;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8308;Noordoostpolder;16GB;00;De Boeier;8242VS;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8225;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8226;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8231;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;7;8;4;6;6;5;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;995;Lelystad;8232;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;0;2;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8241;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;14;12;9;12;14;8;10;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;995;Lelystad;8243;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;9;5;6;9;4;3;8;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;995;Lelystad;8244;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;16HL;00;De Albatros;8242AL;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1611;Stede Broec;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;2643;Pijnacker-Nootdorp;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;4;2;3;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;995;Lelystad;8219;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;11;12;8;20;13;14;13;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;995;Lelystad;8223;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;3;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8224;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8225;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;2;3;1;2;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;995;Lelystad;8226;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;24;36;20;27;22;28;26;25;2;0;0;0;0;0;0;0;0;0;0;0;0;0;210
+20171001;995;Lelystad;8231;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;1;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8232;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8239;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8241;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8243;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8244;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8245;Lelystad;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8251;Dronten;16IV;00;De Meander;8226TA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8224;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;3;0;7;2;2;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;995;Lelystad;8242;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8243;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;5;13;17;12;6;13;13;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;995;Lelystad;8244;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8245;Lelystad;16KA;00;De Grundel;8243CA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8212;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;3;3;1;0;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;995;Lelystad;8223;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8224;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;9;8;14;19;9;9;17;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;995;Lelystad;8225;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;10;22;16;16;12;8;20;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;995;Lelystad;8226;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;2;0;0;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8231;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8232;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8233;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8239;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8244;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;2;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8255;Dronten;16MD;00;De Driemaster;8225AG;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8219;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8224;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8225;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;2;0;2;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8226;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8231;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;3;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8242;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8243;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;5;7;3;3;6;7;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;995;Lelystad;8244;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;6;15;8;13;7;10;12;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;995;Lelystad;8245;Lelystad;16NB;00;De Tjotter;8245ER;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;38;43;35;41;41;41;44;27;5;0;0;0;0;0;0;0;0;0;0;0;0;0;315
+20171001;995;Lelystad;1613;Stede Broec;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8225;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8226;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8242;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;5;6;11;6;2;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;995;Lelystad;8243;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;8;14;16;11;8;8;5;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;995;Lelystad;8245;Lelystad;16NU;00;De Finnjol;8243GR;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8224;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8226;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8231;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8232;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;4;3;1;4;6;7;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;995;Lelystad;8243;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;5;13;11;13;11;10;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;995;Lelystad;8245;Lelystad;16UD;00;De Triangel;8243KW;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;  30;ander land;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1276;Huizen;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1323;Almere;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;4533;Terneuzen;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8218;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8219;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8224;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;2;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8225;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8226;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8231;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;12;8;15;19;18;13;11;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;995;Lelystad;8241;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8243;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;7;6;9;10;14;7;5;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;995;Lelystad;8244;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;1;3;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8245;Lelystad;16XS;00;De Tjalk;8232LT;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;3;6;2;9;2;7;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;995;Lelystad;  30;ander land;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1066;Amsterdam;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1068;Amsterdam;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8224;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8225;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;12;21;7;13;2;7;7;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;995;Lelystad;8226;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;5;4;4;3;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;995;Lelystad;8232;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8233;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8241;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8242;Lelystad;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8251;Dronten;16YM;00;De Brink;8225SC;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1314;Almere;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8212;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8219;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8223;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;2;0;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8224;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8225;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;2;0;4;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8226;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;11;13;10;10;11;9;13;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;995;Lelystad;8231;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8232;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8242;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8244;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8245;Lelystad;16ZC;00;De Poolster;8226BA;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8225;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8226;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8242;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;0;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;8244;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;20;14;18;27;41;32;19;24;4;0;0;0;0;0;0;0;0;0;0;0;0;0;199
+20171001;995;Lelystad;8245;Lelystad;16ZS;00;De Sluis;8244AJ;LELYSTAD;Flevoland;Bo;Openbaar;42552;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;1131;Edam-Volendam;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1132;Edam-Volendam;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1261;Blaricum;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1324;Almere;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1333;Almere;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1335;Almere;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1338;Almere;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1353;Almere;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1601;Enkhuizen;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;2;2;4;1;1;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;1602;Enkhuizen;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;4;4;1;4;5;1;1;0;0;0;0;0;0;0;20
+20171001;995;Lelystad;1606;Drechterland;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1607;Drechterland;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1611;Stede Broec;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;3;6;2;1;0;1;1;0;0;0;0;0;0;0;15
+20171001;995;Lelystad;1613;Stede Broec;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;5;1;2;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;1614;Stede Broec;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1616;Drechterland;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;1617;Drechterland;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1619;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;9;4;1;0;1;0;0;0;0;0;0;0;0;16
+20171001;995;Lelystad;1621;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1622;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1623;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1624;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1625;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1628;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;3;0;2;1;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;1633;Koggenland;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1655;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1657;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1671;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;1674;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;1676;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1682;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1684;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1685;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1687;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1688;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1689;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;0;3;1;1;0;2;0;0;0;0;0;0;9
+20171001;995;Lelystad;1691;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1693;Medemblik;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;2;0;0;2;1;0;0;0;0;0;0;0;7
+20171001;995;Lelystad;1695;Hoorn;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1715;Opmeer;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1718;Opmeer;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1777;Hollands Kroon;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3825;Amersfoort;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3844;Harderwijk;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3845;Harderwijk;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3853;Ermelo;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3892;Zeewolde;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;3894;Zeewolde;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;8091;Oldebroek;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8211;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;2;5;1;1;1;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8219;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8221;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8223;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;5;0;2;2;1;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8224;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;3;1;5;4;2;5;0;0;0;1;0;0;0;0;21
+20171001;995;Lelystad;8225;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;3;3;9;9;7;1;0;0;0;0;0;0;0;0;32
+20171001;995;Lelystad;8226;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;5;4;6;8;3;0;1;0;0;0;0;0;0;29
+20171001;995;Lelystad;8231;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;3;5;5;2;4;4;1;1;0;0;0;0;0;0;25
+20171001;995;Lelystad;8232;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;3;1;2;5;3;0;1;0;0;0;0;0;0;17
+20171001;995;Lelystad;8241;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;3
+20171001;995;Lelystad;8242;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;5;8;6;6;7;1;1;0;0;0;0;0;0;0;35
+20171001;995;Lelystad;8243;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;4;4;4;7;5;3;3;0;0;0;0;0;0;0;30
+20171001;995;Lelystad;8244;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8245;Lelystad;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;4;4;3;4;1;1;1;0;0;0;0;0;0;18
+20171001;995;Lelystad;8251;Dronten;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;5;8;7;3;5;1;0;0;0;0;0;0;0;30
+20171001;995;Lelystad;8252;Dronten;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;2;0;5;2;1;1;0;0;0;0;0;0;0;13
+20171001;995;Lelystad;8253;Dronten;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;3;4;0;4;5;3;0;1;0;0;0;0;0;0;20
+20171001;995;Lelystad;8255;Dronten;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;4;6;11;4;2;1;0;0;0;0;0;0;0;30
+20171001;995;Lelystad;8256;Dronten;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;3;3;4;6;0;1;0;0;0;0;0;0;0;18
+20171001;995;Lelystad;8261;Kampen;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8262;Kampen;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8264;Kampen;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8301;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;995;Lelystad;8302;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;5
+20171001;995;Lelystad;8303;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;2;1;2;0;4;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8304;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8307;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8308;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8309;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;1;0;0;0;0;0;0;5
+20171001;995;Lelystad;8312;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8313;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8316;Noordoostpolder;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8321;Urk;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;1;2;2;0;1;1;0;0;0;0;0;0;8
+20171001;995;Lelystad;8322;Urk;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8514;De Fryske Marren;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8517;De Fryske Marren;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8531;De Fryske Marren;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8567;De Fryske Marren;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8603;S∑dwest-Frysl‘n;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8608;S∑dwest-Frysl‘n;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8621;S∑dwest-Frysl‘n;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8701;S∑dwest-Frysl‘n;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8896;Terschelling;23HU;00;Eduvierschool De Anger;8243TC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;  30;ander land;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;  40;Onbekend;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;2
+20171001;995;Lelystad;1015;Amsterdam;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1025;Amsterdam;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;995;Lelystad;1107;Amsterdam;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;995;Lelystad;1509;Zaanstad;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;2133;Haarlemmermeer;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;2515;'s-Gravenhage;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;3074;Rotterdam;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;3202;Nissewaard;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;3707;Zeist;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;3765;Soest;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;995;Lelystad;3815;Amersfoort;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;4041;Neder-Betuwe;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;4836;Breda;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;5062;Oisterwijk;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;5263;Vught;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;995;Lelystad;5807;Venray;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+20171001;995;Lelystad;6671;Overbetuwe;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;7161;Berkelland;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8012;Zwolle;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;8022;Zwolle;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8239;Lelystad;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;7;6;10;9;2;0;2;1;43
+20171001;995;Lelystad;8431;Ooststellingwerf;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8446;Heerenveen;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;995;Lelystad;8924;Leeuwarden;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;9207;Smallingerland;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;9561;Vlagtwedde;23HU;02;Eduvierschool De Stedenschool;8239AC;LELYSTAD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;995;Lelystad;1316;Almere;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1338;Almere;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1341;Almere;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1363;Almere;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;1602;Enkhuizen;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;1611;Stede Broec;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;1613;Stede Broec;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8219;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8223;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;2;3;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;995;Lelystad;8224;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8225;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;1;0;1;2;2;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;995;Lelystad;8226;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;1;2;0;3;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;995;Lelystad;8231;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;1;2;2;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8232;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;1;1;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8241;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8242;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;1;1;2;2;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;995;Lelystad;8243;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;1;0;3;0;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;995;Lelystad;8244;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;1;0;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8245;Lelystad;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8251;Dronten;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;8252;Dronten;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8253;Dronten;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8255;Dronten;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8256;Dronten;23VR;00;Eduviersch Dr Herman Bekius;8223EX;LELYSTAD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;2;0;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8211;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8212;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8218;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8219;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;5;3;9;10;6;7;11;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;995;Lelystad;8222;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8224;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8225;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;5;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8226;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;17;20;11;20;18;21;16;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;995;Lelystad;8231;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8232;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8239;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8241;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8242;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8243;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8244;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;995;Lelystad;8245;Lelystad;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;995;Lelystad;8256;Dronten;27TZ;00;De Lispeltuut;8226TA;LELYSTAD;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;995;Lelystad;1544;Zaanstad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8212;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;2;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;995;Lelystad;8219;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;995;Lelystad;8223;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;3;1;3;4;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;995;Lelystad;8224;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;12;17;17;14;16;16;18;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;995;Lelystad;8225;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;2;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;995;Lelystad;8226;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;0;2;3;0;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8231;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;2;1;0;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;995;Lelystad;8232;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;2;1;0;2;2;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;995;Lelystad;8242;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8243;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;0;4;2;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;995;Lelystad;8244;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;995;Lelystad;8245;Lelystad;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;995;Lelystad;8322;Urk;28BL;00;Al-Ihsaan;8224CM;LELYSTAD;Flevoland;Bo;Islamitisch;40077;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

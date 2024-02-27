@@ -1,0 +1,214 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;994;Valkenburg aan de Geul;6191;Beek;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6224;Maastricht;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6235;Meerssen;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6268;Eijsden-Margraten;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;05YT;00;Basisschool Berg;6325CN;BERG EN TERBLIJT;Limburg;Bo;Openbaar;42669;0;22;30;26;32;28;28;22;20;5;0;0;0;0;0;0;0;0;0;0;0;0;0;213
+20171001;994;Valkenburg aan de Geul;6261;Eijsden-Margraten;08JQ;00;Basissch Vilt;6325BD;BERG EN TERBLIJT;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;08JQ;00;Basissch Vilt;6325BD;BERG EN TERBLIJT;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;08JQ;00;Basissch Vilt;6325BD;BERG EN TERBLIJT;Limburg;Bo;Rooms-Katholiek;41506;0;2;5;11;9;10;7;9;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;994;Valkenburg aan de Geul;6418;Heerlen;08JQ;00;Basissch Vilt;6325BD;BERG EN TERBLIJT;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6268;Eijsden-Margraten;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6269;Eijsden-Margraten;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;12;11;13;5;18;13;9;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;994;Valkenburg aan de Geul;6305;Valkenburg aan de Geul;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6307;Eijsden-Margraten;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6361;Nuth;10EY;00;Basisschool Heilig Hart;6301AS;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;  10;Belgie;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6051;Maasgouw;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6214;Maastricht;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6215;Maastricht;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6226;Maastricht;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;25;26;41;33;31;50;27;32;4;0;0;0;0;0;0;0;0;0;0;0;0;0;269
+20171001;994;Valkenburg aan de Geul;6305;Valkenburg aan de Geul;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;2;2;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;994;Valkenburg aan de Geul;6307;Eijsden-Margraten;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6321;Gulpen-Wittem;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6333;Nuth;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6336;Nuth;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6343;Voerendaal;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6361;Nuth;10WG;00;Basisschool Valkenburg;6301GM;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;11VQ;00;Sint Gerlach;6301KB;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;4;8;8;7;5;5;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;11VQ;00;Sint Gerlach;6301KB;VALKENBURG LB;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;  10;Belgie;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;5953;Beesel;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6002;Weert;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6003;Weert;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6006;Weert;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6014;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6014;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6015;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6017;Maasgouw;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6031;Nederweert;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6039;Weert;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6043;Roermond;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6043;Roermond;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6044;Roermond;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6045;Roermond;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6049;Roermond;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6051;Maasgouw;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6061;Roerdalen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6074;Roerdalen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6075;Roerdalen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6088;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6093;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6093;Leudal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6097;Maasgouw;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6097;Maasgouw;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6101;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6102;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6104;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6114;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6116;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6118;Echt-Susteren;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6121;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6129;Stein;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6129;Stein;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6131;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6134;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6135;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6135;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6136;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6137;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6137;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6141;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6143;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6143;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6161;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6163;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6163;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6164;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6166;Sittard-Geleen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6171;Stein;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6171;Stein;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6176;Beek;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6181;Stein;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6191;Beek;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6191;Beek;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6211;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6211;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6212;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6213;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6214;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6215;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6215;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6217;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6217;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6218;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6218;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6219;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6221;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6221;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6222;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6222;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6223;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6224;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6224;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6225;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6225;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6226;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6226;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6227;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6227;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6228;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6228;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6229;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6229;Maastricht;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6231;Meerssen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6235;Meerssen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6241;Meerssen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6245;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6245;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6247;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6252;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6252;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6261;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6261;Eijsden-Margraten;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6278;Gulpen-Wittem;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6285;Gulpen-Wittem;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6286;Gulpen-Wittem;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6287;Gulpen-Wittem;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6291;Vaals;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6294;Vaals;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6295;Vaals;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6305;Valkenburg aan de Geul;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6311;Voerendaal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6321;Gulpen-Wittem;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6325;Valkenburg aan de Geul;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6333;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6333;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6336;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6336;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6343;Voerendaal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6343;Voerendaal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6351;Simpelveld;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6351;Simpelveld;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6361;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6361;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6363;Nuth;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6367;Voerendaal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6367;Voerendaal;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6369;Simpelveld;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6369;Simpelveld;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6371;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6371;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6372;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6372;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6373;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6374;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6374;Landgraaf;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6411;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6411;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6412;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6412;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6413;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6413;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6414;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6414;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6415;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6416;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6417;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6417;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6418;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6418;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6419;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6431;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6431;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6433;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6433;Heerlen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6438;Schinnen;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6441;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6441;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6442;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6443;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6444;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6444;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6445;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6446;Brunssum;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6451;Onderbanken;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6451;Onderbanken;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6461;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6462;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6463;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6463;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6465;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6466;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6467;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;994;Valkenburg aan de Geul;6467;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6468;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;So;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6471;Kerkrade;14VR;00;Adelante Onderwijs;6301KA;VALKENBURG LB;Limburg;Vso;Rooms-Katholiek;74803;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6224;Maastricht;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6301;Valkenburg aan de Geul;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;11;5;7;9;18;9;8;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;994;Valkenburg aan de Geul;6305;Valkenburg aan de Geul;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;6;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;994;Valkenburg aan de Geul;6307;Eijsden-Margraten;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;994;Valkenburg aan de Geul;6321;Gulpen-Wittem;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6333;Nuth;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;994;Valkenburg aan de Geul;6336;Nuth;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;1;0;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;994;Valkenburg aan de Geul;6343;Voerendaal;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;994;Valkenburg aan de Geul;6361;Nuth;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;994;Valkenburg aan de Geul;6462;Kerkrade;24NK;00;OBS Broekhem;6301XT;VALKENBURG LB;Limburg;Bo;Openbaar;42669;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

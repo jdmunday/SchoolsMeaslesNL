@@ -1,0 +1,277 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;861;Veldhoven;5087;Hilvarenbeek;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5091;Oirschot;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5501;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5502;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5502;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;4;2;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5503;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5503;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5504;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5504;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5505;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5505;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5506;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5507;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;2;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5508;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;1;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;861;Veldhoven;5508;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;3;4;1;1;2;1;0;0;0;0;0;0;12
+20171001;861;Veldhoven;5509;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5509;Veldhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5513;Eersel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5521;Eersel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5525;Eersel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5527;Bladel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5528;Bladel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5551;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5551;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5552;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5553;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5554;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5554;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5555;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5555;Valkenswaard;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5561;Bergeijk;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5571;Bergeijk;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5571;Bergeijk;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5581;Waalre;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;861;Veldhoven;5581;Waalre;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;3;2;1;0;0;0;0;0;0;0;0;6
+20171001;861;Veldhoven;5582;Waalre;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5583;Waalre;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5583;Waalre;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5613;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5616;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5616;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5622;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5622;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5623;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5624;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5625;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5626;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5627;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5627;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5628;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5628;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5629;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5629;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5631;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5632;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5641;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5642;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5643;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5644;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5645;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5646;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5652;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5653;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5653;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5654;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5654;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5655;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5657;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;1;0;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;861;Veldhoven;5658;Eindhoven;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5666;Geldrop-Mierlo;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5672;Nuenen, Gerwen en Nederwetten;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5674;Nuenen, Gerwen en Nederwetten;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5682;Best;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5684;Best;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5684;Best;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5688;Oirschot;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5688;Oirschot;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5691;Son en Breugel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5694;Son en Breugel;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5703;Helmond;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5708;Helmond;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5754;Deurne;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6021;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6021;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6023;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;So;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6023;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6026;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6028;Cranendonck;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6029;Heeze-Leende;00LH;00;Prins W Alexanderschool;5504NC;VELDHOVEN;Noord-Brabant;Vso;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5501;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;3;5;4;6;2;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;861;Veldhoven;5502;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5503;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;15;17;15;16;15;15;15;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;861;Veldhoven;5504;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;9;2;5;1;4;0;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;861;Veldhoven;5505;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;22;21;16;16;22;16;17;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;861;Veldhoven;5506;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;3;5;2;3;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;861;Veldhoven;5508;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;1;5;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;861;Veldhoven;5509;Veldhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5571;Bergeijk;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5684;Best;04QT;00;Basisschool EigenWijs;5503BG;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;06DM;00;RK Bs De Berckacker;5508DJ;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5502;Veldhoven;06DM;00;RK Bs De Berckacker;5508DJ;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5506;Veldhoven;06DM;00;RK Bs De Berckacker;5508DJ;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5507;Veldhoven;06DM;00;RK Bs De Berckacker;5508DJ;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5508;Veldhoven;06DM;00;RK Bs De Berckacker;5508DJ;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;30;21;33;26;21;26;23;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;206
+20171001;861;Veldhoven;5503;Veldhoven;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5504;Veldhoven;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5506;Veldhoven;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5507;Veldhoven;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;24;17;17;11;10;13;17;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;861;Veldhoven;5508;Veldhoven;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;3;1;4;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;861;Veldhoven;5513;Eersel;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5561;Bergeijk;06WI;00;Basissch St Jan Baptist;5507LA;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5501;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;1;2;0;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;861;Veldhoven;5503;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5504;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5505;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5508;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;1;6;8;5;8;7;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;861;Veldhoven;5509;Veldhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;0;1;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;861;Veldhoven;5652;Eindhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;07MD;00;Casimirschool;5508PA;VELDHOVEN;Noord-Brabant;Bo;Algemeen bijzonder;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5502;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5503;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;3;4;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;861;Veldhoven;5504;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;53;46;46;40;46;43;52;46;6;0;0;0;0;0;0;0;0;0;0;0;0;0;378
+20171001;861;Veldhoven;5505;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;3;9;7;7;13;7;14;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;861;Veldhoven;5506;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5508;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5509;Veldhoven;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5511;Eersel;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;3;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;861;Veldhoven;5521;Eersel;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5561;Bergeijk;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5685;Best;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5706;Helmond;07SN;00;RK Basisschool Op Dreef;5504BS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;1;0;2;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;861;Veldhoven;5503;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5504;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5505;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;2;5;3;3;8;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;861;Veldhoven;5506;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;16;19;15;23;17;20;21;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;861;Veldhoven;5507;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5508;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5509;Veldhoven;09AY;00;Basisschool De Brembocht;5506CG;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;  10;Belgie;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5502;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5503;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;22;18;19;27;19;18;21;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;861;Veldhoven;5504;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;2;1;1;6;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;861;Veldhoven;5505;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5506;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5508;Veldhoven;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5521;Eersel;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5581;Waalre;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5684;Best;10HD;00;De Meerhoef;5503CS;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;861;Veldhoven;5502;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;26;34;35;37;28;36;41;33;4;0;0;0;0;0;0;0;0;0;0;0;0;0;274
+20171001;861;Veldhoven;5503;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;4;3;2;5;4;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;861;Veldhoven;5505;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5506;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5508;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;861;Veldhoven;5509;Veldhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;2;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;861;Veldhoven;5616;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5644;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5651;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5654;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5658;Eindhoven;10JJ;00;RK Basissch Zeelsterhof;5502JV;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5501;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;16;20;10;16;20;14;11;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;128
+20171001;861;Veldhoven;5502;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;2;1;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5503;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;5;2;4;4;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;861;Veldhoven;5504;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;2;1;2;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5505;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;1;0;0;0;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;861;Veldhoven;5506;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;1;2;0;3;3;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;861;Veldhoven;5507;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5508;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;1;2;1;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5509;Veldhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5571;Bergeijk;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5616;Eindhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5658;Eindhoven;11CM;00;PC Basisschool de Rank;5501CN;VELDHOVEN;Noord-Brabant;Bo;Protestants-Christelijk;77338;0;2;0;2;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5501;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;861;Veldhoven;5502;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5503;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;1;2;0;0;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;861;Veldhoven;5504;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;1;1;1;3;3;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;861;Veldhoven;5505;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;1;0;3;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5506;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5507;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5508;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;1;0;1;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;861;Veldhoven;5509;Veldhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5512;Eersel;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5524;Eersel;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5561;Bergeijk;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;17IQ;00;SSBO De Verrekijker;5503BG;VELDHOVEN;Noord-Brabant;Sbo;Rooms-Katholiek;77338;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5111;Baarle-Nassau;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;3;2;2;4;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;861;Veldhoven;5502;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5504;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5505;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5506;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5507;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5508;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;15;19;19;15;14;8;16;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;861;Veldhoven;5509;Veldhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;15;14;5;13;11;14;19;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;861;Veldhoven;5581;Waalre;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5614;Eindhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5632;Eindhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5657;Eindhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;21PA;00;RK Basissch De Heiacker;5508WR;VELDHOVEN;Noord-Brabant;Bo;Rooms-Katholiek;77338;0;2;0;2;4;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;861;Veldhoven;5091;Oirschot;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;1;0;3;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;861;Veldhoven;5502;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;3;2;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;861;Veldhoven;5503;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;0;1;1;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;861;Veldhoven;5504;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;1;0;1;2;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;861;Veldhoven;5505;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;0;2;1;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;861;Veldhoven;5506;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;1;1;2;3;1;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;861;Veldhoven;5507;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;3;1;1;4;4;3;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;861;Veldhoven;5508;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;74;68;74;80;52;70;60;51;6;0;0;0;0;0;0;0;0;0;0;0;0;0;535
+20171001;861;Veldhoven;5509;Veldhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;20;23;18;9;9;5;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;861;Veldhoven;5528;Bladel;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5552;Valkenswaard;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5625;Eindhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5651;Eindhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5653;Eindhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;23UB;00;OBS Dick Bruna;5508KE;VELDHOVEN;Noord-Brabant;Bo;Openbaar;41662;0;3;5;2;3;7;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;861;Veldhoven;5094;Reusel-De Mierden;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5283;Boxtel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5492;Meierijstad;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5501;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5502;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5502;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5503;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5504;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5505;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5505;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5508;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5509;Veldhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5513;Eersel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5521;Eersel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5524;Eersel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5531;Bladel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5541;Reusel-De Mierden;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5551;Valkenswaard;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5551;Valkenswaard;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5552;Valkenswaard;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5554;Valkenswaard;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5554;Valkenswaard;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5561;Bergeijk;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5561;Bergeijk;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5563;Bergeijk;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5571;Bergeijk;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5581;Waalre;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5615;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5622;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5623;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5625;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;861;Veldhoven;5629;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5631;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5632;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5632;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5644;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5652;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5652;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5653;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5653;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5658;Eindhoven;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;861;Veldhoven;5662;Geldrop-Mierlo;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5667;Geldrop-Mierlo;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5684;Best;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;861;Veldhoven;5685;Best;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5688;Oirschot;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5688;Oirschot;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;5691;Son en Breugel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;861;Veldhoven;5691;Son en Breugel;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;861;Veldhoven;6089;Leudal;23XK;01;De Zwengel;5507MD;VELDHOVEN;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1

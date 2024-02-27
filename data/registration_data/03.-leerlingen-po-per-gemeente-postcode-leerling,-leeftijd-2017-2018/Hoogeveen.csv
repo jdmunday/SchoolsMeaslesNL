@@ -1,0 +1,494 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;118;Hoogeveen;7741;Coevorden;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7742;Coevorden;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;1;1;1;0;4;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;118;Hoogeveen;7904;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7905;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7907;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7908;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;3;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;118;Hoogeveen;7909;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7914;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7916;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7917;Coevorden;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7921;De Wolden;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7927;De Wolden;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7936;Hoogeveen;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7938;Midden-Drenthe;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7991;Westerveld;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8437;Westerveld;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;9411;Midden-Drenthe;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;9414;Midden-Drenthe;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9418;Midden-Drenthe;00JH;00;SSBO De Kameleon;7901JN;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7608;Almelo;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7701;Hardenberg;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7705;De Wolden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7737;Ommen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7741;Coevorden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7742;Coevorden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7753;Coevorden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7761;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7815;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7823;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7827;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7833;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7844;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7884;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7891;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7894;Emmen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7903;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;1;4;1;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7904;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7905;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7906;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7908;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7909;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7916;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7921;De Wolden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7927;De Wolden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7933;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7936;Hoogeveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7943;Meppel;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7954;Staphorst;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7958;De Wolden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7963;De Wolden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8011;Zwolle;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8014;Zwolle;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8043;Zwolle;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8262;Kampen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8391;Weststellingwerf;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8442;Heerenveen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8856;Franekeradeel;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8915;Leeuwarden;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9105;Dantumadiel;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9262;Tytsjerksteradiel;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9351;Leek;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9404;Assen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9411;Midden-Drenthe;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;9413;Midden-Drenthe;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9422;Midden-Drenthe;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9451;Aa en Hunze;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9479;Haren;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9648;Veendam;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9713;Groningen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9741;Groningen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9746;Groningen;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9771;Winsum;00ZF;14;De Atlas;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;03GR;00;Het Mozaiek;7913RE;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7905;Hoogeveen;03GR;00;Het Mozaiek;7913RE;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7913;Hoogeveen;03GR;00;Het Mozaiek;7913RE;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;32;27;27;29;33;34;33;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;118;Hoogeveen;7916;Hoogeveen;03GR;00;Het Mozaiek;7913RE;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;0;2;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7902;Hoogeveen;03GR;01;Het Mozaiek;7913TR;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;03GR;01;Het Mozaiek;7913TR;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;2;4;4;4;8;1;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;118;Hoogeveen;7916;Hoogeveen;03GR;01;Het Mozaiek;7913TR;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;2;3;2;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;118;Hoogeveen;7926;De Wolden;03GR;01;Het Mozaiek;7913TR;HOLLANDSCHEVELD;Drenthe;Bo;Protestants-Christelijk;40655;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7903;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;1;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;118;Hoogeveen;7904;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7911;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;1;1;0;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7912;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7913;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;1;1;0;0;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7914;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;14;19;10;18;11;15;18;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;118;Hoogeveen;7936;Hoogeveen;04PP;00;De Regenboog;7914PN;NOORDSCHESCHUT;Drenthe;Bo;Protestants-Christelijk;41425;0;4;1;0;2;7;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;118;Hoogeveen;7903;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7904;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7906;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7912;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;1;2;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7914;Hoogeveen;04PT;00;Het Blokland;7914PB;NOORDSCHESCHUT;Drenthe;Bo;Algemeen bijzonder;45000;0;1;4;2;6;1;9;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;118;Hoogeveen;7910;Midden-Drenthe;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;1;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7911;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;3;1;0;3;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;118;Hoogeveen;7912;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;10;7;4;6;5;11;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;118;Hoogeveen;7913;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7916;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7917;Coevorden;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7918;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7936;Hoogeveen;04PY;00;PC Basissch De Hoeksteen;7912TB;NIEUWEROORD;Drenthe;Bo;Protestants-Christelijk;41425;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7903;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7906;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7913;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7931;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;2;3;2;4;2;7;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;118;Hoogeveen;7932;De Wolden;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7933;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;4;14;5;10;8;8;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;118;Hoogeveen;7934;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;1;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7935;De Wolden;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7936;Hoogeveen;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7941;Meppel;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7963;De Wolden;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;9417;Midden-Drenthe;05SE;00;Sch met de Bijbel De Akker;7933PG;PESSE;Drenthe;Bo;Protestants-Christelijk;41196;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7901;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;3;10;8;8;8;6;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;118;Hoogeveen;7902;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;6;10;4;8;8;9;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;118;Hoogeveen;7903;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7904;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7905;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;1;1;3;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7906;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;2;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7907;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7908;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;1;0;1;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7914;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7934;Hoogeveen;06MU;00;Prof. Titus Brandsma;7901BS;HOOGEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7753;Coevorden;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7782;Hardenberg;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7863;Coevorden;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7902;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7916;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7917;Coevorden;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7918;Hoogeveen;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;7;7;8;14;10;7;12;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;118;Hoogeveen;7929;Coevorden;06RS;00;Prot Chr Basisschool;7918AX;NIEUWLANDE;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7844;Emmen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7903;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7904;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7906;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7911;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7921;De Wolden;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7933;Hoogeveen;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7963;De Wolden;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8932;Leeuwarden;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9698;Bellingwedde;06SV;09;De Aventurijn;7901JN;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7741;Coevorden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7864;Coevorden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7903;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;3;1;1;4;5;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;118;Hoogeveen;7905;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;2;5;5;1;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;118;Hoogeveen;7906;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;1;2;3;0;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;118;Hoogeveen;7907;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;1;0;1;1;0;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;118;Hoogeveen;7909;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7912;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;1;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7914;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7915;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7916;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7917;Coevorden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7921;De Wolden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7924;De Wolden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7926;De Wolden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7933;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7936;Hoogeveen;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7938;Midden-Drenthe;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7958;De Wolden;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7981;Westerveld;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7984;Westerveld;07MI;00;SSBO De Carrousel;7905GX;HOOGEVEEN;Drenthe;Sbo;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;  30;ander land;10IY;00;PC Basisschool De Palm;7916PT;ELIM;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7777;Hardenberg;10IY;00;PC Basisschool De Palm;7916PT;ELIM;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;10IY;00;PC Basisschool De Palm;7916PT;ELIM;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7909;Hoogeveen;10IY;00;PC Basisschool De Palm;7916PT;ELIM;Drenthe;Bo;Protestants-Christelijk;41425;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7916;Hoogeveen;10IY;00;PC Basisschool De Palm;7916PT;ELIM;Drenthe;Bo;Protestants-Christelijk;41425;0;13;14;15;11;11;18;18;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;118;Hoogeveen;7904;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7905;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7914;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7931;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;1;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7933;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7934;Hoogeveen;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;2;3;6;1;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;118;Hoogeveen;7991;Westerveld;11IR;00;OBS De Zandloper;7934PJ;STUIFZAND;Drenthe;Bo;Openbaar;42557;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;  40;Onbekend;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;2;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7902;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;6;6;9;7;6;6;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;118;Hoogeveen;7903;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;1;3;1;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7905;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;13;14;14;18;17;19;17;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;118;Hoogeveen;7906;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;13;17;16;13;8;23;18;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;118;Hoogeveen;7907;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;2;3;3;2;2;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;118;Hoogeveen;7908;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7934;Hoogeveen;12UZ;00;Het Spectrum;7902HM;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;2343;Oegstgeest;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;6021;Cranendonck;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;1;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;6835;Arnhem;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7905;Hoogeveen;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7908;Hoogeveen;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;7;7;5;5;6;6;2;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;118;Hoogeveen;7909;Hoogeveen;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;5;8;3;5;6;4;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;118;Hoogeveen;7921;De Wolden;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9561;Vlagtwedde;13AZ;00;'t Kienholt;7908BJ;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7903;Hoogeveen;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7933;Hoogeveen;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;8;9;15;5;5;15;9;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;118;Hoogeveen;7934;Hoogeveen;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7935;De Wolden;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;1;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7963;De Wolden;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;9419;Midden-Drenthe;13AZ;01;'t Kienholt;7933PX;PESSE;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7904;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;1;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7907;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;17;19;38;27;31;31;43;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;118;Hoogeveen;7913;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7933;Hoogeveen;13GQ;00;De Schuthoek;7908EE;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;13UL;00;Apollo;7904LW;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7903;Hoogeveen;13UL;00;Apollo;7904LW;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7904;Hoogeveen;13UL;00;Apollo;7904LW;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;12;20;26;20;24;14;19;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;118;Hoogeveen;7905;Hoogeveen;13UL;00;Apollo;7904LW;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;3;1;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7906;Hoogeveen;13UL;00;Apollo;7904LW;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7777;Hardenberg;13XW;00;Het Hoeltien, loc. Oostenbrink;7913AT;HOLLANDSCHEVELD;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;13XW;00;Het Hoeltien, loc. Oostenbrink;7913AT;HOLLANDSCHEVELD;Drenthe;Bo;Openbaar;42557;0;13;12;23;14;18;15;20;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;128
+20171001;118;Hoogeveen;7916;Hoogeveen;13XW;00;Het Hoeltien, loc. Oostenbrink;7913AT;HOLLANDSCHEVELD;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7753;Coevorden;13XW;01;Het Hoeltien, loc. Vogelvlucht;7916RE;ELIM;Drenthe;Bo;Openbaar;42557;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7913;Hoogeveen;13XW;01;Het Hoeltien, loc. Vogelvlucht;7916RE;ELIM;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7916;Hoogeveen;13XW;01;Het Hoeltien, loc. Vogelvlucht;7916RE;ELIM;Drenthe;Bo;Openbaar;42557;0;9;10;4;8;5;11;4;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;118;Hoogeveen;7917;Coevorden;13XW;01;Het Hoeltien, loc. Vogelvlucht;7916RE;ELIM;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7938;Midden-Drenthe;13XW;01;Het Hoeltien, loc. Vogelvlucht;7916RE;ELIM;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7936;Hoogeveen;13XW;02;Het Hoeltien, Loc Tiendeveen;7936PB;TIENDEVEEN;Drenthe;Bo;Openbaar;42557;0;5;3;4;4;3;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;118;Hoogeveen;7937;Midden-Drenthe;13XW;02;Het Hoeltien, Loc Tiendeveen;7936PB;TIENDEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7751;Coevorden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7776;Hardenberg;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7861;Coevorden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7863;Coevorden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7864;Coevorden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7901;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7902;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;2;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;118;Hoogeveen;7904;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;2;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7905;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;3;4;2;5;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;118;Hoogeveen;7906;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;2;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7907;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7908;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;4;9;3;8;5;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;118;Hoogeveen;7909;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7913;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7914;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7915;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7917;Coevorden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7918;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7921;De Wolden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7925;De Wolden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7927;De Wolden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7931;Hoogeveen;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7932;De Wolden;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7938;Midden-Drenthe;15BQ;00;Geref Bs Johannes Calvyn;7906AN;HOOGEVEEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7901;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7903;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;31;34;35;42;52;39;31;34;2;0;0;0;0;0;0;0;0;0;0;0;0;0;300
+20171001;118;Hoogeveen;7905;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;3;1;4;3;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;118;Hoogeveen;7906;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7913;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7914;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7924;De Wolden;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7934;Hoogeveen;15XE;00;De Morgenster;7904LW;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7901;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;1;2;1;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7902;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;16;21;20;19;14;18;10;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;118;Hoogeveen;7904;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;3;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7906;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;2;1;0;4;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;118;Hoogeveen;7907;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7908;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;15ZF;00;Juliana V Stolbergschool;7902JD;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7906;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7908;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;49;44;63;55;74;72;62;46;9;0;0;0;0;0;0;0;0;0;0;0;0;0;474
+20171001;118;Hoogeveen;7909;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7914;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7921;De Wolden;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7936;Hoogeveen;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9421;Midden-Drenthe;16AZ;00;'t Kofschip;7908EE;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;2;1;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7902;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;2;1;1;3;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;118;Hoogeveen;7904;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7905;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;3;7;7;3;8;7;9;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;118;Hoogeveen;7906;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;27;21;33;28;48;25;18;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;118;Hoogeveen;7907;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;4;0;2;4;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;118;Hoogeveen;7908;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7913;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7927;De Wolden;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7936;Hoogeveen;16CN;00;De Sprong;7906GA;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;10;4;6;6;4;4;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;118;Hoogeveen;7902;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7904;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;2;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7906;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;2;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7907;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;10;3;6;3;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;118;Hoogeveen;7908;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7909;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;16DX;00;Het Palet;7901GK;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;6021;Cranendonck;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7902;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7903;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7905;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7907;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;12;9;27;18;21;20;18;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;118;Hoogeveen;7909;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;14;13;10;16;11;10;18;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;118;Hoogeveen;7913;Hoogeveen;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7963;De Wolden;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;9341;Noordenveld;16FI;00;Weidebloem;7909AV;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7701;Hardenberg;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7798;Hardenberg;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;1;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7902;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7904;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;2;1;3;3;2;5;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;118;Hoogeveen;7905;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;6;19;18;11;14;12;20;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;118;Hoogeveen;7906;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;5;2;9;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;118;Hoogeveen;7907;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;2;2;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7909;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7914;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7921;De Wolden;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7925;De Wolden;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7926;De Wolden;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7933;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7936;Hoogeveen;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7981;Westerveld;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;8341;Steenwijkerland;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9414;Midden-Drenthe;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9431;Midden-Drenthe;16GQ;00;De Krullevaar;7905GT;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7741;Coevorden;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7904;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7905;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7909;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7916;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7917;Coevorden;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7921;De Wolden;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7924;De Wolden;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7933;Hoogeveen;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7938;Midden-Drenthe;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9411;Midden-Drenthe;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;9417;Midden-Drenthe;16QX;00;G.J. van der Ploegschool;7901GK;HOOGEVEEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7741;Coevorden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7742;Coevorden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7761;Emmen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7776;Hardenberg;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7848;Coevorden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7902;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;2;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7903;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7904;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;4;0;0;1;1;2;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7905;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;1;0;3;2;0;0;0;0;0;0;0;0;0;8
+20171001;118;Hoogeveen;7907;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7908;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;3;1;1;0;0;0;0;0;0;0;7
+20171001;118;Hoogeveen;7909;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7911;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7913;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;4;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7916;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7921;De Wolden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;2;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7927;De Wolden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7961;De Wolden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7963;De Wolden;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7981;Westerveld;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7986;Westerveld;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;8346;Steenwijkerland;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9407;Assen;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;9417;Midden-Drenthe;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9431;Midden-Drenthe;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9902;Appingedam;16QX;01;G J Vd Ploegsch V BUO;7903AA;HOOGEVEEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;  40;Onbekend;18NA;00;OBS De Driesprong;7918AX;NIEUWLANDE;Drenthe;Bo;Openbaar;42557;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7782;Hardenberg;18NA;00;OBS De Driesprong;7918AX;NIEUWLANDE;Drenthe;Bo;Openbaar;42557;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7916;Hoogeveen;18NA;00;OBS De Driesprong;7918AX;NIEUWLANDE;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7918;Hoogeveen;18NA;00;OBS De Driesprong;7918AX;NIEUWLANDE;Drenthe;Bo;Openbaar;42557;0;4;4;7;4;5;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;118;Hoogeveen;7901;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7902;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7903;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7906;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7908;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;25;16;23;28;31;23;21;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;189
+20171001;118;Hoogeveen;7909;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;2;2;3;2;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;118;Hoogeveen;7913;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7914;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7921;De Wolden;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7927;De Wolden;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;22KL;00;De Regenboog;7908PB;HOOGEVEEN;Drenthe;Bo;Protestants-Christelijk;69877;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7864;Coevorden;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7902;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7907;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7908;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;11;6;6;4;6;1;1;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;118;Hoogeveen;7909;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;3;3;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;118;Hoogeveen;7931;Hoogeveen;22KM;00;'T Rastholt;7908PB;HOOGEVEEN;Drenthe;Bo;Openbaar;42557;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;  20;Duitsland;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;  30;ander land;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7691;Hardenberg;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;118;Hoogeveen;7692;Hardenberg;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7772;Hardenberg;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7843;Coevorden;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7901;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7902;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7903;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;0;3;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;118;Hoogeveen;7904;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;118;Hoogeveen;7905;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7906;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;0;3;3;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;118;Hoogeveen;7907;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;2;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7908;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7910;Midden-Drenthe;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7911;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7912;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;2;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7913;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;3;2;2;3;5;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;118;Hoogeveen;7914;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;3;1;1;7;2;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;118;Hoogeveen;7916;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7917;Coevorden;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;1;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7918;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7921;De Wolden;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7936;Hoogeveen;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;1;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;118;Hoogeveen;7938;Midden-Drenthe;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;8043;Zwolle;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9411;Midden-Drenthe;23DR;00;Basisschool Eben Haezer;7913AA;HOLLANDSCHEVELD;Drenthe;Bo;Reformatorisch;41803;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7775;Hardenberg;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7776;Hardenberg;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7904;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7905;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;3;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7907;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;3;5;7;5;10;6;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;118;Hoogeveen;7909;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7914;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7921;De Wolden;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7926;De Wolden;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;7927;De Wolden;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7931;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7932;De Wolden;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7934;Hoogeveen;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7958;De Wolden;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;9419;Midden-Drenthe;23VG;00;Montessorisch Hoogeveen;7908NX;HOOGEVEEN;Drenthe;Bo;Algemeen bijzonder;31089;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7812;Emmen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7901;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7902;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;3;1;1;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;118;Hoogeveen;7904;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;3;2;6;4;0;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;118;Hoogeveen;7905;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;4;1;3;5;2;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;118;Hoogeveen;7906;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;3;4;5;4;6;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;118;Hoogeveen;7907;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7908;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;8;4;3;7;4;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;118;Hoogeveen;7909;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;118;Hoogeveen;7910;Midden-Drenthe;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;118;Hoogeveen;7912;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7913;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;118;Hoogeveen;7917;Coevorden;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7931;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7932;De Wolden;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;7934;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;118;Hoogeveen;7936;Hoogeveen;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;118;Hoogeveen;7938;Midden-Drenthe;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;118;Hoogeveen;8032;Zwolle;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;118;Hoogeveen;9636;Menterwolde;30KF;00;de Fontein;7906LE;HOOGEVEEN;Drenthe;Bo;Evangelisch;69877;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

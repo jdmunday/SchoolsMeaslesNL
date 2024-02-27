@@ -1,0 +1,347 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;274;Renkum;3824;Amersfoort;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5091;Oirschot;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5403;Uden;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5621;Eindhoven;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5684;Best;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6538;Nijmegen;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6546;Nijmegen;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6641;Beuningen;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6658;West Maas en Waal;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6666;Overbetuwe;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6668;Overbetuwe;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6681;Lingewaard;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6703;Wageningen;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6706;Wageningen;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6713;Ede;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6717;Ede;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6812;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6813;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6814;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6822;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6826;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6828;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6832;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6834;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6836;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6843;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6844;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6845;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6846;Arnhem;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6852;Lingewaard;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6865;Renkum;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6866;Renkum;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6871;Renkum;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6874;Renkum;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6881;Rheden;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6882;Rheden;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6942;Montferland;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6952;Rheden;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6991;Rheden;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;7078;Oude IJsselstreek;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7533;Enschede;01JH;02;De Brouwerij;6862HL;OOSTERBEEK;Gelderland;So;Protestants-Christelijk;41210;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3524;Utrecht;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;274;Renkum;3572;Utrecht;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3701;Zeist;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3772;Barneveld;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;3863;Nijkerk;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3901;Veenendaal;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3905;Veenendaal;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3911;Rhenen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;274;Renkum;3927;Renswoude;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3991;Houten;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3994;Houten;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;274;Renkum;4013;Tiel;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4033;Buren;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4196;Geldermalsen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4695;Tholen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5246;'s-Hertogenbosch;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5454;Mill en Sint Hubert;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;5803;Venray;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6042;Roermond;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6515;Nijmegen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6544;Nijmegen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;274;Renkum;6581;Heumen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6603;Wijchen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6659;West Maas en Waal;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6661;Overbetuwe;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6662;Overbetuwe;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6666;Overbetuwe;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6675;Overbetuwe;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6678;Overbetuwe;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6686;Lingewaard;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6691;Lingewaard;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6711;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6712;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6713;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6714;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6715;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6716;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6717;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6718;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6721;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6731;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6741;Ede;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6812;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6813;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6814;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6821;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6822;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6823;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;274;Renkum;6824;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6826;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6828;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6831;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6833;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6835;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6836;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6841;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6843;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6845;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6846;Arnhem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;3
+20171001;274;Renkum;6861;Renkum;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6862;Renkum;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;2
+20171001;274;Renkum;6865;Renkum;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6866;Renkum;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6871;Renkum;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6881;Rheden;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6883;Rheden;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6901;Zevenaar;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6903;Zevenaar;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;274;Renkum;6905;Zevenaar;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6909;Zevenaar;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6921;Duiven;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6922;Duiven;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6931;Westervoort;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6942;Montferland;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6951;Rheden;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6952;Rheden;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6981;Doesburg;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7007;Doetinchem;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7039;Montferland;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7041;Montferland;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;7231;Zutphen;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;7361;Apeldoorn;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7431;Deventer;01JH;05;Sgm. so/vso De Brouwerij;6861EE;OOSTERBEEK;Gelderland;Vso;Protestants-Christelijk;41210;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1013;Amsterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1021;Amsterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1060;Amsterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1065;Amsterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1106;Amsterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1191;Ouder-Amstel;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1244;Wijdemeren;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1325;Almere;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1335;Almere;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1962;Heemskerk;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;2034;Haarlem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;2532;'s-Gravenhage;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;2641;Pijnacker-Nootdorp;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;2957;Molenwaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3055;Rotterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3076;Rotterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3078;Rotterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3083;Rotterdam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3114;Schiedam;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3248;Goeree-Overflakkee;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3312;Dordrecht;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3703;Zeist;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3707;Zeist;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3771;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;3772;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3772;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3781;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3785;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3794;Barneveld;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3902;Veenendaal;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;3905;Veenendaal;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;3906;Veenendaal;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3907;Veenendaal;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;3911;Rhenen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;3911;Rhenen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;3
+20171001;274;Renkum;3925;Scherpenzeel;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4001;Tiel;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4007;Tiel;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;4041;Neder-Betuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;4112;Buren;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6515;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6515;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6535;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6542;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6543;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6641;Beuningen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6661;Overbetuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6662;Overbetuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6663;Nijmegen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6665;Overbetuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6666;Overbetuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6674;Overbetuwe;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6681;Lingewaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6686;Lingewaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6691;Lingewaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6706;Wageningen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6707;Wageningen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6711;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6712;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6713;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6714;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6714;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6715;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6716;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6717;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6717;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6721;Ede;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6812;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6813;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6813;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6816;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6822;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6823;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6823;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6825;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6826;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;3;1;0;1;2;0;0;0;0;0;0;0;0;7
+20171001;274;Renkum;6828;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6832;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6832;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6833;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6833;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6834;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6834;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6835;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6836;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6841;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6842;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6842;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6843;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6843;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6844;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6844;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6845;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6845;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6846;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6846;Arnhem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6851;Lingewaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6852;Lingewaard;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6861;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;3;0;0;0;1;1;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6862;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;2;5;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;274;Renkum;6862;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;3;5;10;8;7;8;1;0;0;0;0;0;0;0;42
+20171001;274;Renkum;6865;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;2;1;3;0;0;0;0;0;0;0;0;6
+20171001;274;Renkum;6866;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6871;Renkum;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;2;0;5;5;0;0;0;0;0;0;0;0;13
+20171001;274;Renkum;6881;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6882;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6882;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6883;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6883;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6901;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6903;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6904;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6904;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6909;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6915;Rijnwaarden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6917;Rijnwaarden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6921;Duiven;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6921;Duiven;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6922;Duiven;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6923;Duiven;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6931;Westervoort;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6932;Westervoort;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6941;Montferland;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6942;Montferland;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6942;Montferland;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6952;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6955;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6983;Doesburg;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6987;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6988;Zevenaar;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6991;Rheden;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7011;Doetinchem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7103;Winterswijk;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7242;Lochem;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7316;Apeldoorn;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7329;Apeldoorn;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7364;Apeldoorn;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;So;Algemeen bijzonder;76689;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7414;Deventer;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7731;Ommen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;7905;Hoogeveen;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;8013;Zwolle;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;8071;Nunspeet;03IJ;00;De Vaart / Vierbeek College;6862XM;OOSTERBEEK;Gelderland;Vso;Algemeen bijzonder;76689;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6866;Renkum;05IT;00;RK Basisch Don Bosco;6871DH;RENKUM;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6871;Renkum;05IT;00;RK Basisch Don Bosco;6871DH;RENKUM;Gelderland;Bo;Rooms-Katholiek;31237;0;10;13;14;15;12;7;17;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;274;Renkum;6702;Wageningen;05IU;00;Vita Veraschool;6871HV;RENKUM;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6866;Renkum;05IU;00;Vita Veraschool;6871HV;RENKUM;Gelderland;Bo;Rooms-Katholiek;31237;0;4;7;9;6;9;8;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;274;Renkum;6871;Renkum;05IU;00;Vita Veraschool;6871HV;RENKUM;Gelderland;Bo;Rooms-Katholiek;31237;0;11;10;12;15;13;9;9;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;274;Renkum;6717;Ede;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6812;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;1;0;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;274;Renkum;6813;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6816;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6823;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6826;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6834;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6845;Arnhem;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6861;Renkum;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;21;32;29;26;17;17;23;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;274;Renkum;6862;Renkum;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;5;11;11;6;6;4;10;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;274;Renkum;6865;Renkum;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6869;Renkum;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6874;Renkum;05IV;00;Bernulphus-School;6861GR;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6861;Renkum;05KR;00;Basisschool De Dorendal;6865EN;DOORWERTH;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6865;Renkum;05KR;00;Basisschool De Dorendal;6865EN;DOORWERTH;Gelderland;Bo;Samenwerking PC, RK;40972;0;21;25;13;23;25;29;17;28;4;1;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;274;Renkum;6866;Renkum;05KR;00;Basisschool De Dorendal;6865EN;DOORWERTH;Gelderland;Bo;Samenwerking PC, RK;40972;0;1;0;0;2;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;274;Renkum;6869;Renkum;05KR;00;Basisschool De Dorendal;6865EN;DOORWERTH;Gelderland;Bo;Samenwerking PC, RK;40972;0;2;5;8;5;5;6;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;274;Renkum;6691;Lingewaard;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6812;Arnhem;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;2;3;2;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;274;Renkum;6822;Arnhem;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6861;Renkum;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;8;5;9;10;14;13;15;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;274;Renkum;6862;Renkum;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;8;10;12;11;14;4;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;274;Renkum;6865;Renkum;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6874;Renkum;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6961;Brummen;09QQ;00;Marienbornschool;6862ZM;OOSTERBEEK;Gelderland;Bo;Samenwerking PC, RK;40972;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6812;Arnhem;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6813;Arnhem;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6861;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;9;15;16;16;15;12;18;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;274;Renkum;6862;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;13;7;16;15;8;14;13;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;274;Renkum;6865;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6869;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6871;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6874;Renkum;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;7205;Zutphen;10ZT;00;Chr Bs de Paasberg;6862CC;OOSTERBEEK;Gelderland;Bo;Protestants-Christelijk;40812;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;5236;'s-Hertogenbosch;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6661;Overbetuwe;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6833;Arnhem;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6865;Renkum;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6866;Renkum;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;9;8;6;7;6;8;8;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;274;Renkum;6871;Renkum;11YE;00;Airborneschool;6871HV;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;13;11;11;14;13;10;16;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;274;Renkum;  30;ander land;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6691;Lingewaard;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6812;Arnhem;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;2;4;3;4;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;274;Renkum;6815;Arnhem;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6816;Arnhem;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6821;Arnhem;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6846;Arnhem;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6861;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;6;5;13;6;17;7;19;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;274;Renkum;6862;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;15;22;16;27;39;33;35;31;2;1;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;274;Renkum;6865;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;2;2;1;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;274;Renkum;6866;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6869;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6871;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6874;Renkum;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;274;Renkum;6882;Rheden;12DI;00;Obs de Marlijn;6862XH;OOSTERBEEK;Gelderland;Bo;Openbaar;41461;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;1055;Amsterdam;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6668;Overbetuwe;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6708;Wageningen;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6865;Renkum;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6866;Renkum;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;1;0;1;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;274;Renkum;6871;Renkum;12HK;00;Prinses Beatrixschool;6871HG;RENKUM;Gelderland;Bo;Protestants-Christelijk;41460;0;24;24;21;26;17;28;22;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;274;Renkum;6865;Renkum;12HK;01;Prinses Beatrixschool;6874AJ;WOLFHEZE;Gelderland;Bo;Protestants-Christelijk;41460;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;274;Renkum;6871;Renkum;12HK;01;Prinses Beatrixschool;6874AJ;WOLFHEZE;Gelderland;Bo;Protestants-Christelijk;41460;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6874;Renkum;12HK;01;Prinses Beatrixschool;6874AJ;WOLFHEZE;Gelderland;Bo;Protestants-Christelijk;41460;0;12;6;11;9;11;6;13;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;274;Renkum;3794;Barneveld;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6665;Overbetuwe;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6705;Wageningen;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6721;Ede;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6845;Arnhem;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6861;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;274;Renkum;6862;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;274;Renkum;6865;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;8;14;8;20;16;11;12;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;274;Renkum;6866;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;3;8;6;5;9;7;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;274;Renkum;6869;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;274;Renkum;6871;Renkum;13AO;00;Dr. J.P. Thysseschool;6871HV;RENKUM;Gelderland;Bo;Openbaar;41461;0;19;25;17;21;17;18;32;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;176

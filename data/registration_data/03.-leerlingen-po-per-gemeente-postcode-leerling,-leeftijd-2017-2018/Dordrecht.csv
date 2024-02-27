@@ -1,0 +1,817 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;505;Dordrecht;2951;Alblasserdam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;2953;Alblasserdam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;2954;Alblasserdam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2954;Alblasserdam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2957;Molenwaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2961;Molenwaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2973;Molenwaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2974;Molenwaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2983;Ridderkerk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2984;Ridderkerk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2985;Ridderkerk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2986;Ridderkerk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2989;Ridderkerk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2992;Barendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2993;Barendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2994;Barendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2995;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3161;Albrandswaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3162;Albrandswaard;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3264;Korendijk;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3291;Strijen;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3291;Strijen;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3293;Strijen;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3295;Binnenmaas;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3297;Binnenmaas;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3299;Binnenmaas;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3312;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3312;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;2;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3314;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;1;2;3;0;5;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;505;Dordrecht;3315;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3315;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3316;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;3;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;505;Dordrecht;3318;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3318;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;2;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3328;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;1;1;3;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3329;Dordrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3331;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3332;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3332;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3333;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3333;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3334;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3335;Zwijndrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3351;Papendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3353;Papendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3354;Papendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3355;Papendrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3361;Sliedrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3362;Sliedrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3363;Sliedrecht;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3371;Hardinxveld-Giessendam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3381;Giessenlanden;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;4205;Gorinchem;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;4206;Gorinchem;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;4207;Gorinchem;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;4209;Giessenlanden;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4214;Lingewaal;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4223;Giessenlanden;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4225;Giessenlanden;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4251;Werkendam;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4926;Drimmelen;00KK;00;Mytylschool  Kiem;3318AA;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41417;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2951;Alblasserdam;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2953;Alblasserdam;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2995;Zwijndrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3273;Binnenmaas;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3291;Strijen;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3312;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3313;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3314;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;1;3;2;2;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3315;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;3;3;3;0;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3317;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3318;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3319;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3331;Zwijndrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;2;1;1;1;1;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3332;Zwijndrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3333;Zwijndrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3334;Zwijndrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3352;Papendrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3353;Papendrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3354;Papendrecht;00RK;00;De Stroom;3317NH;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;41417;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;2;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;2953;Alblasserdam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2957;Molenwaard;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2964;Molenwaard;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3286;Cromstrijen;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3291;Strijen;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3299;Binnenmaas;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3312;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3313;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3314;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;2;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3315;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3317;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;1;1;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3318;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3319;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3331;Zwijndrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;1;0;1;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3332;Zwijndrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3333;Zwijndrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3334;Zwijndrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3335;Zwijndrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3351;Papendrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3353;Papendrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3354;Papendrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3356;Papendrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3361;Sliedrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3362;Sliedrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3363;Sliedrecht;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3371;Hardinxveld-Giessendam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3372;Hardinxveld-Giessendam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4142;Leerdam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4143;Leerdam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4207;Gorinchem;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4251;Werkendam;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4731;Halderberge;01JO;13;Auris Ammanschool;3319HR;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;1811;Alkmaar;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2865;Krimpenerwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2925;Krimpen aan den IJssel;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2931;Krimpenerwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2953;Alblasserdam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2957;Molenwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2967;Molenwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2975;Molenwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2977;Molenwaard;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2982;Ridderkerk;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2985;Ridderkerk;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2986;Ridderkerk;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3074;Rotterdam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3132;Vlaardingen;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3262;Oud-Beijerland;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3273;Binnenmaas;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3291;Strijen;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3292;Strijen;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;2;1;2;2;1;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3312;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;2;1;2;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3313;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;2;2;6;3;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3315;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;4;3;2;1;1;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3316;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3318;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3319;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3328;Dordrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;4;5;1;2;3;2;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3331;Zwijndrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;1;3;0;1;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3332;Zwijndrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3333;Zwijndrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;2;0;2;1;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3334;Zwijndrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3335;Zwijndrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3351;Papendrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3353;Papendrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3354;Papendrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3355;Papendrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3356;Papendrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3361;Sliedrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3362;Sliedrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3363;Sliedrecht;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3372;Hardinxveld-Giessendam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4141;Leerdam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4201;Gorinchem;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4205;Gorinchem;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;4207;Gorinchem;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4245;Zederik;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4251;Werkendam;01UC;08;Drechtster College;3328GD;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2741;Waddinxveen;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2953;Alblasserdam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2957;Molenwaard;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2961;Molenwaard;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2969;Molenwaard;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2984;Ridderkerk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2985;Ridderkerk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2986;Ridderkerk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2987;Ridderkerk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2991;Barendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2993;Barendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2994;Barendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2995;Zwijndrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3059;Rotterdam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3083;Rotterdam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3161;Albrandswaard;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3261;Oud-Beijerland;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3264;Korendijk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3273;Binnenmaas;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3286;Cromstrijen;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3291;Strijen;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3297;Binnenmaas;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3299;Binnenmaas;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;2;0;2;3;0;0;0;1;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3312;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3313;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;4;2;2;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3315;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;2;2;2;4;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3316;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3318;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3319;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3328;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;2;5;0;1;3;0;0;1;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3329;Dordrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3331;Zwijndrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3332;Zwijndrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3334;Zwijndrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3351;Papendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3353;Papendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;2;1;1;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3356;Papendrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3361;Sliedrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3363;Sliedrecht;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3371;Hardinxveld-Giessendam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3372;Hardinxveld-Giessendam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3381;Giessenlanden;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4205;Gorinchem;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4254;Werkendam;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;4765;Moerdijk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;5061;Oisterwijk;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;505;Dordrecht;7513;Enschede;01UC;09;Yulius Het Tij;3311DB;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2953;Alblasserdam;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2969;Molenwaard;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3299;Binnenmaas;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3312;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3313;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3314;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;2;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3315;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;1;0;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;3316;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;1;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3328;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3329;Dordrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3331;Zwijndrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3332;Zwijndrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3333;Zwijndrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3334;Zwijndrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3335;Zwijndrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3351;Papendrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3353;Papendrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3361;Sliedrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3362;Sliedrecht;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;1;0;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;4204;Gorinchem;01UC;12;De Atlas;3313EV;DORDRECHT;Zuid-Holland;So;Algemeen bijzonder;85256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2951;Alblasserdam;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;1;0;1;1;2;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3312;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;1;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3313;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;3;3;8;7;3;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;505;Dordrecht;3315;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;1;2;2;4;3;1;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;505;Dordrecht;3317;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;1;1;3;9;4;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;505;Dordrecht;3318;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;1;0;1;0;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3319;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;2;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3328;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;1;3;3;5;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;505;Dordrecht;3329;Dordrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3331;Zwijndrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3334;Zwijndrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3335;Zwijndrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;04DY;00;SBO De Toekomst;3314NX;DORDRECHT;Zuid-Holland;Sbo;Protestants-Christelijk;30582;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2992;Barendrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3077;Rotterdam;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3193;Rotterdam;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;14;13;15;13;13;15;11;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;505;Dordrecht;3312;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3313;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3314;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;14;11;9;14;12;11;8;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;505;Dordrecht;3315;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;2;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3316;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3317;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3318;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3319;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3329;Dordrecht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;04JR;00;De Horizon;3311HH;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2925;Krimpen aan den IJssel;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;2959;Molenwaard;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2991;Barendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2992;Barendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2993;Barendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3022;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3039;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3053;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3077;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3078;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3079;Rotterdam;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;7;12;12;9;12;13;7;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;505;Dordrecht;3312;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;16;19;14;17;15;16;14;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;505;Dordrecht;3313;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;2;2;4;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3314;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;6;1;3;12;2;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;505;Dordrecht;3315;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3316;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3318;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3319;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3328;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;2;0;1;1;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3329;Dordrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3331;Zwijndrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3332;Zwijndrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3333;Zwijndrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3334;Zwijndrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3335;Zwijndrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3342;Hendrik-Ido-Ambacht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3351;Papendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3352;Papendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3353;Papendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3355;Papendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3356;Papendrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3362;Sliedrecht;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4207;Gorinchem;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4223;Giessenlanden;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4765;Moerdijk;04RH;00;Dr. H. Bavinckschool;3311XP;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;13;15;15;16;15;19;12;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;505;Dordrecht;3312;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;9;7;5;6;4;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;505;Dordrecht;3313;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;0;2;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3314;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;3;2;6;3;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;505;Dordrecht;3315;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;2;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3317;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;0;3;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3319;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;4;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3331;Zwijndrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3356;Papendrecht;04WG;00;School Muhring;3311NZ;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2935;Krimpenerwaard;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2953;Alblasserdam;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2986;Ridderkerk;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3034;Rotterdam;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3078;Rotterdam;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3274;Binnenmaas;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3291;Strijen;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3312;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3315;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3317;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;0;3;1;2;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3328;Dordrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3332;Zwijndrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3334;Zwijndrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3352;Papendrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3361;Sliedrecht;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;4142;Leerdam;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4201;Gorinchem;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4251;Werkendam;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4285;Woudrichem;05YX;03;Parkschool voor ZMOK;3317JM;DORDRECHT;Zuid-Holland;Vso;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2988;Ridderkerk;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3076;Rotterdam;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3291;Strijen;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3292;Strijen;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3295;Binnenmaas;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;7;6;7;3;8;9;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;505;Dordrecht;3312;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;14;6;6;10;8;9;11;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;505;Dordrecht;3313;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3314;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;4;7;3;9;3;3;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;505;Dordrecht;3315;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;4;4;2;1;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3317;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;1;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3319;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;5;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3328;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3329;Dordrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;2;1;0;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3331;Zwijndrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3332;Zwijndrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3334;Zwijndrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3351;Papendrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3353;Papendrecht;06XQ;00;Dordtse Vrije School;3312NB;DORDRECHT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  10;Belgie;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3162;Albrandswaard;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3314;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;24;23;20;18;13;12;26;22;5;1;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;505;Dordrecht;3315;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3316;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;3;2;2;3;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;505;Dordrecht;3318;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3319;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;2;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3328;Dordrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3333;Zwijndrecht;07IH;00;Pr Julianasch;3314KT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;22;15;21;17;15;14;24;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;505;Dordrecht;3313;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3314;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;3;2;3;1;0;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3315;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3316;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3317;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;2;3;1;2;4;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3318;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;7;7;5;5;8;5;9;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;505;Dordrecht;3319;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3328;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;4;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3329;Dordrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;07MK;00;De Repelaer;3312LN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;  20;Duitsland;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;23;23;30;22;22;32;11;18;8;0;0;0;0;0;0;0;0;0;0;0;0;0;189
+20171001;505;Dordrecht;3312;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;21;11;12;17;12;8;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;505;Dordrecht;3313;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;3;0;1;3;1;1;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3314;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;7;9;8;3;5;7;4;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;505;Dordrecht;3315;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;2;1;4;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3316;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3317;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;3;1;1;3;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3319;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3328;Dordrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3356;Papendrecht;07OV;00;Basisschool Vest;3311LG;DORDRECHT;Zuid-Holland;Bo;Algemeen bijzonder;41184;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;3;2;1;4;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3312;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;5;3;19;12;21;20;19;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;505;Dordrecht;3313;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;1;0;0;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3314;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;9;4;10;6;4;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;505;Dordrecht;3315;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;2;0;2;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;3316;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3317;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;2;3;3;4;5;4;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;505;Dordrecht;3318;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3319;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;2;3;3;4;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;505;Dordrecht;3328;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3329;Dordrecht;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3773;Barneveld;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4231;Zederik;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4772;Moerdijk;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;5306;Zaltbommel;07OW;00;Ds Johannes Bogermansch;3312KM;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3204;Nissewaard;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3313;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;17;20;20;23;16;12;13;9;8;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;505;Dordrecht;3317;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;18;19;11;17;11;14;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;505;Dordrecht;3318;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3331;Zwijndrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;7854;Coevorden;08WC;00;De Fontein;3314TN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  30;ander land;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2989;Ridderkerk;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;1;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3315;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;4;2;3;3;2;3;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;505;Dordrecht;3316;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3317;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;3;2;2;2;5;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;505;Dordrecht;3318;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;2;8;6;4;3;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;505;Dordrecht;3319;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;8;15;3;11;6;8;6;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;505;Dordrecht;3328;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;7;12;5;6;8;2;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;505;Dordrecht;3329;Dordrecht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;3;0;3;2;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;08XJ;00;Ds J Polyanderschool;3328GD;DORDRECHT;Zuid-Holland;Bo;Reformatorisch;47867;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;  30;ander land;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;2951;Alblasserdam;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3194;Rotterdam;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;3;1;3;5;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3312;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;14;11;11;18;6;15;13;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;505;Dordrecht;3313;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;20;16;20;19;19;20;13;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;505;Dordrecht;3314;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3315;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;1;2;0;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3317;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3318;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3331;Zwijndrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3332;Zwijndrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3334;Zwijndrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3352;Papendrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3355;Papendrecht;09SW;00;De Regenboog;3312AM;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3313;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;24;39;28;30;28;30;21;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;225
+20171001;505;Dordrecht;3316;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3317;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;2;3;2;2;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3318;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3352;Papendrecht;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3372;Hardinxveld-Giessendam;11CP;00;Prins Bernhardschool;3314WZ;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  30;ander land;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3085;Rotterdam;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;15;10;12;15;18;21;12;13;5;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;505;Dordrecht;3312;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3313;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3315;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3351;Papendrecht;11DD;00;IKC de Wereldwijzer;3311XD;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3083;Rotterdam;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3299;Binnenmaas;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3312;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3313;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3314;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;15;22;12;10;13;14;16;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;505;Dordrecht;3315;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3316;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3317;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;3;2;2;1;5;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;505;Dordrecht;3318;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;3;2;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3319;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;2;1;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3328;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;18;13;18;14;19;13;10;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;505;Dordrecht;3329;Dordrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3331;Zwijndrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3356;Papendrecht;12AP;00;KBS Pius 10;3314GJ;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3315;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3316;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;2;3;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3317;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;12;18;14;11;11;11;7;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;505;Dordrecht;3318;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;7;12;7;3;3;10;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;505;Dordrecht;3319;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;12AU;00;Sterrekijker;3328KS;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;32;40;35;39;35;31;35;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;505;Dordrecht;  30;ander land;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;  40;Onbekend;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;2;1;1;1;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3316;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;19;20;16;12;14;18;13;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;505;Dordrecht;3318;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3331;Zwijndrecht;12JX;00;KBS Don Bosco;3317LE;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;2951;Alblasserdam;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3315;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3316;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3317;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;4;3;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3318;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;6;2;1;4;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3328;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;40;48;44;42;44;43;34;33;6;0;0;0;0;0;0;0;0;0;0;0;0;0;334
+20171001;505;Dordrecht;3329;Dordrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3332;Zwijndrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3334;Zwijndrecht;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;4926;Drimmelen;12KB;00;Het Kristal;3328ME;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;30582;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3315;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;31;26;30;30;28;23;29;29;5;0;0;0;0;0;0;0;0;0;0;0;0;0;231
+20171001;505;Dordrecht;3317;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3329;Dordrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3362;Sliedrecht;13KI;00;KBS Geert Groote;3315SB;DORDRECHT;Zuid-Holland;Bo;Rooms-Katholiek;46385;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3079;Rotterdam;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3132;Vlaardingen;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3313;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3315;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;22;30;26;25;30;27;15;31;9;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;505;Dordrecht;3317;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3329;Dordrecht;16WG;00;Oranje Nassauschool;3315AT;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2991;Barendrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3313;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3314;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3315;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;4;3;4;3;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3316;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3318;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3319;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;17;15;21;23;12;22;14;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;505;Dordrecht;3328;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;3;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3329;Dordrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;7;18;15;11;12;7;16;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;505;Dordrecht;3353;Papendrecht;16XM;00;Julianaschool;3319TB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;3;3;1;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3313;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3315;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;4;0;3;3;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;505;Dordrecht;3316;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3317;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;2;1;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3318;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3319;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;41;39;25;26;26;23;26;29;5;0;0;0;0;0;0;0;0;0;0;0;0;0;240
+20171001;505;Dordrecht;3328;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;1;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3329;Dordrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;5;5;1;4;5;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;505;Dordrecht;3333;Zwijndrecht;16YG;00;Beatrixschool;3319RN;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2957;Molenwaard;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;2;1;0;3;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3312;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;1;2;0;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;3313;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;1;1;1;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;3314;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;4;3;3;2;2;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;505;Dordrecht;3315;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;1;0;4;3;1;4;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;505;Dordrecht;3317;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;1;2;2;2;5;5;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;505;Dordrecht;3318;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;1;2;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3329;Dordrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3334;Zwijndrecht;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4251;Werkendam;18AW;00;Het Kompas OSSO;3312AX;DORDRECHT;Zuid-Holland;Sbo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3312;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;7;9;12;11;9;9;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;505;Dordrecht;3313;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;10;9;12;3;11;11;4;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;505;Dordrecht;3314;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;3;0;4;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3315;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3317;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3319;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3356;Papendrecht;18MO;00;Wantijschool;3313GL;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  30;ander land;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;2;0;0;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3312;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3313;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3314;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;6;18;15;16;9;19;16;13;7;1;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;505;Dordrecht;3315;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;5;2;6;5;8;4;5;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;505;Dordrecht;3318;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;2;2;2;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3328;Dordrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;2;1;3;2;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3332;Zwijndrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3362;Sliedrecht;18NV;00;OBS Mondriaan;3314TK;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;  30;ander land;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;3;4;2;2;2;1;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3315;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3317;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;53;48;51;52;40;46;32;36;7;0;0;0;0;0;0;0;0;0;0;0;0;0;365
+20171001;505;Dordrecht;3318;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;7;5;10;7;9;7;9;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;505;Dordrecht;3319;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;3;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3331;Zwijndrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3355;Papendrecht;18RJ;00;Kennedyschool;3317KM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;4;0;2;2;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3313;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;3;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3315;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;5;1;4;3;2;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3316;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;4;2;2;3;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3318;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;5;3;6;6;1;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;505;Dordrecht;3319;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;20;29;18;24;33;37;28;31;5;0;0;0;0;0;0;0;0;0;0;0;0;0;225
+20171001;505;Dordrecht;3328;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;6;3;6;3;5;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;505;Dordrecht;3329;Dordrecht;18UG;00;Basisschool Dubbeldam;3319SC;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;6;4;2;10;9;7;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;505;Dordrecht;  30;ander land;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  40;Onbekend;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3316;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3317;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;4;3;2;2;3;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3318;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3319;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;24;16;33;18;16;22;17;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;505;Dordrecht;4849;Oosterhout;18UQ;00;De Keerkring;3328TG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2981;Ridderkerk;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3315;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3316;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3317;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;4;1;2;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;505;Dordrecht;3318;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;2;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3319;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;23;31;41;28;36;39;23;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;247
+20171001;505;Dordrecht;3329;Dordrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3334;Zwijndrecht;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4782;Moerdijk;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;5104;Dongen;18UY;00;De Meridiaan;3328AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3313;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3314;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3315;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;26;20;36;28;35;31;27;41;10;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;505;Dordrecht;3317;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3329;Dordrecht;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;5421;Gemert-Bakel;18VI;00;De Griffioen;3315AE;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;21;13;21;25;22;20;17;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;505;Dordrecht;3312;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;6;3;5;3;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3313;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3314;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;4;0;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;505;Dordrecht;3317;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;3;1;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3329;Dordrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3332;Zwijndrecht;18VN;00;Staten-School;3311XH;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3074;Rotterdam;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3079;Rotterdam;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;4;5;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3312;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;6;4;5;2;7;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;505;Dordrecht;3313;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3314;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;27;22;22;20;13;15;16;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;505;Dordrecht;3315;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3316;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3317;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;8;4;5;3;4;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;505;Dordrecht;3318;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3319;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3328;Dordrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3331;Zwijndrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3353;Papendrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3356;Papendrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3361;Sliedrecht;18XB;00;MKC Mozaïek;3314JR;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;  40;Onbekend;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3132;Vlaardingen;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3311;Dordrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3314;Dordrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;2;0;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3317;Dordrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;21;22;18;19;26;13;11;19;6;0;0;0;0;0;0;0;0;0;0;0;0;0;155
+20171001;505;Dordrecht;3318;Dordrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3328;Dordrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3331;Zwijndrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3333;Zwijndrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3334;Zwijndrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3353;Papendrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3363;Sliedrecht;18YS;00;De Albatros;3317AM;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2951;Alblasserdam;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3067;Rotterdam;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3274;Binnenmaas;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3312;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3313;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3314;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3316;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;1;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3317;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;5;1;3;5;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;505;Dordrecht;3318;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;4;3;3;4;3;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;505;Dordrecht;3328;Dordrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;18;21;13;17;14;12;11;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;505;Dordrecht;3333;Zwijndrecht;18ZW;00;De Driehoek;3328KG;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3042;Rotterdam;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3312;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;2;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3313;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;2;2;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3315;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;13;13;25;19;26;28;26;40;3;0;0;0;0;0;0;0;0;0;0;0;0;0;193
+20171001;505;Dordrecht;3316;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3318;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3328;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3329;Dordrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3353;Papendrecht;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4881;Zundert;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;6412;Heerlen;23PC;00;OBS de Bever;3315MB;DORDRECHT;Zuid-Holland;Bo;Openbaar;41518;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3312;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;0;3;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3313;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3314;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3315;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;37;45;49;44;49;52;56;49;12;0;0;0;0;0;0;0;0;0;0;0;0;0;393
+20171001;505;Dordrecht;3317;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3318;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3319;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;2;0;1;3;0;0;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;505;Dordrecht;3329;Dordrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3333;Zwijndrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3351;Papendrecht;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4225;Giessenlanden;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4671;Steenbergen;23PE;00;PC Basiss Johan Friso;3315MB;DORDRECHT;Zuid-Holland;Bo;Protestants-Christelijk;83864;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;  10;Belgie;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2951;Alblasserdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;2;1;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;2953;Alblasserdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;2;1;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;2985;Ridderkerk;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2991;Barendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;2992;Barendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;2994;Barendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3034;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3073;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3074;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3076;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3078;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3079;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3082;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3085;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3086;Rotterdam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3311;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;3;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;505;Dordrecht;3312;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;4;3;1;3;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;505;Dordrecht;3313;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;2;1;2;3;2;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;505;Dordrecht;3314;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;5;14;10;12;10;10;5;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;505;Dordrecht;3315;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;2;4;2;4;4;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;505;Dordrecht;3317;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;16;12;14;16;9;12;5;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;505;Dordrecht;3318;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;3;2;10;4;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;505;Dordrecht;3319;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3328;Dordrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;2;4;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3331;Zwijndrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;3;3;1;5;4;3;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;505;Dordrecht;3333;Zwijndrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3334;Zwijndrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;1;0;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3335;Zwijndrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3341;Hendrik-Ido-Ambacht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3343;Hendrik-Ido-Ambacht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3344;Hendrik-Ido-Ambacht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3352;Papendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3353;Papendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;505;Dordrecht;3356;Papendrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3362;Sliedrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;2;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;505;Dordrecht;3363;Sliedrecht;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;505;Dordrecht;3371;Hardinxveld-Giessendam;27YJ;00;I.B.S. Ikra;3317JP;DORDRECHT;Zuid-Holland;Bo;Islamitisch;30731;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;505;Dordrecht;3193;Rotterdam;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3271;Binnenmaas;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3311;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;1;1;4;3;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;505;Dordrecht;3312;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;4;1;2;5;4;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;505;Dordrecht;3313;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;2;2;2;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;505;Dordrecht;3314;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;6;5;14;9;6;8;7;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;505;Dordrecht;3315;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;3;1;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;505;Dordrecht;3316;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;3317;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;4;7;3;3;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;505;Dordrecht;3318;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;2;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;505;Dordrecht;3319;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;505;Dordrecht;3328;Dordrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;3;5;0;3;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;505;Dordrecht;3333;Zwijndrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;505;Dordrecht;3351;Papendrecht;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;505;Dordrecht;4765;Moerdijk;29XY;00;Ebs Eden;3314NX;DORDRECHT;Zuid-Holland;Bo;Evangelisch;30582;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

@@ -1,0 +1,712 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;402;Hilversum;1181;Amstelveen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1212;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1212;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;4
+20171001;402;Hilversum;1213;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;402;Hilversum;1214;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1214;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;2;2;0;1;0;1;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1216;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1216;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1217;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1217;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1218;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1218;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;2;2;0;0;1;2;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1222;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1222;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1223;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1223;Hilversum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;1;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1231;Wijdemeren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1241;Wijdemeren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1241;Wijdemeren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1243;Wijdemeren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1244;Wijdemeren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1251;Laren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1251;Laren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1252;Laren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1261;Blaricum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1261;Blaricum;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1271;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1271;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;402;Hilversum;1272;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1272;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1273;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1273;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1274;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1274;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;2;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1275;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1276;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1277;Huizen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;402;Hilversum;1356;Almere;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1381;Weesp;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1381;Weesp;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1382;Weesp;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1383;Weesp;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1391;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1391;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1393;Stichtse Vecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1396;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1398;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1399;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1399;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1401;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1402;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1402;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1403;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1404;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1404;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1406;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1411;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1412;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1412;Gooise Meren;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1423;Uithoorn;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;402;Hilversum;1424;Uithoorn;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3453;Utrecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3533;Utrecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3621;Stichtse Vecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;402;Hilversum;3632;Stichtse Vecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3632;Stichtse Vecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3633;Stichtse Vecht;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3641;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3641;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;3
+20171001;402;Hilversum;3642;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3646;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3648;De Ronde Venen;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3738;De Bilt;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;402;Hilversum;3742;Baarn;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3743;Baarn;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3744;Baarn;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3752;Bunschoten;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3755;Eemnes;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41290;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3755;Eemnes;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;3762;Soest;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3822;Amersfoort;00SL;00;Stichting Mozarthof;1217CM;HILVERSUM;Noord-Holland;Vso;Algemeen bijzonder;41290;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1212;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1214;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1215;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1222;Hilversum;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1231;Wijdemeren;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1271;Huizen;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1272;Huizen;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1274;Huizen;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1276;Huizen;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1382;Weesp;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1383;Weesp;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1412;Gooise Meren;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3645;De Ronde Venen;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3741;Baarn;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;3742;Baarn;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3743;Baarn;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3751;Bunschoten;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;01JO;22;Auris Taalkring;1212CB;HILVERSUM;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1211;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;402;Hilversum;1212;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1212;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1214;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1217;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1218;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1222;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1223;Hilversum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1231;Wijdemeren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1231;Wijdemeren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1244;Wijdemeren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1251;Laren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1261;Blaricum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1261;Blaricum;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1272;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1273;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1273;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1274;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1274;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1394;Wijdemeren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1394;Wijdemeren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1398;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1401;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1402;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1403;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1404;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;2317;Leiden;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3612;Stichtse Vecht;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3621;Stichtse Vecht;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3628;Stichtse Vecht;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3648;De Ronde Venen;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3712;Zeist;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3732;De Bilt;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3738;De Bilt;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3739;De Bilt;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3741;Baarn;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3744;Baarn;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3744;Baarn;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3755;Eemnes;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3755;Eemnes;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;4
+20171001;402;Hilversum;3761;Soest;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;42687;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3905;Veenendaal;01TQ;00;ZMLK School Klimop;1217EA;HILVERSUM;Noord-Holland;Vso;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;1;1;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1212;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1216;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1217;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1221;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;1;3;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1222;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;2;4;3;1;3;7;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;402;Hilversum;1223;Hilversum;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;2;3;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1251;Laren;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3738;De Bilt;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3766;Soest;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3829;Amersfoort;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3843;Harderwijk;03BA;00;Jan V Rijckenborghschool;1222SX;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;30013;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1216;Hilversum;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1221;Hilversum;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1222;Hilversum;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1231;Wijdemeren;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1241;Wijdemeren;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1261;Blaricum;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1271;Huizen;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1273;Huizen;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1274;Huizen;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3612;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3621;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;1;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;3631;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3632;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;2;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;3633;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3634;Stichtse Vecht;03OA;00;Basissch Petrus Dathenus;1222VC;HILVERSUM;Noord-Holland;Bo;Reformatorisch;34139;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;2;1;1;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1212;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;3;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1214;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;1;1;1;0;0;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1216;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1217;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1218;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;3;3;3;2;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;402;Hilversum;1222;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;5;5;8;7;3;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;402;Hilversum;1223;Hilversum;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;12;4;5;5;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;402;Hilversum;1231;Wijdemeren;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;1;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1243;Wijdemeren;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;2993;Barendrecht;04DT;00;GBS De Wegwijzer;1217GS;HILVERSUM;Noord-Holland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;2;4;2;3;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;402;Hilversum;1212;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1214;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1217;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;13;19;17;16;16;21;17;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;402;Hilversum;1221;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;0;0;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1222;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;5;6;2;4;5;7;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;402;Hilversum;1223;Hilversum;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;3;4;0;5;1;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;402;Hilversum;1231;Wijdemeren;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1274;Huizen;04OS;00;Chr Inst Gr v Prinsterer;1217HX;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;35218;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;  20;Duitsland;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1211;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;4;2;3;2;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;402;Hilversum;1212;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;2;0;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1213;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;3;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1216;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1217;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1221;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;16;26;14;22;12;21;16;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;402;Hilversum;1222;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;27;22;27;31;32;25;35;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;402;Hilversum;1223;Hilversum;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;28;38;29;23;23;34;32;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;233
+20171001;402;Hilversum;1231;Wijdemeren;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1241;Wijdemeren;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1271;Huizen;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1404;Gooise Meren;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3741;Baarn;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3742;Baarn;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3763;Soest;04YZ;00;De Wilge;1222SC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;3;4;1;3;2;5;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;402;Hilversum;1212;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;2;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1213;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;12;10;13;15;15;14;18;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;402;Hilversum;1214;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;5;7;5;4;4;5;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;402;Hilversum;1215;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;4;5;4;6;3;5;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;402;Hilversum;1216;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1217;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;1;0;3;0;1;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;402;Hilversum;1221;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;2;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1222;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1223;Hilversum;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1231;Wijdemeren;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;1;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;3625;Wijdemeren;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3632;Stichtse Vecht;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3739;De Bilt;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3749;Baarn;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;05WG;00;Hilversumse Schoolver;1213BM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;8;12;9;11;10;9;4;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;402;Hilversum;1212;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;1;1;4;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;402;Hilversum;1213;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1214;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1215;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1216;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;2;1;3;0;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1217;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;4;12;5;6;3;10;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;402;Hilversum;1221;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;11;8;3;4;6;8;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;402;Hilversum;1222;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;8;8;11;8;6;11;14;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;402;Hilversum;1223;Hilversum;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;5;3;3;10;5;3;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;402;Hilversum;1231;Wijdemeren;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1241;Wijdemeren;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1505;Zaanstad;05WH;00;Montessorischool Centrum;1211AM;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1214;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1216;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;1;1;0;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1217;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;17;19;21;22;21;22;31;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;402;Hilversum;1222;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;2;5;3;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;402;Hilversum;1223;Hilversum;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1231;Wijdemeren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;1;1;5;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1241;Wijdemeren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1243;Wijdemeren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1244;Wijdemeren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1394;Wijdemeren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1401;Gooise Meren;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3743;Baarn;05WI;00;Godelindeschool;1217CN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;96292;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;2;3;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1212;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1213;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;3;5;4;2;3;2;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;402;Hilversum;1214;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;3;8;2;8;6;8;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;402;Hilversum;1215;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;25;24;30;18;22;26;19;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;402;Hilversum;1216;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;6;7;6;9;7;5;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;402;Hilversum;1217;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;1;2;5;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;402;Hilversum;1221;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1222;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1223;Hilversum;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1231;Wijdemeren;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;2;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1241;Wijdemeren;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3768;Soest;08CI;00;Montessorischool Zuid;1215KN;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;41515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1212;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1214;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1216;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1217;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;1;2;1;3;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;402;Hilversum;1222;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;3;6;3;6;7;2;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;402;Hilversum;1223;Hilversum;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;2;0;2;1;1;5;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;402;Hilversum;1231;Wijdemeren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1241;Wijdemeren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1243;Wijdemeren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1244;Wijdemeren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1251;Laren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1273;Huizen;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1324;Almere;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1363;Almere;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1381;Weesp;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1382;Weesp;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;5;0;1;3;4;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;402;Hilversum;1383;Weesp;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1394;Wijdemeren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1399;Gooise Meren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1402;Gooise Meren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;1;3;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1404;Gooise Meren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3739;De Bilt;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3742;Baarn;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3763;Soest;08SR;00;Het Mozaiek;1222ES;HILVERSUM;Noord-Holland;Sbo;Protestants-Christelijk;42687;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;1;1;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1212;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;1;1;1;0;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1214;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;1;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1215;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1218;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;2;2;1;2;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1222;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;1;1;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1223;Hilversum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;2;5;3;3;5;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;402;Hilversum;1241;Wijdemeren;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1251;Laren;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1261;Blaricum;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1401;Gooise Meren;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1411;Gooise Meren;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;2317;Leiden;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3741;Baarn;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;13IT;00;SBO C Hummeling;1212BW;HILVERSUM;Noord-Holland;Sbo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1212;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1214;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1215;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1216;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1218;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1222;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1223;Hilversum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;3;1;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1241;Wijdemeren;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1261;Blaricum;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1271;Huizen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1273;Huizen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1274;Huizen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;1;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1275;Huizen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1381;Weesp;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1383;Weesp;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1402;Gooise Meren;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1406;Gooise Meren;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3621;Stichtse Vecht;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3632;Stichtse Vecht;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3641;De Ronde Venen;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3741;Baarn;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3742;Baarn;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;3744;Baarn;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3752;Bunschoten;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3755;Eemnes;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3762;Soest;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;3764;Soest;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3768;Soest;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3812;Amersfoort;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3813;Amersfoort;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3824;Amersfoort;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3826;Amersfoort;14RB;01;J.H.Donnerschool;1222BW;HILVERSUM;Noord-Holland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;1;3;2;2;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;402;Hilversum;1212;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1214;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;7;8;9;10;5;7;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;402;Hilversum;1215;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;2;5;2;3;6;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;402;Hilversum;1216;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;2;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1221;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1222;Hilversum;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1231;Wijdemeren;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1271;Huizen;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;15AI;00;Paulusschool;1214ET;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1212;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1214;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1216;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;1;1;2;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1222;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;25;15;20;22;19;20;12;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;402;Hilversum;1223;Hilversum;15FQ;00;Titus Brandsmaschool;1222VC;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;2;0;1;1;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1211;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1213;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1214;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1215;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1216;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;24;28;30;37;21;28;25;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;402;Hilversum;1221;Hilversum;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1231;Wijdemeren;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1394;Wijdemeren;15LL;00;Augustinusschool;1216NH;HILVERSUM;Noord-Holland;Bo;Rooms-Katholiek;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;  30;ander land;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;4;3;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1212;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;2;2;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1214;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1215;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1216;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;21;16;21;10;17;7;6;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;402;Hilversum;1222;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;20;22;10;13;13;20;22;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;402;Hilversum;1223;Hilversum;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;10;5;6;12;2;13;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;402;Hilversum;1274;Huizen;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1403;Gooise Meren;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;5231;'s-Hertogenbosch;15NU;00;Chr. Basisschool Avonturijn;1221CE;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1213;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1214;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;3;2;2;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;402;Hilversum;1215;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;14;6;12;16;5;7;10;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;402;Hilversum;1216;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;2;1;2;4;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;402;Hilversum;1217;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1231;Wijdemeren;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1402;Gooise Meren;15VA;00;Lwj van Hasseltschool;1215RH;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;1;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1212;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;2;4;2;1;3;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;402;Hilversum;1213;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1221;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;6;7;7;5;2;0;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;402;Hilversum;1222;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1223;Hilversum;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;5;10;11;12;10;13;8;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;402;Hilversum;1251;Laren;15ZH;00;Nassauschool;1223NS;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;11;20;14;12;14;12;17;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;402;Hilversum;1212;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;8;4;8;3;3;7;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;402;Hilversum;1213;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;15;15;17;9;15;8;19;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;402;Hilversum;1214;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;9;7;17;13;15;10;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;402;Hilversum;1215;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;22;11;20;22;27;25;19;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;402;Hilversum;1216;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;4;4;1;6;5;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;402;Hilversum;1217;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;4;1;3;1;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;402;Hilversum;1221;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;3;3;3;0;4;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;402;Hilversum;1222;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1223;Hilversum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;2;0;3;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1231;Wijdemeren;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1241;Wijdemeren;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1261;Blaricum;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3739;De Bilt;16CP;00;Wilhelminaschool;1213CK;HILVERSUM;Noord-Holland;Bo;Protestants-Christelijk;75753;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1019;Amsterdam;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;5;3;2;4;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;402;Hilversum;1212;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1213;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;27;25;33;35;36;28;35;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;249
+20171001;402;Hilversum;1214;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;12;18;12;7;17;17;14;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;402;Hilversum;1215;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;3;9;7;10;6;9;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;402;Hilversum;1216;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;2;1;5;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;402;Hilversum;1217;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;2;2;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1218;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1222;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1223;Hilversum;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1231;Wijdemeren;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;2;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1241;Wijdemeren;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3739;De Bilt;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3741;Baarn;19CY;00;Fabritiusschool;1213CT;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1212;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1213;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;1;0;3;0;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;402;Hilversum;1214;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;13;5;11;6;15;11;12;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;402;Hilversum;1215;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;11;9;15;9;10;9;12;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;402;Hilversum;1216;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;9;17;15;9;10;16;15;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;402;Hilversum;1217;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1218;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1222;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1223;Hilversum;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1231;Wijdemeren;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;2;1;2;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1241;Wijdemeren;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3739;De Bilt;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;19DD;00;Goudenregenschool;1214NC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1058;Amsterdam;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1213;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1214;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;2;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1215;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;22;26;27;31;29;33;26;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;402;Hilversum;1216;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;14;15;7;15;7;13;6;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;402;Hilversum;1217;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;7;6;7;8;8;7;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;402;Hilversum;1222;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1223;Hilversum;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1231;Wijdemeren;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1244;Wijdemeren;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3755;Eemnes;19DI;00;Elckerlyc;1215EG;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1211;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;1;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1212;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1217;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1218;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;5;7;4;10;0;7;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;402;Hilversum;1222;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;6;4;6;4;2;1;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;402;Hilversum;1223;Hilversum;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;1;2;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1274;Huizen;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3741;Baarn;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;7204;Zutphen;19DM;00;Sterrenschool Hilversum;1222TJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19DP;00;Dr Ir C Lelyschool;1222VC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1212;Hilversum;19DP;00;Dr Ir C Lelyschool;1222VC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1222;Hilversum;19DP;00;Dr Ir C Lelyschool;1222VC;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;8;6;12;8;8;6;8;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;402;Hilversum;  30;ander land;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1211;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;2;3;2;2;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;402;Hilversum;1212;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;6;6;8;6;13;5;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;402;Hilversum;1214;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1215;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;4;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1216;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1217;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;1;2;1;4;1;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;402;Hilversum;1222;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;1;1;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;402;Hilversum;1223;Hilversum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;2;2;4;3;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;402;Hilversum;1231;Wijdemeren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1241;Wijdemeren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1251;Laren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1261;Blaricum;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1271;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1272;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1273;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1274;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1275;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1382;Weesp;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1394;Wijdemeren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1398;Gooise Meren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1399;Gooise Meren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1412;Gooise Meren;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3762;Soest;19LM;00;De Dubbeldekker;1212AL;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;  40;Onbekend;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1108;Amsterdam;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1212;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;3;5;2;4;5;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;402;Hilversum;1213;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1215;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1216;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1217;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1221;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;21;28;20;16;21;20;15;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;402;Hilversum;1222;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;5;7;6;7;11;2;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;402;Hilversum;1223;Hilversum;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;52;49;48;51;47;55;45;40;3;0;0;0;0;0;0;0;0;0;0;0;0;0;390
+20171001;402;Hilversum;1243;Wijdemeren;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1333;Almere;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1406;Gooise Meren;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3564;Utrecht;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3705;Zeist;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3769;Soest;19MR;00;Lorentzschool;1223HN;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;  40;Onbekend;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1214;Hilversum;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1218;Hilversum;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;18;32;22;22;18;18;20;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;402;Hilversum;1222;Hilversum;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1241;Wijdemeren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1243;Wijdemeren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1404;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1405;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1406;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1412;Gooise Meren;19MW;00;De Gooise Daltonschool;1218GZ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;  10;Belgie;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;  30;ander land;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1052;Amsterdam;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1054;Amsterdam;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1077;Amsterdam;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1087;Amsterdam;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1103;Amsterdam;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1188;Amstelveen;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;26;31;30;22;11;21;22;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;402;Hilversum;1212;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;3;1;1;1;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;402;Hilversum;1213;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;10;10;13;19;10;13;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;402;Hilversum;1214;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;25;21;18;21;16;17;21;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;402;Hilversum;1215;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;8;10;7;14;8;14;14;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;402;Hilversum;1216;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;4;6;8;1;3;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;402;Hilversum;1217;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;5;6;4;7;10;11;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;402;Hilversum;1218;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1221;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;3;6;5;5;4;6;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;402;Hilversum;1222;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;1;4;0;3;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;402;Hilversum;1223;Hilversum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;2;2;2;3;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;402;Hilversum;1231;Wijdemeren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;2;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1244;Wijdemeren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1251;Laren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;4;1;2;5;2;4;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;402;Hilversum;1252;Laren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1261;Blaricum;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1271;Huizen;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1272;Huizen;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1274;Huizen;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1335;Almere;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1391;De Ronde Venen;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1404;Gooise Meren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1406;Gooise Meren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1411;Gooise Meren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1412;Gooise Meren;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;2841;Zuidplas;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3543;Utrecht;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3628;Stichtse Vecht;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3701;Zeist;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3706;Zeist;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3721;De Bilt;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3739;De Bilt;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;3741;Baarn;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3742;Baarn;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3743;Baarn;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3751;Bunschoten;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3752;Bunschoten;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3755;Eemnes;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3761;Soest;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3764;Soest;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3765;Soest;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3766;Soest;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3769;Soest;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;7545;Enschede;19NA;00;Violenschool;1214CJ;HILVERSUM;Noord-Holland;Bo;Openbaar;41493;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;2;1;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;402;Hilversum;1212;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;1;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1213;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1214;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;1;0;1;3;3;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;402;Hilversum;1215;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;2;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1216;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;1;0;1;3;2;0;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;402;Hilversum;1217;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1218;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1221;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;4;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1222;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1223;Hilversum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;1;1;3;5;3;1;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;402;Hilversum;1231;Wijdemeren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;1;1;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1241;Wijdemeren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1251;Laren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1261;Blaricum;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1273;Huizen;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1381;Weesp;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1382;Weesp;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1394;Wijdemeren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1398;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1399;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;1;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1401;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1403;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;1;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1411;Gooise Meren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;3625;Wijdemeren;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3632;Stichtse Vecht;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3738;De Bilt;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3741;Baarn;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;3742;Baarn;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;3755;Eemnes;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;1;1;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;3762;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;3763;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3764;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3765;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;3766;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3768;Soest;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3862;Nijkerk;19TU;00;Annie M. G. Schmidt, RSOO;1213VC;HILVERSUM;Noord-Holland;Sbo;Algemeen bijzonder;42687;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1212;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;2;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1214;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1216;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;2;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;402;Hilversum;1218;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1221;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1222;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;5;4;4;5;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;402;Hilversum;1223;Hilversum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;1;6;2;3;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;402;Hilversum;1241;Wijdemeren;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;1;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;402;Hilversum;1261;Blaricum;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1271;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;2;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;1272;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1273;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;4;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;402;Hilversum;1274;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;3;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;402;Hilversum;1275;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1276;Huizen;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;2;2;4;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;402;Hilversum;1394;Wijdemeren;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;2;2;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;402;Hilversum;1403;Gooise Meren;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;1;1;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;402;Hilversum;3708;Zeist;24EJ;01;Ayoub;1222EZ;HILVERSUM;Noord-Holland;Bo;Islamitisch;40077;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;  40;Onbekend;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1094;Amsterdam;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1211;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;4;4;5;8;3;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;402;Hilversum;1212;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;11;10;7;9;5;5;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;402;Hilversum;1213;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;3;5;2;2;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;402;Hilversum;1214;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;2;3;1;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;402;Hilversum;1215;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;3;3;1;2;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;402;Hilversum;1216;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;402;Hilversum;1217;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;2;2;3;1;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;402;Hilversum;1221;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;4;7;4;1;3;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;402;Hilversum;1222;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;1;2;0;4;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;402;Hilversum;1223;Hilversum;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;11;8;6;6;4;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;402;Hilversum;1231;Wijdemeren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;1241;Wijdemeren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1251;Laren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;402;Hilversum;1335;Almere;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1402;Gooise Meren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1403;Gooise Meren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;1412;Gooise Meren;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3544;Utrecht;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3755;Eemnes;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;402;Hilversum;3764;Soest;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3766;Soest;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;402;Hilversum;3825;Amersfoort;27YP;00;KinderCampus;1212CB;HILVERSUM;Noord-Holland;Bo;Algemeen bijzonder;78912;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

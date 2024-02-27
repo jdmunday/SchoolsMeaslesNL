@@ -1,0 +1,64 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;273;Putten;3861;Nijkerk;05SJ;00;PCB De Wegwijzer;3882XE;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;05SJ;00;PCB De Wegwijzer;3882XE;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;10;9;14;14;16;10;13;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;273;Putten;3882;Putten;05SJ;00;PCB De Wegwijzer;3882XE;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;15;14;17;23;22;27;14;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;273;Putten;3843;Harderwijk;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3851;Ermelo;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3853;Ermelo;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3862;Nijkerk;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;12;11;7;13;16;10;16;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;273;Putten;3882;Putten;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;32;36;23;22;23;18;16;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;273;Putten;3886;Barneveld;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;8075;Nunspeet;06QC;00;Gabrielschool Jenaplan;3881CC;PUTTEN;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;09CU;00;PCB De Pelikaan;3882GN;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;3;2;4;1;2;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;273;Putten;3882;Putten;09CU;00;PCB De Pelikaan;3882GN;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;19;24;29;31;20;17;36;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;273;Putten;3894;Zeewolde;09CU;00;PCB De Pelikaan;3882GN;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3881;Putten;09ZA;00;PCB Hoef;3882RV;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3882;Putten;09ZA;00;PCB Hoef;3882RV;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;10;5;9;9;13;9;13;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;273;Putten;3925;Scherpenzeel;09ZA;00;PCB Hoef;3882RV;PUTTEN;Gelderland;Bo;Protestants-Christelijk;90169;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;  30;ander land;10DJ;00;De Korenbloem;3882GD;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3776;Barneveld;10DJ;00;De Korenbloem;3882GD;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;10DJ;00;De Korenbloem;3882GD;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;3;0;3;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;273;Putten;3882;Putten;10DJ;00;De Korenbloem;3882GD;PUTTEN;Gelderland;Bo;Openbaar;41345;0;5;2;4;5;3;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;273;Putten;1355;Almere;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;2202;Noordwijk;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3722;De Bilt;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3776;Barneveld;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3781;Barneveld;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;273;Putten;3847;Harderwijk;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3852;Ermelo;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;1;1;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;273;Putten;3853;Ermelo;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;273;Putten;3881;Putten;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;6;15;12;10;13;7;13;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;273;Putten;3882;Putten;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;2;4;3;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;273;Putten;3886;Barneveld;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;3;4;3;3;1;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;273;Putten;3888;Apeldoorn;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;273;Putten;3891;Zeewolde;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;8075;Nunspeet;10UZ;00;De Schovenhorst;3881NC;PUTTEN;Gelderland;Bo;Openbaar;41345;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3881;Putten;12LD;00;Ichthus;3882CG;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;2;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;273;Putten;3882;Putten;12LD;00;Ichthus;3882CG;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;9;7;20;10;21;25;16;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;273;Putten;3791;Leusden;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3861;Nijkerk;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;273;Putten;3862;Nijkerk;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;273;Putten;3881;Putten;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;0;1;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;273;Putten;3882;Putten;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;2;2;2;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;273;Putten;7323;Apeldoorn;12ZW;00;Bs met de Bijbel Diermen;3882PE;PUTTEN;Gelderland;Bo;Reformatorisch;40862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;13KV;00;Bs md Bijbel v Damschool;3881JC;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40667;0;7;11;10;13;13;12;11;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;273;Putten;3882;Putten;13KV;00;Bs md Bijbel v Damschool;3881JC;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40667;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3845;Harderwijk;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3851;Ermelo;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3853;Ermelo;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;9;10;12;14;21;12;9;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;273;Putten;3882;Putten;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;2;4;2;5;2;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;273;Putten;8075;Nunspeet;13PQ;00;Bs md Bijbel bij de Bron;3881BL;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;13TR;00;Bs md Bijbel De Akker;3881XR;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;22;24;22;26;21;28;21;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;196
+20171001;273;Putten;3882;Putten;13TR;00;Bs md Bijbel De Akker;3881XR;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;1;4;1;1;4;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;273;Putten;3781;Barneveld;13XA;00;Bs met de Bijbel Huinen;3882TJ;PUTTEN;Gelderland;Bo;Reformatorisch;40667;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;273;Putten;3851;Ermelo;13XA;00;Bs met de Bijbel Huinen;3882TJ;PUTTEN;Gelderland;Bo;Reformatorisch;40667;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3853;Ermelo;13XA;00;Bs met de Bijbel Huinen;3882TJ;PUTTEN;Gelderland;Bo;Reformatorisch;40667;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3881;Putten;13XA;00;Bs met de Bijbel Huinen;3882TJ;PUTTEN;Gelderland;Bo;Reformatorisch;40667;0;8;2;2;7;5;7;6;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;273;Putten;3882;Putten;13XA;00;Bs met de Bijbel Huinen;3882TJ;PUTTEN;Gelderland;Bo;Reformatorisch;40667;0;10;12;6;7;10;5;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;273;Putten;3853;Ermelo;14AH;00;BS De Steenenkamer;3882RC;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;273;Putten;3881;Putten;14AH;00;BS De Steenenkamer;3882RC;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;273;Putten;3882;Putten;14AH;00;BS De Steenenkamer;3882RC;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;1;4;2;5;4;1;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;273;Putten;3881;Putten;23ZZ;00;De Schuilplaats;3882HH;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;1;0;0;2;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;273;Putten;3882;Putten;23ZZ;00;De Schuilplaats;3882HH;PUTTEN;Gelderland;Bo;Protestants-Christelijk;40862;0;48;41;57;35;28;46;34;34;6;0;0;0;0;0;0;0;0;0;0;0;0;0;329

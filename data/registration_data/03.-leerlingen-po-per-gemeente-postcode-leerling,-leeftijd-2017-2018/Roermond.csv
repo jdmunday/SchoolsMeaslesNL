@@ -1,0 +1,399 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;957;Roermond;5953;Beesel;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;5953;Beesel;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;5954;Beesel;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5954;Beesel;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;3
+20171001;957;Roermond;5961;Horst aan de Maas;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5981;Peel en Maas;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5984;Peel en Maas;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5988;Peel en Maas;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;5993;Peel en Maas;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6002;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6002;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6003;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6004;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6004;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6005;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6006;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6006;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6011;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6012;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6013;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6015;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6031;Nederweert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6031;Nederweert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6035;Nederweert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6035;Nederweert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6037;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6039;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6039;Weert;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6042;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6042;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;2;2;0;0;1;0;1;0;0;0;0;0;0;6
+20171001;957;Roermond;6043;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;957;Roermond;6043;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;1;3;2;6;3;0;0;0;0;0;0;16
+20171001;957;Roermond;6044;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;2;1;0;1;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6044;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6045;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;957;Roermond;6045;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6049;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6049;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6061;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6061;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6065;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6067;Maasgouw;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6067;Maasgouw;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6071;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;1;2;0;0;0;0;0;0;7
+20171001;957;Roermond;6074;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6075;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6075;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6081;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6082;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6085;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6086;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6088;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;957;Roermond;6093;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6093;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6095;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6095;Leudal;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6097;Maasgouw;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6097;Maasgouw;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6099;Maasgouw;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6101;Echt-Susteren;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6101;Echt-Susteren;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6102;Echt-Susteren;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;So;Rooms-Katholiek;26132;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6181;Stein;00KX;00;Herman Broerenschool;6045GL;ROERMOND;Limburg;Vso;Rooms-Katholiek;26132;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;957;Roermond;5552;Valkenswaard;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5554;Valkenswaard;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5915;Venlo;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6002;Weert;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6004;Weert;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6004;Weert;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6006;Weert;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6042;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6043;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;1;3;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;957;Roermond;6043;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6045;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6049;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6049;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6051;Maasgouw;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6061;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6065;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6067;Maasgouw;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6071;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6074;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6075;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6077;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6085;Leudal;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6086;Leudal;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6093;Leudal;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6095;Leudal;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6104;Echt-Susteren;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6107;Maasgouw;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6114;Echt-Susteren;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6118;Echt-Susteren;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6129;Stein;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6463;Kerkrade;01UQ;05;De Wijnberg;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;85581;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;2;2;2;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;957;Roermond;6042;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;32;26;23;23;20;29;23;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;957;Roermond;6043;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;5;7;1;4;2;4;2;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;957;Roermond;6044;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6045;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6049;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;957;Roermond;6071;Roermond;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6085;Leudal;03LD;00;Basisschool Neel;6042NG;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  30;ander land;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6031;Nederweert;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;13;12;22;11;10;13;17;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;957;Roermond;6042;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;6;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;957;Roermond;6043;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;4;3;2;6;3;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;957;Roermond;6044;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6045;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;4;3;0;5;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;957;Roermond;6049;Roermond;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6082;Leudal;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6085;Leudal;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6091;Nederweert;03LE;00;Basissch De Steenen Brug;6041LV;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5926;Venlo;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;5954;Beesel;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6041;Roermond;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6042;Roermond;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6043;Roermond;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6071;Roermond;03PD;00;Basisschool De Octopus;6071VP;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;34;40;43;45;47;48;40;30;2;0;0;0;0;0;0;0;0;0;0;0;0;0;329
+20171001;957;Roermond;  20;Duitsland;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6041;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;3;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6042;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;4;1;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;957;Roermond;6043;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;6;7;1;4;2;8;2;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;957;Roermond;6044;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;3;5;2;5;5;4;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;957;Roermond;6045;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;16;12;15;11;15;10;7;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;957;Roermond;6049;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;3;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6051;Maasgouw;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6071;Roermond;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6074;Roerdalen;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6075;Roerdalen;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6097;Maasgouw;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6107;Maasgouw;03SR;00;Sint Alfonsusschool;6045AR;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  10;Belgie;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;  30;ander land;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;  40;Onbekend;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;5953;Beesel;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6003;Weert;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6005;Weert;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6017;Maasgouw;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6031;Nederweert;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6041;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;4;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;957;Roermond;6042;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;5;5;4;8;6;6;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;957;Roermond;6043;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;2;4;2;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;957;Roermond;6044;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6045;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;1;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6049;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6061;Roerdalen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6063;Roerdalen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6071;Roermond;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;2;1;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;957;Roermond;6074;Roerdalen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6075;Roerdalen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6081;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6085;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;957;Roermond;6086;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6088;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6093;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6095;Leudal;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6097;Maasgouw;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6099;Maasgouw;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6102;Echt-Susteren;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6114;Echt-Susteren;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6133;Sittard-Geleen;04BT;00;Vrijeschool Christophorus;6041AG;ROERMOND;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;2;4;7;3;4;10;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;957;Roermond;6042;Roermond;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6045;Roermond;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6049;Roermond;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;27;22;53;41;40;53;39;38;4;0;0;0;0;0;0;0;0;0;0;0;0;0;317
+20171001;957;Roermond;6061;Roerdalen;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6067;Maasgouw;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6074;Roerdalen;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6085;Leudal;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6101;Echt-Susteren;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6136;Sittard-Geleen;05BT;00;St. Hubertusschool;6049HS;HERTEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;  10;Belgie;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  30;ander land;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;2;0;0;1;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6042;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;2;4;2;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;957;Roermond;6043;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;17;15;17;23;21;29;23;18;15;1;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;957;Roermond;6044;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;1;3;2;1;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;957;Roermond;6045;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;2;1;3;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;957;Roermond;6049;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6071;Roermond;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6074;Roerdalen;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6085;Leudal;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6129;Stein;05DF;00;De Zonnewijzer;6043BT;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  10;Belgie;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;2317;Leiden;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;5925;Venlo;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;4;4;4;10;2;10;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;957;Roermond;6043;Roermond;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;42;37;42;34;50;25;26;28;6;0;0;0;0;0;0;0;0;0;0;0;0;0;290
+20171001;957;Roermond;6044;Roermond;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;3;3;3;4;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;957;Roermond;6045;Roermond;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;1;1;0;1;1;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;957;Roermond;6075;Roerdalen;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6093;Leudal;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6095;Leudal;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;5;2;7;3;4;4;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;957;Roermond;6127;Sittard-Geleen;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;9341;Noordenveld;05YC;00;Basisschool De Brink;6043SG;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;1;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6042;Roermond;06JO;00;Basisschool St Theresia;6071AL;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6043;Roermond;06JO;00;Basisschool St Theresia;6071AL;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;06JO;00;Basisschool St Theresia;6071AL;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;9;8;11;9;8;8;16;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;957;Roermond;  30;ander land;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;3077;Rotterdam;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6043;Roermond;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;5;3;3;2;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;957;Roermond;6044;Roermond;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;2;4;7;3;4;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;957;Roermond;6045;Roermond;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;22;24;23;20;19;16;10;13;11;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;957;Roermond;6074;Roerdalen;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6075;Roerdalen;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6077;Roerdalen;06JZ;00;Bs t Mozaiek;6045VA;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;0;0;0;1;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;957;Roermond;6042;Roermond;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;12;14;13;8;10;13;16;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;957;Roermond;6043;Roermond;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;10;3;8;9;7;8;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;957;Roermond;6044;Roermond;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;1;1;0;0;2;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;957;Roermond;6045;Roermond;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;0;1;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6075;Roerdalen;07BO;00;Willem De Zwijgerschool;6042BL;ROERMOND;Limburg;Bo;Protestants-Christelijk;41692;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5667;Geldrop-Mierlo;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;6;6;5;2;7;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;957;Roermond;6042;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6043;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6045;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6049;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;60;59;70;70;53;53;34;42;4;0;0;0;0;0;0;0;0;0;0;0;0;0;445
+20171001;957;Roermond;6067;Maasgouw;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6074;Roerdalen;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6081;Leudal;07RO;00;OBS De Stapsteen;6049AK;HERTEN;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;10;13;14;8;16;8;7;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;957;Roermond;6042;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;12;11;9;14;11;7;8;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;957;Roermond;6043;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;1;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6044;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6045;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6085;Leudal;08KQ;00;Basisschool Leeve;6041BE;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  10;Belgie;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6071;Roermond;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;20;17;20;26;14;14;17;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;957;Roermond;6075;Roerdalen;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6077;Roerdalen;08MD;00;Basisschool Lambertus;6071BN;SWALMEN;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6002;Weert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6004;Weert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6006;Weert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6013;Leudal;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6035;Nederweert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6039;Weert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6041;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;1;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;957;Roermond;6043;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;3;3;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;957;Roermond;6044;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6045;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6049;Roermond;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6061;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6065;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6067;Maasgouw;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6074;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6075;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6081;Leudal;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6086;Leudal;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6088;Leudal;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6092;Nederweert;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6093;Leudal;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6099;Maasgouw;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6101;Echt-Susteren;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6102;Echt-Susteren;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6114;Echt-Susteren;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6116;Echt-Susteren;08ZP;05;Mgr. Hanssen Roermond;6042KA;ROERMOND;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  30;ander land;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6041;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;3;2;0;3;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;957;Roermond;6043;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;20;13;24;23;17;15;20;10;9;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;957;Roermond;6044;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;2;0;1;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;957;Roermond;6045;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6049;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6075;Roerdalen;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6414;Heerlen;09LJ;00;BS De Kasteeltuin;6043XM;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6041;Roermond;10GL;00;Bs Vincent van Gogh;6044SX;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;10GL;00;Bs Vincent van Gogh;6044SX;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6043;Roermond;10GL;00;Bs Vincent van Gogh;6044SX;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;5;4;6;4;9;4;6;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;957;Roermond;6044;Roermond;10GL;00;Bs Vincent van Gogh;6044SX;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;21;25;20;19;18;16;28;26;10;1;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;957;Roermond;6045;Roermond;10GL;00;Bs Vincent van Gogh;6044SX;ROERMOND;Limburg;Bo;Rooms-Katholiek;41692;0;0;0;6;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;957;Roermond;  20;Duitsland;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;  30;ander land;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;1;4;3;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;957;Roermond;6042;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;4;8;10;18;6;18;12;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;957;Roermond;6043;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;18;15;10;13;8;8;11;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;957;Roermond;6044;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;2;1;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6045;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;3;1;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;957;Roermond;6049;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6074;Roerdalen;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6075;Roerdalen;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6077;Roerdalen;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6097;Maasgouw;15IY;00;Montessori BS Roermond;6042JV;ROERMOND;Limburg;Bo;Algemeen bijzonder;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6042;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6043;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;1;0;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;957;Roermond;6044;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6045;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6049;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6061;Roerdalen;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6071;Roermond;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6074;Roerdalen;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6075;Roerdalen;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6085;Leudal;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6101;Echt-Susteren;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6107;Maasgouw;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6114;Echt-Susteren;17IP;00;S.O. De Spoorzoeker;6043HK;ROERMOND;Limburg;So;Rooms-Katholiek;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5042;Tilburg;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5921;Venlo;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;5995;Peel en Maas;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6006;Weert;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;2;2;1;2;0;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6042;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;3;4;0;1;0;0;0;0;0;0;0;0;9
+20171001;957;Roermond;6043;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;5;2;6;1;1;0;0;0;0;0;0;0;0;16
+20171001;957;Roermond;6044;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6045;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;1;1;2;1;1;0;0;0;0;0;0;0;0;7
+20171001;957;Roermond;6049;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6051;Maasgouw;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6061;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6063;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6065;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6067;Maasgouw;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;2;3;1;0;0;0;0;0;0;0;0;6
+20171001;957;Roermond;6071;Roermond;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6074;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6075;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;4;0;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6077;Roerdalen;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6081;Leudal;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6085;Leudal;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6086;Leudal;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6101;Echt-Susteren;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6102;Echt-Susteren;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6104;Echt-Susteren;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6107;Maasgouw;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6109;Maasgouw;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6114;Echt-Susteren;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6118;Echt-Susteren;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6671;Overbetuwe;22OB;04;VSO De Ortolaan;6043HK;ROERMOND;Limburg;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6017;Maasgouw;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;27;26;29;28;28;16;16;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;957;Roermond;6042;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;5;3;2;4;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;957;Roermond;6043;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;1;1;1;1;4;4;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;957;Roermond;6044;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6045;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;6;2;5;11;6;4;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;957;Roermond;6049;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;5;13;9;6;9;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;957;Roermond;6065;Roerdalen;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6071;Roermond;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6074;Roerdalen;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6075;Roerdalen;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;957;Roermond;6077;Roerdalen;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;1;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;957;Roermond;6081;Leudal;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6095;Leudal;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6097;Maasgouw;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6099;Maasgouw;23CN;00;OBS aan de Roer;6041VV;ROERMOND;Limburg;Bo;Openbaar;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  20;Duitsland;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;  40;Onbekend;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5924;Venlo;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5951;Venlo;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;5953;Beesel;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6041;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;957;Roermond;6042;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;2;0;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;957;Roermond;6043;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;2;5;0;1;4;6;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;957;Roermond;6044;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;3;0;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;957;Roermond;6045;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;2;0;1;3;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;957;Roermond;6049;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;1;0;0;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;957;Roermond;6061;Roerdalen;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6063;Roerdalen;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6067;Maasgouw;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6071;Roermond;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;2;2;1;7;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;957;Roermond;6074;Roerdalen;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;1;1;1;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;957;Roermond;6075;Roerdalen;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6077;Roerdalen;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;957;Roermond;6086;Leudal;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;957;Roermond;6093;Leudal;23HG;00;SSBO De Balans;6045CB;ROERMOND;Limburg;Sbo;Rooms-Katholiek;41692;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

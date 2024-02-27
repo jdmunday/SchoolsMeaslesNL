@@ -1,0 +1,401 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1930;Nissewaard;3192;Rotterdam;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3193;Rotterdam;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3194;Rotterdam;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;6;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1930;Nissewaard;3202;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;1;0;2;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;3204;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;2;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3205;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3206;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;3207;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;2;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3211;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3218;Nissewaard;00AV;00;De Morgenster;3201CN;SPIJKENISSE;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3086;Rotterdam;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3161;Albrandswaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3171;Albrandswaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3191;Rotterdam;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3192;Rotterdam;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3193;Rotterdam;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3201;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;4;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3202;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;1;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3203;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3204;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;2;4;3;2;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1930;Nissewaard;3205;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;1;5;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1930;Nissewaard;3206;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;1;1;5;6;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1930;Nissewaard;3207;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;1;1;1;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;3208;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3209;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3214;Nissewaard;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3232;Brielle;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3295;Binnenmaas;01AI;01;Mw Dr CP Gelinksch;3207BH;SPIJKENISSE;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2171;Teylingen;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2906;Capelle aan den IJssel;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3053;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3069;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3071;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3072;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3074;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3081;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3083;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3086;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3111;Schiedam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3123;Schiedam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3136;Vlaardingen;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3171;Albrandswaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3181;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;2;4;1;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3191;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3192;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3193;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3194;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3195;Rotterdam;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3201;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;2;2;2;2;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3202;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3204;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;2;1;1;2;1;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3205;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;2;0;0;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3206;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;4;3;3;3;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3207;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3208;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3209;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3212;Nissewaard;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3221;Hellevoetsluis;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3222;Hellevoetsluis;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3223;Hellevoetsluis;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3224;Hellevoetsluis;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3225;Hellevoetsluis;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3232;Brielle;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3255;Goeree-Overflakkee;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3264;Korendijk;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3274;Binnenmaas;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3297;Binnenmaas;01UC;06;Yulius De Gaard;3206AG;SPIJKENISSE;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;  10;Belgie;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;  40;Onbekend;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+20171001;1930;Nissewaard;1704;Heerhugowaard;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+20171001;1930;Nissewaard;2171;Teylingen;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2263;Leidschendam-Voorburg;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2512;'s-Gravenhage;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2516;'s-Gravenhage;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;2533;'s-Gravenhage;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2543;'s-Gravenhage;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2729;Zoetermeer;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2801;Gouda;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2993;Barendrecht;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3011;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+20171001;1930;Nissewaard;3067;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3069;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;1930;Nissewaard;3072;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3081;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3192;Rotterdam;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3202;Nissewaard;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;6;5;6;8;3;4;0;1;0;34
+20171001;1930;Nissewaard;3316;Dordrecht;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3765;Soest;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;4233;Zederik;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;1930;Nissewaard;6522;Nijmegen;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;6814;Arnhem;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;9341;Noordenveld;04YK;05;Kompas College;3202LJ;SPIJKENISSE;Zuid-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+20171001;1930;Nissewaard;3212;Nissewaard;05VL;00;PC Basisschool De Aanwas;3214XE;ZUIDLAND;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3214;Nissewaard;05VL;00;PC Basisschool De Aanwas;3214XE;ZUIDLAND;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;16;24;31;27;34;27;20;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;1930;Nissewaard;3216;Nissewaard;05VL;00;PC Basisschool De Aanwas;3214XE;ZUIDLAND;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;2;1;1;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3225;Hellevoetsluis;05VL;00;PC Basisschool De Aanwas;3214XE;ZUIDLAND;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3265;Korendijk;05VL;00;PC Basisschool De Aanwas;3214XE;ZUIDLAND;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2583;'s-Gravenhage;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2994;Barendrecht;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3201;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;23;28;31;30;27;28;20;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;217
+20171001;1930;Nissewaard;3202;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;24;42;39;32;26;21;27;17;7;0;0;0;0;0;0;0;0;0;0;0;0;0;235
+20171001;1930;Nissewaard;3204;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3205;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3206;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3207;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3214;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3227;Nissewaard;12JW;00;PC Bs de Rank;3202JG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3202;Nissewaard;13JH;00;OBS De Vliegerdt;3216AB;ABBENBROEK;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3207;Nissewaard;13JH;00;OBS De Vliegerdt;3216AB;ABBENBROEK;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3216;Nissewaard;13JH;00;OBS De Vliegerdt;3216AB;ABBENBROEK;Zuid-Holland;Bo;Openbaar;41570;0;5;3;9;8;8;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;1930;Nissewaard;3227;Nissewaard;13JH;00;OBS De Vliegerdt;3216AB;ABBENBROEK;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3208;Nissewaard;13OK;00;Obs Markenburg;3211AV;GEERVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3211;Nissewaard;13OK;00;Obs Markenburg;3211AV;GEERVLIET;Zuid-Holland;Bo;Openbaar;41570;0;8;17;12;16;12;13;7;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;1930;Nissewaard;3216;Nissewaard;13OK;00;Obs Markenburg;3211AV;GEERVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3218;Nissewaard;13OK;00;Obs Markenburg;3211AV;GEERVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3221;Hellevoetsluis;13OK;00;Obs Markenburg;3211AV;GEERVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2522;'s-Gravenhage;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2905;Capelle aan den IJssel;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3013;Rotterdam;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3086;Rotterdam;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3191;Rotterdam;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;13;8;8;10;9;7;12;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;1930;Nissewaard;3202;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;3;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3203;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;6;5;5;7;4;5;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1930;Nissewaard;3204;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;16;14;25;13;17;11;18;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;1930;Nissewaard;3205;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;18;20;24;16;26;23;14;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;1930;Nissewaard;3206;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;2;5;5;3;7;2;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1930;Nissewaard;3207;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3208;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3209;Nissewaard;13PG;00;Basisschool De Duif;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;1;3;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;  40;Onbekend;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3079;Rotterdam;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3202;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3203;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3204;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;13;16;12;12;16;14;11;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;1930;Nissewaard;3205;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3206;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;9;11;6;6;8;6;7;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;1930;Nissewaard;3207;Nissewaard;13TG;00;Basisschool de Bron;3204GS;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3176;Albrandswaard;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3214;Nissewaard;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3216;Nissewaard;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3218;Nissewaard;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;1;2;6;2;5;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1930;Nissewaard;3223;Hellevoetsluis;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3225;Hellevoetsluis;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3232;Brielle;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3233;Westvoorne;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3235;Westvoorne;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3237;Brielle;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3238;Brielle;13WC;00;Obs Tweespan;3218XA;HEENVLIET;Zuid-Holland;Bo;Openbaar;41570;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3079;Rotterdam;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3202;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3204;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;2;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3205;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3206;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;19;32;21;22;18;17;16;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;1930;Nissewaard;3208;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3209;Nissewaard;13WQ;00;Basisschool het Baken;3206HK;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3225;Hellevoetsluis;13ZO;00;Obs de Hoorn;3227AR;OUDENHOORN;Zuid-Holland;Bo;Openbaar;41570;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3227;Nissewaard;13ZO;00;Obs de Hoorn;3227AR;OUDENHOORN;Zuid-Holland;Bo;Openbaar;41570;0;9;10;8;3;6;8;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1930;Nissewaard;  10;Belgie;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;  40;Onbekend;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2546;'s-Gravenhage;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3026;Rotterdam;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3194;Rotterdam;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;4;2;0;6;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1930;Nissewaard;3202;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;22;24;22;28;30;25;18;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;1930;Nissewaard;3203;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3205;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3206;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3207;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3218;Nissewaard;13ZS;00;Jan Campert;3202VV;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3201;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3202;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3205;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3208;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3209;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3212;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;1;1;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3214;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;36;31;25;27;14;30;27;21;12;0;0;0;0;0;0;0;0;0;0;0;0;0;223
+20171001;1930;Nissewaard;3216;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3227;Nissewaard;14FR;00;BS De Vlasbloem;3214GA;ZUIDLAND;Zuid-Holland;Bo;Openbaar;42738;0;2;0;3;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;2522;'s-Gravenhage;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;2908;Capelle aan den IJssel;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3067;Rotterdam;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;11;6;6;13;17;14;9;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;1930;Nissewaard;3202;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;2;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3203;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;8;2;8;5;7;3;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;1930;Nissewaard;3204;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;3;1;2;1;2;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1930;Nissewaard;3205;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3206;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3207;Nissewaard;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;10;8;4;10;5;7;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;1930;Nissewaard;4871;Etten-Leur;14FU;00;De Piramide;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3071;Rotterdam;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3192;Rotterdam;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3202;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;2;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3204;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3205;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;17;18;11;15;9;17;14;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;1930;Nissewaard;3206;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;2;0;3;3;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1930;Nissewaard;3207;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;19;24;14;22;22;20;27;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;1930;Nissewaard;3209;Nissewaard;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;3;2;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1930;Nissewaard;3237;Brielle;14LB;00;De Veenvlinder;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3214;Nissewaard;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3216;Nissewaard;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;3;0;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3218;Nissewaard;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;24;24;15;11;12;14;17;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;1930;Nissewaard;3221;Hellevoetsluis;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3227;Nissewaard;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3238;Brielle;14ZT;00;Basisschool Merula;3218XA;HEENVLIET;Zuid-Holland;Bo;Protestants-Christelijk;41507;0;0;0;1;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;  40;Onbekend;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3194;Rotterdam;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;20;11;11;13;7;8;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;1930;Nissewaard;3202;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;3;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3203;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3204;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3205;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;2;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3206;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3207;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;28;13;24;19;20;17;22;20;6;0;0;0;0;0;0;0;0;0;0;0;0;0;169
+20171001;1930;Nissewaard;3208;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3209;Nissewaard;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3235;Westvoorne;15CC;00;PC Basissch de Hoeksteen;3207AC;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2515;'s-Gravenhage;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3122;Schiedam;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3194;Rotterdam;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;15;23;27;20;25;18;19;19;8;0;0;0;0;0;0;0;0;0;0;0;0;0;174
+20171001;1930;Nissewaard;3202;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;5;1;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3203;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3204;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;4;4;3;1;0;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1930;Nissewaard;3205;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;2;0;0;3;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3206;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;4;1;4;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1930;Nissewaard;3208;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3214;Nissewaard;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3313;Dordrecht;15LX;00;De Vuurvogel, opb Daltonschool;3201HT;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;1971;Velsen;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;2903;Capelle aan den IJssel;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3083;Rotterdam;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3117;Schiedam;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3122;Schiedam;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3194;Rotterdam;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3202;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;2;1;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3203;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3204;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;2;3;4;6;9;6;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;1930;Nissewaard;3205;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3206;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;21;20;18;25;23;23;28;28;7;1;0;0;0;0;0;0;0;0;0;0;0;0;194
+20171001;1930;Nissewaard;3208;Nissewaard;15OH;00;De Toermalijn;3206HJ;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;  30;ander land;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;2994;Barendrecht;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3014;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3032;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3042;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3134;Vlaardingen;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3161;Albrandswaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3176;Albrandswaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3181;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3191;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3192;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3193;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3194;Rotterdam;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;1;7;3;4;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1930;Nissewaard;3202;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3203;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3204;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;3;1;7;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1930;Nissewaard;3205;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;1;1;0;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3206;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;29;27;24;19;24;33;22;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;1930;Nissewaard;3207;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;1;1;1;3;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1930;Nissewaard;3208;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;32;44;33;32;28;38;25;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;1930;Nissewaard;3209;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3214;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3218;Nissewaard;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3223;Hellevoetsluis;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3233;Westvoorne;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3263;Oud-Beijerland;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3267;Korendijk;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;7603;Almelo;15VM;00;De Vogelenzang;3208AK;SPIJKENISSE;Zuid-Holland;Bo;Openbaar;41639;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3081;Rotterdam;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3202;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3203;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3204;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;2;1;0;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3205;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3206;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;6;6;4;7;7;3;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;1930;Nissewaard;3207;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3208;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;10;18;14;11;11;11;7;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;1930;Nissewaard;3209;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3212;Nissewaard;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3222;Hellevoetsluis;17LU;00;De Klinker school;3208RC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3191;Rotterdam;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3201;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;2;1;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;3202;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3203;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;1;1;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3204;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3205;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;35;36;37;34;37;31;33;26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;269
+20171001;1930;Nissewaard;3206;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;1;1;3;5;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1930;Nissewaard;3207;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3208;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3209;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;3;5;6;5;8;1;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1930;Nissewaard;3227;Nissewaard;18AX;00;Basissch De Wegwijzer;3205EB;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;  40;Onbekend;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3086;Rotterdam;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3191;Rotterdam;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3192;Rotterdam;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;8;5;6;11;14;5;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1930;Nissewaard;3203;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3204;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;17;29;26;25;31;32;32;26;8;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;1930;Nissewaard;3205;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3206;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;3;3;2;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1930;Nissewaard;3207;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3208;Nissewaard;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3225;Hellevoetsluis;18BB;00;Paus Johannes school;3204AK;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3063;Rotterdam;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3112;Schiedam;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3193;Rotterdam;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3201;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;10;16;14;7;15;7;13;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;1930;Nissewaard;3202;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3203;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;14;10;24;18;12;20;14;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;1930;Nissewaard;3204;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;4;8;3;5;4;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1930;Nissewaard;3205;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;5;3;4;3;2;3;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;1930;Nissewaard;3206;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;2;1;4;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1930;Nissewaard;3207;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3208;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3209;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3212;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3227;Nissewaard;18BG;00;Mgr Bekkers school;3203BM;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;  10;Belgie;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;  40;Onbekend;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;2923;Krimpen aan den IJssel;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3027;Rotterdam;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3029;Rotterdam;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3073;Rotterdam;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3082;Rotterdam;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3086;Rotterdam;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3204;Nissewaard;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;2;3;2;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1930;Nissewaard;3205;Nissewaard;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3206;Nissewaard;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;12;9;15;14;14;15;9;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;1930;Nissewaard;3208;Nissewaard;18BJ;00;De Akkers school;3206TC;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3181;Rotterdam;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3201;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;1;0;1;3;4;7;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1930;Nissewaard;3202;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;2;1;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1930;Nissewaard;3203;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;1;0;3;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3204;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;1;2;1;5;6;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1930;Nissewaard;3205;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;1;3;2;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3206;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;3;1;4;3;7;5;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;1930;Nissewaard;3207;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;0;1;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3208;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;1;1;1;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3211;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3214;Nissewaard;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3223;Hellevoetsluis;19CM;00;SSBO De Tandem;3208PA;SPIJKENISSE;Zuid-Holland;Sbo;Openbaar;41639;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;2724;Zoetermeer;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3192;Rotterdam;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3201;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;4;0;3;2;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1930;Nissewaard;3202;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1930;Nissewaard;3203;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3204;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3205;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;4;1;1;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1930;Nissewaard;3206;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;2;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1930;Nissewaard;3207;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;51;70;50;66;54;53;46;42;5;0;0;0;0;0;0;0;0;0;0;0;0;0;437
+20171001;1930;Nissewaard;3209;Nissewaard;23CK;00;De Maasoever;3207HA;SPIJKENISSE;Zuid-Holland;Bo;Rooms-Katholiek;24597;0;1;1;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3142;Maassluis;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3201;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3202;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1930;Nissewaard;3204;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3205;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3206;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3207;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;19;26;19;21;29;28;24;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;1930;Nissewaard;3209;Nissewaard;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;1;0;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1930;Nissewaard;3224;Hellevoetsluis;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3233;Westvoorne;23CR;00;PC School Het Anker;3207EJ;SPIJKENISSE;Zuid-Holland;Bo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3136;Vlaardingen;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3193;Rotterdam;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3201;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;7;7;5;2;4;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1930;Nissewaard;3202;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;6;4;3;6;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;1930;Nissewaard;3203;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;1;1;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1930;Nissewaard;3204;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;2;3;2;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1930;Nissewaard;3205;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;11;17;10;9;9;10;7;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;1930;Nissewaard;3206;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;4;4;6;3;6;6;9;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;1930;Nissewaard;3207;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;7;5;4;8;2;1;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1930;Nissewaard;3208;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;0;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3209;Nissewaard;23UN;00;Montessorisc Spijkenisse;3205TG;SPIJKENISSE;Zuid-Holland;Bo;Algemeen bijzonder;40753;0;1;2;2;1;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3161;Albrandswaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3171;Albrandswaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3181;Rotterdam;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;5;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1930;Nissewaard;3191;Rotterdam;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3192;Rotterdam;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3193;Rotterdam;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3194;Rotterdam;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3201;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;2;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1930;Nissewaard;3202;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1930;Nissewaard;3203;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1930;Nissewaard;3204;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;2;1;0;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1930;Nissewaard;3205;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;2;1;4;4;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1930;Nissewaard;3206;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;1;0;6;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1930;Nissewaard;3207;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;1;3;6;8;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1930;Nissewaard;3212;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3214;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1930;Nissewaard;3216;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3227;Nissewaard;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1930;Nissewaard;3232;Brielle;23XL;00;SSBO De Branding;3207GA;SPIJKENISSE;Zuid-Holland;Sbo;Protestants-Christelijk;45917;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1

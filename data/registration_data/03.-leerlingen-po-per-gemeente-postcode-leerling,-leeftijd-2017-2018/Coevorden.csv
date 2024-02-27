@@ -1,0 +1,146 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;109;Coevorden;6021;Cranendonck;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7203;Zutphen;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;0;2;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;109;Coevorden;7742;Coevorden;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;109;Coevorden;7854;Coevorden;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;5;4;2;3;3;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;109;Coevorden;9073;Ferwerderadiel;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;9341;Noordenveld;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;9418;Midden-Drenthe;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;9982;Eemsmond;03EJ;00;De Smeltkroes;7852TJ;WEZUP;Drenthe;Bo;Openbaar;41630;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7751;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7824;Emmen;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7841;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;10;7;8;5;8;7;10;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;109;Coevorden;7843;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7846;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7847;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7856;Coevorden;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7881;Emmen;03LC;00;Chr Basissch De Fontein;7841AZ;SLEEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;04FH;00;Sint Theresiaschool;7741PJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;5;3;6;8;4;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;109;Coevorden;7742;Coevorden;04FH;00;Sint Theresiaschool;7741PJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7751;Coevorden;04FH;00;Sint Theresiaschool;7741PJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7753;Coevorden;04FH;00;Sint Theresiaschool;7741PJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;  20;Duitsland;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7741;Coevorden;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;7;4;4;4;10;4;9;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;109;Coevorden;7742;Coevorden;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;26;21;37;34;32;36;29;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;109;Coevorden;7751;Coevorden;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7756;Coevorden;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7861;Coevorden;04ZO;00;Sint Willibrordus;7742AJ;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7848;Coevorden;05KZ;00;C.B.S. De Kiel;7849PC;DE KIEL;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7849;Coevorden;05KZ;00;C.B.S. De Kiel;7849PC;DE KIEL;Drenthe;Bo;Protestants-Christelijk;41052;0;2;2;2;1;1;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;109;Coevorden;7858;Borger-Odoorn;05KZ;00;C.B.S. De Kiel;7849PC;DE KIEL;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7859;Borger-Odoorn;05KZ;00;C.B.S. De Kiel;7849PC;DE KIEL;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;9443;Aa en Hunze;05KZ;00;C.B.S. De Kiel;7849PC;DE KIEL;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7754;Coevorden;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7827;Emmen;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7863;Coevorden;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7864;Coevorden;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;4;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;109;Coevorden;7914;Hoogeveen;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7916;Hoogeveen;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7917;Coevorden;05OD;00;PC Basissch De Wegwijzer;7917PX;GEESBRUG;Drenthe;Bo;Protestants-Christelijk;41052;0;7;4;6;8;8;7;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;109;Coevorden;7841;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7851;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;0;3;2;3;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;109;Coevorden;7852;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7853;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7854;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;7;8;16;6;9;16;8;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;109;Coevorden;7855;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;0;1;3;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;109;Coevorden;7856;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;1;0;2;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;109;Coevorden;7861;Coevorden;06BR;00;OBS De Anwende;7854PR;AALDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7851;Coevorden;06ZY;00;Chr BS de Schutse;7854PR;AALDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7852;Coevorden;06ZY;00;Chr BS de Schutse;7854PR;AALDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7853;Coevorden;06ZY;00;Chr BS de Schutse;7854PR;AALDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7854;Coevorden;06ZY;00;Chr BS de Schutse;7854PR;AALDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;6;3;4;3;1;2;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;109;Coevorden;7855;Coevorden;06ZY;00;Chr BS de Schutse;7854PR;AALDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7741;Coevorden;07QO;00;Basisschool Panta Rhei;7741XM;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;6;8;4;8;4;8;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;109;Coevorden;7742;Coevorden;07QO;00;Basisschool Panta Rhei;7741XM;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;1;1;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;109;Coevorden;7756;Coevorden;07QO;00;Basisschool Panta Rhei;7741XM;COEVORDEN;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  30;ander land;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7848;Coevorden;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;11;10;10;11;7;4;8;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;109;Coevorden;7849;Coevorden;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7851;Coevorden;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7853;Coevorden;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7874;Borger-Odoorn;07WO;00;Basissch De Slagkrooie;7848BW;SCHOONOORD;Drenthe;Bo;Protestants-Christelijk;41052;0;1;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7741;Coevorden;08CT;00;Willem Alexanderschool;7753TK;DALERPEEL;Drenthe;Bo;Protestants-Christelijk;41052;0;1;1;4;4;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;109;Coevorden;7753;Coevorden;08CT;00;Willem Alexanderschool;7753TK;DALERPEEL;Drenthe;Bo;Protestants-Christelijk;41052;0;6;9;5;11;5;9;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;109;Coevorden;7944;Meppel;08CT;00;Willem Alexanderschool;7753TK;DALERPEEL;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7841;Coevorden;09HH;00;Basisschool De Akker;7841AJ;SLEEN;Drenthe;Bo;Openbaar;41630;0;15;11;6;9;12;11;8;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;109;Coevorden;7842;Coevorden;09HH;00;Basisschool De Akker;7841AJ;SLEEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7843;Coevorden;09HH;00;Basisschool De Akker;7841AJ;SLEEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7846;Coevorden;10CY;00;Basissch De Vlinderhof;7846TA;NOORD-SLEEN;Drenthe;Bo;Openbaar;41630;0;4;8;5;8;8;4;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;109;Coevorden;7847;Coevorden;10CY;00;Basissch De Vlinderhof;7846TA;NOORD-SLEEN;Drenthe;Bo;Openbaar;41630;0;1;1;1;1;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;109;Coevorden;7874;Borger-Odoorn;10CY;00;Basissch De Vlinderhof;7846TA;NOORD-SLEEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;10YA;00;Mijndert vd Thynenschool;7741XM;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;4;12;4;9;14;6;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;109;Coevorden;7742;Coevorden;10YA;00;Mijndert vd Thynenschool;7741XM;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7751;Coevorden;10YA;00;Mijndert vd Thynenschool;7741XM;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7833;Emmen;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7848;Coevorden;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;5;6;5;7;8;6;12;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;109;Coevorden;7849;Coevorden;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7853;Coevorden;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7874;Borger-Odoorn;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;0;1;0;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;109;Coevorden;9441;Midden-Drenthe;11IS;00;Burgemeester v Royensch;7848BB;SCHOONOORD;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;  20;Duitsland;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  30;ander land;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;  40;Onbekend;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;13;14;19;4;15;17;12;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;109;Coevorden;7742;Coevorden;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;7;2;2;6;1;4;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;109;Coevorden;7751;Coevorden;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7756;Coevorden;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7782;Hardenberg;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7833;Emmen;11LS;00;Paul Krugerschool;7741ER;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7827;Emmen;11UG;00;Basisschool Erm;7843PX;ERM;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7843;Coevorden;11UG;00;Basisschool Erm;7843PX;ERM;Drenthe;Bo;Openbaar;41630;0;0;2;3;2;7;4;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;109;Coevorden;7844;Emmen;11UG;00;Basisschool Erm;7843PX;ERM;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7845;Coevorden;11UG;00;Basisschool Erm;7843PX;ERM;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  20;Duitsland;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  30;ander land;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;1;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;109;Coevorden;7741;Coevorden;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;2;1;5;3;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;109;Coevorden;7742;Coevorden;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;12;15;10;16;11;13;12;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;109;Coevorden;7751;Coevorden;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7756;Coevorden;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;7788;Hardenberg;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7845;Coevorden;11WZ;00;Dr. Picardtschool;7742WJ;COEVORDEN;Drenthe;Bo;Protestants-Christelijk;41052;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  20;Duitsland;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7741;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7751;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;27;28;35;35;41;31;46;41;2;0;0;0;0;0;0;0;0;0;0;0;0;0;286
+20171001;109;Coevorden;7754;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7755;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7843;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7845;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;109;Coevorden;7864;Coevorden;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;3;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;109;Coevorden;7894;Emmen;18NC;00;Burg Wessels Boerschool;7751CG;DALEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7864;Coevorden;18OE;00;OBS De Zwarm;7917PR;GEESBRUG;Drenthe;Bo;Openbaar;41630;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7881;Emmen;18OE;00;OBS De Zwarm;7917PR;GEESBRUG;Drenthe;Bo;Openbaar;41630;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7913;Hoogeveen;18OE;00;OBS De Zwarm;7917PR;GEESBRUG;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7917;Coevorden;18OE;00;OBS De Zwarm;7917PR;GEESBRUG;Drenthe;Bo;Openbaar;41630;0;7;9;9;4;13;7;6;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;109;Coevorden;7741;Coevorden;18OH;00;Marke-School;7754MB;WACHTUM;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7754;Coevorden;18OH;00;Marke-School;7754MB;WACHTUM;Drenthe;Bo;Openbaar;41630;0;2;6;4;5;2;5;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;109;Coevorden;7861;Coevorden;18OH;00;Marke-School;7754MB;WACHTUM;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;9404;Assen;18OH;00;Marke-School;7754MB;WACHTUM;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;18OQ;00;OBS de Wilhelminaschool;7741XM;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;4;9;2;4;10;6;9;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;109;Coevorden;7742;Coevorden;18OQ;00;OBS de Wilhelminaschool;7741XM;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7742;Coevorden;18PP;00;Stidal-School;7755NN;DALERVEEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7755;Coevorden;18PP;00;Stidal-School;7755NN;DALERVEEN;Drenthe;Bo;Openbaar;41630;0;1;0;2;2;2;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;109;Coevorden;7756;Coevorden;18PP;00;Stidal-School;7755NN;DALERVEEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;109;Coevorden;7844;Emmen;18PP;00;Stidal-School;7755NN;DALERVEEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7845;Coevorden;18PP;00;Stidal-School;7755NN;DALERVEEN;Drenthe;Bo;Openbaar;41630;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;  20;Duitsland;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  30;ander land;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;  40;Onbekend;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;2;2;4;3;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;109;Coevorden;7742;Coevorden;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;27;20;20;21;19;19;12;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;109;Coevorden;7894;Emmen;18PV;00;OBS Buitenvree;7742WJ;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;  20;Duitsland;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;109;Coevorden;  30;ander land;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;  40;Onbekend;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;28;32;34;28;38;36;34;33;4;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;109;Coevorden;7742;Coevorden;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;10;4;5;10;10;9;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;109;Coevorden;7755;Coevorden;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7756;Coevorden;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;109;Coevorden;7764;Emmen;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7782;Hardenberg;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;109;Coevorden;7855;Coevorden;18QW;00;Parkschool V Opb BSO;7741CV;COEVORDEN;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7741;Coevorden;18RQ;00;Obs De Woert;7861AG;OOSTERHESSELEN;Drenthe;Bo;Openbaar;41630;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7756;Coevorden;18RQ;00;Obs De Woert;7861AG;OOSTERHESSELEN;Drenthe;Bo;Openbaar;41630;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;109;Coevorden;7861;Coevorden;18RQ;00;Obs De Woert;7861AG;OOSTERHESSELEN;Drenthe;Bo;Openbaar;41630;0;11;24;16;12;11;17;18;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;109;Coevorden;7863;Coevorden;18RQ;00;Obs De Woert;7861AG;OOSTERHESSELEN;Drenthe;Bo;Openbaar;41630;0;1;1;2;1;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;109;Coevorden;7864;Coevorden;18RQ;00;Obs De Woert;7861AG;OOSTERHESSELEN;Drenthe;Bo;Openbaar;41630;0;2;2;1;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12

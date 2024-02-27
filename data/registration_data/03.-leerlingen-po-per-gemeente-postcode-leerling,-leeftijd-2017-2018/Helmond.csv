@@ -1,0 +1,528 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;794;Helmond;5508;Veldhoven;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;2;5;4;6;9;7;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;794;Helmond;5702;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;2;2;3;5;6;6;3;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;794;Helmond;5703;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;1;2;1;0;6;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5704;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;1;1;4;4;5;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;794;Helmond;5705;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5706;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;1;0;2;2;4;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;794;Helmond;5707;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;1;0;1;3;1;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;794;Helmond;5708;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;1;1;6;1;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;794;Helmond;5735;Laarbeek;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5751;Deurne;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5831;Boxmeer;02SG;00;SBO De Toermalijn;5702PT;HELMOND;Noord-Brabant;Sbo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5011;Tilburg;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5421;Gemert-Bakel;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5424;Gemert-Bakel;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5427;Boekel;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5469;Meierijstad;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5504;Veldhoven;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5622;Eindhoven;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5625;Eindhoven;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5629;Eindhoven;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5664;Geldrop-Mierlo;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5665;Geldrop-Mierlo;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5667;Geldrop-Mierlo;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;2;2;2;4;3;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5702;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;2;2;2;3;0;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5703;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5704;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;4;0;3;2;0;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5706;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5707;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5709;Helmond;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;1;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5711;Someren;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5712;Someren;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;2
+20171001;794;Helmond;5721;Asten;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5731;Geldrop-Mierlo;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5735;Laarbeek;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5738;Laarbeek;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5741;Laarbeek;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5751;Deurne;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5753;Deurne;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5761;Gemert-Bakel;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5764;Gemert-Bakel;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6267;Eijsden-Margraten;03TV;11;De Korenaer;5701TA;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5624;Eindhoven;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5653;Eindhoven;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5684;Best;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5704;Helmond;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;31;28;33;35;36;37;29;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;250
+20171001;794;Helmond;5705;Helmond;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5715;Someren;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5759;Deurne;03UL;00;Basissch De Korenaar;5704AN;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;  40;Onbekend;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;1016;Amsterdam;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5673;Nuenen, Gerwen en Nederwetten;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;7;12;12;8;8;6;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;794;Helmond;5702;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;9;5;8;7;6;7;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;794;Helmond;5703;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5706;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;1;0;2;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5707;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;40;30;28;31;22;33;37;32;4;0;0;0;0;0;0;0;0;0;0;0;0;0;257
+20171001;794;Helmond;5708;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;1;2;4;5;4;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;794;Helmond;5709;Helmond;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;0;0;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5735;Laarbeek;04QP;00;Wilhelmina Basisschool;5707RM;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;38169;0;0;2;0;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5423;Gemert-Bakel;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5642;Eindhoven;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;32;37;29;28;24;25;28;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;220
+20171001;794;Helmond;5702;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;0;4;2;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5703;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;4;7;7;9;3;7;4;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;794;Helmond;5704;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5705;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;2;7;4;5;5;3;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;794;Helmond;5707;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5709;Helmond;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5761;Gemert-Bakel;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;9462;Aa en Hunze;05BO;00;Basissch Silv Bernadette;5701ET;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;60061;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5673;Nuenen, Gerwen en Nederwetten;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5694;Son en Breugel;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5704;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;30;30;56;34;37;36;34;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;289
+20171001;794;Helmond;5705;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5707;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5708;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;2;2;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5731;Geldrop-Mierlo;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5751;Deurne;06MF;00;Kath BS De Vlier;5704LD;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5703;Helmond;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5706;Helmond;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;3;2;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;794;Helmond;5708;Helmond;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;13;20;20;17;21;28;13;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;794;Helmond;5737;Laarbeek;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;06OF;00;Basisschool Sint Trudo;5708GL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5423;Gemert-Bakel;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5632;Eindhoven;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5665;Geldrop-Mierlo;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5671;Nuenen, Gerwen en Nederwetten;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;6;9;9;10;4;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;794;Helmond;5702;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;5;9;4;5;8;7;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;794;Helmond;5703;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5704;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5706;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5707;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;3;1;2;4;2;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;794;Helmond;5708;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;2;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5709;Helmond;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;4;1;1;2;2;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;794;Helmond;5711;Someren;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5715;Someren;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5721;Asten;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5735;Laarbeek;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5741;Laarbeek;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5751;Deurne;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5754;Deurne;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5768;Peel en Maas;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;7397;Voorst;06UK;00;Vrijeschool Peelland;5702NM;HELMOND;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5402;Uden;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;13;27;18;22;17;17;12;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;794;Helmond;5702;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;33;29;40;42;41;41;37;35;7;0;0;0;0;0;0;0;0;0;0;0;0;0;305
+20171001;794;Helmond;5703;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5704;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5706;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5708;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;07LW;00;Basisschool De Rank;5702PM;HELMOND;Noord-Brabant;Bo;Protestants-Christelijk;37428;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;  40;Onbekend;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5702;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5703;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5705;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5706;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5707;Helmond;07UU;00;Basisschool Westwijzer;5707TJ;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;27;28;21;21;19;20;22;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;794;Helmond;  40;Onbekend;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5062;Oisterwijk;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;54;39;47;52;28;43;47;41;13;0;0;0;0;0;0;0;0;0;0;0;0;0;364
+20171001;794;Helmond;5702;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;3;1;3;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;794;Helmond;5703;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;2;1;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5704;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5705;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5707;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5709;Helmond;08LC;00;Bbs De Vuurvogel;5701VL;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5421;Gemert-Bakel;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5422;Gemert-Bakel;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5425;Gemert-Bakel;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5428;Boekel;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5662;Geldrop-Mierlo;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5665;Geldrop-Mierlo;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5666;Geldrop-Mierlo;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5667;Geldrop-Mierlo;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;2;2;1;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5702;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5703;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5704;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5705;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5706;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5707;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5708;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5709;Helmond;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;2;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5711;Someren;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5712;Someren;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5721;Asten;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5725;Asten;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5735;Laarbeek;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5741;Laarbeek;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5751;Deurne;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5754;Deurne;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5756;Deurne;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5761;Gemert-Bakel;08ZP;07;De Taalbrug SO;5701WL;HELMOND;Noord-Brabant;So;Rooms-Katholiek;21657;0;0;2;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5701;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;3;0;1;3;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5702;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5704;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5705;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;1;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5706;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;44;51;57;47;42;42;40;34;2;1;0;0;0;0;0;0;0;0;0;0;0;0;360
+20171001;794;Helmond;5707;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;14;11;10;8;9;13;6;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;794;Helmond;5708;Helmond;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5731;Geldrop-Mierlo;09GM;00;Basisschool 't Hout;5706VS;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;2497;'s-Gravenhage;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;8;6;13;8;9;5;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;794;Helmond;5702;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;2;4;3;3;2;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;794;Helmond;5703;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;44;35;24;28;27;39;32;27;8;0;0;0;0;0;0;0;0;0;0;0;0;0;264
+20171001;794;Helmond;5704;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;1;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5706;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5707;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;1;3;2;1;2;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5753;Deurne;09PD;00;De Goede Herder;5703EB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;73283;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;3;2;3;1;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5702;Helmond;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;23;36;44;41;36;42;31;34;10;0;0;0;0;0;0;0;0;0;0;0;0;0;297
+20171001;794;Helmond;5704;Helmond;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5751;Deurne;10CH;00;De Bundertjes;5702SM;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;  30;ander land;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5421;Gemert-Bakel;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5658;Eindhoven;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5701;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;5;8;8;5;5;10;8;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;794;Helmond;5702;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;10;23;23;21;20;18;20;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;794;Helmond;5703;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;2;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5704;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5705;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5707;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5709;Helmond;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5735;Laarbeek;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5738;Laarbeek;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5825;Boxmeer;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;6006;Weert;10FM;00;Kindercentrum Mozaïek;5702HW;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5702;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5703;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5704;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;3;0;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5705;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5707;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;35;35;41;41;39;28;37;27;6;0;0;0;0;0;0;0;0;0;0;0;0;0;289
+20171001;794;Helmond;5924;Venlo;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6826;Arnhem;10IU;00;bs Talentrijk;5709BA;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;3;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5702;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5703;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;0;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5704;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;2;1;5;3;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;794;Helmond;5705;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5707;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;21;22;29;21;15;11;23;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;794;Helmond;5721;Asten;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5764;Gemert-Bakel;10UB;00;De Straap;5709KG;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5575;Bergeijk;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5702;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5703;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;4;1;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5704;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;3;2;0;1;1;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;794;Helmond;5705;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;11IF;00;Basisschool de Rakt;5709HD;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;28;32;16;14;29;13;17;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;794;Helmond;2613;Delft;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5704;Helmond;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;6;10;11;10;8;11;9;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;794;Helmond;5705;Helmond;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5707;Helmond;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5708;Helmond;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;11TY;00;De Stroom;5704HZ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5402;Uden;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5421;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5421;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;1;1;3;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5422;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5423;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5424;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5424;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5427;Boekel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5469;Meierijstad;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5664;Geldrop-Mierlo;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5667;Geldrop-Mierlo;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5672;Nuenen, Gerwen en Nederwetten;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;3;0;2;1;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5701;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;2;1;2;2;3;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5702;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5702;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;2;2;1;1;1;1;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5703;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5703;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5704;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5704;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5706;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;1;1;4;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;794;Helmond;5706;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;2;3;2;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5707;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;2;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5707;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;3;2;0;1;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5708;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5708;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5709;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5709;Helmond;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;1;1;1;2;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5711;Someren;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5711;Someren;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5712;Someren;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5712;Someren;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5715;Someren;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5721;Asten;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5721;Asten;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5724;Asten;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5724;Asten;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5731;Geldrop-Mierlo;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5735;Laarbeek;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5735;Laarbeek;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5738;Laarbeek;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5741;Laarbeek;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5741;Laarbeek;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5751;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5751;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5752;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5753;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5754;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5754;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5757;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5757;Deurne;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5761;Gemert-Bakel;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5768;Peel en Maas;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;So;Rooms-Katholiek;72905;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5803;Venray;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5912;Venlo;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6035;Nederweert;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6093;Leudal;14VL;00;Expertisecentrum A v Dijksch;5709AE;HELMOND;Noord-Brabant;Vso;Rooms-Katholiek;72905;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;0;0;4;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5702;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5703;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5704;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;11;7;15;5;15;14;14;13;5;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;794;Helmond;5705;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5706;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5707;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5708;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;11;8;7;7;11;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;794;Helmond;5753;Deurne;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5756;Deurne;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;0;1;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5759;Deurne;15SY;00;Montessorischool Helmond;5704GK;HELMOND;Noord-Brabant;Bo;Algemeen bijzonder;41167;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5704;Helmond;18JH;00;BS Het Baken;5706BT;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5705;Helmond;18JH;00;BS Het Baken;5706BT;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5706;Helmond;18JH;00;BS Het Baken;5706BT;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;17;16;21;16;8;23;12;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;794;Helmond;5707;Helmond;18JH;00;BS Het Baken;5706BT;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5731;Geldrop-Mierlo;18JH;00;BS Het Baken;5706BT;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5213;'s-Hertogenbosch;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5625;Eindhoven;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5672;Nuenen, Gerwen en Nederwetten;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5702;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5703;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5704;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5706;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;12;12;16;10;16;14;16;16;8;1;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;794;Helmond;5707;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;13;8;14;11;21;13;12;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;794;Helmond;5708;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;2;0;1;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5709;Helmond;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5724;Asten;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5731;Geldrop-Mierlo;18MK;00;Basissch St Odulfus;5706AX;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;18NR;00;Jorisschool;5706VS;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5702;Helmond;18NR;00;Jorisschool;5706VS;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5705;Helmond;18NR;00;Jorisschool;5706VS;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5706;Helmond;18NR;00;Jorisschool;5706VS;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;9;10;11;14;21;13;20;24;4;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;794;Helmond;5707;Helmond;18NR;00;Jorisschool;5706VS;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5421;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5421;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5422;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5422;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5423;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5424;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5427;Boekel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5427;Boekel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5428;Boekel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5467;Meierijstad;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5469;Meierijstad;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5591;Heeze-Leende;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5661;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5661;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5662;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5665;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5666;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5667;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5672;Nuenen, Gerwen en Nederwetten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5674;Nuenen, Gerwen en Nederwetten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5674;Nuenen, Gerwen en Nederwetten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5701;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5701;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;2;0;1;2;1;1;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5702;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;2;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5702;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;2;2;3;2;3;1;0;0;0;0;0;0;0;14
+20171001;794;Helmond;5703;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5703;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5704;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;1;1;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5704;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;2;6;0;0;2;0;0;0;0;0;0;0;0;10
+20171001;794;Helmond;5705;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5706;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;1;1;3;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;794;Helmond;5706;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;2;4;1;2;3;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5707;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;0;2;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5707;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5708;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5709;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;4;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;794;Helmond;5709;Helmond;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;5;1;5;3;1;1;0;0;0;0;0;0;0;16
+20171001;794;Helmond;5711;Someren;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5712;Someren;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5712;Someren;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5721;Asten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5721;Asten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5724;Asten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5725;Asten;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5731;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5731;Geldrop-Mierlo;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5735;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5735;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5737;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5737;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5738;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5741;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;2;2;0;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;794;Helmond;5741;Laarbeek;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;2;3;0;1;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5751;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;1;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5751;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5753;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5754;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5757;Deurne;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5761;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5763;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;So;Openbaar;41008;0;0;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5763;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5764;Gemert-Bakel;19ES;00;De Hilt OO voor SO en VSO;5701CM;HELMOND;Noord-Brabant;Vso;Openbaar;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5705;Helmond;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5706;Helmond;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;1;2;1;0;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;794;Helmond;5708;Helmond;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;17;17;15;20;26;14;29;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;794;Helmond;5731;Geldrop-Mierlo;22KK;00;De Lindt;5708EV;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5421;Gemert-Bakel;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;2;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;794;Helmond;5463;Meierijstad;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5613;Eindhoven;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5625;Eindhoven;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;8;5;6;7;5;9;5;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;794;Helmond;5702;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;11;5;3;7;6;8;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;794;Helmond;5703;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;2;0;5;0;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;794;Helmond;5704;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5705;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5707;Helmond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5721;Asten;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;5741;Laarbeek;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5761;Gemert-Bakel;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5801;Venray;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;1;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5802;Venray;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;4;2;1;2;2;4;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;794;Helmond;5803;Venray;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;2;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;794;Helmond;6006;Weert;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;6043;Roermond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6044;Roermond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;2;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;6045;Roermond;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6083;Leudal;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;6086;Leudal;23VF;00;Salah Eddin El Ayyoubi;5702GA;HELMOND;Noord-Brabant;Bo;Islamitisch;31088;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5402;Uden;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5421;Gemert-Bakel;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5422;Gemert-Bakel;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5428;Boekel;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5591;Heeze-Leende;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5662;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5663;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5664;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5664;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5665;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5666;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5667;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5701;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5702;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;794;Helmond;5702;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5703;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5703;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5704;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5704;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5706;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5706;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5707;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5707;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5708;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5708;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5709;Helmond;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5711;Someren;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5712;Someren;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5721;Asten;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5725;Asten;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5731;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5731;Geldrop-Mierlo;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5737;Laarbeek;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5737;Laarbeek;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5751;Deurne;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5753;Deurne;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5754;Deurne;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;9462;Aa en Hunze;23XK;03;De Zwengel;5709AD;HELMOND;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;  30;ander land;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5629;Eindhoven;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;4;2;2;0;3;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;794;Helmond;5702;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;4;3;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5703;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;3;3;0;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5704;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5707;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5709;Helmond;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;40;45;58;43;43;58;54;50;5;0;0;0;0;0;0;0;0;0;0;0;0;0;396
+20171001;794;Helmond;5735;Laarbeek;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5741;Laarbeek;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5761;Gemert-Bakel;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5985;Peel en Maas;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;8921;Leeuwarden;25KH;00;BS Dierdonk;5709RK;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5642;Eindhoven;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5672;Nuenen, Gerwen en Nederwetten;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5702;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;794;Helmond;5705;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5706;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;38;45;53;62;69;63;50;75;9;0;0;0;0;0;0;0;0;0;0;0;0;0;464
+20171001;794;Helmond;5707;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;1;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;794;Helmond;5708;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;9;7;11;9;10;23;9;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;794;Helmond;5709;Helmond;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5715;Someren;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5731;Geldrop-Mierlo;27JN;00;RK Bs De Vendelier;5706KH;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;3;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5247;'s-Hertogenbosch;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5614;Eindhoven;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5625;Eindhoven;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5666;Geldrop-Mierlo;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5673;Nuenen, Gerwen en Nederwetten;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5701;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;2;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5702;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5704;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5706;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;12;16;8;20;20;26;28;29;0;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;794;Helmond;5707;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;3;2;0;3;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;794;Helmond;5708;Helmond;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;54;42;53;61;68;70;62;52;8;0;0;0;0;0;0;0;0;0;0;0;0;0;470
+20171001;794;Helmond;5731;Geldrop-Mierlo;27JP;00;OBS Brandevoort;5708ZJ;HELMOND;Noord-Brabant;Bo;Openbaar;41349;0;0;0;1;1;1;2;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;794;Helmond;5422;Gemert-Bakel;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5613;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5623;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5625;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5641;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5642;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5643;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5646;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5654;Eindhoven;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;794;Helmond;5663;Geldrop-Mierlo;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5667;Geldrop-Mierlo;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;794;Helmond;5674;Nuenen, Gerwen en Nederwetten;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5701;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;0;2;0;4;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;794;Helmond;5702;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;794;Helmond;5705;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;794;Helmond;5706;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;13;14;11;10;16;12;17;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;794;Helmond;5707;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;1;4;3;4;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;794;Helmond;5708;Helmond;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;29;31;16;21;17;25;15;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;794;Helmond;5731;Geldrop-Mierlo;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;2;0;3;2;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;794;Helmond;5735;Laarbeek;30AZ;00;Mondomijn;5706WB;HELMOND;Noord-Brabant;Bo;Rooms-Katholiek;30240;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

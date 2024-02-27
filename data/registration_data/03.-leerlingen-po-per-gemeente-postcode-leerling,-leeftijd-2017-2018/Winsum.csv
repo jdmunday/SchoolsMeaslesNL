@@ -1,0 +1,81 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;53;Winsum;9401;Assen;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9718;Groningen;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9744;Groningen;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9891;Winsum;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9892;Winsum;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;2;3;4;3;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;53;Winsum;9893;Winsum;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;5;3;6;5;7;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;53;Winsum;9951;Winsum;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9962;De Marne;03DF;00;OBS Kromme Akkers;9893PD;GARNWERD;Groningen;Bo;Openbaar;13683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9771;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;4;0;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;53;Winsum;9773;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;53;Winsum;9774;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9785;Bedum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9831;Zuidhorn;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9892;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9951;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;16;14;20;14;15;22;21;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;53;Winsum;9953;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;1;2;1;3;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;53;Winsum;9956;Winsum;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9962;De Marne;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9967;De Marne;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9981;Eemsmond;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9989;Eemsmond;04PV;00;Streekschool De Wierde;9951VZ;WINSUM GN;Groningen;Bo;Gereformeerd vrijgemaakt;37038;0;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;53;Winsum;9773;Winsum;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9951;Winsum;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;12;16;15;20;19;25;16;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;53;Winsum;9953;Winsum;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9954;Winsum;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9961;De Marne;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9963;De Marne;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9988;Eemsmond;05UU;00;Basisschool De Piramiden;9951JH;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9891;Winsum;06AL;00;SWS Op Wier;9891BE;EZINGE;Groningen;Bo;Openbaar;13683;0;8;4;7;4;15;9;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;53;Winsum;9892;Winsum;06AL;00;SWS Op Wier;9891BE;EZINGE;Groningen;Bo;Openbaar;13683;0;1;3;2;3;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;53;Winsum;9951;Winsum;06AL;00;SWS Op Wier;9891BE;EZINGE;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9963;De Marne;06AL;00;SWS Op Wier;9891BE;EZINGE;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9953;Winsum;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;7;2;9;12;4;11;12;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;53;Winsum;9954;Winsum;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;53;Winsum;9955;Winsum;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;0;1;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;53;Winsum;9956;Winsum;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;2;1;1;2;0;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;53;Winsum;9969;De Marne;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9984;Eemsmond;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9989;Eemsmond;06DD;00;OBS Noordewier;9955VC;RASQUERT;Groningen;Bo;Openbaar;13683;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9953;Winsum;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;8;4;5;11;6;8;13;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;53;Winsum;9954;Winsum;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9955;Winsum;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;2;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;53;Winsum;9956;Winsum;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9957;Winsum;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9969;De Marne;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9989;Eemsmond;07WQ;00;Chr Basisschool Ichthus;9953PV;BAFLO;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;53;Winsum;  40;Onbekend;08BL;00;Basisschool De Meander;9771AM;SAUWERD;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9771;Winsum;08BL;00;Basisschool De Meander;9771AM;SAUWERD;Groningen;Bo;Protestants-Christelijk;41261;0;10;8;13;6;8;6;6;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;53;Winsum;9773;Winsum;08BL;00;Basisschool De Meander;9771AM;SAUWERD;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9774;Winsum;08BL;00;Basisschool De Meander;9771AM;SAUWERD;Groningen;Bo;Protestants-Christelijk;41261;0;2;0;2;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;53;Winsum;9951;Winsum;08BL;00;Basisschool De Meander;9771AM;SAUWERD;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9617;Slochteren;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9712;Groningen;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9951;Winsum;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;15;17;13;15;11;10;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;53;Winsum;9956;Winsum;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9961;De Marne;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9963;De Marne;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9974;De Marne;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9977;De Marne;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9989;Eemsmond;08BO;00;Basisschool Borg;9951BG;WINSUM GN;Groningen;Bo;Protestants-Christelijk;41261;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9893;Winsum;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9951;Winsum;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;10;20;13;14;17;16;15;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;53;Winsum;9963;De Marne;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9967;De Marne;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9969;De Marne;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9971;De Marne;08FW;00;O.B.S. De Negen Wieken;9951BT;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9771;Winsum;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;53;Winsum;9951;Winsum;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;23;24;31;20;33;33;18;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;53;Winsum;9954;Winsum;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;53;Winsum;9956;Winsum;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9959;Bedum;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9962;De Marne;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;53;Winsum;9966;De Marne;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9969;De Marne;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9989;Eemsmond;09GB;00;OBS Tiggeldobbe;9951JM;WINSUM GN;Groningen;Bo;Openbaar;13683;0;0;0;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;53;Winsum;9746;Groningen;18EG;00;Openbare Basisschool De Wierde;9774PN;ADORP;Groningen;Bo;Openbaar;13683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9771;Winsum;18EG;00;Openbare Basisschool De Wierde;9774PN;ADORP;Groningen;Bo;Openbaar;13683;0;1;0;0;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;53;Winsum;9774;Winsum;18EG;00;Openbare Basisschool De Wierde;9774PN;ADORP;Groningen;Bo;Openbaar;13683;0;1;6;5;5;5;12;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;53;Winsum;9781;Bedum;18EG;00;Openbare Basisschool De Wierde;9774PN;ADORP;Groningen;Bo;Openbaar;13683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;53;Winsum;9964;De Marne;18EG;00;Openbare Basisschool De Wierde;9774PN;ADORP;Groningen;Bo;Openbaar;13683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

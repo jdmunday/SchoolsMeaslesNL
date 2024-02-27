@@ -1,0 +1,153 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;225;Druten;3911;Rhenen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4001;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4003;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4003;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;3
+20171001;225;Druten;4005;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4007;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4007;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;225;Druten;4014;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4021;Buren;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4033;Buren;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;4041;Neder-Betuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4051;Neder-Betuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;4051;Neder-Betuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4053;Neder-Betuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4061;Neerijnen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4062;Tiel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4063;Neerijnen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4063;Neerijnen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;225;Druten;4102;Culemborg;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4158;Geldermalsen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2
+20171001;225;Druten;4175;Neerijnen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;4191;Geldermalsen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;4196;Geldermalsen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;5327;Maasdriel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;225;Druten;5342;Oss;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;5351;Oss;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6512;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6515;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6533;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;225;Druten;6534;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6534;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;225;Druten;6535;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6535;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;225;Druten;6536;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6537;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;3
+20171001;225;Druten;6538;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6538;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2
+20171001;225;Druten;6541;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6541;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6543;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6544;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6545;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6546;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6551;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6561;Berg en Dal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;225;Druten;6562;Berg en Dal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6576;Berg en Dal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6601;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6601;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;3;3;1;1;0;0;0;0;0;0;9
+20171001;225;Druten;6602;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6602;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6603;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6603;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;1;1;0;0;0;0;0;5
+20171001;225;Druten;6604;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6604;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;2
+20171001;225;Druten;6605;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6605;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6616;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;225;Druten;6617;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;225;Druten;6624;Maasdriel;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6626;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6626;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6627;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6631;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6631;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;225;Druten;6634;Wijchen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6641;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6641;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6642;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6644;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;4
+20171001;225;Druten;6645;Beuningen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6651;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;4;2;4;4;2;2;3;0;0;0;0;0;0;21
+20171001;225;Druten;6654;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6654;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6655;Druten;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6657;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6657;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6658;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;3
+20171001;225;Druten;6659;West Maas en Waal;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;225;Druten;6661;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6661;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;225;Druten;6662;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6663;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6663;Nijmegen;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6666;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6671;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6675;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6677;Overbetuwe;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6681;Lingewaard;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;1;0;0;0;3;0;0;0;0;0;0;0;0;5
+20171001;225;Druten;6691;Lingewaard;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6691;Lingewaard;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;225;Druten;6852;Lingewaard;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;Vso;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6917;Rijnwaarden;02RO;00;De Kom Sch v SO VSO ZMLK;6651TG;DRUTEN;Gelderland;So;Rooms-Katholiek;41531;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;  40;Onbekend;03TH;00;t Klosterhufke;6653BS;DEEST;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;03TH;00;t Klosterhufke;6653BS;DEEST;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6653;Druten;03TH;00;t Klosterhufke;6653BS;DEEST;Gelderland;Bo;Rooms-Katholiek;41340;0;9;15;16;22;15;19;14;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;225;Druten;6617;Wijchen;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6628;West Maas en Waal;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6631;Druten;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6651;Druten;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;12;18;12;19;20;26;18;25;4;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;225;Druten;6652;Druten;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;24;17;22;21;17;22;17;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;225;Druten;6654;Druten;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;225;Druten;6655;Druten;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;0;0;0;3;2;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;225;Druten;6657;West Maas en Waal;05ZR;00;De Appelhof;6652BE;DRUTEN;Gelderland;Bo;Openbaar;41340;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6538;Nijmegen;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6629;West Maas en Waal;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6631;Druten;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6652;Druten;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6653;Druten;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6654;Druten;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;13;10;15;18;15;14;12;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;225;Druten;6659;West Maas en Waal;06SW;00;Sint Victorschool;6654BL;AFFERDEN GLD;Gelderland;Bo;Rooms-Katholiek;41340;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6617;Wijchen;06ZB;00;RK Basissch De Octopus;6631CA;HORSSEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6629;West Maas en Waal;06ZB;00;RK Basissch De Octopus;6631CA;HORSSEN;Gelderland;Bo;Rooms-Katholiek;41340;0;1;0;0;2;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;225;Druten;6631;Druten;06ZB;00;RK Basissch De Octopus;6631CA;HORSSEN;Gelderland;Bo;Rooms-Katholiek;41340;0;11;13;14;20;18;13;14;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;225;Druten;6654;Druten;06ZB;00;RK Basissch De Octopus;6631CA;HORSSEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;3544;Utrecht;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6535;Nijmegen;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6617;Wijchen;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6629;West Maas en Waal;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6631;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6644;Beuningen;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;51;53;71;64;70;62;66;60;8;0;0;0;0;0;0;0;0;0;0;0;0;0;505
+20171001;225;Druten;6652;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;11;12;11;13;11;5;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;225;Druten;6653;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6654;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;2;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;225;Druten;6655;Druten;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;225;Druten;6657;West Maas en Waal;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;1;2;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;225;Druten;6658;West Maas en Waal;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;7103;Winterswijk;09PX;00;IKC De Kubus;6651XK;DRUTEN;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6629;West Maas en Waal;10KS;00;'t Geerke;6655AK;PUIFLIJK;Gelderland;Bo;Rooms-Katholiek;41340;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;10KS;00;'t Geerke;6655AK;PUIFLIJK;Gelderland;Bo;Rooms-Katholiek;41340;0;12;7;10;11;8;6;12;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;225;Druten;6652;Druten;10KS;00;'t Geerke;6655AK;PUIFLIJK;Gelderland;Bo;Rooms-Katholiek;41340;0;7;4;6;4;5;7;3;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;225;Druten;6655;Druten;10KS;00;'t Geerke;6655AK;PUIFLIJK;Gelderland;Bo;Rooms-Katholiek;41340;0;4;10;8;9;13;13;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;225;Druten;6657;West Maas en Waal;10KS;00;'t Geerke;6655AK;PUIFLIJK;Gelderland;Bo;Rooms-Katholiek;41340;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6617;Wijchen;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;225;Druten;6621;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;2;0;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;225;Druten;6626;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6627;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6628;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6629;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6641;Beuningen;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6645;Beuningen;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;225;Druten;6651;Druten;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;2;3;3;4;0;3;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;225;Druten;6652;Druten;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;1;0;0;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;225;Druten;6653;Druten;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;225;Druten;6654;Druten;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;225;Druten;6655;Druten;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;225;Druten;6657;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;225;Druten;6658;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;1;2;1;0;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;225;Druten;6659;West Maas en Waal;14VI;00;SSBO De Dijk;6651DB;DRUTEN;Gelderland;Sbo;Rooms-Katholiek;41340;0;0;0;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6

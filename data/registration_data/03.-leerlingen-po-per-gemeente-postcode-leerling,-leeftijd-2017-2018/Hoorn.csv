@@ -1,0 +1,473 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;405;Hoorn;1622;Hoorn;00RL;05;St. Antonius;1624CH;HOORN NH;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1628;Hoorn;00RL;05;St. Antonius;1624CH;HOORN NH;Noord-Holland;So;Samenwerking PC, RK;41008;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1689;Hoorn;00RL;05;St. Antonius;1624CH;HOORN NH;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1718;Opmeer;00RL;05;St. Antonius;1624CH;HOORN NH;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1771;Hollands Kroon;00RL;05;St. Antonius;1624CH;HOORN NH;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;  10;Belgie;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1474;Edam-Volendam;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1607;Drechterland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1608;Drechterland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1616;Drechterland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1622;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;1;2;2;2;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;405;Hoorn;1623;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;1;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1624;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;1;1;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1625;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;1;1;0;2;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;405;Hoorn;1628;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;1;1;0;2;6;15;11;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;405;Hoorn;1631;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1633;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1641;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1643;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1645;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1648;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;1;1;1;2;3;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;405;Hoorn;1655;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1657;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1658;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1661;Opmeer;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;5;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;405;Hoorn;1674;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1676;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1685;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1687;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;1;1;1;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;405;Hoorn;1688;Medemblik;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;5;3;4;9;3;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;405;Hoorn;1695;Hoorn;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1713;Koggenland;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;1;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1715;Opmeer;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1716;Opmeer;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1718;Opmeer;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1773;Hollands Kroon;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1775;Hollands Kroon;00RU;00;SSBO De Wissel;1623MA;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;41470;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1607;Drechterland;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1623;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1625;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;0;2;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;405;Hoorn;1628;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;3;1;2;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;405;Hoorn;1633;Koggenland;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1647;Koggenland;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1648;Koggenland;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1654;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1655;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1657;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1671;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1676;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1679;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1687;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1688;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1689;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;2;5;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;405;Hoorn;1693;Medemblik;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1695;Hoorn;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1713;Koggenland;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1715;Opmeer;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1718;Opmeer;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1771;Hollands Kroon;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1773;Hollands Kroon;01UR;00;SBO De Piramide;1624EH;HOORN NH;Noord-Holland;Sbo;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1628;Hoorn;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1633;Koggenland;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1648;Koggenland;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1687;Medemblik;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1695;Hoorn;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1696;Drechterland;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1716;Opmeer;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1718;Opmeer;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1719;Opmeer;01UR;01;Openbare SSBO;1624EH;HOORN NH;Noord-Holland;Sbo;Openbaar;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1132;Edam-Volendam;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;405;Hoorn;1444;Purmerend;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1447;Purmerend;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1462;Beemster;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1474;Edam-Volendam;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1474;Edam-Volendam;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;1;0;0;0;0;0;4
+20171001;405;Hoorn;1601;Enkhuizen;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1601;Enkhuizen;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1602;Enkhuizen;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1602;Enkhuizen;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;2;4;0;2;2;1;2;0;0;0;0;0;0;14
+20171001;405;Hoorn;1606;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1606;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;1;1;0;0;0;0;0;0;6
+20171001;405;Hoorn;1607;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1608;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1611;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;3;1;3;1;2;1;0;0;0;0;0;0;0;11
+20171001;405;Hoorn;1613;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1613;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;4
+20171001;405;Hoorn;1614;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1614;Stede Broec;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1616;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1619;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;2;0;0;3;2;3;2;0;0;0;0;0;0;12
+20171001;405;Hoorn;1622;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1622;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;1;1;0;0;0;0;0;0;5
+20171001;405;Hoorn;1623;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1623;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1624;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1624;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1625;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;2;0;0;0;0;0;0;6
+20171001;405;Hoorn;1628;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;1;0;3;2;3;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;405;Hoorn;1628;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;5;2;1;0;7;2;1;0;0;0;0;0;19
+20171001;405;Hoorn;1633;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1633;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;5
+20171001;405;Hoorn;1647;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1648;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1648;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1655;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1661;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1662;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1671;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1674;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1674;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1679;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1681;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1683;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1687;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;4;0;1;2;1;2;0;0;0;0;0;0;10
+20171001;405;Hoorn;1688;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1688;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1689;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;1;0;1;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1689;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;2;1;2;2;0;3;1;0;0;0;0;0;0;12
+20171001;405;Hoorn;1693;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1693;Medemblik;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;4
+20171001;405;Hoorn;1695;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1695;Hoorn;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;3
+20171001;405;Hoorn;1696;Drechterland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1704;Heerhugowaard;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1706;Heerhugowaard;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1711;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;405;Hoorn;1713;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1713;Koggenland;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1715;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;1;2;0;1;0;2;1;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1716;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1716;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1718;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1718;Opmeer;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1733;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1733;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;405;Hoorn;1735;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1735;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1771;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;So;Algemeen bijzonder;42635;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1771;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1773;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1775;Hollands Kroon;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1788;Den Helder;04GJ;00;De Eenhoorn zmlk;1623LT;HOORN NH;Noord-Holland;Vso;Algemeen bijzonder;42635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1623;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1628;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;43;34;50;63;52;49;40;57;4;0;0;0;0;0;0;0;0;0;0;0;0;0;392
+20171001;405;Hoorn;1687;Medemblik;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1688;Medemblik;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1689;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;1;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1695;Hoorn;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1696;Drechterland;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;2035;Haarlem;06HI;00;Het Spectrum;1628XH;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;  40;Onbekend;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1617;Drechterland;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;2;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1621;Hoorn;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;5;1;5;2;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;405;Hoorn;1628;Hoorn;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;3;2;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;405;Hoorn;1647;Koggenland;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1685;Medemblik;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;0;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;405;Hoorn;1689;Hoorn;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;35;37;36;26;29;36;33;28;8;0;0;0;0;0;0;0;0;0;0;0;0;0;268
+20171001;405;Hoorn;1695;Hoorn;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;4;4;10;10;8;4;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;405;Hoorn;1696;Drechterland;06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1931;Bergen (NH.);06OM;00;De Wingerd;1689GN;ZWAAG;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1462;Beemster;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1473;Edam-Volendam;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1474;Edam-Volendam;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1475;Edam-Volendam;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1601;Enkhuizen;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1602;Enkhuizen;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1606;Drechterland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1608;Drechterland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1611;Stede Broec;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1613;Stede Broec;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1614;Stede Broec;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1617;Drechterland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1621;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;2;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1622;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1623;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1624;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;2;0;2;2;3;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;405;Hoorn;1625;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;3;0;3;2;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;405;Hoorn;1628;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;8;9;3;11;11;4;7;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;405;Hoorn;1633;Koggenland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1647;Koggenland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1654;Medemblik;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1655;Medemblik;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1679;Medemblik;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1684;Medemblik;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;5;7;2;3;5;6;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;405;Hoorn;1695;Hoorn;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;3;0;2;3;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;405;Hoorn;1697;Drechterland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1711;Koggenland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1713;Koggenland;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1774;Hollands Kroon;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;8911;Leeuwarden;06QZ;00;Westfriese Vrije School;1628DJ;HOORN NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1616;Drechterland;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1617;Drechterland;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1622;Hoorn;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;2;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1628;Hoorn;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;5;5;9;6;5;8;11;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;405;Hoorn;1682;Medemblik;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;5;5;5;1;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;405;Hoorn;1691;Medemblik;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1695;Hoorn;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;13;12;14;10;15;6;10;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;405;Hoorn;1696;Drechterland;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1697;Drechterland;07BH;00;St Jozef;1695AB;BLOKKER;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1622;Hoorn;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;9;16;17;12;13;8;16;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;405;Hoorn;1633;Koggenland;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;07BH;01;RK Jenaplansch De Pontonnier;1625CE;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;3;5;3;1;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;405;Hoorn;1078;Amsterdam;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1607;Drechterland;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;19;20;8;19;15;23;11;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;405;Hoorn;1622;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;4;5;9;5;0;2;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;405;Hoorn;1623;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;11;13;17;14;13;15;18;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;405;Hoorn;1624;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;4;10;9;6;7;6;5;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;405;Hoorn;1625;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;2;3;3;2;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;405;Hoorn;1628;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;1;1;3;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;405;Hoorn;1633;Koggenland;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1678;Medemblik;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1695;Hoorn;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1697;Drechterland;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1767;Hollands Kroon;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1773;Hollands Kroon;07UX;00;RK Basisschool Maria;1623LP;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;  40;Onbekend;08KV;00;Oecumenische Ichthussch;1622ES;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1622;Hoorn;08KV;00;Oecumenische Ichthussch;1622ES;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;12;13;10;10;14;14;14;12;5;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;405;Hoorn;1623;Hoorn;08KV;00;Oecumenische Ichthussch;1622ES;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;08KV;00;Oecumenische Ichthussch;1622ES;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1621;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1622;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1623;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;1;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1624;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;18;24;24;22;25;20;25;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;405;Hoorn;1625;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;6;2;5;2;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;405;Hoorn;1628;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;2;2;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1689;Hoorn;09AC;00;Bernardus v Bockxmeersch;1624EH;HOORN NH;Noord-Holland;Bo;Rooms-Katholiek;31657;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1622;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1623;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1624;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;30;24;16;35;23;23;24;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;405;Hoorn;1628;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;11DE;00;Het Kompas;1625HZ;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;10;6;3;9;4;7;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;405;Hoorn;1622;Hoorn;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;1;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1623;Hoorn;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1628;Hoorn;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;25;16;27;34;36;18;34;30;8;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;405;Hoorn;1689;Hoorn;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1695;Hoorn;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1697;Drechterland;11EL;00;Interconf Basisschool De Ceder;1628ME;HOORN NH;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1617;Drechterland;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1624;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;4;3;4;3;9;7;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;405;Hoorn;1628;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1647;Koggenland;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1648;Koggenland;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1674;Medemblik;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;11PS;00;De Rank;1689KZ;ZWAAG;Noord-Holland;Bo;Protestants-Christelijk;31657;0;33;40;35;42;30;36;25;35;8;0;0;0;0;0;0;0;0;0;0;0;0;0;284
+20171001;405;Hoorn;  40;Onbekend;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1608;Drechterland;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1622;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;2;0;0;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;1628;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1647;Koggenland;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1685;Medemblik;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;14;13;20;12;11;9;14;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;405;Hoorn;1691;Medemblik;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1695;Hoorn;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1696;Drechterland;15VF;00;TVH Mont. De Flierefluiter;1689NV;ZWAAG;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1121;Landsmeer;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1473;Edam-Volendam;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1623;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1624;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1628;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;19;31;32;18;24;20;23;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;405;Hoorn;1647;Koggenland;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1695;Hoorn;15VF;01;De Flierefluiter;1628SB;HOORN NH;Noord-Holland;Bo;Algemeen bijzonder;40363;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1602;Enkhuizen;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1622;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1623;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;2;0;3;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;405;Hoorn;1624;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;9;13;10;14;15;13;16;13;7;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;405;Hoorn;1625;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;18;28;26;27;28;28;23;20;5;0;0;0;0;0;0;0;0;0;0;0;0;0;203
+20171001;405;Hoorn;1628;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;2;1;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1648;Koggenland;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1685;Medemblik;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;8;6;8;5;1;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;405;Hoorn;1695;Hoorn;16GN;00;De Windvaan;1624XJ;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1601;Enkhuizen;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1602;Enkhuizen;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1622;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;13;16;16;17;14;19;17;12;11;3;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;405;Hoorn;1623;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;2;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;405;Hoorn;1625;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1628;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;11;14;18;22;14;27;9;14;7;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;405;Hoorn;1641;Koggenland;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;1;0;3;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1695;Hoorn;16HV;00;J Verneschool;1622BR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;2;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1622;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;33;31;34;43;37;33;23;29;9;0;0;0;0;0;0;0;0;0;0;0;0;0;272
+20171001;405;Hoorn;1623;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1628;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1647;Koggenland;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1687;Medemblik;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1695;Hoorn;16KL;00;De Zonnewyzer;1622HC;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1628;Hoorn;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;1;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1633;Koggenland;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1687;Medemblik;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1689;Hoorn;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;16;14;11;22;9;7;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;405;Hoorn;1718;Opmeer;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1721;Langedijk;16WW;00;OBS KlimOp;1689NW;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1363;Almere;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1566;Zaanstad;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1601;Enkhuizen;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1617;Drechterland;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;2;3;2;2;6;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;405;Hoorn;1628;Hoorn;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;3;1;1;4;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;405;Hoorn;1647;Koggenland;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1679;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1683;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1684;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1685;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;405;Hoorn;1686;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1688;Medemblik;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;88;71;65;66;52;37;29;29;3;0;0;0;0;0;0;0;0;0;0;0;0;0;440
+20171001;405;Hoorn;1695;Hoorn;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;3;0;5;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;405;Hoorn;1824;Alkmaar;16YA;00;Het Ooievaarsnest;1689EB;ZWAAG;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1474;Edam-Volendam;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1607;Drechterland;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1628;Hoorn;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;3;5;1;1;6;3;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;405;Hoorn;1689;Hoorn;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;1;1;3;1;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;405;Hoorn;1695;Hoorn;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;8;7;12;6;10;16;7;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;405;Hoorn;1696;Drechterland;16YT;00;BS De Bussel;1695HZ;BLOKKER;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1613;Stede Broec;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1623;Hoorn;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1628;Hoorn;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;5;10;7;16;7;9;10;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;405;Hoorn;1689;Hoorn;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1695;Hoorn;16ZY;00;Openb Montessorischool;1628JG;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1476;Edam-Volendam;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1621;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;8;7;10;12;15;15;11;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;405;Hoorn;1622;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;3;9;4;3;6;6;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;405;Hoorn;1623;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;5;5;4;4;4;2;4;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;405;Hoorn;1624;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;11;3;10;8;7;2;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;405;Hoorn;1625;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;2;1;1;4;0;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;405;Hoorn;1628;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;1;2;1;1;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;405;Hoorn;1634;Koggenland;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1647;Koggenland;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1686;Medemblik;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1687;Medemblik;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;1;0;0;0;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;405;Hoorn;1695;Hoorn;16ZY;01;Montessorischool Hoorn;1621CR;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1132;Edam-Volendam;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1141;Waterland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1211;Hilversum;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1447;Purmerend;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1602;Enkhuizen;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;1;0;2;1;0;0;0;0;0;0;0;6
+20171001;405;Hoorn;1608;Drechterland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1611;Stede Broec;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1613;Stede Broec;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1614;Stede Broec;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1616;Drechterland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1619;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1621;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;5
+20171001;405;Hoorn;1623;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1624;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1625;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;2;6;1;2;0;0;0;0;0;0;0;0;12
+20171001;405;Hoorn;1628;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;2;4;8;3;4;0;0;0;0;0;0;0;0;22
+20171001;405;Hoorn;1631;Koggenland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1633;Koggenland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1648;Koggenland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1652;Koggenland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1657;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1674;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1679;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1688;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1689;Hoorn;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;2;2;3;2;1;0;0;0;0;0;0;0;0;11
+20171001;405;Hoorn;1693;Medemblik;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1713;Koggenland;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1715;Opmeer;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1718;Opmeer;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1731;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1761;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1771;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1774;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1775;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1777;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1779;Hollands Kroon;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;9711;Groningen;18ZJ;02;De Spinaker;1689SM;ZWAAG;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1701;Heerhugowaard;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1705;Heerhugowaard;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1813;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1814;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1815;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1816;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1822;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1824;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1825;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1827;Alkmaar;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1834;Langedijk;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1852;Heiloo;20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1862;Bergen (NH.);20WR;06;Burg. de Wildeschool;1689EA;ZWAAG;Noord-Holland;So;Openbaar;21679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1104;Amsterdam;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1616;Drechterland;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1624;Hoorn;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1628;Hoorn;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;35;31;43;48;56;48;44;57;5;0;0;0;0;0;0;0;0;0;0;0;0;0;367
+20171001;405;Hoorn;1687;Medemblik;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1695;Hoorn;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1696;Drechterland;23PY;00;de Klipper;1628RV;HOORN NH;Noord-Holland;Bo;Openbaar;41772;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1022;Amsterdam;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1622;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1623;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1624;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;405;Hoorn;1625;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1628;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;22;17;32;32;21;28;36;32;5;0;0;0;0;0;0;0;0;0;0;0;0;0;225
+20171001;405;Hoorn;1689;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1695;Hoorn;24PC;00;Dynamis;1628TR;HOORN NH;Noord-Holland;Bo;Protestants-Christelijk;31657;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1611;Stede Broec;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1617;Drechterland;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1621;Hoorn;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1625;Hoorn;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1628;Hoorn;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;1;1;1;3;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;405;Hoorn;1671;Medemblik;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1685;Medemblik;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;46;41;60;39;43;41;38;30;6;0;0;0;0;0;0;0;0;0;0;0;0;0;344
+20171001;405;Hoorn;1695;Hoorn;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;405;Hoorn;1696;Drechterland;29XL;00;Roald Dahl School;1689XD;ZWAAG;Noord-Holland;Bo;Interconfessioneel;31657;0;1;2;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;405;Hoorn;  40;Onbekend;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1063;Amsterdam;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1602;Enkhuizen;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;405;Hoorn;1622;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;6;9;5;8;3;2;8;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;405;Hoorn;1623;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1624;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;3;1;0;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;405;Hoorn;1625;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;3;3;7;3;4;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;405;Hoorn;1628;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;4;4;3;4;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;405;Hoorn;1657;Medemblik;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1671;Medemblik;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;3;1;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;405;Hoorn;1688;Medemblik;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;405;Hoorn;1689;Hoorn;31AX;00;Elif HOORN;1628MA;HOORN NH;Noord-Holland;Bo;Islamitisch;42686;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5

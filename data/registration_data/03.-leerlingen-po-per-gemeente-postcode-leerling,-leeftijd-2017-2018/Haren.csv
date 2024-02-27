@@ -1,0 +1,460 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;17;Haren;9301;Noordenveld;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9469;Aa en Hunze;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9475;Tynaarlo;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9479;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;17;Haren;9481;Tynaarlo;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9601;Hoogezand-Sappemeer;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9605;Hoogezand-Sappemeer;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9608;Hoogezand-Sappemeer;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;17;Haren;9718;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9721;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9722;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;1;1;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;17;Haren;9725;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9741;Groningen;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;19;13;12;17;10;7;11;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;17;Haren;9752;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;5;2;6;6;5;3;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;17;Haren;9753;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;4;7;5;9;6;4;6;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;17;Haren;9755;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;0;0;1;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;17;Haren;9756;Haren;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;1;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;17;Haren;9765;Tynaarlo;01VG;01;Peter Petersenschool;9751SL;HAREN GN;Groningen;Bo;Algemeen bijzonder;40865;0;1;0;1;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;17;Haren;9351;Leek;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9501;Stadskanaal;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9636;Menterwolde;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9648;Veendam;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9665;Pekela;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9673;Oldambt;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9686;Oldambt;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9693;Oldambt;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9713;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9727;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9731;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9732;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9736;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9742;Groningen;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9861;Grootegast;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9931;Delfzijl;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9943;Oldambt;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9983;Eemsmond;02YR;07;Prof W J Bladergroenschool;9753KK;HAREN GN;Groningen;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1791;Texel;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9608;Hoogezand-Sappemeer;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;17;Haren;9615;Slochteren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9621;Slochteren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9722;Groningen;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9723;Groningen;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;17;Haren;9728;Groningen;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9734;Groningen;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9751;Haren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;7;19;15;12;13;13;10;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;17;Haren;9752;Haren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;4;3;2;2;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;17;Haren;9753;Haren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;30;27;33;29;33;25;25;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;230
+20171001;17;Haren;9755;Haren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;2;3;3;4;8;5;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;17;Haren;9756;Haren;05CH;00;CBS De Borg;9753AA;HAREN GN;Groningen;Bo;Protestants-Christelijk;61829;0;1;3;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;17;Haren;5825;Boxmeer;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9501;Stadskanaal;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;6;3;5;0;3;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;17;Haren;9752;Haren;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;3;0;2;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;17;Haren;9753;Haren;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;1;5;5;4;5;5;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;17;Haren;9755;Haren;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;2;2;1;2;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;17;Haren;9765;Tynaarlo;06NB;00;Het Mozaïek;9753EL;HAREN GN;Groningen;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9471;Tynaarlo;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9475;Tynaarlo;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9482;Tynaarlo;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;17;Haren;9493;Tynaarlo;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9494;Tynaarlo;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9602;Hoogezand-Sappemeer;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9714;Groningen;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9721;Groningen;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9722;Groningen;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9728;Groningen;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9751;Haren;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;12;11;12;13;10;10;10;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;17;Haren;9752;Haren;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;36;28;39;38;32;37;30;27;6;0;0;0;0;0;0;0;0;0;0;0;0;0;273
+20171001;17;Haren;9753;Haren;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;1;1;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;17;Haren;9755;Haren;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;2;3;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;17;Haren;9756;Haren;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;1;2;1;3;4;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;17;Haren;9988;Eemsmond;07UQ;00;St Nicolaasschool;9752LN;HAREN GN;Groningen;Bo;Rooms-Katholiek;73724;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;  40;Onbekend;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9608;Hoogezand-Sappemeer;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9723;Groningen;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;2;1;2;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;17;Haren;9753;Haren;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;16;14;17;12;14;7;18;11;3;1;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;17;Haren;9755;Haren;12DC;00;Obs de Wissel;9753HN;HAREN GN;Groningen;Bo;Openbaar;41851;0;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;17;Haren;9475;Tynaarlo;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;1;1;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;17;Haren;9479;Haren;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;3;4;0;4;3;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;17;Haren;9493;Tynaarlo;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9714;Groningen;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;1;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;17;Haren;9752;Haren;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;17;Haren;9753;Haren;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9756;Haren;12ME;00;Quintusschool;9756BB;GLIMMEN;Groningen;Bo;Openbaar;41851;0;8;5;13;4;6;6;6;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;17;Haren;9402;Assen;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9482;Tynaarlo;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9722;Groningen;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9751;Haren;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;37;26;34;29;22;17;15;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;195
+20171001;17;Haren;9752;Haren;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;4;2;3;2;5;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;17;Haren;9753;Haren;13AL;00;Brinkschool;9751RL;HAREN GN;Groningen;Bo;Openbaar;41851;0;1;4;0;2;2;4;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;17;Haren;9626;Slochteren;13AL;01;Basisschool de Linde;9751GA;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9743;Groningen;13AL;01;Basisschool de Linde;9751GA;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9751;Haren;13AL;01;Basisschool de Linde;9751GA;HAREN GN;Groningen;Bo;Openbaar;41851;0;4;6;6;10;9;4;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;17;Haren;9752;Haren;13AL;01;Basisschool de Linde;9751GA;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;1;0;3;1;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;17;Haren;9753;Haren;13AL;01;Basisschool de Linde;9751GA;HAREN GN;Groningen;Bo;Openbaar;41851;0;0;0;0;1;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;17;Haren;7707;Hardenberg;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7741;Coevorden;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7824;Emmen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;8012;Zwolle;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8281;Zwartewaterland;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8313;Noordoostpolder;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8411;Heerenveen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8414;Heerenveen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8426;Ooststellingwerf;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8754;S·dwest-FryslÔn;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8801;Franekeradeel;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8913;Leeuwarden;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8918;Leeuwarden;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;8926;Leeuwarden;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9047;het Bildt;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9076;het Bildt;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9114;Dantumadiel;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9286;Achtkarspelen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9521;Borger-Odoorn;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9645;Veendam;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9697;Bellingwedde;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9718;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9721;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9723;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9737;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9742;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9744;Groningen;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9753;Haren;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;17;Haren;9828;Leek;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9882;Zuidhorn;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9902;Appingedam;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9931;Delfzijl;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9981;Eemsmond;17GW;04;Kentalis Guyotschool SO-A;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7542;Enschede;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7741;Coevorden;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7742;Coevorden;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7772;Hardenberg;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7894;Emmen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7944;Meppel;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7951;Staphorst;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8094;Oldebroek;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8251;Dronten;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8252;Dronten;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8261;Kampen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8265;Kampen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8446;Heerenveen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8608;S·dwest-FryslÔn;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8931;Leeuwarden;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9287;Achtkarspelen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9305;Noordenveld;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9355;Leek;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9402;Assen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9472;Tynaarlo;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9481;Tynaarlo;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9493;Tynaarlo;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9541;Vlagtwedde;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9615;Slochteren;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9645;Veendam;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9743;Groningen;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9756;Haren;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9801;Zuidhorn;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9842;Zuidhorn;17GW;17;Kentalis Guyotschool v SOVSO-B;9752AC;HAREN GN;Groningen;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1063;Amsterdam;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1104;Amsterdam;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1106;Amsterdam;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1621;Hoorn;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1678;Medemblik;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1829;Alkmaar;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;1949;Beverwijk;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;2023;Haarlem;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;2343;Oegstgeest;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;2451;Kaag en Braassem;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;2553;'s-Gravenhage;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3451;Utrecht;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;3607;Stichtse Vecht;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;3648;De Ronde Venen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3721;De Bilt;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;17;Haren;3763;Soest;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3765;Soest;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3824;Amersfoort;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;3842;Harderwijk;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3861;Nijkerk;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3921;Rhenen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;3931;Woudenberg;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;5508;Veldhoven;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;6721;Ede;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;6921;Duiven;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7011;Doetinchem;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7321;Apeldoorn;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7384;Voorst;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;7413;Deventer;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7461;Rijssen-Holten;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7542;Enschede;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7545;Enschede;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;7559;Hengelo;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7607;Almelo;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7701;Hardenberg;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7766;Emmen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7772;Hardenberg;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7814;Emmen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7861;Coevorden;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7916;Hoogeveen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7926;De Wolden;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8043;Zwolle;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8051;Hattem;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8081;Elburg;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8131;Olst-Wijhe;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;8225;Lelystad;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;8243;Lelystad;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8244;Lelystad;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8251;Dronten;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8252;Dronten;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8265;Kampen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;8277;Kampen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8313;Noordoostpolder;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8326;Steenwijkerland;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8434;Ooststellingwerf;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8464;De Fryske Marren;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8531;De Fryske Marren;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8934;Leeuwarden;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8935;Leeuwarden;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9151;Dongeradeel;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9201;Smallingerland;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9202;Smallingerland;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9207;Smallingerland;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9402;Assen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9403;Assen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9408;Assen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9472;Tynaarlo;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9493;Tynaarlo;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9608;Hoogezand-Sappemeer;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9611;Hoogezand-Sappemeer;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9649;Menterwolde;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9674;Oldambt;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9675;Oldambt;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9681;Oldambt;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9684;Oldambt;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9715;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9721;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9731;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9733;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9736;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9737;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;17;Haren;9746;Groningen;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9752;Haren;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9765;Tynaarlo;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9883;Zuidhorn;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9885;Zuidhorn;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9902;Appingedam;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9932;Delfzijl;17GW;29;Kentalis Guyotschool voor VSO;9752AC;HAREN GN;Groningen;Vso;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7824;Emmen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;17;Haren;7825;Emmen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;17;Haren;7828;Emmen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7876;Borger-Odoorn;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7889;Emmen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7908;Hoogeveen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;8433;Ooststellingwerf;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8915;Leeuwarden;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9207;Smallingerland;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9301;Noordenveld;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9311;Noordenveld;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9331;Noordenveld;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9351;Leek;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9351;Leek;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;3
+20171001;17;Haren;9354;Leek;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9356;Leek;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9363;Marum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9401;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9403;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;4
+20171001;17;Haren;9404;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9404;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9407;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9408;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9408;Assen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;17;Haren;9411;Midden-Drenthe;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9414;Midden-Drenthe;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9422;Midden-Drenthe;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9422;Midden-Drenthe;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9443;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9451;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9461;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9468;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9469;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9471;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9471;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9473;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9479;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9482;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9501;Stadskanaal;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9514;Aa en Hunze;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9521;Borger-Odoorn;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9531;Borger-Odoorn;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9601;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9602;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9602;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9603;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9611;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9611;Hoogezand-Sappemeer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9626;Slochteren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9635;Menterwolde;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9636;Menterwolde;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9641;Veendam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9642;Veendam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9642;Veendam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9645;Veendam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9648;Veendam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9665;Pekela;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9665;Pekela;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9675;Oldambt;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9677;Oldambt;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9679;Oldambt;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;3
+20171001;17;Haren;9686;Oldambt;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9697;Bellingwedde;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9713;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9721;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9721;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;17;Haren;9722;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9725;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;17;Haren;9727;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9731;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9731;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9733;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9734;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9736;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9736;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;4
+20171001;17;Haren;9737;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;17;Haren;9741;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9742;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9742;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9743;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9744;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9745;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9745;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9746;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9746;Groningen;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9752;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9753;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9753;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9756;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9756;Haren;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9761;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9765;Tynaarlo;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9793;Ten Boer;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9801;Zuidhorn;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9843;Zuidhorn;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9861;Grootegast;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9861;Grootegast;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9891;Winsum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9901;Appingedam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9902;Appingedam;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9905;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9906;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9931;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9932;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9933;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9934;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9936;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9937;Delfzijl;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9953;Winsum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9954;Winsum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9956;Winsum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9981;Eemsmond;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;17;Haren;9982;Eemsmond;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9983;Eemsmond;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9991;Loppersum;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9995;Eemsmond;19VO;00;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7751;Coevorden;19VO;01;Prins Johan Friso;9751NJ;HAREN GN;Groningen;Vso;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9462;Aa en Hunze;19VO;01;Prins Johan Friso;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7908;Hoogeveen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9351;Leek;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9356;Leek;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9402;Assen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9404;Assen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9471;Tynaarlo;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9481;Tynaarlo;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9501;Stadskanaal;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9502;Stadskanaal;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9611;Hoogezand-Sappemeer;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9619;Slochteren;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9621;Slochteren;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9642;Veendam;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9663;Pekela;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9665;Pekela;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9681;Oldambt;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9693;Oldambt;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9695;Bellingwedde;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9723;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9731;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9733;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9741;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9742;Groningen;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9752;Haren;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9824;Marum;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9866;Grootegast;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9902;Appingedam;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9909;Delfzijl;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9919;Loppersum;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9944;Oldambt;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9981;Eemsmond;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9988;Eemsmond;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9995;Eemsmond;19WD;00;GBS;9751NJ;HAREN GN;Groningen;So;Openbaar;42510;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7773;Hardenberg;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7793;Hardenberg;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7833;Emmen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7881;Emmen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;7918;Hoogeveen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7971;Westerveld;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8455;Heerenveen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8471;Weststellingwerf;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8913;Leeuwarden;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9103;Dongeradeel;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9151;Dongeradeel;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9251;Tytsjerksteradiel;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9251;Tytsjerksteradiel;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9342;Noordenveld;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9356;Leek;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9363;Marum;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9403;Assen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9411;Midden-Drenthe;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9502;Stadskanaal;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9601;Hoogezand-Sappemeer;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9611;Hoogezand-Sappemeer;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9675;Oldambt;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9728;Groningen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9735;Groningen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;17;Haren;9743;Groningen;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9751;Haren;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9752;Haren;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;9752;Haren;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;1;1;1;0;1;3;0;0;0;0;0;0;0;8
+20171001;17;Haren;9753;Haren;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9781;Bedum;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9827;Leek;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;Vso;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;17;Haren;9919;Loppersum;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9936;Delfzijl;25GP;00;Visio Onderwijs Haren;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7741;Coevorden;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;17;Haren;7854;Coevorden;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;7946;Steenwijkerland;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8465;De Fryske Marren;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8701;S·dwest-FryslÔn;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;8731;Littenseradiel;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9076;het Bildt;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9172;Ferwerderadiel;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9207;Smallingerland;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9311;Noordenveld;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9471;Tynaarlo;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9591;Stadskanaal;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9635;Menterwolde;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;17;Haren;9995;Eemsmond;25GP;01;Visio Onderwijsinst Nrd;9752CL;HAREN GN;Groningen;So;Algemeen bijzonder;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

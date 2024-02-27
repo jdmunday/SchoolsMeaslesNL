@@ -1,0 +1,281 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1708;Steenwijkerland;7761;Emmen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7881;Emmen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7891;Emmen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7903;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7904;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7908;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7909;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7913;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7933;Hoogeveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7941;Meppel;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7942;Meppel;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1708;Steenwijkerland;7943;Meppel;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7944;Meppel;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1708;Steenwijkerland;7948;Meppel;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7951;Staphorst;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;7958;De Wolden;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7961;De Wolden;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7973;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7975;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7983;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7991;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8064;Zwartewaterland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;1;0;1;0;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8381;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8391;Weststellingwerf;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8413;Heerenveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8437;Westerveld;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8443;Heerenveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8451;Heerenveen;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8471;Weststellingwerf;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;3;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1708;Steenwijkerland;8483;Weststellingwerf;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8531;De Fryske Marren;02YN;06;de Ambelt;8332GL;STEENWIJK;Overijssel;So;Algemeen bijzonder;96240;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7707;Hardenberg;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;3;3;3;5;4;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;2;3;5;4;4;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;03CO;00;GBS De Wegwijzer;8331MZ;STEENWIJK;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7942;Meppel;04LJ;00;Samenlevingsschool De Lisdodde;7946LE;WANNEPERVEEN;Overijssel;Bo;Protestants-Christelijk;42788;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7944;Meppel;04LJ;00;Samenlevingsschool De Lisdodde;7946LE;WANNEPERVEEN;Overijssel;Bo;Protestants-Christelijk;42788;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7946;Steenwijkerland;04LJ;00;Samenlevingsschool De Lisdodde;7946LE;WANNEPERVEEN;Overijssel;Bo;Protestants-Christelijk;42788;0;14;21;13;18;9;20;6;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;1708;Steenwijkerland;7948;Meppel;04LJ;00;Samenlevingsschool De Lisdodde;7946LE;WANNEPERVEEN;Overijssel;Bo;Protestants-Christelijk;42788;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8316;Noordoostpolder;04QU;00;De Schutsluis;8356ER;BLOKZIJL;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;4;0;2;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8356;Steenwijkerland;04QU;00;De Schutsluis;8356ER;BLOKZIJL;Overijssel;Bo;Protestants-Christelijk;41270;0;9;7;7;10;9;1;5;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;1708;Steenwijkerland;8372;Steenwijkerland;04QU;00;De Schutsluis;8356ER;BLOKZIJL;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8373;Steenwijkerland;04QU;00;De Schutsluis;8356ER;BLOKZIJL;Overijssel;Bo;Protestants-Christelijk;41270;0;1;2;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1708;Steenwijkerland;8317;Noordoostpolder;04SI;00;PC Basisschool De Opstap;8326BJ;SINT JANSKLOOSTER;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;04SI;00;PC Basisschool De Opstap;8326BJ;SINT JANSKLOOSTER;Overijssel;Bo;Protestants-Christelijk;41270;0;0;4;3;0;4;4;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1708;Steenwijkerland;8064;Zwartewaterland;04TV;00;Chr Basissch Buuzekaemp;8066PJ;BELT-SCHUTSLOOT;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8066;Steenwijkerland;04TV;00;Chr Basissch Buuzekaemp;8066PJ;BELT-SCHUTSLOOT;Overijssel;Bo;Protestants-Christelijk;41270;0;4;7;5;7;2;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;6;3;5;3;6;6;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;2;1;1;6;4;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;1;3;0;2;2;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8397;Weststellingwerf;05JI;00;RK Basissch St Clemens;8331HP;STEENWIJK;Overijssel;Bo;Rooms-Katholiek;40888;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8316;Noordoostpolder;05KH;00;RK Basissch St Martinus;8325AE;VOLLENHOVE;Overijssel;Bo;Rooms-Katholiek;40662;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8317;Noordoostpolder;05KH;00;RK Basissch St Martinus;8325AE;VOLLENHOVE;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;05KH;00;RK Basissch St Martinus;8325AE;VOLLENHOVE;Overijssel;Bo;Rooms-Katholiek;40662;0;12;15;12;8;16;10;18;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;05KH;00;RK Basissch St Martinus;8325AE;VOLLENHOVE;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;05KH;00;RK Basissch St Martinus;8325AE;VOLLENHOVE;Overijssel;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8316;Noordoostpolder;05TY;00;Chr Kindcentrum Het Kompas;8325EV;VOLLENHOVE;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;05TY;00;Chr Kindcentrum Het Kompas;8325EV;VOLLENHOVE;Overijssel;Bo;Protestants-Christelijk;41270;0;31;28;33;11;23;22;13;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;05TY;00;Chr Kindcentrum Het Kompas;8325EV;VOLLENHOVE;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;05TY;00;Chr Kindcentrum Het Kompas;8325EV;VOLLENHOVE;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8356;Steenwijkerland;05TY;00;Chr Kindcentrum Het Kompas;8325EV;VOLLENHOVE;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;  10;Belgie;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8361;Steenwijkerland;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;8;10;15;10;18;11;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;1708;Steenwijkerland;8376;Steenwijkerland;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8377;Steenwijkerland;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8378;Steenwijkerland;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;3;1;2;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1708;Steenwijkerland;8398;Weststellingwerf;06EL;00;PC Basisschool De Ark;8375BJ;OLDEMARKT;Overijssel;Bo;Protestants-Christelijk;41270;0;2;1;1;1;1;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1708;Steenwijkerland;8281;Zwartewaterland;06EM;00;Basisschool Eben Haezer;8326BA;SINT JANSKLOOSTER;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8317;Noordoostpolder;06EM;00;Basisschool Eben Haezer;8326BA;SINT JANSKLOOSTER;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;06EM;00;Basisschool Eben Haezer;8326BA;SINT JANSKLOOSTER;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;3;7;1;3;4;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;06EM;00;Basisschool Eben Haezer;8326BA;SINT JANSKLOOSTER;Overijssel;Bo;Gereformeerd vrijgemaakt;41632;0;11;16;9;14;16;11;12;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;06VC;00;Basisschool St Bernardus;8375AJ;OLDEMARKT;Overijssel;Bo;Rooms-Katholiek;40888;0;2;4;7;5;4;8;12;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;1708;Steenwijkerland;8378;Steenwijkerland;06VC;00;Basisschool St Bernardus;8375AJ;OLDEMARKT;Overijssel;Bo;Rooms-Katholiek;40888;0;1;2;1;2;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8398;Weststellingwerf;06VC;00;Basisschool St Bernardus;8375AJ;OLDEMARKT;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;2;0;0;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1708;Steenwijkerland;8335;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8336;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8339;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;7;1;3;3;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1708;Steenwijkerland;8342;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1708;Steenwijkerland;8381;Westerveld;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8395;Weststellingwerf;06YR;00;Basisschool Immanuel;8341PD;STEENWIJKERWOLD;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;1;1;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1708;Steenwijkerland;8335;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8339;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;7;9;12;10;5;10;6;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;1708;Steenwijkerland;8342;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;2;0;3;2;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8378;Steenwijkerland;06YY;00;Basisschool Don Bosco;8341PZ;STEENWIJKERWOLD;Overijssel;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;07ED;00;PCBS De Wiedekieker;8326CE;SINT JANSKLOOSTER;Overijssel;Bo;Protestants-Christelijk;41270;0;13;8;19;11;15;9;8;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;3;5;3;4;3;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;5;6;5;2;5;6;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;07NW;00;Het Kompas;8331EG;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8361;Steenwijkerland;09EV;00;OBS De Slinge;8375GP;OLDEMARKT;Overijssel;Bo;Openbaar;41816;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;09EV;00;OBS De Slinge;8375GP;OLDEMARKT;Overijssel;Bo;Openbaar;41816;0;11;6;2;14;3;8;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;1708;Steenwijkerland;8377;Steenwijkerland;09EV;00;OBS De Slinge;8375GP;OLDEMARKT;Overijssel;Bo;Openbaar;41816;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8378;Steenwijkerland;09EV;00;OBS De Slinge;8375GP;OLDEMARKT;Overijssel;Bo;Openbaar;41816;0;1;2;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8398;Weststellingwerf;09EV;00;OBS De Slinge;8375GP;OLDEMARKT;Overijssel;Bo;Openbaar;41816;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8315;Noordoostpolder;10TB;00;Burg de Ruiterschool;8374KG;KUINRE;Overijssel;Bo;Openbaar;41816;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8373;Steenwijkerland;10TB;00;Burg de Ruiterschool;8374KG;KUINRE;Overijssel;Bo;Openbaar;41816;0;2;2;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1708;Steenwijkerland;8374;Steenwijkerland;10TB;00;Burg de Ruiterschool;8374KG;KUINRE;Overijssel;Bo;Openbaar;41816;0;12;9;11;14;6;5;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;1708;Steenwijkerland;8489;Weststellingwerf;10TB;00;Burg de Ruiterschool;8374KG;KUINRE;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;20;15;10;35;17;11;14;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;1;1;0;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;4;3;2;3;1;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;11FW;00;Bernhardschool;8331ME;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;24;24;9;13;8;13;14;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;11RR;00;Willem Alexanderschool;8331RV;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8316;Noordoostpolder;11TC;00;Basisschool De Lepelaar;8371WG;SCHEERWOLDE;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8356;Steenwijkerland;11TC;00;Basisschool De Lepelaar;8371WG;SCHEERWOLDE;Overijssel;Bo;Openbaar;41816;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8363;Steenwijkerland;11TC;00;Basisschool De Lepelaar;8371WG;SCHEERWOLDE;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;11TC;00;Basisschool De Lepelaar;8371WG;SCHEERWOLDE;Overijssel;Bo;Openbaar;41816;0;1;1;4;2;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1708;Steenwijkerland;8377;Steenwijkerland;11TC;00;Basisschool De Lepelaar;8371WG;SCHEERWOLDE;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7974;Westerveld;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8033;Zwolle;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;3;7;9;5;7;5;9;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;2;3;2;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;6;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;12CF;00;Johan Frisoschool;8331AW;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7907;Hoogeveen;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7943;Meppel;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7944;Meppel;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7975;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7981;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7983;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7991;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;4;2;4;8;7;9;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;18;21;21;37;27;35;29;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;2;2;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;2;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;1;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8347;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;2;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8381;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8383;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8384;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8385;Westerveld;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8472;Weststellingwerf;12LH;00;Clausschool;8332CZ;STEENWIJK;Overijssel;Bo;Protestants-Christelijk;41270;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;1326;Almere;12MU;00;OBS de Voorpoort;8325AZ;VOLLENHOVE;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;12MU;00;OBS de Voorpoort;8325AZ;VOLLENHOVE;Overijssel;Bo;Openbaar;41816;0;5;5;6;7;6;11;13;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;12MU;00;OBS de Voorpoort;8325AZ;VOLLENHOVE;Overijssel;Bo;Openbaar;41816;0;2;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8347;Steenwijkerland;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;1;2;1;6;3;0;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1708;Steenwijkerland;8384;Westerveld;12XY;00;Basissch de Driesprong;8347JP;EESVEEN;Overijssel;Bo;Openbaar;41816;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;13GN;00;Bs Giethoorn Noord;8355BB;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;13GN;00;Bs Giethoorn Noord;8355BB;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;10;12;14;15;19;14;14;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;1708;Steenwijkerland;7946;Steenwijkerland;13LO;00;Bs Giethoorn Zuid;8355BT;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7948;Meppel;13LO;00;Bs Giethoorn Zuid;8355BT;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;13LO;00;Bs Giethoorn Zuid;8355BT;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;13LO;00;Bs Giethoorn Zuid;8355BT;GIETHOORN;Overijssel;Bo;Openbaar;41816;0;8;10;8;5;7;9;12;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;1708;Steenwijkerland;7974;Westerveld;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;7983;Westerveld;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8224;Lelystad;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;15;25;15;18;15;10;8;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;7;9;8;5;7;1;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;3;3;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;5;10;7;7;11;9;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;13OF;00;Basisschool B;8331KG;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;4105;Culemborg;13QG;00;Basisschool de Rolpaal;8356DB;BLOKZIJL;Overijssel;Bo;Openbaar;41816;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8316;Noordoostpolder;13QG;00;Basisschool de Rolpaal;8356DB;BLOKZIJL;Overijssel;Bo;Openbaar;41816;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8356;Steenwijkerland;13QG;00;Basisschool de Rolpaal;8356DB;BLOKZIJL;Overijssel;Bo;Openbaar;41816;0;4;1;5;7;4;2;8;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1708;Steenwijkerland;8373;Steenwijkerland;13QG;00;Basisschool de Rolpaal;8356DB;BLOKZIJL;Overijssel;Bo;Openbaar;41816;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;13VY;00;Basisschool Emmaschool;8331CC;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;4;2;2;6;5;3;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;13VY;00;Basisschool Emmaschool;8331CC;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;13VY;00;Basisschool Emmaschool;8331CC;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;13VY;00;Basisschool Emmaschool;8331CC;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;1448;Purmerend;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;3;5;6;7;1;1;9;6;1;1;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;15;11;9;9;17;21;20;26;5;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;5;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8345;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;9601;Hoogezand-Sappemeer;13ZM;00;OBS Beatrix-school;8332CZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8339;Steenwijkerland;14CW;00;De Woldschool;8341PJ;STEENWIJKERWOLD;Overijssel;Bo;Openbaar;41816;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;14CW;00;De Woldschool;8341PJ;STEENWIJKERWOLD;Overijssel;Bo;Openbaar;41816;0;1;5;3;0;3;3;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1708;Steenwijkerland;8342;Steenwijkerland;14CW;00;De Woldschool;8341PJ;STEENWIJKERWOLD;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;14CW;00;De Woldschool;8341PJ;STEENWIJKERWOLD;Overijssel;Bo;Openbaar;41816;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8335;Steenwijkerland;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;1;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8338;Steenwijkerland;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;7;8;11;4;4;12;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;1708;Steenwijkerland;8339;Steenwijkerland;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1708;Steenwijkerland;8342;Steenwijkerland;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8395;Weststellingwerf;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8397;Weststellingwerf;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8398;Weststellingwerf;14FP;00;BS Gen Vd Bosch;8338ST;WILLEMSOORD;Overijssel;Bo;Openbaar;41816;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;14IK;00;OBS De SamenSprong;8331MZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;4;9;7;6;3;2;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;1708;Steenwijkerland;8333;Steenwijkerland;14IK;00;OBS De SamenSprong;8331MZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;14IK;00;OBS De SamenSprong;8331MZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;1;1;2;0;0;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;14IK;00;OBS De SamenSprong;8331MZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8483;Weststellingwerf;14IK;00;OBS De SamenSprong;8331MZ;STEENWIJK;Overijssel;Bo;Openbaar;41816;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8376;Steenwijkerland;15DQ;00;Basisschool Eben Haezer;8376HB;OSSENZIJL;Overijssel;Bo;Protestants-Christelijk;41270;0;2;6;7;5;2;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1708;Steenwijkerland;7948;Meppel;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7961;De Wolden;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;7973;Westerveld;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;7983;Westerveld;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8064;Zwartewaterland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1708;Steenwijkerland;8325;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8326;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;4;2;6;4;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;1;0;0;1;1;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;1;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1708;Steenwijkerland;8337;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8341;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1708;Steenwijkerland;8343;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8344;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8355;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8371;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8374;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8375;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1708;Steenwijkerland;8376;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8378;Steenwijkerland;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8381;Westerveld;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8384;Westerveld;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8395;Weststellingwerf;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8397;Weststellingwerf;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8398;Weststellingwerf;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8471;Weststellingwerf;19RN;00;SSBO Burg Voetelink;8332GL;STEENWIJK;Overijssel;Sbo;Openbaar;41816;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8331;Steenwijkerland;30JZ;00;'t PuzzelsTuk;8334RR;TUK;Overijssel;Bo;Algemeen bijzonder;40888;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1708;Steenwijkerland;8332;Steenwijkerland;30JZ;00;'t PuzzelsTuk;8334RR;TUK;Overijssel;Bo;Algemeen bijzonder;40888;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1708;Steenwijkerland;8334;Steenwijkerland;30JZ;00;'t PuzzelsTuk;8334RR;TUK;Overijssel;Bo;Algemeen bijzonder;40888;0;6;13;8;9;8;9;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;1708;Steenwijkerland;8346;Steenwijkerland;30JZ;00;'t PuzzelsTuk;8334RR;TUK;Overijssel;Bo;Algemeen bijzonder;40888;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

@@ -1,0 +1,314 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1904;Stichtse Vecht;  40;Onbekend;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3451;Utrecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3554;Utrecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;2;0;0;1;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;1;1;1;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;1;0;4;4;8;5;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3615;De Bilt;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;3;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3633;Stichtse Vecht;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3645;De Ronde Venen;01JW;00;SBO De Kristal;3607TC;MAARSSEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1231;Wijdemeren;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1241;Wijdemeren;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1394;Wijdemeren;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;1396;De Ronde Venen;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1904;Stichtse Vecht;3633;Stichtse Vecht;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;11;23;19;14;22;7;18;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;1904;Stichtse Vecht;3634;Stichtse Vecht;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3984;Bunnik;03TP;00;Bs Ridderhof;3633CA;VREELAND;Utrecht;Bo;Protestants-Christelijk;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1241;Wijdemeren;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3432;Nieuwegein;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3454;Utrecht;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3471;Woerden;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3481;Woerden;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;41;29;36;37;53;39;49;31;5;0;0;0;0;0;0;0;0;0;0;0;0;0;320
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;1;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;03UB;00;KBs Willibrordus;3621XD;BREUKELEN UT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;  30;ander land;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1071;Amsterdam;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1231;Wijdemeren;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;1;2;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;1393;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1396;De Ronde Venen;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;2135;Haarlemmermeer;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;0;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;19;23;29;19;20;18;14;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;1904;Stichtse Vecht;3634;Stichtse Vecht;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3645;De Ronde Venen;03YM;00;KBs St. Ludgerus;3632EA;LOENEN AAN DE VECHT;Utrecht;Bo;Rooms-Katholiek;70002;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3471;Woerden;04AJ;00;t Kockenest;3628BW;KOCKENGEN;Utrecht;Bo;Algemeen bijzonder;70033;0;2;1;2;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;04AJ;00;t Kockenest;3628BW;KOCKENGEN;Utrecht;Bo;Algemeen bijzonder;70033;0;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;04AJ;00;t Kockenest;3628BW;KOCKENGEN;Utrecht;Bo;Algemeen bijzonder;70033;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;04AJ;00;t Kockenest;3628BW;KOCKENGEN;Utrecht;Bo;Algemeen bijzonder;70033;0;7;11;10;14;9;9;11;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;1904;Stichtse Vecht;3648;De Ronde Venen;04AJ;00;t Kockenest;3628BW;KOCKENGEN;Utrecht;Bo;Algemeen bijzonder;70033;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3448;Woerden;05MT;00;PC Bs De Schepershoek;3621JK;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;05MT;00;PC Bs De Schepershoek;3621JK;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;22;21;20;24;19;21;13;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;05MT;00;PC Bs De Schepershoek;3621JK;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;05MT;00;PC Bs De Schepershoek;3621JK;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;05MT;00;PC Bs De Schepershoek;3621JK;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;1231;Wijdemeren;05QP;00;Basisschool Podium;3632BT;LOENEN AAN DE VECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1393;Stichtse Vecht;05QP;00;Basisschool Podium;3632BT;LOENEN AAN DE VECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;05QP;00;Basisschool Podium;3632BT;LOENEN AAN DE VECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;2;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;05QP;00;Basisschool Podium;3632BT;LOENEN AAN DE VECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;05QP;00;Basisschool Podium;3632BT;LOENEN AAN DE VECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;6;10;12;11;9;7;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;1904;Stichtse Vecht;1396;De Ronde Venen;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;3;5;5;3;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;6;5;8;3;15;8;10;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;1;2;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3641;De Ronde Venen;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3645;De Ronde Venen;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3648;De Ronde Venen;05RG;00;School Met De Bijbel;3626AV;NIEUWER TER AA;Utrecht;Bo;Reformatorisch;41534;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;1071;Amsterdam;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1104;Amsterdam;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1381;Weesp;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;1391;De Ronde Venen;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1393;Stichtse Vecht;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;9;17;5;12;8;6;11;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;1904;Stichtse Vecht;1406;Gooise Meren;05RK;00;Basisschool De Flambouw;1393PT;NIGTEVECHT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1016;Amsterdam;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1191;Ouder-Amstel;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1391;De Ronde Venen;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;1394;Wijdemeren;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1396;De Ronde Venen;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;5;3;3;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3633;Stichtse Vecht;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;2;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1904;Stichtse Vecht;3634;Stichtse Vecht;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;2;2;2;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1904;Stichtse Vecht;3645;De Ronde Venen;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;8521;De Fryske Marren;05VO;01;Montess BS Pallas Athene;3634AS;LOENERSLOOT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3436;Nieuwegein;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;25;19;26;18;23;27;17;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;1904;Stichtse Vecht;3625;Wijdemeren;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;06CO;00;Basisschool De Regenboog;3621WS;BREUKELEN UT;Utrecht;Bo;Openbaar;41844;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3454;Utrecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3455;Utrecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3544;Utrecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3566;Utrecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;6;9;8;8;6;2;10;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;14;11;9;13;7;6;6;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;06PB;00;KBs Van Doorn;3628BW;KOCKENGEN;Utrecht;Bo;Rooms-Katholiek;70033;0;0;0;0;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1904;Stichtse Vecht;1393;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;14;13;22;22;16;29;13;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3645;De Ronde Venen;07XQ;00;CNS De Bijenschans;3621BA;BREUKELEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3471;Woerden;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3481;Woerden;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3626;Stichtse Vecht;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3628;Stichtse Vecht;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;19;14;20;23;21;25;17;36;1;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;1904;Stichtse Vecht;3648;De Ronde Venen;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;8805;Franekeradeel;07ZL;00;Basissch De Wegwijzer;3628BG;KOCKENGEN;Utrecht;Bo;Protestants-Christelijk;87205;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1214;Hilversum;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1231;Wijdemeren;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3631;Stichtse Vecht;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;1;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;17;17;27;31;35;18;32;27;4;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;1904;Stichtse Vecht;3633;Stichtse Vecht;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3634;Stichtse Vecht;10BE;00;Graaf Florisschool;3632BP;LOENEN AAN DE VECHT;Utrecht;Bo;Openbaar;41376;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;1273;Huizen;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3553;Utrecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3564;Utrecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;17;37;40;33;31;29;23;32;3;0;0;0;0;0;0;0;0;0;0;0;0;0;245
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;3;1;3;3;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3754;Bunschoten;10MX;00;Chr Bs De Klaroen;3601TJ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;10MX;01;Chr Bs De Klaroen;3612BH;TIENHOVEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;10MX;01;Chr Bs De Klaroen;3612BH;TIENHOVEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;5;9;10;5;7;9;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;1904;Stichtse Vecht;3615;De Bilt;10MX;01;Chr Bs De Klaroen;3612BH;TIENHOVEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3625;Wijdemeren;10MX;01;Chr Bs De Klaroen;3612BH;TIENHOVEN UT;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3431;Nieuwegein;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3451;Utrecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3452;Utrecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3551;Utrecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3561;Utrecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;8;8;8;5;9;5;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;39;38;27;30;34;37;27;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;258
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3737;De Bilt;11QB;00;Franciscusschool;3607NZ;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3442;Woerden;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3445;Woerden;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3451;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3452;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3453;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3526;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3527;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3542;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3543;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3555;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3562;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3563;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3566;Utrecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;5;4;3;2;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1904;Stichtse Vecht;3606;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;20;17;11;18;21;15;18;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;9;7;15;8;9;7;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;12AE;00;Ten Boom Basisschool;3607CH;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3401;IJsselstein;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3552;Utrecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;17;19;21;15;16;13;19;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;6;7;6;10;13;14;12;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;14;8;14;15;11;12;14;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;16;16;15;14;13;15;10;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3611;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;2;1;4;2;4;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3615;De Bilt;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;12AY;00;De Pionier;3601BM;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1411;Gooise Meren;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3451;Utrecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3481;Woerden;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3543;Utrecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3555;Utrecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3564;Utrecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;9;7;7;4;9;6;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;22;26;22;19;13;16;23;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3769;Soest;12JL;00;CNS Basissch J.C. vd Wal;3607NZ;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3454;Utrecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3455;Utrecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3552;Utrecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;3;3;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;5;1;7;6;6;1;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;20;18;17;21;25;15;20;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;4701;Roosendaal;12SR;00;De Wilde Wingerd;3608TK;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1018;Amsterdam;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3454;Utrecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3554;Utrecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;19;13;13;14;16;9;14;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;13;15;25;15;17;11;14;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3762;Soest;12ZG;00;Basisschool de Kameleon;3607BL;MAARSSEN;Utrecht;Bo;Rooms-Katholiek;52131;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;13MO;00;WereldKidz Triangel;3607NZ;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;13MO;00;WereldKidz Triangel;3607NZ;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;8;4;5;1;3;3;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;13MO;00;WereldKidz Triangel;3607NZ;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;19;11;16;8;7;9;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;13MO;00;WereldKidz Triangel;3607NZ;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1904;Stichtse Vecht;3632;Stichtse Vecht;13MO;00;WereldKidz Triangel;3607NZ;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;  30;ander land;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3436;Nieuwegein;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3451;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;3;1;3;4;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1904;Stichtse Vecht;3452;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;2;2;0;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1904;Stichtse Vecht;3453;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3454;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3455;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3514;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3532;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3543;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;3;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1904;Stichtse Vecht;3544;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;2;3;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1904;Stichtse Vecht;3551;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3555;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3563;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3564;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3571;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3573;Utrecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;1;3;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;6;8;5;3;5;3;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;34;41;47;36;45;40;41;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;313
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;3;5;5;8;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;3;2;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1904;Stichtse Vecht;3633;Stichtse Vecht;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1904;Stichtse Vecht;3721;De Bilt;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3723;De Bilt;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3958;Utrechtse Heuvelrug;13YR;00;WereldKidz Tweesprong;3607CH;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1381;Weesp;18GF;00;De Tweemaster;1393PT;NIGTEVECHT;Utrecht;Bo;Openbaar;41376;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1383;Weesp;18GF;00;De Tweemaster;1393PT;NIGTEVECHT;Utrecht;Bo;Openbaar;41376;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;1393;Stichtse Vecht;18GF;00;De Tweemaster;1393PT;NIGTEVECHT;Utrecht;Bo;Openbaar;41376;0;4;4;12;11;7;10;11;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;1904;Stichtse Vecht;3527;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3532;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3544;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3553;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3554;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;3;4;4;7;4;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1904;Stichtse Vecht;3562;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3563;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3564;Utrecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;2;2;4;9;3;1;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;9;9;11;7;14;11;8;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;3;15;9;10;11;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3611;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;2;1;4;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;3;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3994;Houten;23EW;00;WereldKidz Palet;3602ZK;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3452;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3543;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3544;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;6;5;3;5;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1904;Stichtse Vecht;3563;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3564;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3581;Utrecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;5;12;6;9;7;4;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;11;10;18;11;15;14;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;9;17;12;11;9;10;9;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;17;18;9;15;14;8;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;3;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1904;Stichtse Vecht;3608;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3611;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;1;0;3;3;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3723;De Bilt;23EX;00;Het Kompas;3602ZK;MAARSSEN;Utrecht;Bo;Protestants-Christelijk;41138;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;  30;ander land;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;1215;Hilversum;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3401;IJsselstein;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3451;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3542;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3543;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3544;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3555;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1904;Stichtse Vecht;3571;Utrecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1904;Stichtse Vecht;3601;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;3;6;4;6;9;10;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1904;Stichtse Vecht;3602;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1904;Stichtse Vecht;3603;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;12;16;6;18;12;18;14;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;1904;Stichtse Vecht;3604;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;7;3;13;7;9;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;1904;Stichtse Vecht;3605;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;2;2;2;5;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1904;Stichtse Vecht;3606;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3607;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1904;Stichtse Vecht;3612;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1904;Stichtse Vecht;3621;Stichtse Vecht;31BJ;00;Wereldkidz Bolenstein;3603CN;MAARSSEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

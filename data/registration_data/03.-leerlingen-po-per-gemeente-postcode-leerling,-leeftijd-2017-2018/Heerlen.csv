@@ -1,0 +1,807 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;917;Heerlen;4341;Middelburg;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;5683;Best;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;5953;Beesel;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6114;Echt-Susteren;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6118;Echt-Susteren;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6127;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6129;Stein;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6134;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6135;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;2;2;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6136;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6137;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6151;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6155;Schinnen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6161;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6161;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6162;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6162;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6163;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6164;Sittard-Geleen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6171;Stein;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6176;Beek;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6181;Stein;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6191;Beek;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6211;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6215;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6217;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6217;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6218;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6218;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6221;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6222;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6222;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6224;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6224;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6225;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6226;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6227;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6227;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6228;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6228;Maastricht;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6231;Meerssen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6235;Meerssen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6235;Meerssen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6243;Meerssen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6251;Eijsden-Margraten;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6255;Eijsden-Margraten;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6267;Eijsden-Margraten;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6286;Gulpen-Wittem;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6287;Gulpen-Wittem;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6291;Vaals;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6294;Vaals;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6295;Vaals;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6305;Valkenburg aan de Geul;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6321;Gulpen-Wittem;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6321;Gulpen-Wittem;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6365;Schinnen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;3;1;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6369;Simpelveld;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6369;Simpelveld;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;2;0;1;2;3;3;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6371;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6371;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6372;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6372;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6373;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;4;1;0;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6374;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6374;Landgraaf;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;2;2;1;2;1;1;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6411;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6413;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6413;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6414;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6414;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6415;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6415;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6416;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6416;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6417;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6417;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6418;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6418;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;1;1;2;3;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6419;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6431;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6431;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;2;1;3;0;3;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6432;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6432;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6436;Schinnen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6438;Schinnen;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6441;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6441;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6442;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6442;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6443;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6444;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6446;Brunssum;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;2;1;2;1;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6451;Onderbanken;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6451;Onderbanken;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6461;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6461;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6462;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;3;2;0;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6463;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6463;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6464;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6464;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6465;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6466;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6466;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6467;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6467;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;0;4;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6468;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6471;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;So;Algemeen bijzonder;41821;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6471;Kerkrade;01UO;00;ZMOK School De Buitenhof;6419PJ;HEERLEN;Limburg;Vso;Algemeen bijzonder;41821;0;0;0;0;0;0;0;0;0;3;2;1;1;1;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;  20;Duitsland;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6132;Sittard-Geleen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6191;Beek;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6312;Voerendaal;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6373;Landgraaf;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6413;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;3;5;2;6;4;4;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;917;Heerlen;6414;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;19;14;25;11;17;22;9;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;917;Heerlen;6415;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6416;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6443;Brunssum;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6446;Brunssum;03VC;00;RK Bs St Ger Majella;6414BT;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;3356;Papendrecht;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;5709;Helmond;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6171;Stein;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6412;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;29;14;38;22;22;22;23;19;6;1;0;0;0;0;0;0;0;0;0;0;0;0;196
+20171001;917;Heerlen;6413;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;2;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6414;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6415;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6416;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6418;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6433;Heerlen;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6446;Brunssum;06NS;00;Basisschool De Wegwijzer;6412EN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  20;Duitsland;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6371;Landgraaf;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6413;Heerlen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6416;Heerlen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;19;18;20;23;16;20;24;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;917;Heerlen;6432;Heerlen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;7;7;8;5;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;917;Heerlen;6433;Heerlen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;5;3;4;3;5;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;917;Heerlen;6436;Schinnen;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;3;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6441;Brunssum;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6445;Brunssum;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6446;Brunssum;08MU;00;Basisschool De Regenboog;6431AL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;  10;Belgie;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  30;ander land;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6043;Roermond;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6044;Roermond;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6101;Echt-Susteren;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6114;Echt-Susteren;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6121;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6123;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6131;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6132;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6133;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6134;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6135;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6136;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6137;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6151;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6155;Schinnen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6161;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6162;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6163;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;1;1;0;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;917;Heerlen;6164;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6166;Sittard-Geleen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6171;Stein;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6181;Stein;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6191;Beek;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;2;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6212;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6214;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6215;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6216;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6217;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;1;0;0;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6218;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;1;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6221;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6222;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6224;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6225;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6226;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6227;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6228;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6229;Maastricht;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6231;Meerssen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6235;Meerssen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6245;Eijsden-Margraten;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6262;Eijsden-Margraten;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6265;Eijsden-Margraten;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6267;Eijsden-Margraten;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6269;Eijsden-Margraten;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6287;Gulpen-Wittem;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6291;Vaals;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6325;Valkenburg aan de Geul;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6333;Nuth;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6336;Nuth;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6343;Voerendaal;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6363;Nuth;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6365;Schinnen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6369;Simpelveld;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6371;Landgraaf;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6372;Landgraaf;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6373;Landgraaf;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6374;Landgraaf;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6411;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6412;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;2;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6413;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;6;2;4;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;917;Heerlen;6414;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6415;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;3;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6416;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6418;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6419;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6432;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6433;Heerlen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6436;Schinnen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6438;Schinnen;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6441;Brunssum;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6442;Brunssum;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6443;Brunssum;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6446;Brunssum;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6447;Onderbanken;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6461;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6462;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6463;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6464;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6465;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6466;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;3;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6467;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6469;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6471;Kerkrade;08ZP;04;Mgr. Hanssen Hoensbroek;6432CC;HOENSBROEK;Limburg;So;Rooms-Katholiek;21657;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;5612;Eindhoven;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6413;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;8;3;1;8;5;5;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;917;Heerlen;6414;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;3;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6415;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6418;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;27;25;17;32;17;28;39;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;917;Heerlen;6432;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;2;6;2;3;3;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;917;Heerlen;6433;Heerlen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;8;1;2;1;4;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;917;Heerlen;6436;Schinnen;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6443;Brunssum;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6446;Brunssum;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;3;1;0;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6471;Kerkrade;09LU;00;De Mheyster;6431JL;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  40;Onbekend;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6373;Landgraaf;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6374;Landgraaf;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6413;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;25;30;29;22;22;26;26;35;5;1;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;917;Heerlen;6414;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;2;3;1;0;6;3;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;917;Heerlen;6416;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6418;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6432;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6438;Schinnen;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6451;Onderbanken;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6462;Kerkrade;09ML;00;basisschool Mijn Spoor;6413LZ;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  40;Onbekend;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6413;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6414;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6431;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;6;4;9;8;15;7;10;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;917;Heerlen;6432;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;2;1;3;1;0;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;917;Heerlen;6433;Heerlen;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;3;2;2;1;3;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;917;Heerlen;6446;Brunssum;10GV;00;RK Bo De Voeegelsjtang;6431LW;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  10;Belgie;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  20;Duitsland;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  40;Onbekend;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6162;Sittard-Geleen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6412;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6413;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;21;21;26;26;24;21;20;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;917;Heerlen;6414;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;3;6;10;3;5;7;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;917;Heerlen;6415;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6419;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6432;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6443;Brunssum;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6446;Brunssum;10HF;00;RK BS De Ganzerik;6413GM;HEERLEN;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6343;Voerendaal;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6373;Landgraaf;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6374;Landgraaf;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;4;3;2;4;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;917;Heerlen;6412;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;4;0;4;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;917;Heerlen;6413;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6414;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6415;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6416;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;10;7;6;8;7;5;12;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;917;Heerlen;6417;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;21;18;20;14;11;14;18;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;917;Heerlen;6418;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;12;6;5;6;8;10;7;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;917;Heerlen;6419;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6431;Heerlen;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6464;Kerkrade;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6466;Kerkrade;10HO;00;Basisschool Windekind;6417ES;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;  20;Duitsland;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  30;ander land;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  40;Onbekend;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6176;Beek;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6311;Voerendaal;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6343;Voerendaal;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6365;Schinnen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6372;Landgraaf;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;3;0;3;1;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;917;Heerlen;6373;Landgraaf;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6374;Landgraaf;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6411;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6412;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6413;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6414;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6415;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6416;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6417;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6418;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6419;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;3;5;9;10;7;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;917;Heerlen;6431;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;4;1;4;2;3;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;917;Heerlen;6432;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;17;15;14;14;17;14;14;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;917;Heerlen;6433;Heerlen;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;1;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6441;Brunssum;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6444;Brunssum;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6461;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6462;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6463;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6466;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6467;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6471;Kerkrade;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;9251;Tytsjerksteradiel;11LL;00;Basisschool de Vlieger;6432CP;HOENSBROEK;Limburg;Bo;Rooms-Katholiek;41516;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6413;Heerlen;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6414;Heerlen;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;1;2;5;1;1;3;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;917;Heerlen;6432;Heerlen;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6433;Heerlen;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;27;28;20;27;30;18;20;15;7;0;0;0;0;0;0;0;0;0;0;0;0;0;192
+20171001;917;Heerlen;6445;Brunssum;12OF;00;Bs Hoensbroek-Zuid;6433GJ;HOENSBROEK;Limburg;Bo;Protestants-Christelijk;41516;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6374;Landgraaf;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;7;8;3;6;6;6;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;917;Heerlen;6413;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;16;14;19;12;14;14;14;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;917;Heerlen;6414;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;1;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6415;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6416;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6431;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6432;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6471;Kerkrade;12XQ;00;Frans Postmaschool;6413VV;HEERLEN;Limburg;Bo;Algemeen bijzonder;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6161;Sittard-Geleen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6255;Eijsden-Margraten;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6374;Landgraaf;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;5;2;6;2;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;917;Heerlen;6412;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6413;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6414;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6415;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6416;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6417;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;2;4;2;6;4;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;917;Heerlen;6418;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;2;1;5;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;917;Heerlen;6419;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;20;19;22;15;19;19;23;23;4;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;917;Heerlen;6422;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6466;Kerkrade;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6467;Kerkrade;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6471;Kerkrade;14IY;00;RK Bs Sint Martinus;6419CW;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  30;ander land;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6067;Maasgouw;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6225;Maastricht;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6243;Meerssen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6367;Voerendaal;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6371;Landgraaf;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6372;Landgraaf;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6373;Landgraaf;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6374;Landgraaf;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;14;11;7;8;9;10;13;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;917;Heerlen;6412;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;0;6;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;917;Heerlen;6413;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6414;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6415;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;8;6;8;12;5;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;917;Heerlen;6416;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;7;7;9;12;8;11;11;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;917;Heerlen;6417;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;13;14;16;25;24;26;25;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;917;Heerlen;6418;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;6;3;5;6;7;8;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;917;Heerlen;6419;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;3;3;2;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;917;Heerlen;6431;Heerlen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6436;Schinnen;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6441;Brunssum;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6445;Brunssum;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6451;Onderbanken;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6461;Kerkrade;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6466;Kerkrade;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6467;Kerkrade;14LM;00;RK Bs Sint Tarcisius;6417XH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  20;Duitsland;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6415;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6416;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;1;5;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6417;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6418;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;25;14;32;22;22;25;19;16;5;1;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;917;Heerlen;6419;Heerlen;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6465;Kerkrade;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6466;Kerkrade;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6467;Kerkrade;15VZ;00;RK BS De Windwijzer;6418JA;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;  40;Onbekend;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6225;Maastricht;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6413;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6415;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6416;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;25;10;12;12;13;14;9;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;917;Heerlen;6417;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6418;Heerlen;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6466;Kerkrade;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6467;Kerkrade;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6471;Kerkrade;15YD;00;Broederschool;6416CC;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;  40;Onbekend;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;2803;Gouda;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;2806;Gouda;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6374;Landgraaf;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;11;13;12;17;12;11;9;16;5;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;917;Heerlen;6412;Heerlen;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6415;Heerlen;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6419;Heerlen;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;16DE;00;RK BS Eikenderveld;6411TN;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6372;Landgraaf;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6373;Landgraaf;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;2;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6412;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;22;26;21;17;28;17;24;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;917;Heerlen;6413;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6414;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;2;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6415;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;4;3;9;5;6;4;8;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;917;Heerlen;6416;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6418;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6432;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6467;Kerkrade;16EO;00;RK BS De Horizon;6412BH;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6006;Weert;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6163;Sittard-Geleen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6343;Voerendaal;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6361;Nuth;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6411;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6413;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;8;9;7;9;12;4;7;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;917;Heerlen;6414;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;3;0;3;1;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;917;Heerlen;6415;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;1;1;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6433;Heerlen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6436;Schinnen;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6441;Brunssum;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;16FU;00;RK Basissch St Paulus;6413RR;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;1945;Beverwijk;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6371;Landgraaf;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6373;Landgraaf;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6374;Landgraaf;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6413;Heerlen;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;1;2;2;3;2;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;917;Heerlen;6414;Heerlen;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;24;16;36;21;26;20;27;27;4;0;0;0;0;0;0;0;0;0;0;0;0;0;201
+20171001;917;Heerlen;6431;Heerlen;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6442;Brunssum;16HE;00;RK BS De Schakel;6414GG;HEERLEN;Limburg;Bo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  30;ander land;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6063;Roerdalen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6351;Simpelveld;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6369;Simpelveld;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6411;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;1;2;3;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;917;Heerlen;6412;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;2;4;1;1;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;917;Heerlen;6413;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;1;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6414;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6415;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;2;3;1;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;917;Heerlen;6416;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;2;10;1;3;5;6;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;917;Heerlen;6417;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;11;8;8;5;8;9;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;917;Heerlen;6418;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;17;23;25;22;24;20;22;28;4;0;0;0;0;0;0;0;0;0;0;0;0;0;185
+20171001;917;Heerlen;6419;Heerlen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;3;0;2;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6436;Schinnen;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6462;Kerkrade;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6465;Kerkrade;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6466;Kerkrade;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6467;Kerkrade;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;1;0;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6471;Kerkrade;18MR;00;OBS de Tovercirkel;6418HV;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  10;Belgie;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6371;Landgraaf;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6411;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6412;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;3;1;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6413;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6414;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6415;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;43;30;27;21;23;33;25;24;5;0;0;0;0;0;0;0;0;0;0;0;0;0;231
+20171001;917;Heerlen;6416;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6418;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6431;Heerlen;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6461;Kerkrade;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6462;Kerkrade;18QK;00;OBS de Droomboom;6415CE;HEERLEN;Limburg;Bo;Openbaar;41516;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6135;Sittard-Geleen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6141;Sittard-Geleen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6171;Stein;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6231;Meerssen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6251;Eijsden-Margraten;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6262;Eijsden-Margraten;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6271;Gulpen-Wittem;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6305;Valkenburg aan de Geul;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6311;Voerendaal;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6311;Voerendaal;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6321;Gulpen-Wittem;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6325;Valkenburg aan de Geul;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6333;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6333;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6343;Voerendaal;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6361;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6367;Voerendaal;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6369;Simpelveld;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6369;Simpelveld;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6371;Landgraaf;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6373;Landgraaf;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6374;Landgraaf;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6374;Landgraaf;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6411;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6411;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6412;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;2;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6412;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6413;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6413;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6414;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6414;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6415;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6415;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6416;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6416;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6417;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6418;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6418;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6431;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6431;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6432;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6433;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6433;Heerlen;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6442;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6442;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6443;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6443;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6445;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6446;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6446;Brunssum;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6447;Onderbanken;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6451;Onderbanken;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6461;Kerkrade;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6462;Kerkrade;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6463;Kerkrade;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6464;Kerkrade;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6464;Kerkrade;20IF;00;SO VSO Catharina;6419CP;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  10;Belgie;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  40;Onbekend;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6171;Stein;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6311;Voerendaal;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6343;Voerendaal;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;1;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6351;Simpelveld;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6363;Nuth;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6367;Voerendaal;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;2;1;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6369;Simpelveld;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;2;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6371;Landgraaf;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6372;Landgraaf;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6373;Landgraaf;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6374;Landgraaf;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6411;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6412;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;2;1;1;5;5;1;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;917;Heerlen;6413;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;2;4;6;5;4;6;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;917;Heerlen;6414;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;3;3;5;2;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;917;Heerlen;6415;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;4;3;1;2;3;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;917;Heerlen;6416;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;3;1;2;0;1;4;2;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;917;Heerlen;6417;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6418;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6419;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6431;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;1;1;4;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6432;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6433;Heerlen;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;1;0;2;0;4;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;917;Heerlen;6444;Brunssum;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6466;Kerkrade;20KL;00;RK SSBO de Griffel;6415SB;HEERLEN;Limburg;Sbo;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  20;Duitsland;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6093;Leudal;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6127;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6132;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6133;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6134;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6135;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6135;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6136;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6137;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6141;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6163;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6163;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6164;Sittard-Geleen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6215;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6221;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6222;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6224;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6226;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6229;Maastricht;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6231;Meerssen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6235;Meerssen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6241;Meerssen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6262;Eijsden-Margraten;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6271;Gulpen-Wittem;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6281;Gulpen-Wittem;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6286;Gulpen-Wittem;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6287;Gulpen-Wittem;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6291;Vaals;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6291;Vaals;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6294;Vaals;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6321;Gulpen-Wittem;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6333;Nuth;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6336;Nuth;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6336;Nuth;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6351;Simpelveld;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6351;Simpelveld;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6361;Nuth;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6361;Nuth;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6367;Voerendaal;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6367;Voerendaal;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6369;Simpelveld;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;1;0;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6369;Simpelveld;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;3;2;1;3;1;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6371;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6371;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6372;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6372;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6373;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;1;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6373;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6374;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;1;1;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6374;Landgraaf;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6411;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6411;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6412;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;1;1;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6412;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;2;2;2;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6413;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;3;2;5;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;917;Heerlen;6413;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;2;3;4;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6414;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;1;1;2;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6414;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;2;3;1;1;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6415;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;1;1;1;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;6415;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;5;3;3;0;1;0;0;0;0;0;0;0;0;12
+20171001;917;Heerlen;6416;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6416;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6417;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6417;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6418;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;1;1;3;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6418;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6419;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6431;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;2;0;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6431;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;3;2;2;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6432;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;2;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6432;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6433;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;2;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6433;Heerlen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;0;2;1;2;1;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6436;Schinnen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6436;Schinnen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6438;Schinnen;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6441;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6441;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6442;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6442;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6443;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6443;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6444;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6444;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6445;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6445;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6446;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6446;Brunssum;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6447;Onderbanken;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6451;Onderbanken;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6451;Onderbanken;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;1;2;0;2;2;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6461;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6461;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6462;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6462;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6463;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6463;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6464;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6464;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6465;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6466;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6466;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6467;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6467;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6471;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;So;Rooms-Katholiek;41506;0;0;0;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6471;Kerkrade;21SG;00;SO VSO De Pyler;6412VK;HEERLEN;Limburg;Vso;Rooms-Katholiek;41506;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;  10;Belgie;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;  20;Duitsland;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6191;Beek;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6269;Eijsden-Margraten;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6286;Gulpen-Wittem;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6301;Valkenburg aan de Geul;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6333;Nuth;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6343;Voerendaal;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6351;Simpelveld;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6361;Nuth;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6367;Voerendaal;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6369;Simpelveld;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;3;0;4;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;917;Heerlen;6371;Landgraaf;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6372;Landgraaf;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6373;Landgraaf;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;2;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6374;Landgraaf;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6411;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;2;2;0;2;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;917;Heerlen;6412;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;1;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;917;Heerlen;6413;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6414;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6415;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;3;1;3;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;917;Heerlen;6416;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;3;3;6;3;4;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;917;Heerlen;6417;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;2;1;2;0;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;917;Heerlen;6418;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6419;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6422;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6431;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6432;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6442;Brunssum;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6446;Brunssum;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6451;Onderbanken;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6461;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6462;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6465;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6466;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;0;1;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6467;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;1;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6471;Kerkrade;22NL;00;Vrijeschool Helianthus;6416CC;HEERLEN;Limburg;Bo;Antroposofisch;41246;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;  10;Belgie;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;4;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;917;Heerlen;  20;Duitsland;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;2;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;  30;ander land;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6134;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6136;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6137;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6163;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;2;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;917;Heerlen;6164;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6166;Sittard-Geleen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;917;Heerlen;6171;Stein;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6287;Gulpen-Wittem;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6367;Voerendaal;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6369;Simpelveld;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6371;Landgraaf;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6372;Landgraaf;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6374;Landgraaf;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6411;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6412;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;6;2;2;4;2;2;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;917;Heerlen;6413;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;2;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6414;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;2;2;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;917;Heerlen;6415;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;2;2;4;3;5;5;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;917;Heerlen;6416;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;3;4;0;1;3;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;917;Heerlen;6418;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;2;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;917;Heerlen;6431;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6432;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6433;Heerlen;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6441;Brunssum;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6442;Brunssum;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6443;Brunssum;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6444;Brunssum;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6446;Brunssum;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;917;Heerlen;6461;Kerkrade;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6462;Kerkrade;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;917;Heerlen;6463;Kerkrade;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;917;Heerlen;6464;Kerkrade;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;917;Heerlen;6466;Kerkrade;24UE;00;El Wahda;6416AJ;HEERLEN;Limburg;Bo;Islamitisch;40307;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

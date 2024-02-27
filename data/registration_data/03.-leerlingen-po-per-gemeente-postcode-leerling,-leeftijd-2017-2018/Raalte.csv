@@ -1,0 +1,175 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;177;Raalte;8131;Olst-Wijhe;03TX;00;Basisschool St Nicolaas;8144RG;LIERDERHOLTHUIS;Overijssel;Bo;Rooms-Katholiek;40888;0;0;1;0;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;177;Raalte;8141;Raalte;03TX;00;Basisschool St Nicolaas;8144RG;LIERDERHOLTHUIS;Overijssel;Bo;Rooms-Katholiek;40888;0;1;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;177;Raalte;8144;Raalte;03TX;00;Basisschool St Nicolaas;8144RG;LIERDERHOLTHUIS;Overijssel;Bo;Rooms-Katholiek;40888;0;3;8;3;4;6;3;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;177;Raalte;8102;Raalte;03YN;00;Sint Bernadette;8111PK;HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8111;Raalte;03YN;00;Sint Bernadette;8111PK;HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;31;42;25;30;34;27;33;34;3;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;177;Raalte;8112;Raalte;03YN;00;Sint Bernadette;8111PK;HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;1;1;1;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;177;Raalte;7722;Dalfsen;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8055;Raalte;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8101;Raalte;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;177;Raalte;8102;Raalte;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8131;Olst-Wijhe;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;2;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;177;Raalte;8141;Raalte;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;20;23;25;22;33;39;36;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;223
+20171001;177;Raalte;8144;Raalte;05HL;00;De Dolfijn;8141BP;HEINO;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8055;Raalte;05KT;00;Basissch De Gouden Emmer;8141BP;HEINO;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8102;Raalte;05KT;00;Basissch De Gouden Emmer;8141BP;HEINO;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8141;Raalte;05KT;00;Basissch De Gouden Emmer;8141BP;HEINO;Overijssel;Bo;Protestants-Christelijk;40894;0;10;9;16;3;19;16;17;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;177;Raalte;8144;Raalte;05KT;00;Basissch De Gouden Emmer;8141BP;HEINO;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7425;Deventer;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7511;Enschede;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8055;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8101;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;3;1;4;3;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;177;Raalte;8102;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;10;8;6;6;7;1;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;177;Raalte;8103;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8107;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8111;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8121;Olst-Wijhe;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8131;Olst-Wijhe;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8141;Raalte;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8148;Ommen;05SL;00;Basisschool Oostenwind;8102AM;RAALTE;Overijssel;Bo;Protestants-Christelijk;40894;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;6701;Wageningen;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7631;Dinkelland;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7722;Dalfsen;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;177;Raalte;8055;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8101;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;2;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;177;Raalte;8102;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8103;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8131;Olst-Wijhe;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8141;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;24;21;30;14;19;28;19;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;177;Raalte;8144;Raalte;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8152;Dalfsen;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8154;Dalfsen;05XW;00;Obs Bredeschool De Springplank;8141ET;HEINO;Overijssel;Bo;Openbaar;41491;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7448;Hellendoorn;06JY;00;Sint Antonius;8106AC;MARIENHEEM;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8106;Raalte;06JY;00;Sint Antonius;8106AC;MARIENHEEM;Overijssel;Bo;Rooms-Katholiek;40894;0;13;9;9;14;12;18;14;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;177;Raalte;7433;Deventer;06QI;00;Sint Jozefschool;8112AD;NIEUW HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7448;Hellendoorn;06QI;00;Sint Jozefschool;8112AD;NIEUW HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;0;2;1;2;1;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;177;Raalte;7451;Rijssen-Holten;06QI;00;Sint Jozefschool;8112AD;NIEUW HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;177;Raalte;8111;Raalte;06QI;00;Sint Jozefschool;8112AD;NIEUW HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8112;Raalte;06QI;00;Sint Jozefschool;8112AD;NIEUW HEETEN;Overijssel;Bo;Rooms-Katholiek;40894;0;7;10;9;2;7;10;5;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;177;Raalte;7411;Deventer;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7442;Hellendoorn;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7447;Hellendoorn;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7448;Hellendoorn;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7731;Ommen;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8102;Raalte;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8105;Raalte;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;19;15;21;20;25;19;23;33;6;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;177;Raalte;8106;Raalte;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8153;Dalfsen;06TN;00;Basisschool Esmoreit;8105AA;LUTTENBERG;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;06ZT;00;Gerardus Majellaschool;8107AG;BROEKLAND OV;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;177;Raalte;8107;Raalte;06ZT;00;Gerardus Majellaschool;8107AG;BROEKLAND OV;Overijssel;Bo;Rooms-Katholiek;40894;0;11;15;6;5;14;6;19;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;177;Raalte;8121;Olst-Wijhe;06ZT;00;Gerardus Majellaschool;8107AG;BROEKLAND OV;Overijssel;Bo;Rooms-Katholiek;40894;0;2;1;2;1;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;177;Raalte;8124;Olst-Wijhe;06ZT;00;Gerardus Majellaschool;8107AG;BROEKLAND OV;Overijssel;Bo;Rooms-Katholiek;40894;0;1;2;1;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;177;Raalte;8131;Olst-Wijhe;06ZT;00;Gerardus Majellaschool;8107AG;BROEKLAND OV;Overijssel;Bo;Rooms-Katholiek;40894;0;3;5;6;4;7;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;177;Raalte;8101;Raalte;08NB;00;Basisschool De Bolster;8102JH;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;11;9;11;11;11;7;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;177;Raalte;8102;Raalte;08NB;00;Basisschool De Bolster;8102JH;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;28;28;28;34;34;37;29;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;241
+20171001;177;Raalte;8103;Raalte;08NB;00;Basisschool De Bolster;8102JH;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;177;Raalte;8105;Raalte;08NB;00;Basisschool De Bolster;8102JH;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8121;Olst-Wijhe;08NB;00;Basisschool De Bolster;8102JH;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;25;29;28;46;35;35;40;37;4;0;0;0;0;0;0;0;0;0;0;0;0;0;279
+20171001;177;Raalte;8102;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;6;3;4;6;4;12;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;177;Raalte;8103;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;177;Raalte;8105;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8106;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8107;Raalte;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;1;1;1;2;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;177;Raalte;8121;Olst-Wijhe;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8131;Olst-Wijhe;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;2;1;0;1;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;177;Raalte;9732;Groningen;10XS;00;RK Bs de Korenbloem;8101EN;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8101;Raalte;12GH;00;RK Basissch de Rietkraag;8103BM;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8102;Raalte;12GH;00;RK Basissch de Rietkraag;8103BM;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;1;2;2;5;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;177;Raalte;8103;Raalte;12GH;00;RK Basissch de Rietkraag;8103BM;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;14;23;18;19;22;17;21;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;177;Raalte;8106;Raalte;12GH;00;RK Basissch de Rietkraag;8103BM;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8111;Raalte;12GH;00;RK Basissch de Rietkraag;8103BM;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7722;Dalfsen;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;177;Raalte;8013;Zwolle;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8015;Zwolle;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8033;Zwolle;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8055;Raalte;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;4;0;3;4;4;8;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;177;Raalte;8102;Raalte;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8131;Olst-Wijhe;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8141;Raalte;15BU;00;Chr Basisschool;8055PT;LAAG ZUTHEM;Overijssel;Bo;Protestants-Christelijk;41861;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7442;Hellendoorn;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7448;Hellendoorn;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8014;Zwolle;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;1;6;4;3;3;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;177;Raalte;8102;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;7;7;7;7;5;11;3;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;177;Raalte;8103;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;24;28;23;25;24;15;16;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;177;Raalte;8105;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8106;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8111;Raalte;18MT;00;Obs De Vogelaar;8103EA;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;18PJ;00;Brede School Kwintijn;8101EK;RAALTE;Overijssel;Bo;Openbaar;41491;0;9;14;5;12;6;6;5;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;177;Raalte;8102;Raalte;18PJ;00;Brede School Kwintijn;8101EK;RAALTE;Overijssel;Bo;Openbaar;41491;0;8;4;5;2;6;4;8;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;177;Raalte;8103;Raalte;18PJ;00;Brede School Kwintijn;8101EK;RAALTE;Overijssel;Bo;Openbaar;41491;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8111;Raalte;18PJ;00;Brede School Kwintijn;8101EK;RAALTE;Overijssel;Bo;Openbaar;41491;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;7414;Deventer;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7433;Deventer;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7434;Deventer;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7442;Hellendoorn;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7447;Hellendoorn;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8015;Zwolle;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8021;Zwolle;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;1;3;2;1;2;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;177;Raalte;8102;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;2;3;1;0;1;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;177;Raalte;8103;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;1;1;1;2;4;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;177;Raalte;8105;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8106;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8107;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8111;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;2;1;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;177;Raalte;8112;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8121;Olst-Wijhe;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;1;1;0;2;3;6;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;177;Raalte;8131;Olst-Wijhe;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;2;3;0;1;5;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;177;Raalte;8141;Raalte;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;1;1;3;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;177;Raalte;8151;Dalfsen;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8152;Dalfsen;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8153;Dalfsen;20AH;00;SBO De Horizon;8102AK;RAALTE;Overijssel;Sbo;Rooms-Katholiek;40894;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7413;Deventer;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;2;1;1;2;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;177;Raalte;8102;Raalte;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;6;10;5;4;10;3;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;177;Raalte;8103;Raalte;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;32;35;33;32;34;39;29;30;4;0;0;0;0;0;0;0;0;0;0;0;0;0;268
+20171001;177;Raalte;8106;Raalte;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8141;Raalte;24MB;00;De Linderte;8103HX;RAALTE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7416;Deventer;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7425;Deventer;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7434;Deventer;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7441;Hellendoorn;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7442;Hellendoorn;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7443;Hellendoorn;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7448;Hellendoorn;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7448;Hellendoorn;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;7451;Rijssen-Holten;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;2
+20171001;177;Raalte;7721;Dalfsen;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;7722;Dalfsen;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8014;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8014;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8015;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;177;Raalte;8016;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8017;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8019;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8021;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8022;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8032;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8042;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8043;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8043;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8044;Zwolle;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8051;Hattem;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8052;Hattem;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8101;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8101;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;4
+20171001;177;Raalte;8102;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;1;0;0;2;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;177;Raalte;8102;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8103;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8103;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;1;2;1;3;0;1;1;0;0;0;0;0;0;0;9
+20171001;177;Raalte;8105;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8105;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8106;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8111;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8111;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;177;Raalte;8112;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8121;Olst-Wijhe;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8131;Olst-Wijhe;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;1;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;177;Raalte;8131;Olst-Wijhe;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8141;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;177;Raalte;8141;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;177;Raalte;8144;Raalte;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;Vso;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;177;Raalte;8152;Dalfsen;26NR;00;SO de Zonnehof / VSO Hofplein;8101ZW;RAALTE;Overijssel;So;Rooms-Katholiek;40894;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

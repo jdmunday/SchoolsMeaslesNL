@@ -1,0 +1,344 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;441;Schagen;1601;Enkhuizen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1602;Enkhuizen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1613;Stede Broec;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1619;Medemblik;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1622;Hoorn;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1623;Hoorn;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1654;Medemblik;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1655;Medemblik;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1671;Medemblik;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1687;Medemblik;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1703;Heerhugowaard;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1711;Koggenland;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1713;Koggenland;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1718;Opmeer;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1721;Langedijk;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1731;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1733;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1735;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;0;0;1;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1742;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1744;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1746;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1747;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1751;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1753;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1756;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1757;Schagen;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1761;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;1;2;1;0;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;441;Schagen;1764;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1767;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1771;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1774;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1775;Hollands Kroon;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1783;Den Helder;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1784;Den Helder;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1788;Den Helder;00RL;11;Antoniusschool;1742AB;SCHAGEN;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1744;Schagen;03CV;00;De Zwerm;1744KJ;SINT MAARTEN;Noord-Holland;Bo;Openbaar;41438;0;6;6;8;12;7;13;10;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;441;Schagen;1752;Schagen;03CV;00;De Zwerm;1744KJ;SINT MAARTEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1744;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1747;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1751;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1752;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1754;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;4;7;6;7;4;10;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;441;Schagen;1755;Schagen;03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1862;Bergen (NH.);03VV;00;Sint Joseph-School;1754JJ;BURGERBRUG;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1733;Hollands Kroon;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1738;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1744;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;3;2;2;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;441;Schagen;1746;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;2;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;441;Schagen;1747;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;42;41;42;55;43;43;34;27;6;1;0;0;0;0;0;0;0;0;0;0;0;0;334
+20171001;441;Schagen;1749;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1751;Schagen;05BH;00;St Barbara;1747HA;TUITJENHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1703;Heerhugowaard;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1704;Heerhugowaard;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1723;Langedijk;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1724;Langedijk;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1735;Hollands Kroon;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1736;Hollands Kroon;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1738;Schagen;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;18;20;28;20;18;25;29;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;441;Schagen;1742;Schagen;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1747;Schagen;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;05BI;00;Basisschool Sint Jan;1738BT;WAARLAND;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1744;Schagen;07AR;00;Basisschool De Regenboog;1744GL;SINT MAARTEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;2;3;2;4;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;441;Schagen;1746;Schagen;07AR;00;Basisschool De Regenboog;1744GL;SINT MAARTEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;1;2;2;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;441;Schagen;1747;Schagen;07AR;00;Basisschool De Regenboog;1744GL;SINT MAARTEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;1;1;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1749;Schagen;07AR;00;Basisschool De Regenboog;1744GL;SINT MAARTEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1753;Schagen;07AR;00;Basisschool De Regenboog;1744GL;SINT MAARTEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1736;Hollands Kroon;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;1;1;0;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;441;Schagen;1742;Schagen;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;21;22;24;28;27;20;27;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;441;Schagen;1744;Schagen;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;1;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;441;Schagen;1749;Schagen;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1768;Hollands Kroon;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1769;Hollands Kroon;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;3141;Maassluis;07VO;00;Basisschool De Vogelweid;1742JM;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1732;Hollands Kroon;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;29;34;44;49;46;39;43;35;1;0;0;0;0;0;0;0;0;0;0;0;0;0;320
+20171001;441;Schagen;1742;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;3;11;8;6;8;12;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;441;Schagen;1746;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1747;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;1;2;1;2;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;441;Schagen;1753;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1756;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1757;Schagen;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1764;Hollands Kroon;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1768;Hollands Kroon;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1782;Den Helder;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1788;Den Helder;09AO;00;St Aloysius;1741HB;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1744;Schagen;09QG;00;Basisschool de Doorbraak;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1746;Schagen;09QG;00;Basisschool de Doorbraak;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1747;Schagen;09QG;00;Basisschool de Doorbraak;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;2;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;441;Schagen;1749;Schagen;09QG;00;Basisschool de Doorbraak;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;21;26;35;34;24;38;34;32;1;0;0;0;0;0;0;0;0;0;0;0;0;0;245
+20171001;441;Schagen;1723;Langedijk;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1741;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;11;12;15;14;14;10;11;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;441;Schagen;1742;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;6;7;6;6;11;12;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;441;Schagen;1744;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;3;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1756;Schagen;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1766;Hollands Kroon;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1768;Hollands Kroon;10HN;00;De Ark;1741JP;SCHAGEN;Noord-Holland;Bo;Protestants-Christelijk;79874;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1733;Hollands Kroon;10PX;00;De Rank;1741TG;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1741;Schagen;10PX;00;De Rank;1741TG;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;24;25;32;29;38;34;32;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;239
+20171001;441;Schagen;1742;Schagen;10PX;00;De Rank;1741TG;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;1;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1757;Schagen;10PX;00;De Rank;1741TG;SCHAGEN;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;  30;ander land;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1731;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1733;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1734;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1735;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1738;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;2;4;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;441;Schagen;1742;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;1;1;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;441;Schagen;1746;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1747;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1749;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;2;1;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1751;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1752;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1755;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1756;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1757;Schagen;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1761;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;2;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1764;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1766;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;1;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1768;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1771;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1773;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1774;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1775;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1777;Hollands Kroon;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1781;Den Helder;11HX;00;SSBO De Tender;1742AB;SCHAGEN;Noord-Holland;Sbo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;  40;Onbekend;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1724;Langedijk;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1731;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1732;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1738;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;23;21;26;27;22;28;17;16;6;0;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;441;Schagen;1742;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;13;13;13;5;14;10;17;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;441;Schagen;1744;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;1;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1749;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;3;0;1;1;4;3;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;441;Schagen;1757;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;2;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1759;Schagen;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1761;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1768;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;4;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;441;Schagen;1769;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1778;Hollands Kroon;11TR;00;Julianaschool;1741CL;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1704;Heerhugowaard;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1732;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1733;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1734;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1735;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;2;1;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;441;Schagen;1738;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1741;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;18;9;19;12;14;17;20;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;441;Schagen;1742;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;3;3;0;5;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;441;Schagen;1746;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1751;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1752;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1753;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1754;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1755;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1759;Schagen;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1761;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1766;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1768;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;2;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;441;Schagen;1769;Hollands Kroon;12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;2;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;441;Schagen;1873;Bergen (NH.);12MS;00;De Keerkring;1741WK;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1741;Schagen;12UU;00;Niko Tinbergen;1742AC;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;1;2;2;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;441;Schagen;1742;Schagen;12UU;00;Niko Tinbergen;1742AC;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;7;8;10;13;11;11;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;441;Schagen;1744;Schagen;12UU;00;Niko Tinbergen;1742AC;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;1;1;1;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;441;Schagen;1751;Schagen;12UU;00;Niko Tinbergen;1742AC;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1766;Hollands Kroon;12UU;00;Niko Tinbergen;1742AC;SCHAGEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1751;Schagen;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;1;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1753;Schagen;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1756;Schagen;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;17;26;22;27;16;27;25;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;441;Schagen;1757;Schagen;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1759;Schagen;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;2;1;1;0;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;441;Schagen;1764;Hollands Kroon;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1766;Hollands Kroon;15CY;00;Basisschool Sint Jozef;1756BB;'T ZAND NH;Noord-Holland;Bo;Rooms-Katholiek;55238;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;18EK;00;OBS Frankendael;1759VJ;CALLANTSOOG;Noord-Holland;Bo;Openbaar;41438;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1759;Schagen;18EK;00;OBS Frankendael;1759VJ;CALLANTSOOG;Noord-Holland;Bo;Openbaar;41438;0;9;10;11;13;9;20;13;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;441;Schagen;1722;Langedijk;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1738;Schagen;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1746;Schagen;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1747;Schagen;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;0;4;3;1;2;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;441;Schagen;1749;Schagen;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;18;21;34;31;31;32;40;35;2;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;441;Schagen;1755;Schagen;18FI;00;Basissch Torenven;1749AM;WARMENHUIZEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1724;Langedijk;18FN;00;De Meerkoet;1746AP;DIRKSHORN;Noord-Holland;Bo;Openbaar;41438;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1742;Schagen;18FN;00;De Meerkoet;1746AP;DIRKSHORN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1744;Schagen;18FN;00;De Meerkoet;1746AP;DIRKSHORN;Noord-Holland;Bo;Openbaar;41438;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1746;Schagen;18FN;00;De Meerkoet;1746AP;DIRKSHORN;Noord-Holland;Bo;Openbaar;41438;0;4;13;9;10;21;15;22;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;441;Schagen;1747;Schagen;18FN;00;De Meerkoet;1746AP;DIRKSHORN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;  40;Onbekend;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1744;Schagen;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1752;Schagen;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;3;6;7;6;5;9;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;441;Schagen;1753;Schagen;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;1;3;7;1;1;5;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;441;Schagen;1754;Schagen;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1757;Schagen;18OY;00;OBS De Brug;1752AB;SINT MAARTENSBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1742;Schagen;18QC;00;OBS 't Zwanenest;1751CJ;SCHAGERBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1744;Schagen;18QC;00;OBS 't Zwanenest;1751CJ;SCHAGERBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1751;Schagen;18QC;00;OBS 't Zwanenest;1751CJ;SCHAGERBRUG;Noord-Holland;Bo;Openbaar;41438;0;17;12;12;17;12;6;13;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;441;Schagen;1752;Schagen;18QC;00;OBS 't Zwanenest;1751CJ;SCHAGERBRUG;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1749;Schagen;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1752;Schagen;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1753;Schagen;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1754;Schagen;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;2;1;1;1;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;441;Schagen;1755;Schagen;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;11;9;16;22;17;15;15;23;5;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;441;Schagen;1827;Alkmaar;18SE;00;BS De Springschans;1755NE;PETTEN;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1744;Schagen;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1756;Schagen;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;3;8;4;4;9;7;11;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;441;Schagen;1757;Schagen;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;1;1;0;1;1;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;441;Schagen;1759;Schagen;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1761;Hollands Kroon;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1781;Den Helder;18SZ;00;Basisschool Zandhope;1756TZ;'T ZAND NH;Noord-Holland;Bo;Openbaar;41438;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1622;Hoorn;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1633;Koggenland;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1645;Koggenland;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1679;Medemblik;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1689;Hoorn;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1693;Medemblik;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1701;Heerhugowaard;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1702;Heerhugowaard;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1704;Heerhugowaard;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1705;Heerhugowaard;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1706;Heerhugowaard;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1721;Langedijk;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1724;Langedijk;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1733;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1741;Schagen;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;1;3;1;1;6;1;1;1;0;0;0;0;0;16
+20171001;441;Schagen;1742;Schagen;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1744;Schagen;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1747;Schagen;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1761;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1764;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1766;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1774;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1775;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1779;Hollands Kroon;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1781;Den Helder;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1782;Den Helder;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1784;Den Helder;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1785;Den Helder;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1788;Den Helder;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1813;Alkmaar;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1816;Alkmaar;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1825;Alkmaar;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1826;Alkmaar;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1827;Alkmaar;18XY;04;Het Molenduin;1741NA;SCHAGEN;Noord-Holland;Vso;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1486;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1617;Drechterland;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1619;Medemblik;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1622;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1624;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1625;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1628;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1641;Koggenland;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1645;Koggenland;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1655;Medemblik;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1657;Medemblik;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1674;Medemblik;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1687;Medemblik;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1689;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1695;Hoorn;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1697;Drechterland;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1701;Heerhugowaard;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1702;Heerhugowaard;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1703;Heerhugowaard;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1704;Heerhugowaard;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1705;Heerhugowaard;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1713;Koggenland;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1721;Langedijk;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1723;Langedijk;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1731;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1733;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1738;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1742;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1744;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1747;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1751;Schagen;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1761;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1771;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1774;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1775;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1777;Hollands Kroon;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1781;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1782;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;3;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;441;Schagen;1784;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;441;Schagen;1785;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1787;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1788;Den Helder;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;3;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1792;Texel;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1813;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;441;Schagen;1814;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1816;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1817;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1822;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1823;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1824;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1825;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1826;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1827;Alkmaar;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;1;1;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;441;Schagen;1834;Langedijk;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1851;Heiloo;20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1934;Bergen (NH.);20WR;07;Burg. de Wildeschool;1742KM;SCHAGEN;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1611;Stede Broec;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1624;Hoorn;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1628;Hoorn;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1647;Koggenland;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1701;Heerhugowaard;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1702;Heerhugowaard;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1704;Heerhugowaard;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1705;Heerhugowaard;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1713;Koggenland;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1715;Opmeer;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1733;Hollands Kroon;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1742;Schagen;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;441;Schagen;1744;Schagen;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1746;Schagen;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1749;Schagen;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1755;Schagen;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1761;Hollands Kroon;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1764;Hollands Kroon;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1766;Hollands Kroon;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1768;Hollands Kroon;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1781;Den Helder;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1782;Den Helder;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1784;Den Helder;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1785;Den Helder;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1788;Den Helder;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1813;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1822;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1823;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1824;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1831;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1834;Langedijk;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;441;Schagen;1843;Alkmaar;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1871;Bergen (NH.);20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;441;Schagen;1902;Castricum;20WR;08;VierTaal College Schagen;1741MC;SCHAGEN;Noord-Holland;Vso;Openbaar;21679;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1

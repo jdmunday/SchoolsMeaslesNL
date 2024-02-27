@@ -1,0 +1,146 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;262;Lochem;2042;Zandvoort;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;6814;Arnhem;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;6828;Arnhem;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7161;Berkelland;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7206;Zutphen;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;6;7;9;0;0;0;0;0;0;0;0;0;23
+20171001;262;Lochem;7327;Apeldoorn;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7336;Apeldoorn;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7413;Deventer;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7419;Deventer;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7435;Deventer;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8017;Zwolle;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8021;Zwolle;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8172;Epe;01QH;06;Sgm Klein Borculo;7241NB;LOCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;02PQ;00;Intermetzo Onderwijs;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;1;6;8;8;15;17;4;0;0;0;0;0;0;0;59
+20171001;262;Lochem;7522;Enschede;02PQ;00;Intermetzo Onderwijs;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7602;Almelo;02PQ;00;Intermetzo Onderwijs;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7204;Zutphen;02PQ;13;LSG Rentray;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7204;Zutphen;02PQ;16;LSG Rentray;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;02PQ;16;LSG Rentray;7211LC;EEFDE;Gelderland;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;1;2;2;4;0;2;0;0;0;0;0;0;0;11
+20171001;262;Lochem;7241;Lochem;05CP;00;RK Basissch Sint Joseph;7242GV;LOCHEM;Gelderland;Bo;Rooms-Katholiek;42616;0;15;9;11;10;12;15;14;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;262;Lochem;7242;Lochem;05CP;00;RK Basissch Sint Joseph;7242GV;LOCHEM;Gelderland;Bo;Rooms-Katholiek;42616;0;15;18;15;21;10;16;16;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;262;Lochem;7251;Bronckhorst;05CP;00;RK Basissch Sint Joseph;7242GV;LOCHEM;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7218;Lochem;05QJ;00;Pr Willem Alexander Sch;7245AH;LAREN GLD;Gelderland;Bo;Protestants-Christelijk;27067;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;05QJ;00;Pr Willem Alexander Sch;7245AH;LAREN GLD;Gelderland;Bo;Protestants-Christelijk;27067;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;262;Lochem;7242;Lochem;05QJ;00;Pr Willem Alexander Sch;7245AH;LAREN GLD;Gelderland;Bo;Protestants-Christelijk;27067;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7245;Lochem;05QJ;00;Pr Willem Alexander Sch;7245AH;LAREN GLD;Gelderland;Bo;Protestants-Christelijk;27067;0;3;5;6;9;9;11;7;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;262;Lochem;3994;Houten;07IY;00;De Rank;7242KH;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;07IY;00;De Rank;7242KH;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;9;6;7;8;10;11;12;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;262;Lochem;7242;Lochem;07IY;00;De Rank;7242KH;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;12;14;11;15;8;17;5;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;262;Lochem;7201;Zutphen;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7203;Zutphen;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7204;Zutphen;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7207;Zutphen;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;18;19;17;17;15;10;22;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;262;Lochem;7215;Lochem;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7217;Lochem;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7218;Lochem;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7232;Zutphen;07LC;00;De Bargeweide;7211DC;EEFDE;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;08UW;00;Prins Hendrik;7241KR;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;5;8;7;13;9;13;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;262;Lochem;7242;Lochem;08UW;00;Prins Hendrik;7241KR;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;8;10;13;15;12;13;9;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;262;Lochem;7251;Bronckhorst;08UW;00;Prins Hendrik;7241KR;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7417;Deventer;08UW;00;Prins Hendrik;7241KR;LOCHEM;Gelderland;Bo;Protestants-Christelijk;27067;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;6861;Renkum;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7203;Zutphen;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7207;Zutphen;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;2;1;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;262;Lochem;7213;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7217;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7218;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;4;7;3;4;4;9;6;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;262;Lochem;7231;Zutphen;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;262;Lochem;7241;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7245;Lochem;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7251;Bronckhorst;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7602;Almelo;10RS;00;Julianaschool;7218AH;ALMEN;Gelderland;Bo;Openbaar;42561;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;6971;Brummen;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7202;Zutphen;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7203;Zutphen;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;1;0;1;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;262;Lochem;7206;Zutphen;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7211;Lochem;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;6;9;12;13;8;18;9;15;1;1;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;262;Lochem;7215;Lochem;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7217;Lochem;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7231;Zutphen;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;262;Lochem;7245;Lochem;11GC;00;obs Villa 60;7211BD;EEFDE;Gelderland;Bo;Openbaar;42561;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7211;Lochem;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7213;Lochem;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7214;Lochem;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;16;6;14;9;7;9;13;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;262;Lochem;7217;Lochem;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7417;Deventer;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7418;Deventer;11RW;00;Dr. J. v.d. Hoevenschool;7214AJ;EPSE;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;262;Lochem;7213;Lochem;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;35;31;31;35;39;37;35;41;0;0;0;0;0;0;0;0;0;0;0;0;0;0;284
+20171001;262;Lochem;7214;Lochem;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;0;1;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;262;Lochem;7215;Lochem;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;0;3;0;4;0;6;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;262;Lochem;7217;Lochem;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7425;Deventer;12CJ;00;J.A. de Vullerschool;7213AJ;GORSSEL;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;  30;ander land;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7214;Lochem;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7216;Lochem;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;1;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;262;Lochem;7217;Lochem;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;14;4;8;14;10;7;10;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;262;Lochem;7218;Lochem;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7422;Deventer;12LL;00;Beatrixsch;7217SZ;HARFSEN;Gelderland;Bo;Openbaar;42561;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7211;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;262;Lochem;7213;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;2;2;3;4;3;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;262;Lochem;7214;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;2;6;0;6;1;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;262;Lochem;7215;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;1;5;0;2;3;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;262;Lochem;7216;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7217;Lochem;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;2;2;3;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;262;Lochem;7333;Apeldoorn;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7411;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;262;Lochem;7413;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7416;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7422;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7424;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7425;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;3;1;1;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;262;Lochem;7428;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7437;Deventer;12RO;00;Joppeschool;7215AD;JOPPE;Gelderland;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7161;Berkelland;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7206;Zutphen;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;13;24;20;28;30;36;37;35;1;0;0;0;0;0;0;0;0;0;0;0;0;0;224
+20171001;262;Lochem;7242;Lochem;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;5;7;5;4;8;10;5;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;262;Lochem;7244;Lochem;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7245;Lochem;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;2;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;262;Lochem;7251;Bronckhorst;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;262;Lochem;7274;Berkelland;13UR;00;Meester G. Propschool;7241HB;LOCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7241;Lochem;14BL;00;OBS De Vennegotte;7242JA;LOCHEM;Gelderland;Bo;Openbaar;42561;0;10;7;6;6;11;8;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;262;Lochem;7242;Lochem;14BL;00;OBS De Vennegotte;7242JA;LOCHEM;Gelderland;Bo;Openbaar;42561;0;13;9;12;10;14;12;12;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;262;Lochem;7251;Bronckhorst;14BL;00;OBS De Vennegotte;7242JA;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7217;Lochem;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;0;1;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;262;Lochem;7241;Lochem;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;2;0;2;2;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;262;Lochem;7242;Lochem;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7245;Lochem;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;37;24;28;20;23;31;29;31;6;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;262;Lochem;7437;Deventer;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;262;Lochem;7475;Hof van Twente;14HE;00;Obs de Branink;7245AH;LAREN GLD;Gelderland;Bo;Openbaar;42561;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7241;Lochem;14MH;00;Obs Nettelhorst;7241PH;LOCHEM;Gelderland;Bo;Openbaar;42561;0;5;6;1;3;2;6;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;262;Lochem;7242;Lochem;14MH;00;Obs Nettelhorst;7241PH;LOCHEM;Gelderland;Bo;Openbaar;42561;0;2;0;1;2;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;262;Lochem;7274;Berkelland;14MH;00;Obs Nettelhorst;7241PH;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;1;3;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;262;Lochem;7275;Berkelland;14MH;00;Obs Nettelhorst;7241PH;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;262;Lochem;7322;Apeldoorn;14MH;00;Obs Nettelhorst;7241PH;LOCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7201;Zutphen;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7241;Lochem;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;3;4;4;5;1;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;262;Lochem;7242;Lochem;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;1;3;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;262;Lochem;7244;Lochem;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;9;12;18;12;9;25;11;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;262;Lochem;7251;Bronckhorst;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7261;Berkelland;14YB;00;Obs de Barchschole;7244BB;BARCHEM;Gelderland;Bo;Openbaar;42561;0;0;0;1;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;262;Lochem;6842;Arnhem;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7151;Berkelland;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7201;Zutphen;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7207;Zutphen;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7251;Bronckhorst;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7392;Voorst;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7417;Deventer;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7491;Hof van Twente;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7512;Enschede;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7531;Enschede;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7544;Enschede;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7545;Enschede;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;7552;Hengelo;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7557;Hengelo;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;7559;Hengelo;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8042;Zwolle;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8043;Zwolle;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8075;Nunspeet;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;262;Lochem;8101;Raalte;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;262;Lochem;8265;Kampen;25GR;02;nv Bartimeus;7242AT;LOCHEM;Gelderland;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1

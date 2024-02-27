@@ -1,0 +1,249 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;342;Soest;3451;Utrecht;06UZ;00;Basisschool De Postiljon;3769EC;SOESTERBERG;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3702;Zeist;06UZ;00;Basisschool De Postiljon;3769EC;SOESTERBERG;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3712;Zeist;06UZ;00;Basisschool De Postiljon;3769EC;SOESTERBERG;Utrecht;Bo;Protestants-Christelijk;41242;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3769;Soest;06UZ;00;Basisschool De Postiljon;3769EC;SOESTERBERG;Utrecht;Bo;Protestants-Christelijk;41242;0;25;19;22;30;16;26;25;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;185
+20171001;342;Soest;1261;Blaricum;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3561;Utrecht;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3761;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;11;13;11;9;17;14;10;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;342;Soest;3762;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;7;5;6;7;6;6;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;342;Soest;3763;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3764;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;8;7;12;11;4;8;7;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;342;Soest;3765;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3768;Soest;08CN;00;1e Van der Huchtschool;3761AT;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3761;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3762;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;2;6;3;9;4;8;8;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;342;Soest;3763;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;3;4;8;5;11;11;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;342;Soest;3764;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3765;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;2;1;0;2;3;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;342;Soest;3766;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;12;13;15;14;7;10;15;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;342;Soest;3768;Soest;09DI;00;2e van der Huchtschool;3766HH;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;342;Soest;2554;'s-Gravenhage;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3702;Zeist;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3706;Zeist;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3712;Zeist;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;5;7;7;9;7;2;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;342;Soest;3734;Zeist;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3763;Soest;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3769;Soest;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;28;15;22;21;20;27;17;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;342;Soest;3822;Amersfoort;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;8223;Lelystad;17KD;00;St Carolusschool;3769XW;SOESTERBERG;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3762;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;2;1;2;4;4;3;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;342;Soest;3763;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;0;3;1;4;0;6;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;342;Soest;3764;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;3;1;2;1;1;4;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;342;Soest;3765;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;13;7;9;5;9;11;11;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;342;Soest;3766;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;1;0;2;3;6;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;342;Soest;3768;Soest;19JO;00;Openb basissch De Egelantier;3765CJ;SOEST;Utrecht;Bo;Openbaar;41481;0;0;0;0;0;2;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;342;Soest;3761;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3762;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;1;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3763;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3764;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;1;2;1;3;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;342;Soest;3765;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;3;4;2;3;2;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;342;Soest;3766;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;5;5;4;2;2;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;342;Soest;3768;Soest;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;24;26;43;26;28;35;23;32;0;0;0;0;0;0;0;0;0;0;0;0;0;0;237
+20171001;342;Soest;3812;Amersfoort;19RY;00;De Werveling Basisschool;3768CC;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1223;Hilversum;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;1274;Huizen;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1363;Almere;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3401;IJsselstein;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3521;Utrecht;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3561;Utrecht;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3562;Utrecht;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3563;Utrecht;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3607;Stichtse Vecht;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3702;Zeist;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3708;Zeist;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3751;Bunschoten;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3762;Soest;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3765;Soest;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3812;Amersfoort;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3813;Amersfoort;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3815;Amersfoort;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3817;Amersfoort;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;4126;Zederik;19SU;04;Dr. A. v. Voorthuysenschool;3762TC;SOEST;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3511;Utrecht;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3741;Baarn;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3742;Baarn;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;13;9;6;13;15;8;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;342;Soest;3762;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;7;7;8;6;2;6;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;342;Soest;3763;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3764;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;7;12;7;10;10;13;7;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;342;Soest;3765;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3766;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;2;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3768;Soest;19TK;00;Da Costa Basisschool;3761AJ;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;3;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;342;Soest;3734;Zeist;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3744;Baarn;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3761;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;0;1;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;342;Soest;3762;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;4;2;1;3;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;342;Soest;3763;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;4;6;7;4;6;6;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;342;Soest;3764;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3765;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;2;5;3;4;2;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;342;Soest;3766;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;17;11;18;12;17;17;11;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;342;Soest;3768;Soest;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;2;3;1;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;342;Soest;3962;Wijk bij Duurstede;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;9742;Groningen;19UH;00;Insingerbasisschool;3766MA;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;1215;Hilversum;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3762;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;2;5;4;3;6;2;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;342;Soest;3763;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;8;9;17;11;10;10;9;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;342;Soest;3764;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;2;2;2;3;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;342;Soest;3765;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;2;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;342;Soest;3766;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;11;10;11;10;17;10;11;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;342;Soest;3768;Soest;19VY;00;Basisschool De Bron;3766ED;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3761;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3762;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;3;1;1;4;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;342;Soest;3763;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3764;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;1;2;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;342;Soest;3765;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;9;9;15;9;8;10;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;342;Soest;3766;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;1;0;1;4;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;342;Soest;3768;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3769;Soest;19VY;01;PCBS Prof. Waterink;3765CT;SOEST;Utrecht;Bo;Protestants-Christelijk;41242;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3446;Woerden;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3641;De Ronde Venen;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3712;Zeist;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3749;Baarn;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3762;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3764;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;2;3;8;3;5;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;342;Soest;3765;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3766;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;2;1;2;6;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;342;Soest;3768;Soest;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;18;11;19;26;28;23;27;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;342;Soest;3862;Nijkerk;20IM;00;Ludgerusschool;3768GM;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3552;Utrecht;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;6;9;5;9;9;7;6;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;342;Soest;3762;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;21;16;17;19;16;18;18;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;342;Soest;3763;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3764;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;3;0;1;1;3;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;342;Soest;3766;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;342;Soest;3768;Soest;20IQ;00;RK Bs de Driesprong;3762CZ;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3734;Zeist;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3762;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;3;1;2;2;1;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;342;Soest;3763;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;3;3;5;8;6;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;342;Soest;3764;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;1;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;342;Soest;3765;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;6;3;1;4;5;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;342;Soest;3766;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;9;8;19;11;19;14;16;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;342;Soest;3768;Soest;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3828;Amersfoort;20IT;00;Basisschool de Wegwijzer;3766CP;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3738;De Bilt;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3742;Baarn;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;6;9;7;6;5;4;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;342;Soest;3762;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;2;2;3;5;3;3;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;342;Soest;3763;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3764;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;19;13;14;15;18;14;13;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;342;Soest;3765;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;1;1;2;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;342;Soest;3766;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;2;1;2;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;342;Soest;3768;Soest;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;2;1;1;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;342;Soest;3812;Amersfoort;20IY;00;RK Montessori-School;3764DK;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3762;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;16;12;15;9;12;16;8;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;342;Soest;3763;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;1;1;0;2;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;342;Soest;3764;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;1;0;4;3;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;342;Soest;3765;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;2;1;2;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;342;Soest;3766;Soest;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3812;Amersfoort;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3815;Amersfoort;20JB;00;Basisschool de Achtbaan;3762JC;SOEST;Utrecht;Bo;Rooms-Katholiek;65430;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;  30;ander land;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;  40;Onbekend;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1222;Hilversum;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;1223;Hilversum;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;1231;Wijdemeren;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1261;Blaricum;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;342;Soest;1271;Huizen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1273;Huizen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1274;Huizen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1276;Huizen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1325;Almere;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1402;Gooise Meren;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3404;IJsselstein;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3433;Nieuwegein;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3434;Nieuwegein;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3435;Nieuwegein;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3436;Nieuwegein;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3445;Woerden;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3453;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3454;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3481;Woerden;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3522;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3523;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3524;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3527;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3531;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;342;Soest;3532;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3533;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3551;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3552;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3554;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3555;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3561;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3563;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3564;Utrecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3607;Stichtse Vecht;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3705;Zeist;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3706;Zeist;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3738;De Bilt;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3741;Baarn;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3742;Baarn;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3744;Baarn;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3752;Bunschoten;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3762;Soest;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;3;2;2;4;11;2;0;0;0;0;0;0;0;24
+20171001;342;Soest;3763;Soest;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3764;Soest;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3765;Soest;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3769;Soest;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3794;Barneveld;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3812;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3813;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3815;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;342;Soest;3816;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3817;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3824;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3825;Amersfoort;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3831;Leusden;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3891;Zeewolde;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3961;Wijk bij Duurstede;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3972;Utrechtse Heuvelrug;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3981;Bunnik;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3992;Houten;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3994;Houten;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;4124;Vianen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;4131;Vianen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;4133;Vianen;23GH;00;De Lasenberg;3762TC;SOEST;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;  30;ander land;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1213;Hilversum;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3762;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;5;1;5;1;6;1;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;342;Soest;3763;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3764;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;1;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;342;Soest;3765;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;6;20;13;18;15;14;18;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;342;Soest;3766;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;4;3;3;8;4;3;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;342;Soest;3768;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;2;3;0;4;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;342;Soest;3769;Soest;23TM;00;3e vd Huchtschool van Bo;3765EN;SOEST;Utrecht;Bo;Algemeen bijzonder;97358;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1261;Blaricum;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3741;Baarn;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;0;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;342;Soest;3742;Baarn;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;1;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3749;Baarn;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3752;Bunschoten;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3761;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;342;Soest;3762;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;2;4;4;2;4;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;342;Soest;3763;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;1;4;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;342;Soest;3764;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;4;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;342;Soest;3765;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;1;1;3;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;342;Soest;3766;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;4;2;2;3;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;342;Soest;3768;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;342;Soest;3769;Soest;23WR;00;Daniëlschool;3765CT;SOEST;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;342;Soest;  40;Onbekend;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1106;Amsterdam;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;1211;Hilversum;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3707;Zeist;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3712;Zeist;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;1;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3723;De Bilt;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3732;De Bilt;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3761;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;2;1;2;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;342;Soest;3762;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;2;5;6;8;5;2;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;342;Soest;3763;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3764;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;1;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;342;Soest;3765;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;342;Soest;3766;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3768;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3769;Soest;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;10;11;13;12;18;20;8;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;342;Soest;3814;Amersfoort;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;342;Soest;3818;Amersfoort;27NN;00;Obs De St./PWA;3769JA;SOESTERBERG;Utrecht;Bo;Openbaar;41481;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

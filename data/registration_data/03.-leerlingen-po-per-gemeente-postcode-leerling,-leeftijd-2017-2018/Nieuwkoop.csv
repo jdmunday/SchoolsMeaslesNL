@@ -1,0 +1,65 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;569;Nieuwkoop;1424;Uithoorn;03ET;00;De Tamboerijn;2441AG;NIEUWVEEN;Zuid-Holland;Bo;Openbaar;28601;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2435;Nieuwkoop;03ET;00;De Tamboerijn;2441AG;NIEUWVEEN;Zuid-Holland;Bo;Openbaar;28601;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;569;Nieuwkoop;2441;Nieuwkoop;03ET;00;De Tamboerijn;2441AG;NIEUWVEEN;Zuid-Holland;Bo;Openbaar;28601;0;8;9;10;3;10;7;11;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;569;Nieuwkoop;2461;Nieuwkoop;03ET;00;De Tamboerijn;2441AG;NIEUWVEEN;Zuid-Holland;Bo;Openbaar;28601;0;1;2;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;569;Nieuwkoop;  40;Onbekend;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2221;Katwijk;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2431;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;16;15;11;12;16;12;7;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;569;Nieuwkoop;2432;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;569;Nieuwkoop;2435;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;4;3;3;2;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;569;Nieuwkoop;2441;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2445;Alphen aan den Rijn;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2632;Pijnacker-Nootdorp;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;3651;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;3652;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;2;0;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;569;Nieuwkoop;3653;Nieuwkoop;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;3902;Veenendaal;03NY;00;RK Basissch St Antonius;2431XB;NOORDEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;2431;Nieuwkoop;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2435;Nieuwkoop;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;569;Nieuwkoop;2441;Nieuwkoop;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;15;29;21;26;29;33;21;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;199
+20171001;569;Nieuwkoop;2451;Kaag en Braassem;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2461;Nieuwkoop;03UG;00;Basisschool St Nicolaas;2441AD;NIEUWVEEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2405;Alphen aan den Rijn;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2431;Nieuwkoop;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2435;Nieuwkoop;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;21;17;21;28;28;20;14;30;7;0;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;569;Nieuwkoop;2441;Nieuwkoop;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;2;3;3;4;2;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;569;Nieuwkoop;2461;Nieuwkoop;03WL;00;De Diamant;2435WX;ZEVENHOVEN;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2451;Kaag en Braassem;04UN;00;Aeresteyn;2461CL;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2461;Nieuwkoop;04UN;00;Aeresteyn;2461CL;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;28;33;26;34;29;31;34;39;13;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;569;Nieuwkoop;2406;Alphen aan den Rijn;05RH;00;Maranatha Basisschool;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2421;Nieuwkoop;05RH;00;Maranatha Basisschool;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;23;20;14;15;11;15;26;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;569;Nieuwkoop;2435;Nieuwkoop;05RH;00;Maranatha Basisschool;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;569;Nieuwkoop;2421;Nieuwkoop;06JF;00;De Rietkraag Sch v RK BO;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;35;38;48;48;38;38;44;27;6;0;0;0;0;0;0;0;0;0;0;0;0;0;322
+20171001;569;Nieuwkoop;2441;Nieuwkoop;06JF;00;De Rietkraag Sch v RK BO;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2445;Alphen aan den Rijn;06JF;00;De Rietkraag Sch v RK BO;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2461;Nieuwkoop;06JF;00;De Rietkraag Sch v RK BO;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2432;Nieuwkoop;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2904;Capelle aan den IJssel;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;3471;Woerden;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;3474;Woerden;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;1;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;569;Nieuwkoop;3651;Nieuwkoop;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;1;2;1;3;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;569;Nieuwkoop;3652;Nieuwkoop;06PL;00;PC BS De Meent;3652LG;WOERDENSE VERLAAT;Zuid-Holland;Bo;Protestants-Christelijk;41286;0;5;2;3;5;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;569;Nieuwkoop;2402;Alphen aan den Rijn;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2403;Alphen aan den Rijn;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2406;Alphen aan den Rijn;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2445;Alphen aan den Rijn;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2461;Nieuwkoop;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;40;26;35;32;37;52;25;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;277
+20171001;569;Nieuwkoop;2481;Kaag en Braassem;07TH;00;Basissch De Vosseschans;2461BA;TER AAR;Zuid-Holland;Bo;Rooms-Katholiek;40974;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;  30;ander land;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;569;Nieuwkoop;2441;Nieuwkoop;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2445;Alphen aan den Rijn;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;2461;Nieuwkoop;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;9;11;15;10;14;13;14;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;569;Nieuwkoop;2497;'s-Gravenhage;09LY;00;Basisschool De Fontein;2461AB;TER AAR;Zuid-Holland;Bo;Protestants-Christelijk;40974;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2421;Nieuwkoop;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;39;28;28;39;44;57;31;54;6;0;0;0;0;0;0;0;0;0;0;0;0;0;326
+20171001;569;Nieuwkoop;2431;Nieuwkoop;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;2435;Nieuwkoop;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;2445;Alphen aan den Rijn;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;569;Nieuwkoop;2461;Nieuwkoop;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;2771;Alphen aan den Rijn;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;569;Nieuwkoop;3474;Woerden;18IE;00;BS De Zilveren Maan;2421NK;NIEUWKOOP;Zuid-Holland;Bo;Openbaar;28601;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

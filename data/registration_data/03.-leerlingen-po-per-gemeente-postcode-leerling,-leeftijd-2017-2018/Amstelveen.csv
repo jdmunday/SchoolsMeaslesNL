@@ -1,0 +1,348 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;362;Amstelveen;1063;Amsterdam;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1066;Amsterdam;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1103;Amsterdam;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1115;Ouder-Amstel;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1182;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1183;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1185;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;2;0;0;2;5;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;362;Amstelveen;1186;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;1;2;0;2;8;5;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;362;Amstelveen;1187;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;3;2;2;0;1;3;2;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;362;Amstelveen;1188;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;2;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;362;Amstelveen;1189;Amstelveen;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1422;Uithoorn;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1423;Uithoorn;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1431;Aalsmeer;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;1;0;1;0;2;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;362;Amstelveen;1433;Aalsmeer;00JX;00;SSBO Wending;1187SM;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1011;Amsterdam;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1077;Amsterdam;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1083;Amsterdam;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1112;Diemen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1115;Ouder-Amstel;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1181;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;1;2;1;3;3;5;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;362;Amstelveen;1182;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1183;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;1;0;0;4;3;1;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;362;Amstelveen;1184;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1185;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;1;3;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;362;Amstelveen;1186;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;3;3;0;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;362;Amstelveen;1187;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;2;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1188;Amstelveen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;2;1;1;2;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;362;Amstelveen;1191;Ouder-Amstel;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;1;0;0;0;1;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;1391;De Ronde Venen;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1611;Stede Broec;03HT;00;SSBO De Schakel;1183EL;AMSTELVEEN;Noord-Holland;Sbo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;  40;Onbekend;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1103;Amsterdam;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1107;Amsterdam;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;4;1;3;3;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;362;Amstelveen;1183;Amstelveen;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;11;9;8;13;11;10;18;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;362;Amstelveen;1185;Amstelveen;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;3;1;1;1;0;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;362;Amstelveen;1186;Amstelveen;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;0;0;0;4;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;362;Amstelveen;1191;Ouder-Amstel;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1422;Uithoorn;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1824;Alkmaar;05FP;00;Brede School Omnibus;1183KK;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1011;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1060;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1064;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1073;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1082;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1103;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1104;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1107;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1108;Amsterdam;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1171;Haarlemmermeer;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;2;1;5;4;5;7;5;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;362;Amstelveen;1182;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;1;1;0;2;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;362;Amstelveen;1183;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;3;1;0;3;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;362;Amstelveen;1184;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1185;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;3;2;6;3;3;5;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;362;Amstelveen;1186;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;2;4;4;6;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;362;Amstelveen;1187;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;11;10;6;6;6;4;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;362;Amstelveen;1188;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;3;2;1;3;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;362;Amstelveen;1189;Amstelveen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1191;Ouder-Amstel;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1382;Weesp;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1398;Gooise Meren;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1421;Uithoorn;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1422;Uithoorn;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;1;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1431;Aalsmeer;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;2;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;3643;De Ronde Venen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;3646;De Ronde Venen;06QY;00;Basisschool Parcival;1185NK;AMSTELVEEN;Noord-Holland;Bo;Antroposofisch;61752;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1017;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1054;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1060;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1067;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1081;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1082;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1083;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1102;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1104;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1106;Amsterdam;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;57;47;54;52;52;43;47;41;5;0;0;0;0;0;0;0;0;0;0;0;0;0;398
+20171001;362;Amstelveen;1182;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;9;9;11;6;4;9;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;362;Amstelveen;1183;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;8;9;16;8;13;6;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;362;Amstelveen;1185;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;3;4;3;5;5;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;362;Amstelveen;1186;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1187;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;3;0;0;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;1188;Amstelveen;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1432;Aalsmeer;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1433;Aalsmeer;07IX;00;Roelof Venemaschool;1181ER;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1018;Amsterdam;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1057;Amsterdam;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1102;Amsterdam;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1106;Amsterdam;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;3;3;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;362;Amstelveen;1184;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1185;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;6;4;4;3;5;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;362;Amstelveen;1186;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;15;30;30;23;46;31;20;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;217
+20171001;362;Amstelveen;1187;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1188;Amstelveen;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1422;Uithoorn;10FO;00;Horizon;1186GP;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;1;2;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;1076;Amsterdam;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;3;0;1;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;362;Amstelveen;1183;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1185;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;2;3;6;1;4;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;362;Amstelveen;1186;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;23;28;25;13;17;10;17;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;362;Amstelveen;1187;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;2;6;2;3;5;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;362;Amstelveen;1188;Amstelveen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;23;19;27;20;18;25;14;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;362;Amstelveen;1422;Uithoorn;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;6438;Schinnen;10WT;00;De Cirkel;1188AM;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1107;Amsterdam;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1182;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1185;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;24;25;28;25;18;18;20;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;362;Amstelveen;1186;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;1;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1187;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;2;2;0;0;2;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;362;Amstelveen;1188;Amstelveen;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1213;Hilversum;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1421;Uithoorn;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1432;Aalsmeer;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1433;Aalsmeer;12XL;00;Het Palet;1185EK;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;  40;Onbekend;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1056;Amsterdam;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1079;Amsterdam;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1102;Amsterdam;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1185;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;3;4;4;5;8;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;362;Amstelveen;1186;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;25;23;27;29;19;23;13;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;362;Amstelveen;1187;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;5;4;4;4;0;6;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;362;Amstelveen;1188;Amstelveen;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;20;23;22;17;22;20;21;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;362;Amstelveen;1421;Uithoorn;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1422;Uithoorn;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1432;Aalsmeer;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2133;Haarlemmermeer;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2135;Haarlemmermeer;13DK;00;Willem Alexanderschool;1188AM;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;  30;ander land;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1076;Amsterdam;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1077;Amsterdam;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1081;Amsterdam;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;3;3;2;0;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;362;Amstelveen;1082;Amsterdam;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1113;Diemen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1171;Haarlemmermeer;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;49;41;42;42;39;44;45;29;1;0;0;0;0;0;0;0;0;0;0;0;0;0;332
+20171001;362;Amstelveen;1182;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;5;1;5;2;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;362;Amstelveen;1183;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;1;4;4;4;1;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;362;Amstelveen;1185;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1186;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1187;Amstelveen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1438;Haarlemmermeer;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1444;Purmerend;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;2032;Haarlem;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2036;Haarlem;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2041;Zandvoort;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;3641;De Ronde Venen;13MF;00;Obs Michiel de Ruyter;1181ER;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1082;Amsterdam;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;30;39;43;29;37;33;26;27;1;0;0;0;0;0;0;0;0;0;0;0;0;0;265
+20171001;362;Amstelveen;1182;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;18;19;11;16;19;14;14;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;362;Amstelveen;1183;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;0;0;1;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;362;Amstelveen;1185;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;20;25;28;33;25;26;28;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;362;Amstelveen;1186;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;2;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;362;Amstelveen;1187;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;1;1;2;2;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;362;Amstelveen;1188;Amstelveen;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1421;Uithoorn;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1431;Aalsmeer;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2957;Molenwaard;13UX;00;Obs Piet Hein;1182GM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;  30;ander land;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;  40;Onbekend;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1013;Amsterdam;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1057;Amsterdam;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1076;Amsterdam;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1082;Amsterdam;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1087;Amsterdam;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;22;38;31;20;26;23;16;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;195
+20171001;362;Amstelveen;1182;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1183;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;13;14;17;11;12;9;9;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;362;Amstelveen;1185;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;0;3;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;362;Amstelveen;1186;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;1;2;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;1187;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;2;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;362;Amstelveen;1188;Amstelveen;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1191;Ouder-Amstel;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;2;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1421;Uithoorn;14ET;00;Mio Mondo;1181NC;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1067;Amsterdam;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1077;Amsterdam;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1081;Amsterdam;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1082;Amsterdam;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1083;Amsterdam;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;3;3;2;9;6;7;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;362;Amstelveen;1182;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;50;34;39;31;19;29;27;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;252
+20171001;362;Amstelveen;1185;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1186;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1187;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1188;Amstelveen;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1191;Ouder-Amstel;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1422;Uithoorn;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;4481;Goes;14HM;00;Kindercampus King;1183EZ;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1102;Amsterdam;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1182;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1183;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1185;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;22;15;14;23;15;13;14;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;362;Amstelveen;1186;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;8;5;3;5;2;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;362;Amstelveen;1187;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;3;6;2;4;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;362;Amstelveen;1188;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;3;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1189;Amstelveen;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1421;Uithoorn;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1422;Uithoorn;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1431;Aalsmeer;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1433;Aalsmeer;14MQ;00;Obs de Linde;1185NK;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1053;Amsterdam;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1082;Amsterdam;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1107;Amsterdam;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1185;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;5;3;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;362;Amstelveen;1186;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;8;11;13;8;13;15;13;14;2;1;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;362;Amstelveen;1187;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;3;3;0;3;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;362;Amstelveen;1188;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;8;10;16;5;11;6;10;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;362;Amstelveen;1189;Amstelveen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;5;4;4;3;3;5;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;362;Amstelveen;1191;Ouder-Amstel;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1421;Uithoorn;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1422;Uithoorn;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1427;De Ronde Venen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1432;Aalsmeer;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;3646;De Ronde Venen;15EX;00;Obs de Pioniers;1188AM;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;3;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;362;Amstelveen;1024;Amsterdam;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1034;Amsterdam;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1082;Amsterdam;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1111;Diemen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1112;Diemen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1141;Waterland;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1154;Waterland;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1161;Haarlemmermeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1165;Haarlemmerliede en Spaarnwoude;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1171;Haarlemmermeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1182;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1183;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1184;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1185;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1186;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1187;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;1;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1189;Amstelveen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1191;Ouder-Amstel;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;6;4;3;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;362;Amstelveen;1421;Uithoorn;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1422;Uithoorn;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;2;2;1;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;1448;Purmerend;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1451;Landsmeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1507;Zaanstad;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1541;Zaanstad;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1551;Zaanstad;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1566;Zaanstad;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;1;1;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;362;Amstelveen;2034;Haarlem;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2131;Haarlemmermeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;2132;Haarlemmermeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2135;Haarlemmermeer;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;2441;Nieuwkoop;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;3641;De Ronde Venen;21QN;00;De Akker;1186HD;AMSTELVEEN;Noord-Holland;Bo;Reformatorisch;41534;0;1;1;2;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;362;Amstelveen;  40;Onbekend;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1056;Amsterdam;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1087;Amsterdam;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1183;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1185;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1186;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1187;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;87;73;94;81;81;89;73;67;7;0;0;0;0;0;0;0;0;0;0;0;0;0;652
+20171001;362;Amstelveen;1188;Amstelveen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1422;Uithoorn;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1431;Aalsmeer;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;2;1;3;1;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;362;Amstelveen;3551;Utrecht;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;3648;De Ronde Venen;23TW;00;Triangel;1187KR;AMSTELVEEN;Noord-Holland;Bo;Rooms-Katholiek;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;  40;Onbekend;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1057;Amsterdam;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1069;Amsterdam;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1082;Amsterdam;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1083;Amsterdam;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1097;Amsterdam;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1171;Haarlemmermeer;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;2;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;362;Amstelveen;1183;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;362;Amstelveen;1185;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;2;2;3;5;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;362;Amstelveen;1186;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;1;2;4;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;362;Amstelveen;1187;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;33;34;33;37;45;34;44;25;2;0;0;0;0;0;0;0;0;0;0;0;0;0;287
+20171001;362;Amstelveen;1188;Amstelveen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;2;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;362;Amstelveen;1422;Uithoorn;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1432;Aalsmeer;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;1;0;4;1;1;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;362;Amstelveen;2151;Haarlemmermeer;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;3641;De Ronde Venen;23TX;00;OBS de Westwijzer;1187ZS;AMSTELVEEN;Noord-Holland;Bo;Openbaar;41580;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1018;Amsterdam;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1060;Amsterdam;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1079;Amsterdam;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1103;Amsterdam;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1182;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1183;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1185;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1186;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1187;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;75;95;73;66;74;61;45;40;0;0;0;0;0;0;0;0;0;0;0;0;0;0;529
+20171001;362;Amstelveen;1188;Amstelveen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1421;Uithoorn;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1422;Uithoorn;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1424;Uithoorn;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1427;De Ronde Venen;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;3;1;1;4;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;362;Amstelveen;2407;Alphen aan den Rijn;24BD;00;Karel Eykman school;1187DA;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1063;Amsterdam;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1102;Amsterdam;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1181;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;49;50;47;45;52;46;49;29;3;0;0;0;0;0;0;0;0;0;0;0;0;0;370
+20171001;362;Amstelveen;1182;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;1;2;0;3;3;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;362;Amstelveen;1183;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;2;1;1;7;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;362;Amstelveen;1184;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1185;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;4;3;4;4;5;3;10;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;362;Amstelveen;1186;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;2;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1187;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1188;Amstelveen;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1422;Uithoorn;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1432;Aalsmeer;31AW;00;Rembrandt;1181XJ;AMSTELVEEN;Noord-Holland;Bo;Protestants-Christelijk;40020;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1060;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1068;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1076;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1077;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1081;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1082;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1102;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1103;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;1104;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1106;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1107;Amsterdam;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;362;Amstelveen;1112;Diemen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1115;Ouder-Amstel;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1181;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;2;4;6;4;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;362;Amstelveen;1182;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1183;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;7;7;6;1;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;362;Amstelveen;1185;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;3;3;0;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;362;Amstelveen;1186;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;6;4;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;362;Amstelveen;1187;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;5;7;5;6;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;362;Amstelveen;1188;Amstelveen;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;2;3;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;362;Amstelveen;1191;Ouder-Amstel;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;362;Amstelveen;1318;Almere;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1382;Weesp;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;362;Amstelveen;1422;Uithoorn;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;1432;Aalsmeer;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;2341;Oegstgeest;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;362;Amstelveen;2993;Barendrecht;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;362;Amstelveen;3544;Utrecht;31BR;00;School of Understanding;1183KK;AMSTELVEEN;Noord-Holland;Bo;Algemeen bijzonder;42715;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

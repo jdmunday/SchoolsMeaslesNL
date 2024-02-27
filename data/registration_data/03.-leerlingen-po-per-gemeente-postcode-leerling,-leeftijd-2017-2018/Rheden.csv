@@ -1,0 +1,173 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;275;Rheden;6955;Rheden;04SL;00;Chr Basissch D Holtbanck;6991DP;RHEDEN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;04SL;00;Chr Basissch D Holtbanck;6991DP;RHEDEN;Gelderland;Bo;Protestants-Christelijk;40843;0;18;27;26;20;28;24;21;27;1;0;0;0;0;0;0;0;0;0;0;0;0;0;192
+20171001;275;Rheden;6994;Rheden;04SL;00;Chr Basissch D Holtbanck;6991DP;RHEDEN;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6991;Rheden;05IW;00;Basissch St Mauritius;6991BS;RHEDEN;Gelderland;Bo;Rooms-Katholiek;40812;0;13;16;22;17;15;16;16;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;275;Rheden;6951;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;6;7;6;12;12;12;9;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;275;Rheden;6952;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;9;13;7;15;9;11;7;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;275;Rheden;6953;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;6956;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6957;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6961;Brummen;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6983;Doesburg;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7225;Bronckhorst;05IX;00;Basisschool De Vlinder;6952GA;DIEREN;Gelderland;Bo;Rooms-Katholiek;40812;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6951;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;8;8;13;6;10;6;12;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;275;Rheden;6952;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;16;12;10;16;14;7;13;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;275;Rheden;6953;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;275;Rheden;6955;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6956;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6957;Rheden;10QP;00;De Akker;6952GA;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6932;Westervoort;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;15;15;14;12;22;12;15;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;275;Rheden;6952;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;6;1;1;4;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;275;Rheden;6953;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;3;8;3;4;7;1;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;275;Rheden;6955;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6956;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6957;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;1;1;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;275;Rheden;6961;Brummen;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6981;Doesburg;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6994;Rheden;11FC;00;PC Basissch de Boomgaard;6951NS;DIEREN;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;  30;ander land;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;3774;Barneveld;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6812;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6822;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6823;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6824;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;1;1;3;1;3;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;275;Rheden;6825;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6826;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;3;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;275;Rheden;6841;Arnhem;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6881;Rheden;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;23;40;33;29;19;27;17;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;206
+20171001;275;Rheden;6882;Rheden;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;6;4;6;4;5;7;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;275;Rheden;6883;Rheden;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;7;4;2;3;0;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;275;Rheden;6891;Rozendaal;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;2;3;0;5;5;3;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;275;Rheden;6922;Duiven;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6931;Westervoort;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;13QE;00;Daalhuizen;6881LZ;VELP GLD;Gelderland;Bo;Openbaar;41617;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;275;Rheden;6815;Arnhem;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6821;Arnhem;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6823;Arnhem;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6825;Arnhem;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;1;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;275;Rheden;6826;Arnhem;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;3;0;1;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;275;Rheden;6882;Rheden;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;3;9;9;16;10;10;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;275;Rheden;6883;Rheden;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;2;1;1;3;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;275;Rheden;6991;Rheden;13XP;00;De Kameleon;6882DP;VELP GLD;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6828;Arnhem;14EB;00;De Rheder Enk;6991BA;RHEDEN;Gelderland;Bo;Openbaar;41617;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6991;Rheden;14EB;00;De Rheder Enk;6991BA;RHEDEN;Gelderland;Bo;Openbaar;41617;0;27;33;32;30;21;16;15;17;1;1;0;0;0;0;0;0;0;0;0;0;0;0;193
+20171001;275;Rheden;6828;Arnhem;14GV;00;De Lappendeken;6994CN;DE STEEG;Gelderland;Bo;Openbaar;41617;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6955;Rheden;14GV;00;De Lappendeken;6994CN;DE STEEG;Gelderland;Bo;Openbaar;41617;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6991;Rheden;14GV;00;De Lappendeken;6994CN;DE STEEG;Gelderland;Bo;Openbaar;41617;0;1;7;3;5;4;4;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;275;Rheden;6994;Rheden;14GV;00;De Lappendeken;6994CN;DE STEEG;Gelderland;Bo;Openbaar;41617;0;4;5;10;9;6;14;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;275;Rheden;2593;'s-Gravenhage;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;3;6;6;4;2;6;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;275;Rheden;6952;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;1;4;4;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;275;Rheden;6953;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;10;7;7;10;12;8;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;275;Rheden;6955;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6956;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6957;Rheden;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7225;Bronckhorst;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;8103;Raalte;14LZ;00;Koningin Emmaschool;6953BR;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6823;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6824;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;6825;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;11;10;8;9;12;6;8;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;275;Rheden;6826;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;4;7;2;2;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;275;Rheden;6828;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6844;Arnhem;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6881;Rheden;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;275;Rheden;6882;Rheden;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;12;15;13;13;13;10;13;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;275;Rheden;6883;Rheden;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;5;0;1;1;4;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;275;Rheden;6921;Duiven;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6931;Westervoort;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6953;Rheden;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;15CO;00;Roncallischool;6882GZ;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6707;Wageningen;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;12;19;13;19;20;13;16;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;275;Rheden;6952;Rheden;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;1;4;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;275;Rheden;6956;Rheden;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;6983;Doesburg;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;7006;Doetinchem;15EI;00;OBS de Wensvogel;6951GZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6822;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6823;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6824;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6825;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;5;5;4;7;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;275;Rheden;6826;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;3;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;275;Rheden;6828;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6841;Arnhem;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6852;Lingewaard;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6881;Rheden;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;5;2;5;10;9;14;8;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;275;Rheden;6882;Rheden;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;11;11;14;10;12;5;16;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;275;Rheden;6883;Rheden;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;4;6;5;6;8;4;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;275;Rheden;6891;Rozendaal;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6987;Zevenaar;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6994;Rheden;15GZ;00;Sint Fredericusschool;6881SV;VELP GLD;Gelderland;Bo;Rooms-Katholiek;40812;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;15HS;00;Annie M G Schmidtschool;6952EK;DIEREN;Gelderland;Bo;Openbaar;41617;0;3;5;2;6;3;2;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;275;Rheden;6952;Rheden;15HS;00;Annie M G Schmidtschool;6952EK;DIEREN;Gelderland;Bo;Openbaar;41617;0;8;1;5;3;5;5;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;275;Rheden;6953;Rheden;15HS;00;Annie M G Schmidtschool;6952EK;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6851;Lingewaard;15NB;00;Bs 't Schaddeveld;6951LZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;15NB;00;Bs 't Schaddeveld;6951LZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;2;3;0;6;8;4;5;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;275;Rheden;6952;Rheden;15NB;00;Bs 't Schaddeveld;6951LZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;6957;Rheden;15NB;00;Bs 't Schaddeveld;6951LZ;DIEREN;Gelderland;Bo;Openbaar;41617;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6957;Rheden;15NB;01;Bs 't Schaddeveld;6957AB;LAAG-SOEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;5;3;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;275;Rheden;6961;Brummen;15NB;01;Bs 't Schaddeveld;6957AB;LAAG-SOEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6846;Arnhem;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6951;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;9;9;13;12;7;5;13;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;275;Rheden;6952;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;2;2;1;3;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;275;Rheden;6953;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6955;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6956;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;9;2;5;6;2;5;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;275;Rheden;6957;Rheden;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6981;Doesburg;15PP;00;Prinses Margrietsch;6956AN;SPANKEREN;Gelderland;Bo;Openbaar;41617;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6825;Arnhem;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;4;0;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;275;Rheden;6826;Arnhem;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;275;Rheden;6828;Arnhem;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6881;Rheden;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;1;1;3;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;275;Rheden;6882;Rheden;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;3;6;3;2;7;1;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;275;Rheden;6883;Rheden;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;18;15;23;27;16;25;13;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;275;Rheden;6981;Doesburg;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6994;Rheden;18ZA;00;Prins Bernhardschool;6883ES;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6675;Overbetuwe;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6813;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6821;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6822;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6823;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6824;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;2;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;275;Rheden;6825;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6828;Arnhem;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6852;Lingewaard;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6881;Rheden;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;11;13;20;21;16;15;18;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;275;Rheden;6882;Rheden;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;6;7;3;5;7;1;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;275;Rheden;6883;Rheden;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;5;3;4;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;275;Rheden;6891;Rozendaal;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;2;3;1;0;2;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;275;Rheden;6931;Westervoort;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6971;Brummen;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6991;Rheden;19AB;00;De Arnhorst;6881NV;VELP GLD;Gelderland;Bo;Protestants-Christelijk;40843;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6812;Arnhem;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6881;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6882;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;2;0;0;1;4;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;275;Rheden;6883;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;275;Rheden;6951;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;1;0;2;3;6;5;4;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;275;Rheden;6952;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;275;Rheden;6953;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;275;Rheden;6955;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6956;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6961;Brummen;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6971;Brummen;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;275;Rheden;6981;Doesburg;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;1;0;1;0;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;275;Rheden;6982;Doesburg;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;1;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;275;Rheden;6983;Doesburg;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;1;0;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;275;Rheden;6991;Rheden;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;2;2;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;275;Rheden;7004;Doetinchem;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7201;Zutphen;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7206;Zutphen;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7221;Bronckhorst;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;7225;Bronckhorst;19QL;00;SSBO 't Sterrenbos;6951EB;DIEREN;Gelderland;Sbo;Openbaar;41617;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6953;Rheden;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6955;Rheden;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;8;7;8;5;9;12;12;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;275;Rheden;6957;Rheden;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6981;Doesburg;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6982;Doesburg;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;275;Rheden;6991;Rheden;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;275;Rheden;6994;Rheden;23ED;01;Doesburg;6955AX;ELLECOM;Gelderland;Bo;Algemeen bijzonder;30847;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
