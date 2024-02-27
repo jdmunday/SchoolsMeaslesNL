@@ -1,0 +1,687 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;114;Emmen;6715;Ede;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7741;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7741;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7742;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7742;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7751;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7751;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7754;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;2;0;3;2;1;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7764;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7765;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7766;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7766;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7811;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7812;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;3;1;2;1;0;1;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7814;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7814;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7815;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7815;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7823;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7823;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;3;1;2;1;1;1;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7824;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;1;3;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7824;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;1;2;0;3;2;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7825;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7826;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;2;1;0;3;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7831;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7831;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7833;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7833;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7841;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7845;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7848;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7848;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7851;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7856;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7858;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7861;Coevorden;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7874;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7875;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7884;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7887;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;3;2;1;1;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7894;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7894;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7895;Emmen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9422;Midden-Drenthe;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9431;Midden-Drenthe;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9563;Vlagtwedde;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;Vso;Openbaar;10249;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9571;Borger-Odoorn;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9713;Groningen;00SU;00;Opb. School v. ZMLK Emmen;7812GE;EMMEN;Drenthe;So;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  20;Duitsland;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  30;ander land;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7741;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7742;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7761;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7811;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;3;1;3;2;2;1;0;0;0;0;0;0;0;14
+20171001;114;Emmen;7815;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;0;4;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7822;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;2;2;4;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;7824;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;4;3;5;2;2;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;7826;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7831;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7844;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7845;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7847;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7848;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7872;Borger-Odoorn;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7881;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;3;1;1;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7884;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7885;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7887;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;3;4;1;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7894;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7895;Emmen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7905;Hoogeveen;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9411;Midden-Drenthe;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9468;Aa en Hunze;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9502;Stadskanaal;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9531;Borger-Odoorn;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9541;Vlagtwedde;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9561;Vlagtwedde;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9571;Borger-Odoorn;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9581;Stadskanaal;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9584;Stadskanaal;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9659;Aa en Hunze;00ZF;01;De Atlas;7825SE;EMMEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7741;Coevorden;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7765;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7766;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;1;0;1;2;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7814;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7815;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;1;2;3;3;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;114;Emmen;7822;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7823;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;1;0;5;5;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;114;Emmen;7824;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;1;3;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;114;Emmen;7827;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7828;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7831;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7833;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7844;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7874;Borger-Odoorn;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7881;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7884;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7887;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7891;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;1;0;2;4;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;114;Emmen;7894;Emmen;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;9521;Borger-Odoorn;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9531;Borger-Odoorn;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9561;Vlagtwedde;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9571;Borger-Odoorn;01BO;00;SSBO Toermalijn;7822EM;EMMEN;Drenthe;Sbo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  30;ander land;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7821;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7824;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7825;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7826;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;13;26;28;24;20;25;21;28;4;0;0;0;0;0;0;0;0;0;0;0;0;0;189
+20171001;114;Emmen;7827;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7889;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9665;Pekela;03RY;00;Sint Gerardus;7826CT;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7764;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;2;0;1;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;114;Emmen;7813;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7828;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7833;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;26;17;19;35;19;23;21;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;114;Emmen;7844;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;13;8;10;10;9;4;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;114;Emmen;7845;Coevorden;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7887;Emmen;03RZ;00;Chr Nat Basissch De Bron;7833GH;NIEUW-AMSTERDAM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  40;Onbekend;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7822;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;7;2;3;1;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;114;Emmen;7824;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;19;28;19;16;24;12;14;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;114;Emmen;7825;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7828;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7831;Emmen;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9503;Stadskanaal;04LL;00;'t Twiespan;7824CJ;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7884;Emmen;04RO;00;Chr Basissch De Praom;7894DJ;ZWARTEMEER;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;04RO;00;Chr Basissch De Praom;7894DJ;ZWARTEMEER;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;2;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7894;Emmen;04RO;00;Chr Basissch De Praom;7894DJ;ZWARTEMEER;Drenthe;Bo;Protestants-Christelijk;41551;0;6;0;9;4;5;3;2;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;114;Emmen;9677;Oldambt;04RO;00;Chr Basissch De Praom;7894DJ;ZWARTEMEER;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7558;Hengelo;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7751;Coevorden;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;2;0;3;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;114;Emmen;7815;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;8;9;12;8;10;12;15;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;114;Emmen;7822;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7824;Emmen;04SK;00;St Frans School;7815JJ;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7828;Emmen;04WD;00;PC Basissch W Alexander;7887EE;ERICA;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7844;Emmen;04WD;00;PC Basissch W Alexander;7887EE;ERICA;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;04WD;00;PC Basissch W Alexander;7887EE;ERICA;Drenthe;Bo;Protestants-Christelijk;41551;0;3;3;8;5;8;6;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;114;Emmen;7891;Emmen;04WD;00;PC Basissch W Alexander;7887EE;ERICA;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7831;Emmen;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;16;8;12;13;9;13;11;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;114;Emmen;7876;Borger-Odoorn;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7877;Borger-Odoorn;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7895;Emmen;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;9561;Vlagtwedde;04XB;00;Basisschool De Bentetop;7831AK;NIEUW-WEERDINGE;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7707;Hardenberg;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7761;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7764;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;2;1;1;5;2;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;114;Emmen;7814;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7833;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7844;Emmen;05KX;00;cb de Zwaluw;7764AK;ZANDPOL;Drenthe;Bo;Protestants-Christelijk;41551;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  20;Duitsland;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;1;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;  30;ander land;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7741;Coevorden;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7772;Hardenberg;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;4;3;2;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;7813;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7814;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7815;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7822;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7824;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7825;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;11;15;14;11;11;8;12;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;114;Emmen;7828;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;3;4;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;114;Emmen;7833;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7844;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7858;Borger-Odoorn;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7873;Borger-Odoorn;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7875;Borger-Odoorn;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7894;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7895;Emmen;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9501;Stadskanaal;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9514;Aa en Hunze;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9525;Borger-Odoorn;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9561;Vlagtwedde;06KW;00;Het Anker Jenaplanschool;7827DD;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  40;Onbekend;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7761;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7812;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;4;3;6;6;3;5;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;114;Emmen;7814;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;1;1;2;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;7815;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7822;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7823;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;2;0;2;1;4;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;7824;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7826;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;2;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7831;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;3;2;1;3;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;114;Emmen;7833;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7843;Coevorden;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7863;Coevorden;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7872;Borger-Odoorn;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;2;0;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;9251;Tytsjerksteradiel;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9571;Borger-Odoorn;06MY;00;Basisschool De Rank;7822CC;EMMEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  10;Belgie;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  30;ander land;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;5961;Horst aan de Maas;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7884;Emmen;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7894;Emmen;06QH;00;RK Basisschool De Banier;7894CL;ZWARTEMEER;Drenthe;Bo;Rooms-Katholiek;45000;0;14;11;12;19;15;27;17;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;114;Emmen;7765;Emmen;06QQ;00;St Franciscussch;7765AG;WEITEVEEN;Drenthe;Bo;Rooms-Katholiek;40888;0;15;15;15;14;22;20;17;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;114;Emmen;7742;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7753;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7754;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7764;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7811;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7812;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;5;3;6;8;7;4;7;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;114;Emmen;7813;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7814;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7822;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7824;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7826;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;2;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;7828;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7833;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7846;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7847;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7872;Borger-Odoorn;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7875;Borger-Odoorn;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7887;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9584;Stadskanaal;06RG;00;De Stroeten;7812BA;EMMEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  20;Duitsland;06SF;00;Gerardus Majellaschool;7766AE;NIEUW-SCHOONEBEEK;Drenthe;Bo;Rooms-Katholiek;40888;0;1;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;  30;ander land;06SF;00;Gerardus Majellaschool;7766AE;NIEUW-SCHOONEBEEK;Drenthe;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7766;Emmen;06SF;00;Gerardus Majellaschool;7766AE;NIEUW-SCHOONEBEEK;Drenthe;Bo;Rooms-Katholiek;40888;0;8;15;11;12;18;11;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;114;Emmen;  30;ander land;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7765;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7884;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;15;10;9;12;16;21;12;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;114;Emmen;7887;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7889;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;06SI;00;Basisschool St Theresia;7884PJ;BARGER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7742;Coevorden;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7815;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7823;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7824;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7844;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7877;Borger-Odoorn;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7884;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7894;Emmen;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;9525;Borger-Odoorn;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9571;Borger-Odoorn;06SV;11;De Aventurijn;7822EM;EMMEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;06YD;00;De Hoeksteen;7881CN;EMMER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;7;7;3;3;7;6;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;114;Emmen;9561;Vlagtwedde;06YD;00;De Hoeksteen;7881CN;EMMER-COMPASCUUM;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;6267;Eijsden-Margraten;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;11;19;18;7;19;16;20;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;114;Emmen;7822;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;2;0;2;3;2;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;114;Emmen;7823;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;4;0;5;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;7824;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7871;Borger-Odoorn;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7873;Borger-Odoorn;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;07NY;00;Groen v Prinstererschool;7815VH;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;  20;Duitsland;07OY;00;C.B. De Oliebron;7761AC;SCHOONEBEEK;Drenthe;Bo;Protestants-Christelijk;41551;0;1;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;114;Emmen;  30;ander land;07OY;00;C.B. De Oliebron;7761AC;SCHOONEBEEK;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7742;Coevorden;07OY;00;C.B. De Oliebron;7761AC;SCHOONEBEEK;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;07OY;00;C.B. De Oliebron;7761AC;SCHOONEBEEK;Drenthe;Bo;Protestants-Christelijk;41551;0;18;16;27;21;23;30;33;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;114;Emmen;7833;Emmen;07OY;00;C.B. De Oliebron;7761AC;SCHOONEBEEK;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7761;Emmen;08VC;00;De Brummelbos;7887CD;ERICA;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7828;Emmen;08VC;00;De Brummelbos;7887CD;ERICA;Drenthe;Bo;Rooms-Katholiek;45000;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7887;Emmen;08VC;00;De Brummelbos;7887CD;ERICA;Drenthe;Bo;Rooms-Katholiek;45000;0;19;26;26;25;28;17;18;29;3;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;114;Emmen;7891;Emmen;08VC;00;De Brummelbos;7887CD;ERICA;Drenthe;Bo;Rooms-Katholiek;45000;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7764;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;31;41;43;32;32;43;33;32;9;0;0;0;0;0;0;0;0;0;0;0;0;0;296
+20171001;114;Emmen;7815;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7824;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7828;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7843;Coevorden;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;09OB;00;Kardinaal Alfrink-School;7812NX;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  30;ander land;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7765;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7884;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;22;33;23;20;23;27;24;24;4;0;0;0;0;0;0;0;0;0;0;0;0;0;200
+20171001;114;Emmen;7892;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7894;Emmen;10YR;00;St Henricus-School;7891KN;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7812;Emmen;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;12;13;8;6;5;12;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;114;Emmen;7824;Emmen;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;7;4;6;2;1;6;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;114;Emmen;7881;Emmen;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9561;Vlagtwedde;11CB;00;Kristalla;7823PS;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7741;Coevorden;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;15;18;19;17;19;17;17;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;114;Emmen;7813;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7814;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7824;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7873;Borger-Odoorn;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;11CZ;00;Het Palet;7812NX;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7824;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7889;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;18;20;20;13;16;11;12;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;114;Emmen;7892;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7894;Emmen;11MD;00;Pastoor Middelkoopschool;7891EK;KLAZIENAVEEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;11XJ;00;PC Bs de Triangel;7881KS;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;11XJ;00;PC Bs de Triangel;7881KS;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;11XJ;00;PC Bs de Triangel;7881KS;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;8;3;8;9;8;10;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;114;Emmen;  30;ander land;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7765;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7823;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7887;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7891;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;19;21;17;26;28;26;21;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;114;Emmen;7892;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7894;Emmen;11XM;00;De Brug;7891PR;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7881;Emmen;12GT;00;Basisschool Braakhekke;7881BH;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;1;7;10;10;5;6;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;114;Emmen;7884;Emmen;12GT;00;Basisschool Braakhekke;7881BH;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;12GT;00;Basisschool Braakhekke;7881BH;EMMER-COMPASCUUM;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  30;ander land;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7831;Emmen;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7843;Coevorden;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;12;9;14;10;8;15;14;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;114;Emmen;7894;Emmen;12GW;00;De Kap;7891LX;KLAZIENAVEEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;3;2;2;11;1;6;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;114;Emmen;7812;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;2;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7814;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7815;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;2;3;3;3;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;114;Emmen;7822;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;8;10;9;13;9;14;16;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;114;Emmen;7823;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;4;4;5;4;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;114;Emmen;7824;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;4;8;6;9;6;6;9;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;114;Emmen;7827;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7828;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7833;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;8431;Ooststellingwerf;16AH;00;OBS 't Eenspan;7822HG;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7771;Hardenberg;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;0;1;1;4;2;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;114;Emmen;7812;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;9;3;1;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;114;Emmen;7813;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7822;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;3;3;2;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;114;Emmen;7823;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7824;Emmen;16BX;00;OBS 2 Emmen Mr Vegter;7811LD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7812;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;6;1;4;4;3;4;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;114;Emmen;7815;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7822;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7823;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;2;2;1;3;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;114;Emmen;7831;Emmen;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;5;1;1;6;1;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;114;Emmen;7872;Borger-Odoorn;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9571;Borger-Odoorn;16DJ;00;OBS De Esdoorn;7814RC;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7811;Emmen;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7814;Emmen;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;4;6;10;6;7;7;9;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;114;Emmen;7822;Emmen;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7871;Borger-Odoorn;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9573;Borger-Odoorn;16HI;00;OBS Emmermeer;7815LB;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  30;ander land;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7766;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7812;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7824;Emmen;16MA;00;OBS Angelslo;7824HK;EMMEN;Drenthe;Bo;Openbaar;10249;0;30;32;35;41;39;34;40;44;5;0;0;0;0;0;0;0;0;0;0;0;0;0;300
+20171001;114;Emmen;  20;Duitsland;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7813;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;45;41;56;52;56;50;38;36;3;0;0;0;0;0;0;0;0;0;0;0;0;0;377
+20171001;114;Emmen;7824;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;3;0;4;3;1;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;114;Emmen;7881;Emmen;16NR;00;De Hasselbraam;7823NN;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7824;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;2;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7826;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;5;7;7;2;7;6;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;114;Emmen;7881;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7889;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7892;Emmen;16WN;00;OBS op 't Veld;7826EP;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  40;Onbekend;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;3311;Dordrecht;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;5126;Gilze en Rijen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;8;13;14;15;14;13;14;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;114;Emmen;7814;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;14;16;8;17;9;11;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;114;Emmen;7815;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;2;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7823;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7824;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7833;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7873;Borger-Odoorn;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7875;Borger-Odoorn;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7876;Borger-Odoorn;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9411;Midden-Drenthe;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9521;Borger-Odoorn;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9531;Borger-Odoorn;16XQ;00;OBS De Brink;7812PK;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;  30;ander land;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  40;Onbekend;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7811;Emmen;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;3;9;10;8;6;15;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;114;Emmen;7823;Emmen;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7824;Emmen;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;16YK;00;OBS De Barg;7812MD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  40;Onbekend;16ZQ;00;OBS De Meent;7881EG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7824;Emmen;16ZQ;00;OBS De Meent;7881EG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7881;Emmen;16ZQ;00;OBS De Meent;7881EG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;12;12;15;19;10;12;13;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;114;Emmen;7831;Emmen;17AE;00;De Bente OBS;7881HG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;17AE;00;De Bente OBS;7881HG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;13;16;15;17;18;13;11;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;114;Emmen;7884;Emmen;17AE;00;De Bente OBS;7881HG;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  20;Duitsland;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7831;Emmen;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7881;Emmen;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;12;15;13;21;18;10;17;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;114;Emmen;7887;Emmen;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7895;Emmen;17BC;00;OBS De Runde;7881HP;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7765;Emmen;17BL;00;OBS De Dreef;7881KL;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;17BL;00;OBS De Dreef;7881KL;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;17BL;00;OBS De Dreef;7881KL;EMMER-COMPASCUUM;Drenthe;Bo;Openbaar;10249;0;7;8;7;10;5;11;9;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;114;Emmen;7761;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7764;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7828;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7833;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7887;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;9;22;10;14;16;13;14;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;114;Emmen;7891;Emmen;17BU;00;OBS Erica De Anbrenge;7887AD;ERICA;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7885;Emmen;17CN;00;OBS De Planeet;7891CV;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;17CN;00;OBS De Planeet;7891CV;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;7;3;6;6;5;6;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;114;Emmen;7885;Emmen;17CW;00;OBS De Spil;7891LA;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;17CW;00;OBS De Spil;7891LA;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;7;5;7;3;8;10;11;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;114;Emmen;7894;Emmen;17CW;00;OBS De Spil;7891LA;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;2;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;9408;Assen;17CW;00;OBS De Spil;7891LA;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  20;Duitsland;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7843;Coevorden;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7884;Emmen;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;1;0;3;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7891;Emmen;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;28;31;22;27;15;17;20;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;114;Emmen;7892;Emmen;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7894;Emmen;17DG;00;OBS De Viersprong;7891PK;KLAZIENAVEEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7764;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;1;1;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7812;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7833;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;24;30;28;29;26;34;32;34;6;0;0;0;0;0;0;0;0;0;0;0;0;0;243
+20171001;114;Emmen;7843;Coevorden;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7844;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;5;13;13;11;13;16;15;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;114;Emmen;7845;Coevorden;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7887;Emmen;17DQ;00;OBS De Bascule;7833CH;NIEUW-AMSTERDAM;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;17EJ;00;OBS Dordse Til;7885AK;NIEUW-DORDRECHT;Drenthe;Bo;Openbaar;10249;0;12;13;16;16;11;16;11;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;114;Emmen;7889;Emmen;17EJ;00;OBS Dordse Til;7885AK;NIEUW-DORDRECHT;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;17EJ;00;OBS Dordse Til;7885AK;NIEUW-DORDRECHT;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;17FU;00;OBS 't Koppel;7831CJ;NIEUW-WEERDINGE;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7831;Emmen;17FU;00;OBS 't Koppel;7831CJ;NIEUW-WEERDINGE;Drenthe;Bo;Openbaar;10249;0;8;10;17;13;17;17;15;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;114;Emmen;7895;Emmen;17FU;00;OBS 't Koppel;7831CJ;NIEUW-WEERDINGE;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9561;Vlagtwedde;17FU;00;OBS 't Koppel;7831CJ;NIEUW-WEERDINGE;Drenthe;Bo;Openbaar;10249;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7741;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7742;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7761;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7765;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7773;Hardenberg;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7813;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7814;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7823;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7824;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;2;1;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7827;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7831;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7833;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7841;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7848;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7849;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7876;Borger-Odoorn;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7884;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7887;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7902;Hoogeveen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7904;Hoogeveen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7906;Hoogeveen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7916;Hoogeveen;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9336;Noordenveld;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9411;Midden-Drenthe;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9413;Midden-Drenthe;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9461;Aa en Hunze;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9502;Stadskanaal;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9511;Aa en Hunze;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9524;Borger-Odoorn;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9527;Borger-Odoorn;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9541;Vlagtwedde;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9551;Vlagtwedde;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;1;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;9581;Stadskanaal;17GW;10;Kentalis Tine Marcusschool;7823AD;EMMEN;Drenthe;So;Algemeen bijzonder;54679;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7823;Emmen;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7831;Emmen;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7881;Emmen;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7895;Emmen;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;5;5;5;2;7;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;114;Emmen;8101;Raalte;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;9561;Vlagtwedde;17JD;00;OBS De Dreske;7895AR;ROSWINKEL;Drenthe;Bo;Openbaar;10249;0;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;  20;Duitsland;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7764;Emmen;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7765;Emmen;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7843;Coevorden;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7884;Emmen;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7894;Emmen;17KM;00;OBS 't Swarte Meer;7894CL;ZWARTEMEER;Drenthe;Bo;Openbaar;10249;0;10;8;6;7;15;4;16;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;114;Emmen;  20;Duitsland;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;5;3;2;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;  30;ander land;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7741;Coevorden;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7742;Coevorden;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7756;Coevorden;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7761;Emmen;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;17;22;20;24;19;23;14;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;114;Emmen;7889;Emmen;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7891;Emmen;18HB;00;OBs De Iemenhof;7761BR;SCHOONEBEEK;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  20;Duitsland;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7742;Coevorden;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7761;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;1;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7765;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7766;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;2;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;7813;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7815;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7823;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;1;0;0;1;1;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;114;Emmen;7824;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;2;0;1;3;2;4;3;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;114;Emmen;7826;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;1;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7831;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7833;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7844;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7845;Coevorden;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7848;Coevorden;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7854;Coevorden;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7872;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7873;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7876;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;1;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7881;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;1;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7884;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;1;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7894;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7895;Emmen;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9527;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9531;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9561;Vlagtwedde;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;9571;Borger-Odoorn;19CO;00;SBO De Catamaran;7824TK;EMMEN;Drenthe;Sbo;Openbaar;10249;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7811;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;1;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7813;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7823;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7824;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7825;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7826;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;19;26;20;14;26;22;15;27;6;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;114;Emmen;7828;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;2;0;2;3;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;114;Emmen;7833;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7843;Coevorden;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7881;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7887;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7891;Emmen;21PS;00;OBS De Vlonder;7827HX;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;  40;Onbekend;21PT;00;De IJsvogel;7827PM;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7812;Emmen;21PT;00;De IJsvogel;7827PM;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;2;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7814;Emmen;21PT;00;De IJsvogel;7827PM;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;1;0;1;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7827;Emmen;21PT;00;De IJsvogel;7827PM;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;3;5;2;3;3;0;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;114;Emmen;7828;Emmen;21PT;00;De IJsvogel;7827PM;EMMEN;Drenthe;Bo;Protestants-Christelijk;41551;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7812;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;3;0;1;3;3;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;114;Emmen;7815;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7824;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7827;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;17;18;17;12;15;7;11;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;114;Emmen;7828;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;0;3;1;2;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;114;Emmen;7843;Coevorden;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7894;Emmen;21PU;00;RK Bs De Diedeldoorn;7827JV;EMMEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7783;Hardenberg;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7811;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;2;5;3;3;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;114;Emmen;7813;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;3;1;1;2;3;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;114;Emmen;7814;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7823;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7824;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7825;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;41;45;42;37;52;43;36;50;9;0;0;0;0;0;0;0;0;0;0;0;0;0;355
+20171001;114;Emmen;7828;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;6;8;10;8;17;10;6;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;114;Emmen;7833;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7848;Coevorden;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7885;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7887;Emmen;23RM;00;OBS De Lisdodde;7827SE;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;  20;Duitsland;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;2;1;4;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;114;Emmen;7812;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;2;2;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7813;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7814;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7815;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;16;18;21;14;12;8;8;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;114;Emmen;7822;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;4;5;1;5;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;114;Emmen;7823;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;4;1;4;5;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;114;Emmen;7824;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;2;1;3;3;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;114;Emmen;7826;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;2;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7828;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7831;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7843;Coevorden;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7851;Coevorden;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7854;Coevorden;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7871;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;2;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7872;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7873;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7874;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7875;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7876;Borger-Odoorn;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7881;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;114;Emmen;7887;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7892;Emmen;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;9551;Vlagtwedde;24ED;00;Openbare BS Montessori;7815VD;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7742;Coevorden;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7811;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;114;Emmen;7813;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;5;5;10;6;6;9;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;114;Emmen;7814;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;4;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;114;Emmen;7824;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7827;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7828;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7833;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;114;Emmen;7844;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;114;Emmen;7871;Borger-Odoorn;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7872;Borger-Odoorn;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7873;Borger-Odoorn;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7885;Emmen;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;9571;Borger-Odoorn;30AF;00;CB Het Talent;7814VH;EMMEN;Drenthe;Bo;Interconfessioneel;41551;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7812;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;1;1;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;114;Emmen;7813;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;5;5;2;6;3;10;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;114;Emmen;7814;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;114;Emmen;7815;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;114;Emmen;7827;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;3;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;114;Emmen;7828;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;114;Emmen;7891;Emmen;30AG;00;Delftlanden;7814VH;EMMEN;Drenthe;Bo;Openbaar;10249;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

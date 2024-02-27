@@ -1,0 +1,325 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;321;Houten;1214;Hilversum;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;1276;Huizen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;1427;De Ronde Venen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;2415;Bodegraven-Reeuwijk;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3401;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3401;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3402;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3402;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3403;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3404;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3404;IJsselstein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3411;Lopik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3411;Lopik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3417;Montfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3417;Montfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3421;Oudewater;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3431;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3432;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3432;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3434;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3434;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3436;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3437;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3437;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;6
+20171001;321;Houten;3438;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3438;Nieuwegein;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3443;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3443;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3445;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3446;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3448;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3448;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3451;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3452;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;321;Houten;3452;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3453;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3453;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3454;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3454;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3471;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3481;Woerden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3515;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3521;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3522;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3522;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3523;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3524;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3524;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3525;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3525;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3526;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3526;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3531;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3533;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3533;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3543;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3543;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3544;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;321;Houten;3551;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3552;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3554;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3555;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3561;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3562;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3564;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3564;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3582;Utrecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3603;Stichtse Vecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3605;Stichtse Vecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3621;Stichtse Vecht;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3645;De Ronde Venen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3703;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3704;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3705;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3706;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3708;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3721;De Bilt;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3722;De Bilt;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3723;De Bilt;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3732;De Bilt;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3734;Zeist;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3762;Soest;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3763;Soest;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3764;Soest;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3766;Soest;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3768;Soest;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3794;Barneveld;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3813;Amersfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3815;Amersfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3817;Amersfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3818;Amersfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3824;Amersfoort;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3831;Leusden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3902;Veenendaal;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3903;Veenendaal;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3905;Veenendaal;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3906;Veenendaal;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3931;Woudenberg;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3947;Wijk bij Duurstede;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3956;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3956;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3958;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3961;Wijk bij Duurstede;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3961;Wijk bij Duurstede;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;1;0;3;3;1;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3962;Wijk bij Duurstede;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;3;4;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;321;Houten;3971;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3972;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3972;Utrechtse Heuvelrug;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3981;Bunnik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3984;Bunnik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3984;Bunnik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3985;Bunnik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3985;Bunnik;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;1;1;5;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;321;Houten;3991;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;321;Houten;3992;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3992;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3993;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3993;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3994;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;1;2;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;321;Houten;3994;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;321;Houten;3995;Houten;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;4007;Tiel;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4102;Culemborg;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4105;Culemborg;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4116;Buren;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4117;Buren;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4124;Vianen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4131;Vianen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;4132;Vianen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;4133;Vianen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;4184;Neerijnen;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4221;Giessenlanden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4223;Giessenlanden;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;5321;Maasdriel;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;5327;Maasdriel;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;6621;West Maas en Waal;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;Vso;Algemeen bijzonder;40908;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;6824;Arnhem;02RF;01;Berg en Boschschool;3994AD;HOUTEN;Utrecht;So;Algemeen bijzonder;40908;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3985;Bunnik;03UE;00;Basisschool De Boogerd;3997ML;'T GOY;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3992;Houten;03UE;00;Basisschool De Boogerd;3997ML;'T GOY;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3994;Houten;03UE;00;Basisschool De Boogerd;3997ML;'T GOY;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3997;Houten;03UE;00;Basisschool De Boogerd;3997ML;'T GOY;Utrecht;Bo;Rooms-Katholiek;43318;0;3;2;2;2;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;321;Houten;3998;Houten;03UE;00;Basisschool De Boogerd;3997ML;'T GOY;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3432;Nieuwegein;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3439;Nieuwegein;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3981;Bunnik;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3984;Bunnik;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;1;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;321;Houten;3991;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;17;10;18;14;15;21;14;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;321;Houten;3992;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;7;5;10;2;7;9;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;321;Houten;3993;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;3;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;321;Houten;3994;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;6;6;5;6;5;4;7;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;321;Houten;3995;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3997;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;321;Houten;3998;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3999;Houten;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;321;Houten;4124;Vianen;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4131;Vianen;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4133;Vianen;04MJ;00;Johannes Bogermanschool;3991LC;HOUTEN;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3961;Wijk bij Duurstede;08OW;00;Basisschool St Michiel;3998KA;SCHALKWIJK;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3994;Houten;08OW;00;Basisschool St Michiel;3998KA;SCHALKWIJK;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3997;Houten;08OW;00;Basisschool St Michiel;3998KA;SCHALKWIJK;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3998;Houten;08OW;00;Basisschool St Michiel;3998KA;SCHALKWIJK;Utrecht;Bo;Rooms-Katholiek;43318;0;12;12;13;18;15;22;22;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;321;Houten;3999;Houten;08OW;00;Basisschool St Michiel;3998KA;SCHALKWIJK;Utrecht;Bo;Rooms-Katholiek;43318;0;3;3;2;1;5;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;321;Houten;3404;IJsselstein;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3433;Nieuwegein;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3437;Nieuwegein;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3526;Utrecht;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3972;Utrechtse Heuvelrug;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3981;Bunnik;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3984;Bunnik;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3991;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;4;3;4;5;11;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;321;Houten;3992;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;2;0;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;321;Houten;3993;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;7;5;8;6;15;11;9;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;321;Houten;3994;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;2;2;2;3;4;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;321;Houten;3995;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;1;2;4;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;321;Houten;3998;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3999;Houten;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;4102;Culemborg;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4103;Culemborg;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4132;Vianen;09IE;00;Basisschool Klavertje 4;3993GE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3571;Utrecht;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;2;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3992;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;3;2;4;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;321;Houten;3993;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;5;9;9;11;9;15;19;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;321;Houten;3994;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;7;4;5;12;8;9;11;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;321;Houten;3995;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;4;4;4;5;2;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;321;Houten;3997;Houten;09PZ;00;Het Mozaïek;3994BM;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3989;Vianen;09PZ;01;Het Mozaïek-De Haag;3999NT;TULL EN 'T WAAL;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3998;Houten;09PZ;01;Het Mozaïek-De Haag;3999NT;TULL EN 'T WAAL;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3999;Houten;09PZ;01;Het Mozaïek-De Haag;3999NT;TULL EN 'T WAAL;Utrecht;Bo;Protestants-Christelijk;41528;0;1;1;3;1;7;3;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;321;Houten;3991;Houten;10GR;00;'t Schoolhuys;3994CG;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;321;Houten;3992;Houten;10GR;00;'t Schoolhuys;3994CG;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3993;Houten;10GR;00;'t Schoolhuys;3994CG;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;15;17;14;17;11;17;10;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;321;Houten;3994;Houten;10GR;00;'t Schoolhuys;3994CG;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;8;9;10;10;18;9;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;321;Houten;3995;Houten;10GR;00;'t Schoolhuys;3994CG;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;2;3;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;321;Houten;3991;Houten;11LJ;00;Van Harte School;3991AA;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;19;24;18;18;21;22;31;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;169
+20171001;321;Houten;3992;Houten;11LJ;00;Van Harte School;3991AA;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;2;3;0;3;0;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;321;Houten;3993;Houten;11LJ;00;Van Harte School;3991AA;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;1;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;321;Houten;3994;Houten;11LJ;00;Van Harte School;3991AA;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3995;Houten;11LJ;00;Van Harte School;3991AA;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3434;Nieuwegein;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3437;Nieuwegein;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3438;Nieuwegein;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3526;Utrecht;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3554;Utrecht;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3769;Soest;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3972;Utrechtse Heuvelrug;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3985;Bunnik;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;25;26;21;18;16;17;14;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;321;Houten;3992;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;1;4;5;3;8;3;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;321;Houten;3993;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;5;4;1;4;2;4;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;321;Houten;3994;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;10;17;21;20;15;16;12;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;321;Houten;3995;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;3;1;1;6;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;321;Houten;3997;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3998;Houten;15FS;00;Eerste Montessorischool;3995AH;HOUTEN;Utrecht;Bo;Algemeen bijzonder;40350;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3991;Houten;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;16;20;11;16;9;14;9;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;321;Houten;3992;Houten;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;11;14;11;13;9;11;12;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;321;Houten;3993;Houten;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3994;Houten;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3995;Houten;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;4131;Vianen;21LO;00;Wereldwijs;3991WE;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3431;Nieuwegein;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3523;Utrecht;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;7;8;5;9;9;6;14;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;321;Houten;3992;Houten;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;15;11;15;7;13;8;12;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;321;Houten;3993;Houten;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3994;Houten;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3995;Houten;21LP;00;OBS De Bijenkorf;3992BK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3432;Nieuwegein;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3451;Utrecht;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;6;3;0;1;5;3;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;321;Houten;3992;Houten;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;10;10;12;19;21;10;17;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;321;Houten;3993;Houten;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3994;Houten;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3995;Houten;21NR;00;De Zevensprong;3992RD;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;1079;Amsterdam;22KN;00;OBS De Brug;3994EK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3991;Houten;22KN;00;OBS De Brug;3994EK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;2;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;321;Houten;3993;Houten;22KN;00;OBS De Brug;3994EK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;6;4;4;7;3;3;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;321;Houten;3994;Houten;22KN;00;OBS De Brug;3994EK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;4;5;4;7;7;13;9;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;321;Houten;3995;Houten;22KN;00;OBS De Brug;3994EK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;2;1;1;1;6;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;321;Houten;3435;Nieuwegein;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3561;Utrecht;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3585;Utrecht;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3945;Wijk bij Duurstede;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3981;Bunnik;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3985;Bunnik;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;2;4;1;2;6;8;15;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;321;Houten;3992;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;0;1;2;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;321;Houten;3993;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;3;2;3;4;7;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;321;Houten;3994;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;2;0;3;4;2;6;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;321;Houten;3995;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;2;1;1;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;321;Houten;3997;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3998;Houten;23EZ;00;SSBO De Wissel;3991WX;HOUTEN;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;0;1;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3984;Bunnik;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;2;2;3;4;5;7;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;321;Houten;3992;Houten;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;2;2;2;4;1;2;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;321;Houten;3993;Houten;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;4;3;3;4;5;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;321;Houten;3994;Houten;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;2;5;1;3;7;0;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;321;Houten;3995;Houten;24ET;00;Gereformeerde Basissch;3993GA;HOUTEN;Utrecht;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;  40;Onbekend;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3564;Utrecht;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3991;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;2;0;0;2;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;321;Houten;3992;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3993;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3994;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;15;23;22;37;40;30;33;36;2;0;0;0;0;0;0;0;0;0;0;0;0;0;238
+20171001;321;Houten;3995;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;1;1;2;3;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;321;Houten;3997;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3998;Houten;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;4191;Geldermalsen;26AL;00;OBS Ridderspoor;3994TK;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3432;Nieuwegein;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3434;Nieuwegein;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3985;Bunnik;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;3;4;0;5;6;2;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;321;Houten;3992;Houten;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3994;Houten;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;13;17;12;21;27;33;29;41;1;0;0;0;0;0;0;0;0;0;0;0;0;0;194
+20171001;321;Houten;3995;Houten;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;2;2;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3998;Houten;26AM;00;BS De Fontein;3994KA;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3972;Utrechtse Heuvelrug;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3984;Bunnik;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;1;2;1;6;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;321;Houten;3992;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3993;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3994;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;44;38;38;40;38;36;31;49;2;0;0;0;0;0;0;0;0;0;0;0;0;0;316
+20171001;321;Houten;3995;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;7;3;3;2;4;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;321;Houten;3997;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3998;Houten;26AN;00;RK BS De Vlinder;3994PB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3431;Nieuwegein;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3958;Utrechtse Heuvelrug;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3962;Wijk bij Duurstede;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3981;Bunnik;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3991;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;60;47;78;65;60;57;39;45;8;0;0;0;0;0;0;0;0;0;0;0;0;0;459
+20171001;321;Houten;3992;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3993;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3994;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;2;3;2;3;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;321;Houten;3995;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;3;3;6;5;2;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;321;Houten;3997;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3998;Houten;27JR;00;OBS De Plantage;3991ZE;HOUTEN;Utrecht;Bo;Openbaar;41866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;  30;ander land;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3561;Utrecht;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3704;Zeist;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;33;44;53;64;70;64;63;63;1;0;0;0;0;0;0;0;0;0;0;0;0;0;455
+20171001;321;Houten;3992;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3993;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3994;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;3;3;4;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;321;Houten;3995;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;5;9;1;5;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;321;Houten;3997;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3999;Houten;27JT;00;RK Basisschool De Stek;3991SW;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;  30;ander land;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3432;Nieuwegein;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3438;Nieuwegein;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3524;Utrecht;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;30;45;42;51;37;56;35;49;1;0;0;0;0;0;0;0;0;0;0;0;0;0;346
+20171001;321;Houten;3992;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;321;Houten;3993;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;321;Houten;3994;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;10;10;7;4;9;11;4;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;321;Houten;3995;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;2;1;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;321;Houten;3999;Houten;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;5223;'s-Hertogenbosch;27JU;00;Basissch De Zonnewijzer;3991MV;HOUTEN;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3991;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;17;17;26;19;13;25;24;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;321;Houten;3992;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;321;Houten;3993;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;321;Houten;3994;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;26;24;29;28;30;31;31;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;321;Houten;3995;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;18;9;6;4;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;321;Houten;3997;Houten;30RD;00;Aventurijn;3994MB;HOUTEN;Utrecht;Bo;Rooms-Katholiek;43318;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5

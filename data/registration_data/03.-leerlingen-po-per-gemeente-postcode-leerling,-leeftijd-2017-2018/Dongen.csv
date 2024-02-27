@@ -1,0 +1,95 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;766;Dongen;5102;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5103;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;766;Dongen;5104;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5105;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5106;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;6;6;7;9;5;6;9;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;766;Dongen;5109;Dongen;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5171;Loon op Zand;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5172;Loon op Zand;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5176;Loon op Zand;03PK;00;Basissch Sint Agnes;5106NE;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5102;Dongen;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5103;Dongen;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5106;Dongen;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5109;Dongen;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;8;6;4;5;11;9;5;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;766;Dongen;5171;Loon op Zand;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5688;Oirschot;04GF;00;OBS De Springplank;5109TG;'S GRAVENMOER;Noord-Brabant;Bo;Openbaar;41435;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5047;Tilburg;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5061;Oisterwijk;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;766;Dongen;5101;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;4;3;5;1;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;766;Dongen;5102;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;766;Dongen;5103;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;2;0;4;3;1;3;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;766;Dongen;5104;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;12;12;15;10;12;16;17;16;7;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;766;Dongen;5105;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;766;Dongen;5107;Dongen;05GM;00;RK Basisschool Sint Jan;5104CL;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4909;Oosterhout;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5047;Tilburg;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;766;Dongen;5102;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;1;1;0;2;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;766;Dongen;5103;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;24;24;20;19;21;34;22;28;5;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;766;Dongen;5104;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;13;8;15;10;8;10;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;766;Dongen;5105;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;3;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;766;Dongen;5106;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5109;Dongen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;766;Dongen;5121;Gilze en Rijen;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5222;'s-Hertogenbosch;05GP;00;RK Basissch Achterberg;5104EG;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;05OM;00;PC Basissch De Wegwijzer;5109TD;'S GRAVENMOER;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5102;Dongen;05OM;00;PC Basissch De Wegwijzer;5109TD;'S GRAVENMOER;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5103;Dongen;05OM;00;PC Basissch De Wegwijzer;5109TD;'S GRAVENMOER;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5109;Dongen;05OM;00;PC Basissch De Wegwijzer;5109TD;'S GRAVENMOER;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;10;17;8;12;4;12;11;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;766;Dongen;  40;Onbekend;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4849;Oosterhout;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4909;Oosterhout;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5025;Tilburg;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;7;11;3;3;7;3;7;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;766;Dongen;5102;Dongen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;16;17;20;25;20;25;20;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;766;Dongen;5103;Dongen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;1;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;766;Dongen;5104;Dongen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5106;Dongen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5121;Gilze en Rijen;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5171;Loon op Zand;07UD;00;Basissch De Vlinderboom;5102XS;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5101;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;13;14;17;14;7;13;8;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;766;Dongen;5102;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;2;2;1;2;1;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;766;Dongen;5103;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;3;4;4;3;2;3;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;766;Dongen;5104;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;11;14;13;12;15;10;20;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;766;Dongen;5105;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5106;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5109;Dongen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5126;Gilze en Rijen;08PJ;00;J.J. Anspachschool;5101BD;DONGEN;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4824;Breda;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;4903;Oosterhout;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4909;Oosterhout;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;766;Dongen;5102;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;1;2;1;2;3;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;766;Dongen;5103;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;12;10;22;20;24;21;19;14;4;2;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;766;Dongen;5104;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;766;Dongen;5106;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5109;Dongen;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5161;Waalwijk;09QZ;00;Basissch De Biezenkring;5103HG;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4903;Oosterhout;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4906;Oosterhout;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4909;Oosterhout;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5071;Tilburg;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;5;9;6;4;3;6;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;766;Dongen;5102;Dongen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;32;27;41;27;25;24;19;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;766;Dongen;5103;Dongen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;2;8;11;8;4;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;766;Dongen;5104;Dongen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;5;6;10;8;5;8;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;766;Dongen;5106;Dongen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;766;Dongen;5121;Gilze en Rijen;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5171;Loon op Zand;10JL;00;Basisschool Heilig Hart;5104JN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;  30;ander land;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4944;Geertruidenberg;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;4;4;6;4;6;6;10;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;766;Dongen;5102;Dongen;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;1;5;1;4;8;4;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;766;Dongen;5103;Dongen;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;1;1;1;2;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;766;Dongen;5104;Dongen;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5146;Waalwijk;10KX;00;Basisschool Westerkim;5102DC;DONGEN;Noord-Brabant;Bo;Openbaar;41435;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;4903;Oosterhout;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;766;Dongen;5025;Tilburg;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5101;Dongen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;766;Dongen;5102;Dongen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;5;5;2;3;5;5;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;766;Dongen;5103;Dongen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;13;9;16;16;18;11;19;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;766;Dongen;5104;Dongen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;2;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;766;Dongen;5109;Dongen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;766;Dongen;5121;Gilze en Rijen;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;766;Dongen;5251;Heusden;10ZI;00;De Noorderpoort;5103GN;DONGEN;Noord-Brabant;Bo;Rooms-Katholiek;40672;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

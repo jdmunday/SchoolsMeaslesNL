@@ -1,0 +1,91 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;553;Lisse;2151;Haarlemmermeer;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2152;Haarlemmermeer;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2161;Lisse;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;1;4;0;1;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;553;Lisse;2162;Lisse;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;2;1;3;5;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;553;Lisse;2163;Lisse;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2165;Haarlemmermeer;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;553;Lisse;2171;Teylingen;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;1;1;0;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;553;Lisse;2172;Teylingen;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;2;2;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;553;Lisse;2182;Hillegom;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2191;Noordwijkerhout;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2201;Noordwijk;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;553;Lisse;2202;Noordwijk;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2211;Noordwijkerhout;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;2;0;1;3;4;6;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;553;Lisse;2215;Teylingen;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;1;0;1;3;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;553;Lisse;2343;Oegstgeest;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2371;Kaag en Braassem;02SO;00;SSBO Don Bosco;2162VW;LISSE;Zuid-Holland;Sbo;Rooms-Katholiek;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2161;Lisse;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;9;10;6;7;4;7;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;553;Lisse;2162;Lisse;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;3;1;2;2;0;5;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;553;Lisse;2163;Lisse;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;4;9;7;12;11;8;10;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;553;Lisse;2165;Haarlemmermeer;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;1;2;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;553;Lisse;2181;Hillegom;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2182;Hillegom;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;553;Lisse;2211;Noordwijkerhout;03HD;00;Basisschool De Lisbloem;2163AJ;LISSE;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2131;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2136;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2141;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2151;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;1;2;0;3;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;553;Lisse;2152;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;3;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;553;Lisse;2153;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2157;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;1;4;0;3;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;553;Lisse;2158;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2161;Lisse;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;22;17;21;13;21;15;12;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;553;Lisse;2162;Lisse;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;6;2;4;0;4;5;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;553;Lisse;2163;Lisse;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2165;Haarlemmermeer;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;2;3;2;2;1;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;553;Lisse;2181;Hillegom;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2182;Hillegom;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;1;2;1;4;1;0;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;553;Lisse;2191;Noordwijkerhout;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;553;Lisse;2202;Noordwijk;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2215;Teylingen;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2352;Leiderdorp;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2361;Teylingen;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2451;Kaag en Braassem;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2481;Kaag en Braassem;03HE;00;Basisschool De Akker;2161HB;LISSE;Zuid-Holland;Bo;Reformatorisch;22765;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2161;Lisse;05CM;00;Basisschool Beekbrug;2161DC;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;4;1;5;1;5;5;7;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;553;Lisse;2171;Teylingen;05CM;00;Basisschool Beekbrug;2161DC;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;4;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;553;Lisse;2172;Teylingen;05CM;00;Basisschool Beekbrug;2161DC;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;553;Lisse;2253;Voorschoten;05CM;00;Basisschool Beekbrug;2161DC;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2318;Leiden;05CM;00;Basisschool Beekbrug;2161DC;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2161;Lisse;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;14;16;21;19;20;30;18;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;553;Lisse;2162;Lisse;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;20;14;20;22;16;24;22;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;553;Lisse;2163;Lisse;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;2;4;7;5;12;4;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;553;Lisse;2165;Haarlemmermeer;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;553;Lisse;2171;Teylingen;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2172;Teylingen;05ZF;00;De Tweemaster;2161KL;LISSE;Zuid-Holland;Bo;Openbaar;41362;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2161;Lisse;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;2;9;4;6;6;3;4;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;553;Lisse;2162;Lisse;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;11;7;15;10;15;13;7;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;553;Lisse;2163;Lisse;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2165;Haarlemmermeer;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2171;Teylingen;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;553;Lisse;2172;Teylingen;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2191;Noordwijkerhout;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2211;Noordwijkerhout;07DI;00;Jenaplansch De Waterval;2162JK;LISSE;Zuid-Holland;Bo;Algemeen bijzonder;82747;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;1422;Uithoorn;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2161;Lisse;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;5;13;5;9;6;4;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;553;Lisse;2162;Lisse;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;32;48;44;36;44;35;43;29;6;0;0;0;0;0;0;0;0;0;0;0;0;0;317
+20171001;553;Lisse;2163;Lisse;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;553;Lisse;2165;Haarlemmermeer;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;553;Lisse;2181;Hillegom;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2182;Hillegom;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2201;Noordwijk;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2216;Teylingen;08YP;00;Basisschool De Klarinet;2162AG;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;1065;Amsterdam;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2152;Haarlemmermeer;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2161;Lisse;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;28;21;39;32;33;20;32;29;4;0;0;0;0;0;0;0;0;0;0;0;0;0;238
+20171001;553;Lisse;2162;Lisse;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;2;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;553;Lisse;2163;Lisse;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;4;2;4;5;7;9;8;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;553;Lisse;2182;Hillegom;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2211;Noordwijkerhout;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;553;Lisse;2215;Teylingen;09WE;00;St Joseph-School;2161GA;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2033;Haarlem;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2151;Haarlemmermeer;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2158;Haarlemmermeer;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2161;Lisse;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;31;25;21;23;16;15;13;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;553;Lisse;2162;Lisse;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;553;Lisse;2163;Lisse;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;6;9;8;5;8;3;1;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;553;Lisse;2165;Haarlemmermeer;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2181;Hillegom;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;553;Lisse;2182;Hillegom;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;553;Lisse;2211;Noordwijkerhout;10OY;00;Basissch St Willibrordus;2161KH;LISSE;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

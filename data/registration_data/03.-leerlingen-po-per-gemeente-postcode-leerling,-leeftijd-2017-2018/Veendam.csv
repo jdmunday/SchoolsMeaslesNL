@@ -1,0 +1,161 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;47;Veendam;9631;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9641;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;1;1;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;47;Veendam;9642;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;20;31;23;24;36;30;31;31;6;1;0;0;0;0;0;0;0;0;0;0;0;0;233
+20171001;47;Veendam;9644;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9646;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9648;Veendam;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;3;1;3;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;47;Veendam;9649;Menterwolde;13GU;00;OBS de Viermaster;9642KX;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9605;Hoogezand-Sappemeer;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9631;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9636;Menterwolde;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9641;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;9;8;8;6;4;11;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;47;Veendam;9642;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;3;5;9;5;7;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;47;Veendam;9644;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9645;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;6;8;8;9;4;3;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;47;Veendam;9646;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;19;19;20;27;25;20;23;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;47;Veendam;9648;Veendam;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9649;Menterwolde;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9678;Oldambt;13QO;00;Obs de Braskorf;9646DC;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;5506;Veldhoven;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9611;Hoogezand-Sappemeer;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9641;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;5;3;8;7;8;6;4;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;47;Veendam;9642;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;2;1;2;3;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;47;Veendam;9644;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9645;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;9;12;19;8;12;10;10;12;5;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;47;Veendam;9646;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9648;Veendam;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9649;Menterwolde;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9663;Pekela;13UO;00;OBS De Noorderbreedte;9645PK;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9631;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9636;Menterwolde;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9641;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;1;2;0;3;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;47;Veendam;9642;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;11;11;9;6;8;10;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;47;Veendam;9644;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9645;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9648;Veendam;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;22;28;20;33;28;30;24;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;47;Veendam;9651;Menterwolde;14EK;00;OBS Westerschool;9648AJ;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9365;Marum;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9447;Aa en Hunze;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9461;Aa en Hunze;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9464;Aa en Hunze;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9503;Stadskanaal;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9512;Aa en Hunze;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9581;Stadskanaal;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9641;Veendam;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9642;Veendam;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9646;Veendam;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9648;Veendam;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;16;5;12;14;13;11;14;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;47;Veendam;9659;Aa en Hunze;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9665;Pekela;14HC;00;OPB Basisschool;9648KK;WILDERVANK;Groningen;Bo;Openbaar;41780;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9591;Stadskanaal;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9631;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9632;Menterwolde;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9641;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;9;13;20;13;13;13;12;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;47;Veendam;9642;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;18;24;26;20;28;19;19;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;174
+20171001;47;Veendam;9644;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;1;2;1;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;47;Veendam;9645;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;2;2;1;2;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;47;Veendam;9646;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;2;0;2;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;47;Veendam;9648;Veendam;15DL;00;Basisschool Mgr Bekkers;9641LT;VEENDAM;Groningen;Bo;Rooms-Katholiek;45000;0;8;10;12;9;12;8;7;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;47;Veendam;9641;Veendam;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9642;Veendam;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9644;Veendam;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;6;5;6;4;5;9;5;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;47;Veendam;9649;Menterwolde;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9663;Pekela;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9671;Oldambt;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9791;Ten Boer;15EP;00;Obs de Ommewending;9644VL;VEENDAM;Groningen;Bo;Openbaar;41780;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9581;Stadskanaal;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9631;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9641;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;2;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9642;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;7;13;11;8;15;6;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;47;Veendam;9644;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9645;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9646;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9648;Veendam;15FJ;00;Bs t Haimstee;9642HW;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;3;7;3;6;8;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;47;Veendam;9512;Aa en Hunze;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9514;Aa en Hunze;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9631;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9641;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;3;9;4;9;8;11;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;47;Veendam;9642;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;4;3;3;2;7;0;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;47;Veendam;9644;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9645;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;12;15;20;16;16;11;14;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;47;Veendam;9646;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;2;2;7;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;47;Veendam;9648;Veendam;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9649;Menterwolde;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;1;0;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9663;Pekela;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9937;Delfzijl;15LG;00;Basisschool de Kern;9645AL;VEENDAM;Groningen;Bo;Protestants-Christelijk;41845;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9461;Aa en Hunze;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9471;Tynaarlo;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9511;Aa en Hunze;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9515;Aa en Hunze;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9605;Hoogezand-Sappemeer;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9611;Hoogezand-Sappemeer;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9627;Slochteren;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9635;Menterwolde;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9636;Menterwolde;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9641;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;4;0;0;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;47;Veendam;9642;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;1;3;4;6;2;6;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;47;Veendam;9644;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9645;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;1;0;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;47;Veendam;9646;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9648;Veendam;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;1;2;0;1;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;47;Veendam;9649;Menterwolde;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;47;Veendam;9654;Aa en Hunze;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9658;Aa en Hunze;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9663;Pekela;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;2;0;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;47;Veendam;9665;Pekela;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9673;Oldambt;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9791;Ten Boer;19TV;00;SBO Wim Monnereau;9641LJ;VEENDAM;Groningen;Sbo;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9403;Assen;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9503;Stadskanaal;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9602;Hoogezand-Sappemeer;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9605;Hoogezand-Sappemeer;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9631;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9632;Menterwolde;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9636;Menterwolde;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9641;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;15;8;9;4;4;6;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;47;Veendam;9642;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;5;9;9;3;9;7;2;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;47;Veendam;9644;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;4;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;47;Veendam;9645;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;7;3;5;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;47;Veendam;9646;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;47;Veendam;9648;Veendam;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;3;0;0;4;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;47;Veendam;9649;Menterwolde;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;2;4;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;47;Veendam;9651;Menterwolde;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9663;Pekela;23DM;00;Jenaplansch in de Manne;9646BA;VEENDAM;Groningen;Bo;Algemeen bijzonder;45000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9461;Aa en Hunze;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9468;Aa en Hunze;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9511;Aa en Hunze;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9601;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9601;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9602;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9602;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9605;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9607;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9608;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9608;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9611;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9611;Hoogezand-Sappemeer;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9617;Slochteren;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9628;Slochteren;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9628;Slochteren;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9631;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9635;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9635;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9636;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9636;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9641;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9642;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;4;3;0;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;47;Veendam;9642;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;2;1;5;0;2;3;0;0;0;0;0;0;0;13
+20171001;47;Veendam;9644;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9644;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9645;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9645;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;4;1;3;1;0;0;0;0;0;0;0;0;10
+20171001;47;Veendam;9648;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;47;Veendam;9648;Veendam;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9649;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;47;Veendam;9649;Menterwolde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;2;0;2;1;0;0;0;0;0;0;0;0;6
+20171001;47;Veendam;9663;Pekela;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;So;Openbaar;41780;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9663;Pekela;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9665;Pekela;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;47;Veendam;9697;Bellingwedde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;47;Veendam;9699;Bellingwedde;26NL;00;M.H.School ZMLK;9641JW;VEENDAM;Groningen;Vso;Openbaar;41780;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1

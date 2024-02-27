@@ -1,0 +1,462 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1945;Berg en Dal;5351;Oss;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5432;Cuijk;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5831;Boxmeer;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5844;Sint Anthonis;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6515;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6521;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6523;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6524;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6525;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6531;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6532;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6533;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6534;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6536;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6537;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6538;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;2;1;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1945;Berg en Dal;6541;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6542;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6544;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6546;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6551;Beuningen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6562;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6566;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6571;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6572;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6573;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6574;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6576;Berg en Dal;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6581;Heumen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6582;Heumen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6591;Gennep;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6596;Gennep;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6601;Wijchen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6604;Wijchen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6605;Wijchen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6615;Wijchen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6641;Beuningen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6642;Beuningen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6645;Beuningen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6651;Druten;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6653;Druten;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6654;Druten;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6661;Overbetuwe;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6662;Overbetuwe;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6663;Nijmegen;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6678;Overbetuwe;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6681;Lingewaard;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6691;Lingewaard;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6832;Arnhem;00ON;00;Entrea Onderwijs Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5301;Zaltbommel;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5432;Cuijk;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5451;Mill en Sint Hubert;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6511;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6521;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6531;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6532;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6533;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6535;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6537;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6538;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6543;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6546;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6562;Berg en Dal;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6566;Berg en Dal;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6574;Berg en Dal;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6581;Heumen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6582;Heumen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6601;Wijchen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6602;Wijchen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6603;Wijchen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6605;Wijchen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6612;Heumen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6627;West Maas en Waal;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6641;Beuningen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6644;Beuningen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6651;Druten;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6663;Nijmegen;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6675;Overbetuwe;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6691;Lingewaard;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6851;Lingewaard;00ON;01;PI Sch Ubbergen Nijmegen;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;32216;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;  20;Duitsland;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3068;Rotterdam;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4001;Tiel;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;4002;Tiel;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4003;Tiel;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;4007;Tiel;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4033;Buren;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;4041;Neder-Betuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4051;Neder-Betuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5346;Oss;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5348;Oss;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5351;Oss;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5361;Grave;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;5363;Grave;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5364;Grave;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5373;Oss;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5374;Landerd;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5384;Bernheze;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5403;Uden;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5411;Landerd;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5431;Cuijk;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;1;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;5432;Cuijk;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5434;Cuijk;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5437;Cuijk;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5441;Boxmeer;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5443;Cuijk;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5446;Sint Anthonis;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5451;Mill en Sint Hubert;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5455;Mill en Sint Hubert;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5801;Venray;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5809;Venray;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5827;Boxmeer;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5831;Boxmeer;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5841;Sint Anthonis;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5845;Sint Anthonis;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5853;Bergen (L.);00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5854;Bergen (L.);00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5971;Horst aan de Maas;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6512;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6515;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6522;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6524;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6525;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6531;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6532;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6533;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6535;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6536;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6537;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;2;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6538;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;2;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;6541;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6542;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6543;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;2;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1945;Berg en Dal;6544;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6545;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6546;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;3;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1945;Berg en Dal;6551;Beuningen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6562;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6566;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6573;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6574;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6576;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6578;Berg en Dal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6581;Heumen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;2;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;6582;Heumen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6585;Mook en Middelaar;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6587;Mook en Middelaar;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6591;Gennep;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6595;Gennep;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6596;Gennep;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6601;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;2;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1945;Berg en Dal;6602;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6603;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6604;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6605;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6611;Heumen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6617;Wijchen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6621;West Maas en Waal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6627;West Maas en Waal;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6631;Druten;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6641;Beuningen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6642;Beuningen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;1;0;2;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1945;Berg en Dal;6651;Druten;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6652;Druten;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6653;Druten;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6661;Overbetuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6662;Overbetuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6663;Nijmegen;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6669;Neder-Betuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6671;Overbetuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6678;Overbetuwe;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6681;Lingewaard;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6686;Lingewaard;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6691;Lingewaard;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6852;Lingewaard;00OS;00;St Maartensch;6574NA;UBBERGEN;Gelderland;So;Rooms-Katholiek;41331;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;  20;Duitsland;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6523;Nijmegen;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;1;2;0;2;0;1;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1945;Berg en Dal;6562;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;1;0;0;6;2;6;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1945;Berg en Dal;6566;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;1;0;0;0;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1945;Berg en Dal;6571;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6573;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6574;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6576;Berg en Dal;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6581;Heumen;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;2;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;6582;Heumen;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6611;Heumen;01GQ;00;RK SSBO Carolus;6561AR;GROESBEEK;Gelderland;Sbo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;1107;Amsterdam;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;1403;Gooise Meren;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;1985;Velsen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;2401;Alphen aan den Rijn;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3024;Rotterdam;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3813;Amersfoort;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3904;Veenendaal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3911;Rhenen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;4003;Tiel;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;4023;Buren;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4031;Buren;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4033;Buren;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4041;Neder-Betuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4051;Neder-Betuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4061;Neerijnen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4194;Geldermalsen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4197;Geldermalsen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4462;Goes;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5012;Tilburg;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5271;Sint-Michielsgestel;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5346;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5351;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5352;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5356;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5363;Grave;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;5371;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;5373;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5384;Bernheze;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5386;Oss;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5388;Bernheze;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5401;Uden;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5402;Uden;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5403;Uden;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5408;Uden;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5421;Gemert-Bakel;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5431;Cuijk;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5432;Cuijk;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5438;Grave;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5451;Mill en Sint Hubert;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5641;Eindhoven;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5801;Venray;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5803;Venray;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5821;Boxmeer;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5826;Boxmeer;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5831;Boxmeer;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5835;Boxmeer;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5844;Sint Anthonis;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5855;Bergen (L.);01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5865;Horst aan de Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5912;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;5913;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5914;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5915;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5926;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5941;Venlo;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;5953;Beesel;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5962;Horst aan de Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5975;Horst aan de Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5991;Peel en Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5993;Peel en Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5995;Peel en Maas;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6086;Leudal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6515;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6521;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6523;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6531;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6532;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6533;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6535;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6536;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6538;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6541;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6542;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6543;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;3;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6544;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6545;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6546;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;3;5;6;7;2;2;0;0;0;0;0;0;25
+20171001;1945;Berg en Dal;6562;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6566;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6573;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6576;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6579;Berg en Dal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6581;Heumen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;1;2;1;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;6586;Mook en Middelaar;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6591;Gennep;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6601;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6602;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6603;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6604;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6605;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6617;Wijchen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6621;West Maas en Waal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6629;West Maas en Waal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6641;Beuningen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6645;Beuningen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6651;Druten;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6653;Druten;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6654;Druten;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6655;Druten;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6657;West Maas en Waal;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6661;Overbetuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6662;Overbetuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6663;Nijmegen;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6666;Overbetuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6669;Neder-Betuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6675;Overbetuwe;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6681;Lingewaard;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6686;Lingewaard;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6823;Arnhem;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6851;Lingewaard;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6852;Lingewaard;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6862;Renkum;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6865;Renkum;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6904;Zevenaar;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6981;Doesburg;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;7383;Voorst;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;7471;Hof van Twente;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;8031;Zwolle;01JR;00;VSO School Werkenrode;6561KE;GROESBEEK;Gelderland;Vso;Algemeen bijzonder;41331;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;3;4;3;2;2;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1945;Berg en Dal;  30;ander land;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;10;10;12;7;10;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;1945;Berg en Dal;  40;Onbekend;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6523;Nijmegen;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6533;Nijmegen;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6571;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6572;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6573;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;24;25;20;34;22;31;40;26;5;0;0;0;0;0;0;0;0;0;0;0;0;0;227
+20171001;1945;Berg en Dal;6574;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;2;0;1;2;4;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1945;Berg en Dal;6575;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6576;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;1;0;1;0;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1945;Berg en Dal;6577;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;1;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6578;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6579;Berg en Dal;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6595;Gennep;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6663;Nijmegen;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6681;Lingewaard;03RL;00;De Biezenkamp;6573BH;BEEK-UBBERGEN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6566;Berg en Dal;05DO;00;t bijenveld;6578AR;LEUTH;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6578;Berg en Dal;05DO;00;t bijenveld;6578AR;LEUTH;Gelderland;Bo;Rooms-Katholiek;40814;0;17;13;14;18;16;12;16;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;1945;Berg en Dal;6541;Nijmegen;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6571;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6573;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6575;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6576;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;10;22;21;18;16;20;16;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;1945;Berg en Dal;6577;Berg en Dal;05DP;00;Basisschool Op Weg;6576AW;OOIJ;Gelderland;Bo;Rooms-Katholiek;40814;0;1;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;  20;Duitsland;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;2;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1945;Berg en Dal;  30;ander land;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6561;Berg en Dal;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;21;16;15;14;15;14;18;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;1945;Berg en Dal;6562;Berg en Dal;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;4;13;9;9;4;8;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;1945;Berg en Dal;6571;Berg en Dal;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6578;Berg en Dal;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6582;Heumen;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6604;Wijchen;05ON;00;Bs Adelbrecht Windekind;6561AR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;0;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1945;Berg en Dal;  30;ander land;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6538;Nijmegen;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;3;2;1;3;2;2;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1945;Berg en Dal;6562;Berg en Dal;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;22;23;18;18;27;18;16;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;1945;Berg en Dal;6571;Berg en Dal;06BC;00;Basisschool De Sieppe;6562XK;GROESBEEK;Gelderland;Bo;Openbaar;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  30;ander land;06KG;00;Op de Heuvel;6561VX;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6561;Berg en Dal;06KG;00;Op de Heuvel;6561VX;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;19;9;14;16;10;9;13;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;1945;Berg en Dal;6562;Berg en Dal;06KG;00;Op de Heuvel;6561VX;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;1;2;0;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1945;Berg en Dal;6663;Nijmegen;06KG;00;Op de Heuvel;6561VX;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;2;3;3;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1945;Berg en Dal;  30;ander land;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;2;1;0;0;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1945;Berg en Dal;5831;Boxmeer;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5835;Boxmeer;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;5;5;1;5;4;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;1945;Berg en Dal;6562;Berg en Dal;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;5;17;12;17;11;13;14;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;1945;Berg en Dal;6571;Berg en Dal;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6591;Gennep;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6596;Gennep;06PF;00;Basisschool Op de Horst;6562LR;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;  30;ander land;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;0;1;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1945;Berg en Dal;2729;Zoetermeer;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6537;Nijmegen;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6566;Berg en Dal;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;3;6;0;4;4;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1945;Berg en Dal;6579;Berg en Dal;06YI;00;Basissch St Laurentius;6579AN;KEKERDOM;Gelderland;Bo;Rooms-Katholiek;40814;0;1;2;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1945;Berg en Dal;  20;Duitsland;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;  30;ander land;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;  40;Onbekend;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6523;Nijmegen;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6537;Nijmegen;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6542;Nijmegen;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6564;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6571;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;6;15;11;10;8;7;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;1945;Berg en Dal;6572;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;6573;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6578;Berg en Dal;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;7001;Doetinchem;07QP;00;Basissch Titus Brandsma;6571BV;BERG EN DAL;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1945;Berg en Dal;  30;ander land;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1945;Berg en Dal;1222;Hilversum;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6531;Nijmegen;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6543;Nijmegen;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6566;Berg en Dal;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;31;35;53;52;43;56;52;46;7;0;0;0;0;0;0;0;0;0;0;0;0;0;375
+20171001;1945;Berg en Dal;6579;Berg en Dal;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6678;Overbetuwe;07VC;00;Basisschool St Martinus;6566DV;MILLINGEN AAN DE RIJN;Gelderland;Bo;Rooms-Katholiek;40814;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  30;ander land;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5361;Grave;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5432;Cuijk;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5855;Bergen (L.);08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6535;Nijmegen;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;2;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;6562;Berg en Dal;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;15;14;26;17;23;19;26;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;1945;Berg en Dal;6578;Berg en Dal;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6581;Heumen;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6596;Gennep;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;7206;Zutphen;08MN;00;Basissch Breedeweg;6562GD;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6561;Berg en Dal;09LN;00;Basisschool 't Vossenhol;6562XE;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;3;2;2;2;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1945;Berg en Dal;6562;Berg en Dal;09LN;00;Basisschool 't Vossenhol;6562XE;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;19;21;32;31;32;27;21;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;1945;Berg en Dal;6584;Mook en Middelaar;09LN;00;Basisschool 't Vossenhol;6562XE;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6596;Gennep;09LN;00;Basisschool 't Vossenhol;6562XE;GROESBEEK;Gelderland;Bo;Rooms-Katholiek;42486;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  20;Duitsland;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;  30;ander land;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;3911;Rhenen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4001;Tiel;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4006;Tiel;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;4033;Buren;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;4043;Neder-Betuwe;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5346;Oss;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5351;Oss;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5357;Oss;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5361;Grave;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5367;Oss;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5374;Landerd;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5384;Bernheze;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5411;Landerd;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5431;Cuijk;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;5432;Cuijk;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5446;Sint Anthonis;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5451;Mill en Sint Hubert;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;5802;Venray;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;5845;Sint Anthonis;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6521;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6531;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1945;Berg en Dal;6533;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6535;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6536;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6537;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;1;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1945;Berg en Dal;6538;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6543;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6544;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6545;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6546;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6561;Berg en Dal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6562;Berg en Dal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6566;Berg en Dal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6573;Berg en Dal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6578;Berg en Dal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6582;Heumen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6584;Mook en Middelaar;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6595;Gennep;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6601;Wijchen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1945;Berg en Dal;6604;Wijchen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6605;Wijchen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6641;Beuningen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6652;Druten;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6655;Druten;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6659;West Maas en Waal;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6661;Overbetuwe;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6662;Overbetuwe;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6663;Nijmegen;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1945;Berg en Dal;6681;Lingewaard;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6833;Arnhem;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6836;Arnhem;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6841;Arnhem;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6843;Arnhem;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6922;Duiven;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6941;Montferland;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1945;Berg en Dal;6942;Montferland;17GW;31;Kentalis Terwindt;6561KE;GROESBEEK;Gelderland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

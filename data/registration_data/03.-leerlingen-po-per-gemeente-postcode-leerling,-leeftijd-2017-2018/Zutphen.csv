@@ -1,0 +1,295 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;301;Zutphen;  30;ander land;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;2565;'s-Gravenhage;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;3893;Zeewolde;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;5455;Mill en Sint Hubert;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6971;Brummen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;1;1;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;301;Zutphen;6974;Brummen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7201;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;1;6;8;6;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;301;Zutphen;7202;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;10;9;9;10;11;12;8;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;301;Zutphen;7204;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;5;4;7;3;7;3;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;301;Zutphen;7205;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;2;2;0;1;3;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;301;Zutphen;7206;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;3;2;4;0;1;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;301;Zutphen;7207;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;2;2;4;4;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;301;Zutphen;7211;Lochem;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;3;4;2;4;4;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;301;Zutphen;7213;Lochem;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7218;Lochem;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7221;Bronckhorst;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7231;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;3;3;4;6;4;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;301;Zutphen;7232;Zutphen;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7234;Bronckhorst;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7241;Lochem;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7245;Lochem;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7251;Bronckhorst;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7255;Bronckhorst;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7383;Voorst;03JS;00;De Zonnewwende;7203GC;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;6971;Brummen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;1;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;301;Zutphen;7201;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;2;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7203;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;5;1;2;4;6;4;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;301;Zutphen;7204;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;4;2;3;4;6;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;301;Zutphen;7205;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;3;1;1;1;6;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;301;Zutphen;7206;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;3;6;0;2;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;301;Zutphen;7207;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;4;4;2;1;4;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;301;Zutphen;7211;Lochem;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7231;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;2;1;2;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7232;Zutphen;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;1;1;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7251;Bronckhorst;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7383;Voorst;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7422;Deventer;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7423;Deventer;04CT;00;GBS De Bongerd;7201NV;ZUTPHEN;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;  30;ander land;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7204;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7206;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7207;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;14;14;25;18;40;45;30;28;6;0;0;0;0;0;0;0;0;0;0;0;0;0;220
+20171001;301;Zutphen;7231;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;3;1;6;3;5;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;301;Zutphen;7232;Zutphen;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;5;11;13;8;16;7;12;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;301;Zutphen;8161;Epe;04WX;00;Chr Basisschool Arcade;7232GA;WARNSVELD;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;1045;Amsterdam;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6971;Brummen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;2;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;301;Zutphen;6974;Brummen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6975;Brummen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7201;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;5;2;6;7;1;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;301;Zutphen;7202;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7203;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;4;1;2;2;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;301;Zutphen;7204;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;5;2;3;4;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;301;Zutphen;7205;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;3;0;3;1;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;301;Zutphen;7206;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;4;9;9;4;6;11;8;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;301;Zutphen;7207;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;7;8;5;6;7;5;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;301;Zutphen;7211;Lochem;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;1;0;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7214;Lochem;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7217;Lochem;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7221;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7225;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7227;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7231;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;1;1;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;301;Zutphen;7232;Zutphen;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;1;1;3;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;301;Zutphen;7233;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7234;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7241;Lochem;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7245;Lochem;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7251;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;3;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;301;Zutphen;7255;Bronckhorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7383;Voorst;06GE;00;Vrije School De Berkel;7201EV;ZUTPHEN;Gelderland;Bo;Antroposofisch;28212;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7201;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7202;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7204;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;6;2;5;6;1;3;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;301;Zutphen;7205;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7206;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;19;21;21;14;20;18;19;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;301;Zutphen;7207;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;2;0;3;1;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;301;Zutphen;7211;Lochem;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;09DC;00;CBS Prins Claus;7206CS;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6663;Nijmegen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7203;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7204;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;3;3;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7206;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7207;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;3;0;1;2;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;301;Zutphen;7211;Lochem;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7218;Lochem;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;20;31;27;32;26;30;27;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;301;Zutphen;7232;Zutphen;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;3;2;3;2;5;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;301;Zutphen;7233;Bronckhorst;09GA;00;Basisschool A vd Ende;7231HJ;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7201;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;2;0;0;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;301;Zutphen;7202;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7204;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;14;19;18;17;8;14;10;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;301;Zutphen;7205;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7206;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7207;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7251;Bronckhorst;10RJ;00;Basisschool de Wegwijzer;7204BL;ZUTPHEN;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;1072;Amsterdam;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;2;2;4;4;5;1;9;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;301;Zutphen;7202;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7203;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;15;13;18;25;13;19;18;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;301;Zutphen;7204;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;3;6;6;5;11;8;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;301;Zutphen;7206;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7207;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7211;Lochem;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7223;Bronckhorst;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7399;Brummen;10XB;00;RK Basissch JF Kennedy;7203JD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;6961;Brummen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6964;Brummen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6975;Brummen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7201;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;4;5;5;5;5;6;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;301;Zutphen;7202;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7203;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;301;Zutphen;7204;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;10;4;6;4;5;8;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;301;Zutphen;7205;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;3;6;4;1;11;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;301;Zutphen;7206;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;7;0;3;6;9;3;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;301;Zutphen;7207;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7211;Lochem;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7223;Bronckhorst;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7251;Bronckhorst;11WI;00;Rk Bs Walter Gillijns;7201GJ;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7202;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7204;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;3;5;4;4;4;0;7;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;301;Zutphen;7205;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7206;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;12;13;13;14;17;14;15;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;301;Zutphen;7207;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7223;Bronckhorst;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7232;Zutphen;12FW;00;RK Bs de Achtsprong;7206KD;ZUTPHEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;12OX;00;RK Bs de Scheperstee;7232CT;WARNSVELD;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7204;Zutphen;12OX;00;RK Bs de Scheperstee;7232CT;WARNSVELD;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7207;Zutphen;12OX;00;RK Bs de Scheperstee;7232CT;WARNSVELD;Gelderland;Bo;Rooms-Katholiek;42616;0;2;0;3;2;6;1;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;301;Zutphen;7231;Zutphen;12OX;00;RK Bs de Scheperstee;7232CT;WARNSVELD;Gelderland;Bo;Rooms-Katholiek;42616;0;2;5;6;6;8;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;301;Zutphen;7232;Zutphen;12OX;00;RK Bs de Scheperstee;7232CT;WARNSVELD;Gelderland;Bo;Rooms-Katholiek;42616;0;1;5;2;6;11;11;9;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;301;Zutphen;3825;Amersfoort;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6951;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6951;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6952;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6952;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;6956;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6961;Brummen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;4
+20171001;301;Zutphen;6971;Brummen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6971;Brummen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;6983;Doesburg;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6991;Rheden;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6999;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6999;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7201;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7204;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;2;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7204;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;3;1;2;1;3;1;2;0;0;0;0;0;0;0;13
+20171001;301;Zutphen;7205;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7205;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7206;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7206;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;4;0;0;0;1;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7207;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7207;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7211;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7211;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7213;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7214;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7217;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7232;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7232;Zutphen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7242;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7242;Lochem;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;2;0;1;1;0;2;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7251;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7251;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7255;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;So;Openbaar;40631;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7255;Bronckhorst;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7399;Brummen;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7415;Deventer;19TG;00;Anne Flokstraschool;7204AS;ZUTPHEN;Gelderland;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6961;Brummen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6971;Brummen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;1;0;0;1;1;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;301;Zutphen;6986;Zevenaar;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7103;Winterswijk;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7202;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7203;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7204;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;2;2;1;3;6;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;301;Zutphen;7205;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7206;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;1;1;2;2;2;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;301;Zutphen;7207;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;1;1;2;2;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;301;Zutphen;7211;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7213;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7214;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7217;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7218;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7231;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;1;1;1;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7232;Zutphen;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7233;Bronckhorst;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7242;Lochem;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7251;Bronckhorst;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;1;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;301;Zutphen;7255;Bronckhorst;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7383;Voorst;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7391;Voorst;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;9679;Oldambt;19UG;00;SSBO Het Mozaiek;7204CV;ZUTPHEN;Gelderland;Sbo;Openbaar;41566;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6823;Arnhem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6952;Rheden;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6971;Brummen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;2;1;0;1;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;301;Zutphen;7003;Doetinchem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7201;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;2;5;7;5;3;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;301;Zutphen;7202;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7203;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;4;1;7;3;7;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;301;Zutphen;7204;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;16;28;23;28;23;20;15;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;301;Zutphen;7205;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;3;7;3;4;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;301;Zutphen;7206;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;3;1;7;3;6;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;301;Zutphen;7207;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;8;9;10;4;7;3;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;301;Zutphen;7211;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;1;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;301;Zutphen;7213;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7217;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7221;Bronckhorst;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7223;Bronckhorst;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7226;Bronckhorst;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7231;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;4;1;1;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;301;Zutphen;7232;Zutphen;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;2;0;1;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;301;Zutphen;7241;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7242;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7245;Lochem;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7251;Bronckhorst;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7326;Apeldoorn;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7383;Voorst;20EL;00;Montessorischool de Plotter;7204CV;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;  40;Onbekend;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6021;Cranendonck;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;6942;Montferland;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6961;Brummen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6971;Brummen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7201;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7202;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7203;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;9;6;9;7;8;8;7;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;301;Zutphen;7204;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;22;11;12;12;14;18;17;15;7;1;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;301;Zutphen;7205;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7206;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;2;1;1;1;4;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;301;Zutphen;7207;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7211;Lochem;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7231;Zutphen;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;1;1;2;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;301;Zutphen;7242;Lochem;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;9341;Noordenveld;20FB;00;Bs De Waaier;7204KM;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;2;0;3;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;301;Zutphen;7202;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;10;13;8;8;13;8;7;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;301;Zutphen;7204;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;3;0;2;0;3;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;301;Zutphen;7205;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7206;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7207;Zutphen;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;301;Zutphen;7211;Lochem;20FE;00;Jan Ligthartbs;7203JB;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;6971;Brummen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7041;Montferland;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7202;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7204;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7205;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;13;10;15;26;25;21;15;23;1;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;301;Zutphen;7206;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7207;Zutphen;20FG;00;BS Theo Thyssen;7205BZ;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7202;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7204;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;9;9;5;8;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;301;Zutphen;7205;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7206;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;7;8;9;9;11;16;11;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;301;Zutphen;7207;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;301;Zutphen;7232;Zutphen;20FI;00;OBS De Parel;7206CS;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7203;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7204;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;301;Zutphen;7206;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7207;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;8;9;11;5;11;6;12;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;301;Zutphen;7231;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;2;2;6;3;2;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;301;Zutphen;7232;Zutphen;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;4;7;13;7;10;9;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;301;Zutphen;7242;Lochem;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7251;Bronckhorst;21OP;00;Basisschool De Fontein;7232BD;WARNSVELD;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;1215;Hilversum;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;5307;Zaltbommel;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;6971;Brummen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7201;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7203;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;301;Zutphen;7206;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;301;Zutphen;7207;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;54;34;43;53;53;51;56;55;10;0;0;0;0;0;0;0;0;0;0;0;0;0;409
+20171001;301;Zutphen;7223;Bronckhorst;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;301;Zutphen;7231;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;1;1;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;301;Zutphen;7232;Zutphen;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;3;0;1;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;301;Zutphen;7234;Bronckhorst;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7241;Lochem;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7251;Bronckhorst;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;301;Zutphen;7255;Bronckhorst;26PR;00;Lea Dasbergschool;7207PA;ZUTPHEN;Gelderland;Bo;Openbaar;41566;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

@@ -1,0 +1,139 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;303;Dronten;1092;Amsterdam;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;0;3;2;4;3;3;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;303;Dronten;8252;Dronten;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;0;0;1;0;2;1;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;303;Dronten;8253;Dronten;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;0;0;2;1;2;2;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;303;Dronten;8255;Dronten;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;1;0;0;1;1;3;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;303;Dronten;8256;Dronten;01AC;00;SSBO De Driemaster;8251GP;DRONTEN;Flevoland;Sbo;Algemeen bijzonder;61778;0;0;2;0;1;2;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;303;Dronten;1336;Almere;06LR;00;Basisschool De Schakel;8251LD;DRONTEN;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8251;Dronten;06LR;00;Basisschool De Schakel;8251LD;DRONTEN;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;5;8;4;5;9;4;8;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;303;Dronten;8252;Dronten;06LR;00;Basisschool De Schakel;8251LD;DRONTEN;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;3;1;3;5;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;303;Dronten;8253;Dronten;06LR;00;Basisschool De Schakel;8251LD;DRONTEN;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;3;3;3;6;4;3;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;303;Dronten;8256;Dronten;06LR;00;Basisschool De Schakel;8251LD;DRONTEN;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;  30;ander land;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;3897;Zeewolde;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;7;10;10;11;8;11;8;13;7;1;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;303;Dronten;8253;Dronten;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8256;Dronten;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8263;Kampen;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8312;Noordoostpolder;09XI;00;Kbs de Toekomst;8251GP;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;10PT;00;De Wingerd;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8252;Dronten;10PT;00;De Wingerd;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8256;Dronten;10PT;00;De Wingerd;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Rooms-Katholiek;40950;0;24;24;29;28;42;22;25;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;224
+20171001;303;Dronten;1079;Amsterdam;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8081;Elburg;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8242;Lelystad;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;4;3;2;7;3;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;303;Dronten;8252;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8253;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;30;29;21;18;18;21;24;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;303;Dronten;8254;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8255;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8256;Dronten;11BL;00;OBS De Dukdalf;8253EA;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8219;Lelystad;11EO;00;De Golfslag;8255BS;SWIFTERBANT;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8253;Dronten;11EO;00;De Golfslag;8255BS;SWIFTERBANT;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8255;Dronten;11EO;00;De Golfslag;8255BS;SWIFTERBANT;Flevoland;Bo;Rooms-Katholiek;40950;0;34;14;32;29;20;23;19;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;192
+20171001;303;Dronten;8308;Noordoostpolder;11EO;00;De Golfslag;8255BS;SWIFTERBANT;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;1073;Amsterdam;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;1947;Beverwijk;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8032;Zwolle;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8232;Lelystad;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8251;Dronten;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;12;17;10;12;23;17;19;12;9;1;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;303;Dronten;8252;Dronten;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8253;Dronten;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8255;Dronten;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;8256;Dronten;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;9076;het Bildt;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;9341;Noordenveld;11OD;00;OBS Aquaramijn;8251LD;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8219;Lelystad;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8251;Dronten;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;18;15;25;25;22;16;17;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;303;Dronten;8252;Dronten;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;5;12;6;6;3;6;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;303;Dronten;8253;Dronten;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;8254;Dronten;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8256;Dronten;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8278;Kampen;11ZL;00;SWS De Brandaris;8251VX;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;3847;Harderwijk;12IX;00;OBS De Schatkamer;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8254;Dronten;12IX;00;OBS De Schatkamer;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8256;Dronten;12IX;00;OBS De Schatkamer;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Openbaar;41813;0;8;11;13;12;10;6;14;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;303;Dronten;8219;Lelystad;12RH;00;OBS De Duykeldam;8255AR;SWIFTERBANT;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8252;Dronten;12RH;00;OBS De Duykeldam;8255AR;SWIFTERBANT;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8253;Dronten;12RH;00;OBS De Duykeldam;8255AR;SWIFTERBANT;Flevoland;Bo;Openbaar;41813;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8255;Dronten;12RH;00;OBS De Duykeldam;8255AR;SWIFTERBANT;Flevoland;Bo;Openbaar;41813;0;12;13;19;12;19;22;29;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;303;Dronten;8256;Dronten;12RH;00;OBS De Duykeldam;8255AR;SWIFTERBANT;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;  30;ander land;13ZB;00;De Tamarisk;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;3843;Harderwijk;13ZB;00;De Tamarisk;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;13ZB;00;De Tamarisk;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8256;Dronten;13ZB;00;De Tamarisk;8256BK;BIDDINGHUIZEN;Flevoland;Bo;Protestants-Christelijk;42600;0;21;22;34;28;28;31;29;28;7;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;303;Dronten;  40;Onbekend;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8218;Lelystad;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8251;Dronten;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;6;10;10;13;8;10;9;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;303;Dronten;8252;Dronten;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;9;9;13;7;11;11;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;303;Dronten;8253;Dronten;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8255;Dronten;14FD;00;Het Zuiderlicht;8251VH;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8044;Zwolle;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8211;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8212;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8219;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8223;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8226;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8232;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8241;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8243;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8244;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8245;Lelystad;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8251;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;4;4;8;7;14;8;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;303;Dronten;8252;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;13;9;19;23;21;25;21;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;303;Dronten;8253;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;1;2;6;6;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;303;Dronten;8254;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8255;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8256;Dronten;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;2;0;2;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;303;Dronten;8261;Kampen;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8264;Kampen;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8265;Kampen;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8266;Kampen;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;8271;Kampen;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8307;Noordoostpolder;14HV;00;Het Kompas;8252GJ;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;3896;Zeewolde;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8244;Lelystad;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;19;21;15;16;19;19;17;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;303;Dronten;8252;Dronten;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8253;Dronten;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;4;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;303;Dronten;8254;Dronten;14PU;00;Aan Boord;8251CW;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;1333;Almere;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8081;Elburg;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8218;Lelystad;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8219;Lelystad;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8223;Lelystad;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8255;Dronten;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;17;26;32;26;29;31;29;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;303;Dronten;8303;Noordoostpolder;15FL;00;De Branding;8255CH;SWIFTERBANT;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8251;Dronten;21NF;00;SWS Het Wilgerys;8251TJ;DRONTEN;Flevoland;Bo;Openbaar;41813;0;11;14;12;9;19;12;19;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;303;Dronten;8252;Dronten;21NF;00;SWS Het Wilgerys;8251TJ;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;5;2;1;7;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;303;Dronten;8254;Dronten;21NF;00;SWS Het Wilgerys;8251TJ;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8308;Noordoostpolder;21NF;00;SWS Het Wilgerys;8251TJ;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;3894;Zeewolde;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8225;Lelystad;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;10;6;6;7;7;12;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;303;Dronten;8252;Dronten;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;9;8;17;13;9;7;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;303;Dronten;8253;Dronten;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;2;0;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;303;Dronten;8256;Dronten;23BP;00;OBS Flevosprong;8252GW;DRONTEN;Flevoland;Bo;Openbaar;41813;0;1;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8219;Lelystad;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8244;Lelystad;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8251;Dronten;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;6;8;3;3;4;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;303;Dronten;8252;Dronten;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;8;15;6;10;2;13;8;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;303;Dronten;8253;Dronten;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;1;4;1;1;5;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;303;Dronten;8256;Dronten;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8264;Kampen;23BZ;00;De Zonnewijzer;8252GW;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;  30;ander land;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;1212;Hilversum;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;303;Dronten;8251;Dronten;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;3;1;1;2;0;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;303;Dronten;8252;Dronten;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;303;Dronten;8253;Dronten;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;37;31;36;31;31;26;26;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;240
+20171001;303;Dronten;8255;Dronten;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;303;Dronten;8256;Dronten;25KF;00;RK Jenaplan De Klimboom;8253EA;DRONTEN;Flevoland;Bo;Rooms-Katholiek;40950;0;0;0;2;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;303;Dronten;8251;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;2;6;5;3;5;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;303;Dronten;8252;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;2;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;303;Dronten;8253;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;37;46;49;50;63;30;47;66;8;0;0;0;0;0;0;0;0;0;0;0;0;0;396
+20171001;303;Dronten;8254;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;8255;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;303;Dronten;8256;Dronten;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8265;Kampen;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;303;Dronten;8374;Steenwijkerland;25KG;00;PC BS De Zevensprong;8253EA;DRONTEN;Flevoland;Bo;Protestants-Christelijk;42600;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

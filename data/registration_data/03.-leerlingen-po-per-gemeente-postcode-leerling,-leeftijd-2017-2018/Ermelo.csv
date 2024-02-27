@@ -1,0 +1,159 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;233;Ermelo;3842;Harderwijk;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3845;Harderwijk;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;0;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;233;Ermelo;3851;Ermelo;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;5;16;10;5;9;9;7;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;233;Ermelo;3852;Ermelo;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;3;1;2;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;233;Ermelo;3853;Ermelo;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;7;8;6;7;4;5;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;233;Ermelo;3881;Putten;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;2;2;3;5;3;4;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;233;Ermelo;3882;Putten;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;4;6;9;9;4;7;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;233;Ermelo;7692;Hardenberg;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8075;Nunspeet;00HA;00;Ref Basissch Augustinus;3851BH;ERMELO;Gelderland;Bo;Reformatorisch;30128;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3842;Harderwijk;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3845;Harderwijk;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;1;1;1;0;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;233;Ermelo;3851;Ermelo;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;5;3;3;2;5;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;233;Ermelo;3852;Ermelo;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3853;Ermelo;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;21;19;20;27;19;17;18;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;233;Ermelo;3882;Putten;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;2;0;1;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;233;Ermelo;8076;Nunspeet;04OL;00;Goede Herderschool v Bo;3853LN;ERMELO;Gelderland;Bo;Protestants-Christelijk;34893;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;06FR;00;Speulderbrink;3852NH;ERMELO;Gelderland;Bo;Reformatorisch;27237;0;2;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3852;Ermelo;06FR;00;Speulderbrink;3852NH;ERMELO;Gelderland;Bo;Reformatorisch;27237;0;8;3;7;4;9;5;7;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;233;Ermelo;3853;Ermelo;06FR;00;Speulderbrink;3852NH;ERMELO;Gelderland;Bo;Reformatorisch;27237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3881;Putten;06FR;00;Speulderbrink;3852NH;ERMELO;Gelderland;Bo;Reformatorisch;27237;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;8075;Nunspeet;06FR;00;Speulderbrink;3852NH;ERMELO;Gelderland;Bo;Reformatorisch;27237;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3844;Harderwijk;06LG;00;Prins W Alexander-School;3851ZV;ERMELO;Gelderland;Bo;Rooms-Katholiek;40888;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3851;Ermelo;06LG;00;Prins W Alexander-School;3851ZV;ERMELO;Gelderland;Bo;Rooms-Katholiek;40888;0;5;7;10;7;6;4;11;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;233;Ermelo;3852;Ermelo;06LG;00;Prins W Alexander-School;3851ZV;ERMELO;Gelderland;Bo;Rooms-Katholiek;40888;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3853;Ermelo;06LG;00;Prins W Alexander-School;3851ZV;ERMELO;Gelderland;Bo;Rooms-Katholiek;40888;0;3;1;3;1;2;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;233;Ermelo;8052;Hattem;06LG;00;Prins W Alexander-School;3851ZV;ERMELO;Gelderland;Bo;Rooms-Katholiek;40888;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;  30;ander land;11VA;00;Basisschool Arendshorst;3853CA;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3843;Harderwijk;11VA;00;Basisschool Arendshorst;3853CA;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;11VA;00;Basisschool Arendshorst;3853CA;ERMELO;Gelderland;Bo;Openbaar;41345;0;1;2;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;233;Ermelo;3853;Ermelo;11VA;00;Basisschool Arendshorst;3853CA;ERMELO;Gelderland;Bo;Openbaar;41345;0;8;7;8;11;5;6;13;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;233;Ermelo;3842;Harderwijk;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3844;Harderwijk;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3845;Harderwijk;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;9;9;8;9;6;4;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;233;Ermelo;3852;Ermelo;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;9;13;8;5;13;12;15;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;233;Ermelo;3853;Ermelo;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;3;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;233;Ermelo;3881;Putten;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;8075;Nunspeet;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8084;Elburg;12VQ;00;Basisschool de Cantharel;3852ZX;ERMELO;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3843;Harderwijk;13ZF;00;PC Basissch Pr Bernhard;3853BG;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;13ZF;00;PC Basissch Pr Bernhard;3853BG;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;3;2;0;4;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;233;Ermelo;3853;Ermelo;13ZF;00;PC Basissch Pr Bernhard;3853BG;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;17;20;18;24;15;20;20;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;233;Ermelo;3843;Harderwijk;14CM;00;PC Basissch Kon Juliana;3853VA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;14CM;00;PC Basissch Kon Juliana;3853VA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;1;2;1;1;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;233;Ermelo;3852;Ermelo;14CM;00;PC Basissch Kon Juliana;3853VA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3853;Ermelo;14CM;00;PC Basissch Kon Juliana;3853VA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;14;18;26;15;22;23;33;24;4;1;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;233;Ermelo;3843;Harderwijk;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3844;Harderwijk;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3845;Harderwijk;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3847;Harderwijk;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;233;Ermelo;3851;Ermelo;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;28;28;37;31;24;35;36;27;4;0;0;0;0;0;0;0;0;0;0;0;0;0;250
+20171001;233;Ermelo;3852;Ermelo;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;7;3;9;2;5;5;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;233;Ermelo;3853;Ermelo;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;13;13;17;11;9;13;11;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;233;Ermelo;3881;Putten;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3882;Putten;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;1;1;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;233;Ermelo;3886;Barneveld;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3888;Apeldoorn;14FH;00;PC BS De Klokbeker;3851BL;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3843;Harderwijk;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3844;Harderwijk;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;15;17;10;16;18;14;24;13;5;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;233;Ermelo;3852;Ermelo;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;233;Ermelo;3853;Ermelo;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;3;0;3;3;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;233;Ermelo;3881;Putten;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3882;Putten;14HZ;00;PC Basisschool Margriet;3851EJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;  30;ander land;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3825;Amersfoort;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3845;Harderwijk;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3851;Ermelo;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;12;17;21;17;14;18;19;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;233;Ermelo;3852;Ermelo;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;2;0;1;0;3;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;233;Ermelo;3853;Ermelo;14KQ;00;PC Basisschool Irene;3851LJ;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;2;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;233;Ermelo;  30;ander land;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;  40;Onbekend;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3844;Harderwijk;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3847;Harderwijk;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3851;Ermelo;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;8;5;8;6;5;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;233;Ermelo;3852;Ermelo;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;13;14;18;15;16;17;13;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;233;Ermelo;3853;Ermelo;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;7203;Zutphen;14PZ;00;PC Basisschool Beatrix;3852XA;ERMELO;Gelderland;Bo;Protestants-Christelijk;76819;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1223;Hilversum;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1411;Gooise Meren;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3815;Amersfoort;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3841;Harderwijk;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3852;Ermelo;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3853;Ermelo;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;233;Ermelo;3853;Ermelo;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;3;4;2;2;1;1;0;0;0;0;0;0;0;14
+20171001;233;Ermelo;3861;Nijkerk;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3882;Putten;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3891;Zeewolde;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3891;Zeewolde;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;7601;Almelo;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8081;Elburg;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8232;Lelystad;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8251;Dronten;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8251;Dronten;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8255;Dronten;16TL;01;PC ZMLK Sch De Lelie;3853HL;ERMELO;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1046;Amsterdam;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1102;Amsterdam;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1312;Almere;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1324;Almere;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1333;Almere;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;1971;Velsen;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3081;Rotterdam;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3205;Nissewaard;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3402;IJsselstein;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3451;Utrecht;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;233;Ermelo;3771;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3772;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3773;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3774;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3781;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3812;Amersfoort;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3814;Amersfoort;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;233;Ermelo;3818;Amersfoort;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3825;Amersfoort;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3831;Leusden;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;233;Ermelo;3841;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3842;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3843;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3844;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;0;1;6;2;1;0;0;0;0;0;0;0;11
+20171001;233;Ermelo;3845;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3847;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3848;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3849;Harderwijk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3851;Ermelo;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;3;2;3;0;2;0;0;0;0;0;0;0;0;11
+20171001;233;Ermelo;3852;Ermelo;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3853;Ermelo;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;3;2;16;22;56;38;24;9;2;0;0;0;0;0;172
+20171001;233;Ermelo;3861;Nijkerk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;233;Ermelo;3862;Nijkerk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;0;3;1;3;0;1;0;0;0;0;0;0;0;9
+20171001;233;Ermelo;3863;Nijkerk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3864;Nijkerk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3871;Nijkerk;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;3881;Putten;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;3;0;0;0;0;0;0;0;8
+20171001;233;Ermelo;3882;Putten;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;7
+20171001;233;Ermelo;3886;Barneveld;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;3891;Zeewolde;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;0;7
+20171001;233;Ermelo;3892;Zeewolde;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;1;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;3893;Zeewolde;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;2;6;2;2;1;0;0;0;0;0;0;0;0;13
+20171001;233;Ermelo;3894;Zeewolde;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;233;Ermelo;6063;Roerdalen;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;7555;Hengelo;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;7686;Twenterand;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8071;Nunspeet;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;6
+20171001;233;Ermelo;8072;Nunspeet;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;6
+20171001;233;Ermelo;8075;Nunspeet;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8076;Nunspeet;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;8081;Elburg;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;233;Ermelo;8084;Elburg;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;2;2;2;1;0;1;0;0;0;0;0;0;0;8
+20171001;233;Ermelo;8085;Elburg;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8091;Oldebroek;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8095;Oldebroek;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8096;Oldebroek;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;233;Ermelo;8161;Epe;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8172;Epe;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8224;Lelystad;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8232;Lelystad;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8251;Dronten;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8253;Dronten;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;233;Ermelo;8256;Dronten;17JJ;00;Het Emaus College;3853JW;ERMELO;Gelderland;Vso;Protestants-Christelijk;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2

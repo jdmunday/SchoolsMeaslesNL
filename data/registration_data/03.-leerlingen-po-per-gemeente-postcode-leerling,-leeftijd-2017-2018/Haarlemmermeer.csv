@@ -1,0 +1,811 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;394;Haarlemmermeer;1064;Amsterdam;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1421;Uithoorn;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1423;Uithoorn;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2036;Haarlem;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;4;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2181;Hillegom;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2451;Kaag en Braassem;01JO;18;Prof. van Gilseschool;2134XS;HOOFDDORP;Noord-Holland;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;1;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;2;4;6;8;8;3;8;1;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;02WW;00;SSBO De Klimboom;2134SB;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1094;Amsterdam;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;4;3;4;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;1;5;1;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;2;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2182;Hillegom;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2371;Kaag en Braassem;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2377;Kaag en Braassem;03CG;00;De Fakkel;2152KL;NIEUW-VENNEP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2021;Haarlem;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2034;Haarlem;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2035;Haarlem;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2036;Haarlem;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2037;Haarlem;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2064;Haarlemmerliede en Spaarnwoude;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;27;33;32;35;45;34;45;36;5;0;0;0;0;0;0;0;0;0;0;0;0;0;292
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;03NI;00;De Tweemaster;2141VJ;VIJFHUIZEN;Noord-Holland;Bo;Algemeen bijzonder;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1021;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1060;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;2;4;1;4;6;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;394;Haarlemmermeer;1062;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1066;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;3;1;3;1;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;1067;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;2;1;1;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;1068;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;1069;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;1;2;3;5;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;394;Haarlemmermeer;1083;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1104;Amsterdam;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;12;12;23;15;13;25;16;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;05BE;00;Dr Plesmanschool;1171TK;BADHOEVEDORP;Noord-Holland;Bo;Rooms-Katholiek;41023;0;1;1;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;05BF;00;St. Willibrordus;2158MC;BUITENKAAG;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;05BF;00;St. Willibrordus;2158MC;BUITENKAAG;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2158;Haarlemmermeer;05BF;00;St. Willibrordus;2158MC;BUITENKAAG;Noord-Holland;Bo;Rooms-Katholiek;42683;0;4;2;1;5;4;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;394;Haarlemmermeer;2159;Kaag en Braassem;05BF;00;St. Willibrordus;2158MC;BUITENKAAG;Noord-Holland;Bo;Rooms-Katholiek;42683;0;3;5;3;3;4;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;394;Haarlemmermeer;2321;Leiden;05BF;00;St. Willibrordus;2158MC;BUITENKAAG;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1433;Aalsmeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;11;18;11;15;12;12;17;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;394;Haarlemmermeer;1436;Haarlemmermeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1948;Beverwijk;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;1;1;3;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2371;Kaag en Braassem;05CB;00;Chr Basisschool Immanuel;1435KL;RIJSENHOUT;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;7;7;7;15;7;13;8;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;16;18;18;26;30;19;26;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;2;3;5;4;7;7;5;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2182;Hillegom;05LN;00;Het Mozaïek;2152BE;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1019;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1024;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1035;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1067;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1069;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1077;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1087;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1094;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1102;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1107;Amsterdam;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1121;Landsmeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1181;Amstelveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1183;Amstelveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1186;Amstelveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1186;Amstelveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1187;Amstelveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1422;Uithoorn;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;1423;Uithoorn;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1433;Aalsmeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1503;Zaanstad;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1567;Zaanstad;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1747;Schagen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1963;Heemskerk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1965;Heemskerk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1971;Velsen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1972;Velsen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1972;Velsen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1974;Velsen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1991;Velsen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2012;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2015;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2022;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2024;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2024;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2033;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2034;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2035;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2037;Haarlem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2041;Zandvoort;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2061;Bloemendaal;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2101;Heemstede;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2102;Heemstede;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2106;Heemstede;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2111;Bloemendaal;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2114;Bloemendaal;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;1;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;1;3;0;2;4;2;0;1;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2161;Lisse;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2162;Lisse;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2163;Lisse;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2181;Hillegom;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2182;Hillegom;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2201;Noordwijk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2202;Noordwijk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2211;Noordwijkerhout;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2211;Noordwijkerhout;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2231;Katwijk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2312;Leiden;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2355;Kaag en Braassem;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2405;Alphen aan den Rijn;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2406;Alphen aan den Rijn;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2411;Bodegraven-Reeuwijk;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2512;'s-Gravenhage;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2719;Zoetermeer;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2742;Waddinxveen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2807;Gouda;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2914;Zuidplas;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3632;Stichtse Vecht;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3641;De Ronde Venen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;So;Protestants-Christelijk;85775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3648;De Ronde Venen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3831;Leusden;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;7814;Emmen;05PE;00;De Waterlelie;2142ED;CRUQUIUS;Noord-Holland;Vso;Protestants-Christelijk;85775;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1433;Aalsmeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2037;Haarlem;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2101;Heemstede;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;2;3;2;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;1;2;2;3;9;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;1;5;1;7;3;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;05ZN;00;SSBO Het Kompas;2135HA;HOOFDDORP;Noord-Holland;Sbo;Algemeen bijzonder;41008;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;06ZV;00;CBS De Tonne;2157PG;ABBENES;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;06ZV;00;CBS De Tonne;2157PG;ABBENES;Noord-Holland;Bo;Protestants-Christelijk;42683;0;5;8;5;6;6;11;7;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;394;Haarlemmermeer;1053;Amsterdam;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1055;Amsterdam;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1181;Amstelveen;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2012;Haarlem;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;6;10;12;11;5;16;7;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;2;6;5;2;4;2;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;2;6;7;6;2;8;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;2;2;1;4;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;07AM;00;Eerste Montessorischool;2131RV;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;4;2;6;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;394;Haarlemmermeer;1011;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1025;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1055;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1060;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1064;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1067;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1068;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1069;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1091;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1097;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1105;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1106;Amsterdam;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1181;Amstelveen;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1186;Amstelveen;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1191;Ouder-Amstel;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1421;Uithoorn;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1423;Uithoorn;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1424;Uithoorn;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1426;De Ronde Venen;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1544;Zaanstad;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2021;Haarlem;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2162;Lisse;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3642;De Ronde Venen;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3645;De Ronde Venen;07IQ;13;Altra College Haarlemmermeer;2132AV;HOOFDDORP;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1062;Amsterdam;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1066;Amsterdam;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1067;Amsterdam;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;2;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;17;8;14;12;15;13;13;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;394;Haarlemmermeer;1165;Haarlemmerliede en Spaarnwoude;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;1973;Velsen;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2061;Bloemendaal;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2143;Haarlemmermeer;07LJ;00;Basisschool Gaandeweg;1161VW;ZWANENBURG;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;07RG;00;RK Basissch De Meerbrug;1161AP;ZWANENBURG;Noord-Holland;Bo;Rooms-Katholiek;40775;0;10;24;9;13;14;13;11;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;07RG;00;RK Basissch De Meerbrug;1161AP;ZWANENBURG;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;07RG;00;RK Basissch De Meerbrug;1161AP;ZWANENBURG;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2158;Haarlemmermeer;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2161;Lisse;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;29;13;26;14;23;23;21;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;394;Haarlemmermeer;2182;Hillegom;07RH;00;RK Basisschool De Reiger;2165XP;LISSERBROEK;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1024;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1060;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;8;2;5;3;4;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;394;Haarlemmermeer;1064;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1065;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1066;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;2;4;2;7;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;394;Haarlemmermeer;1067;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;1068;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;2;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;1069;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;4;4;3;3;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;394;Haarlemmermeer;1103;Amsterdam;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;57;57;53;39;41;53;49;40;6;0;0;0;0;0;0;0;0;0;0;0;0;0;395
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;1;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;1363;Almere;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;07WY;00;CBS Oranje Nassau;1171DM;BADHOEVEDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;23;22;31;33;13;20;18;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;7;10;4;11;5;5;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;14;20;17;15;17;14;19;12;2;1;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2155;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2162;Lisse;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2353;Leiderdorp;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2374;Kaag en Braassem;08YK;00;Basisschool St Antonius;2153BV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2104;Heemstede;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;13;12;20;19;18;17;18;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;2;2;3;3;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;2;2;1;2;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;2;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2371;Kaag en Braassem;09BH;00;De Polderrakkers;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;  30;ander land;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1011;Amsterdam;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1069;Amsterdam;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1816;Alkmaar;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2121;Bloemendaal;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;14;14;15;16;15;18;16;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;34;38;36;30;44;25;31;32;3;0;0;0;0;0;0;0;0;0;0;0;0;0;273
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;3;2;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;09LP;00;Basisschool Klimop;2132XE;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  40;Onbekend;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1082;Amsterdam;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1437;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2013;Haarlem;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2021;Haarlem;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2022;Haarlem;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2033;Haarlem;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2037;Haarlem;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2101;Heemstede;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2103;Heemstede;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;1;3;1;1;0;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;3;2;1;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;3;4;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2435;Nieuwkoop;09ZG;01;De Meiboom;2131VN;HOOFDDORP;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1328;Almere;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;15;32;35;19;27;19;25;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;7;7;9;13;14;9;14;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;4;2;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;1;0;1;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;3;2;3;3;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;10GP;00;ICBS De Caleidoscoop;2131VN;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  40;Onbekend;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1064;Amsterdam;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1784;Den Helder;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1816;Alkmaar;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2114;Bloemendaal;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;1;3;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;20;21;20;20;10;17;3;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;3;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;2;0;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;3843;Harderwijk;10MM;00;IKC Wereldwijs;2132VH;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1034;Amsterdam;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1436;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2036;Haarlem;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;9;9;18;6;14;11;8;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;1;3;3;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;34;27;24;38;26;29;28;22;7;1;0;0;0;0;0;0;0;0;0;0;0;0;236
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;7;2;5;2;2;3;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;2;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;10XM;00;RK Basissch Klippeholm;2133DW;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;1985;Velsen;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2011;Haarlem;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2021;Haarlem;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2032;Haarlem;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;3;0;0;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;51;48;67;57;64;66;73;59;12;0;0;0;0;0;0;0;0;0;0;0;0;0;497
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3117;Schiedam;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;3817;Amersfoort;11BW;00;CBS Het Braambos;2134XL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1060;Amsterdam;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;2;5;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;22;34;39;35;34;26;53;40;4;0;0;0;0;0;0;0;0;0;0;0;0;0;287
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;11LI;00;Rk Bs de Bosbouwers;2134SB;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1503;Zaanstad;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;3;6;6;9;5;3;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;14;8;13;14;12;17;18;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;3;2;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;11ZW;00;CBS Vesterhavet;2133DW;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;2;0;2;3;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;1422;Uithoorn;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;17;9;15;15;20;20;7;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;1;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;12RS;00;CBS Juliana van Stolberg;2132AT;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1060;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;4;0;1;2;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;394;Haarlemmermeer;1063;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1064;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1066;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;3;1;3;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;394;Haarlemmermeer;1067;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;3;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;1068;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;4;0;2;2;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;1069;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;6;1;4;6;2;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;394;Haarlemmermeer;1106;Amsterdam;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1165;Haarlemmerliede en Spaarnwoude;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;11;9;4;12;3;9;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1185;Amstelveen;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2101;Heemstede;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2103;Heemstede;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3544;Utrecht;15GF;00;Burg Amersfoordtschool;1171HC;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1022;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1055;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1060;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;4;7;6;3;3;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;394;Haarlemmermeer;1063;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1064;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1066;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;2;2;4;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;1067;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;1068;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;2;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;1069;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;8;8;2;1;4;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;394;Haarlemmermeer;1102;Amsterdam;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1112;Diemen;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;44;36;50;55;56;53;48;52;5;0;0;0;0;0;0;0;0;0;0;0;0;0;399
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;2;3;3;3;4;4;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;394;Haarlemmermeer;1187;Amstelveen;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1432;Aalsmeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1911;Uitgeest;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2064;Haarlemmerliede en Spaarnwoude;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2408;Alphen aan den Rijn;15JN;00;G.Th. Rietveldschool;1171VZ;BADHOEVEDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1065;Amsterdam;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1424;Uithoorn;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;12;13;13;20;12;14;15;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;3;4;4;3;5;3;4;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;2;2;1;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;15OP;00;Dik Tromschool;2131AX;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;  40;Onbekend;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;1;1;1;6;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;1;0;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;8;7;13;10;12;11;9;12;7;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;2;3;3;2;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;1;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;15VR;00;Bikube;2133DW;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2121;Bloemendaal;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;4;2;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;3;5;6;2;5;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;7;12;6;6;9;12;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;15XW;00;Ywegschool;2133BM;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;3;3;4;1;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;1181;Amstelveen;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2101;Heemstede;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2121;Bloemendaal;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;1;1;1;1;0;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2161;Lisse;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;1;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2162;Lisse;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2163;Lisse;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;4;1;8;5;9;4;9;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;394;Haarlemmermeer;2171;Teylingen;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2181;Hillegom;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2182;Hillegom;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;1;3;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2215;Teylingen;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2573;'s-Gravenhage;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3642;De Ronde Venen;15ZW;00;De Zilvermeeuw;2165XP;LISSERBROEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;16FR;00;OBS Het Palet;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;8;6;5;12;14;19;22;16;6;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;16FR;00;OBS Het Palet;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;1;3;2;2;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;16FR;00;OBS Het Palet;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;16FR;00;OBS Het Palet;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2181;Hillegom;16FR;00;OBS Het Palet;2151TA;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1051;Amsterdam;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;20;9;16;16;17;11;19;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;8;13;13;16;12;14;11;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;3;1;6;7;5;2;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2451;Kaag en Braassem;16HB;00;OPB Montessorisch;2151CV;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;  40;Onbekend;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;22;12;21;15;17;17;12;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;394;Haarlemmermeer;1436;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;1437;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;16IK;00;OBS De Zevensprong;1435LJ;RIJSENHOUT;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2034;Haarlem;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2035;Haarlem;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2036;Haarlem;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2037;Haarlem;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;15;11;7;7;12;11;15;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;16JQ;00;De Waterwolf;2141VB;VIJFHUIZEN;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2034;Haarlem;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2121;Bloemendaal;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;8;5;6;5;10;8;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;14;11;13;15;20;15;11;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2181;Hillegom;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2182;Hillegom;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2211;Noordwijkerhout;16KR;00;De Zwanebloem;2136AK;ZWAANSHOEK;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1057;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1063;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;2;1;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;1066;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1067;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;3;2;0;1;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;1068;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1069;Amsterdam;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;36;35;32;31;36;26;32;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;249
+20171001;394;Haarlemmermeer;1165;Haarlemmerliede en Spaarnwoude;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;3;2;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1964;Heemskerk;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2031;Haarlem;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2032;Haarlem;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2033;Haarlem;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2143;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;16LV;00;De Achtbaan;1161JL;ZWANENBURG;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2104;Heemstede;16NN;00;BS De Bosrank;2134SB;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;16NN;00;BS De Bosrank;2134SB;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;16NN;00;BS De Bosrank;2134SB;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;16NN;00;BS De Bosrank;2134SB;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;10;11;12;13;11;14;14;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;16NN;00;BS De Bosrank;2134SB;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1060;Amsterdam;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1064;Amsterdam;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1181;Amstelveen;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1186;Amstelveen;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1187;Amstelveen;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1421;Uithoorn;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;1423;Uithoorn;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1424;Uithoorn;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;1433;Aalsmeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2121;Bloemendaal;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;1;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;1;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;2;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3641;De Ronde Venen;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3648;De Ronde Venen;18IS;01;Dr A V Voorthuysenschool;2132VJ;HOOFDDORP;Noord-Holland;So;Openbaar;41853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;1175;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2033;Haarlem;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2035;Haarlem;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;1;1;3;0;4;3;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;1;1;1;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;2;0;2;1;1;7;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;2;0;1;3;1;8;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;1;2;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;19RS;00;SSBO Dr JP Heije;2132DR;HOOFDDORP;Noord-Holland;Sbo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;2;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;21;15;20;20;21;19;22;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;21RP;00;De Tovercirkel;2134DE;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;21RR;00;CBS De Regenboog;2134DE;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;21RR;00;CBS De Regenboog;2134DE;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;12;14;17;17;21;16;27;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;21RR;00;CBS De Regenboog;2134DE;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2181;Hillegom;21RR;00;CBS De Regenboog;2134DE;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23AK;00;CBS De Wijngaard;2135GP;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23AK;00;CBS De Wijngaard;2135GP;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23AK;00;CBS De Wijngaard;2135GP;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;2;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23AK;00;CBS De Wijngaard;2135GP;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;8;6;10;10;6;8;12;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;23AK;00;CBS De Wijngaard;2135GP;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23AL;00;RK Basissch Vredeburg;2135GM;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23AL;00;RK Basissch Vredeburg;2135GM;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23AL;00;RK Basissch Vredeburg;2135GM;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23AL;00;RK Basissch Vredeburg;2135GM;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;4;2;4;7;4;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23AL;00;RK Basissch Vredeburg;2135GM;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;23;34;28;28;22;25;20;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;394;Haarlemmermeer;  30;ander land;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;  40;Onbekend;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1076;Amsterdam;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1104;Amsterdam;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1186;Amstelveen;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1187;Amstelveen;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1432;Aalsmeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2014;Haarlem;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2023;Haarlem;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2025;Haarlem;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2033;Haarlem;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2034;Haarlem;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2064;Haarlemmerliede en Spaarnwoude;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2102;Heemstede;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;2;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;5;2;7;6;7;4;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;20;17;19;23;24;27;27;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2154;Haarlemmermeer;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;23AM;00;Twickel;2135GJ;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1183;Amstelveen;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1186;Amstelveen;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1433;Aalsmeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1951;Velsen;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2012;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2023;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2024;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2025;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2033;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2035;Haarlem;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;2;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;1;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;23FA;01;PI-school De Ster;2132AT;HOOFDDORP;Noord-Holland;So;Protestants-Christelijk;41448;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1111;Diemen;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;3;1;5;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;3;4;4;3;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;2;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;24;25;25;25;13;28;31;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3355;Papendrecht;23RC;00;OBS de Octopus;2135MS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1431;Aalsmeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2034;Haarlem;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2104;Heemstede;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;2;1;3;2;4;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;4;1;1;3;6;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;2;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;2;1;2;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;41;39;43;35;51;43;42;43;4;0;0;0;0;0;0;0;0;0;0;0;0;0;341
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;2;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2162;Lisse;23RD;00;CBS Tabitha;2135MS;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1186;Amstelveen;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;4;4;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;5;6;3;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;32;18;28;23;29;12;10;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3843;Harderwijk;23RE;00;RK Basissch De Wilgen;2135MH;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1011;Amsterdam;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2015;Haarlem;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2037;Haarlem;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2102;Heemstede;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;27;30;28;24;31;39;29;35;5;0;0;0;0;0;0;0;0;0;0;0;0;0;248
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;3;3;3;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2142;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2181;Hillegom;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2182;Hillegom;23RF;00;Montessorischool Floriande;2134XS;HOOFDDORP;Noord-Holland;Bo;Algemeen bijzonder;79016;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1033;Amsterdam;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1034;Amsterdam;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1068;Amsterdam;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1422;Uithoorn;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2021;Haarlem;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;61;74;51;63;52;47;71;73;8;0;0;0;0;0;0;0;0;0;0;0;0;0;500
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;16;27;26;35;36;32;26;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;2;2;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2156;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2161;Lisse;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2182;Hillegom;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2251;Voorschoten;26PK;00;OBS 't Joppe;2151KK;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;  30;ander land;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;17;20;20;30;30;26;34;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;9;2;10;7;3;6;7;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;26PU;00;PC Basisschool De Ark;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;  20;Duitsland;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;17;21;25;33;31;47;52;63;9;0;0;0;0;0;0;0;0;0;0;0;0;0;298
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;2;5;3;7;4;9;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;394;Haarlemmermeer;2157;Haarlemmermeer;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2421;Nieuwkoop;26PV;00;RK Basissch Bommelstein;2151HV;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;1062;Amsterdam;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1171;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1433;Aalsmeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1435;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;394;Haarlemmermeer;1972;Velsen;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2103;Heemstede;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;2;2;1;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;63;73;75;93;106;103;102;84;10;0;0;0;0;0;0;0;0;0;0;0;0;0;709
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;2;1;1;0;2;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2241;Wassenaar;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2402;Alphen aan den Rijn;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3077;Rotterdam;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;3112;Schiedam;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;3206;Nissewaard;27NT;00;Klavertje vier;2134DL;HOOFDDORP;Noord-Holland;Bo;Rooms-Katholiek;42683;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1161;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;3;2;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;1;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;12;15;13;17;25;24;21;23;4;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;394;Haarlemmermeer;2201;Noordwijk;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2986;Ridderkerk;27PA;00;OBS Merlijn;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1055;Amsterdam;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2131;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2132;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;22;26;33;24;42;48;44;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;269
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;1;0;4;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2141;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;27PB;00;De Optimist;2134XS;HOOFDDORP;Noord-Holland;Bo;Openbaar;13622;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;  30;ander land;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1165;Haarlemmerliede en Spaarnwoude;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2034;Haarlem;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2121;Bloemendaal;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;2;0;0;5;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;21;20;27;28;36;37;44;39;7;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;394;Haarlemmermeer;2161;Lisse;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;8043;Zwolle;27PE;00;RKBS 't Venne;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Rooms-Katholiek;40775;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2144;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;4;1;3;6;0;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;394;Haarlemmermeer;2152;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;44;56;62;56;69;69;59;64;4;0;0;0;0;0;0;0;0;0;0;0;0;0;483
+20171001;394;Haarlemmermeer;2153;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2162;Lisse;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2165;Haarlemmermeer;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2182;Hillegom;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;3438;Nieuwegein;27PF;00;Opmaat;2152TB;NIEUW-VENNEP;Noord-Holland;Bo;Protestants-Christelijk;40775;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;1067;Amsterdam;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2035;Haarlem;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;394;Haarlemmermeer;2133;Haarlemmermeer;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;394;Haarlemmermeer;2134;Haarlemmermeer;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;29;36;48;49;54;48;50;38;7;0;0;0;0;0;0;0;0;0;0;0;0;0;359
+20171001;394;Haarlemmermeer;2135;Haarlemmermeer;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;1;0;0;2;4;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;394;Haarlemmermeer;2136;Haarlemmermeer;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;394;Haarlemmermeer;2151;Haarlemmermeer;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;394;Haarlemmermeer;2181;Hillegom;27PG;00;CBS De Brandaris;2134DL;HOOFDDORP;Noord-Holland;Bo;Protestants-Christelijk;42683;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

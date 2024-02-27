@@ -1,0 +1,109 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1700;Twenterand;7447;Hellendoorn;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7608;Almelo;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7645;Wierden;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7671;Twenterand;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;1;2;2;0;0;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1700;Twenterand;7672;Twenterand;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7676;Twenterand;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1700;Twenterand;7681;Twenterand;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;2;4;3;7;6;11;12;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;1700;Twenterand;7683;Twenterand;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;1;2;6;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1700;Twenterand;7687;Hellendoorn;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7688;Hellendoorn;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7693;Hardenberg;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7694;Hardenberg;01KZ;00;Chr SSBO;7681AE;VROOMSHOOP;Overijssel;Sbo;Protestants-Christelijk;61751;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7557;Hengelo;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7671;Twenterand;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7676;Twenterand;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1700;Twenterand;7681;Twenterand;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;13;5;9;10;12;11;7;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;1700;Twenterand;7683;Twenterand;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7686;Twenterand;06BY;00;Basisschool De Schakel;7681RG;VROOMSHOOP;Overijssel;Bo;Openbaar;41476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7608;Almelo;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7610;Almelo;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7611;Almelo;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7641;Wierden;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7645;Wierden;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;0;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1700;Twenterand;7671;Twenterand;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;21;17;17;20;19;20;12;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;1700;Twenterand;7672;Twenterand;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;6;1;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1700;Twenterand;7676;Twenterand;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;2;0;1;1;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1700;Twenterand;7678;Tubbergen;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7687;Hellendoorn;06NR;00;Johannes Bogermanschool;7671CA;VRIEZENVEEN;Overijssel;Bo;Reformatorisch;50299;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7676;Twenterand;06TR;00;Basisschool Willibrordus;7681JE;VROOMSHOOP;Overijssel;Bo;Rooms-Katholiek;68836;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7681;Twenterand;06TR;00;Basisschool Willibrordus;7681JE;VROOMSHOOP;Overijssel;Bo;Rooms-Katholiek;68836;0;16;9;11;8;9;13;10;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;1700;Twenterand;7686;Twenterand;06TR;00;Basisschool Willibrordus;7681JE;VROOMSHOOP;Overijssel;Bo;Rooms-Katholiek;68836;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7447;Hellendoorn;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;1;1;1;2;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1700;Twenterand;7603;Almelo;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7681;Twenterand;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1700;Twenterand;7683;Twenterand;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;29;27;29;22;44;23;31;35;4;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;1700;Twenterand;7686;Twenterand;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7688;Hellendoorn;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7731;Ommen;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7772;Hardenberg;09QR;00;De Smithoek;7683CK;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7676;Twenterand;09SG;00;Basisschool Blokstoeke;7676BH;WESTERHAAR-VRIEZENV WIJK;Overijssel;Bo;Openbaar;41476;0;8;7;11;6;14;13;10;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;1700;Twenterand;7692;Hardenberg;09SG;00;Basisschool Blokstoeke;7676BH;WESTERHAAR-VRIEZENV WIJK;Overijssel;Bo;Openbaar;41476;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7676;Twenterand;09UG;00;De Fontein;7676BH;WESTERHAAR-VRIEZENV WIJK;Overijssel;Bo;Protestants-Christelijk;61751;0;30;41;50;41;51;40;54;41;3;0;0;0;0;0;0;0;0;0;0;0;0;0;351
+20171001;1700;Twenterand;7681;Twenterand;09UG;00;De Fontein;7676BH;WESTERHAAR-VRIEZENV WIJK;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7693;Hardenberg;09UG;00;De Fontein;7676BH;WESTERHAAR-VRIEZENV WIJK;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7681;Twenterand;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1700;Twenterand;7683;Twenterand;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;25;23;29;33;21;27;16;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;1700;Twenterand;7685;Ommen;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7686;Twenterand;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7734;Ommen;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;8148;Ommen;10KP;00;De Maten;7683XH;DEN HAM OV;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7553;Hengelo;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7608;Almelo;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7671;Twenterand;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;11;15;11;6;10;9;5;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;1700;Twenterand;7672;Twenterand;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;6;5;4;3;3;4;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1700;Twenterand;7676;Twenterand;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7681;Twenterand;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7772;Hardenberg;10LY;00;OBS Weemewereld;7672GE;VRIEZENVEEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7671;Twenterand;12TB;00;Basisschool de Bron;7671KB;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;11;15;7;14;8;14;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;1700;Twenterand;7672;Twenterand;12TB;00;Basisschool de Bron;7671KB;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7688;Hellendoorn;12TB;00;Basisschool de Bron;7671KB;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7442;Hellendoorn;12ZN;00;Chr Basisschool Eltheto;7671GG;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7447;Hellendoorn;12ZN;00;Chr Basisschool Eltheto;7671GG;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7671;Twenterand;12ZN;00;Chr Basisschool Eltheto;7671GG;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;26;30;30;23;24;24;32;33;4;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;1700;Twenterand;7672;Twenterand;12ZN;00;Chr Basisschool Eltheto;7671GG;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;7;4;5;4;1;4;4;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1700;Twenterand;7676;Twenterand;12ZN;00;Chr Basisschool Eltheto;7671GG;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7671;Twenterand;13FI;00;De Regenboog;7671ZX;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;15;21;21;18;14;27;15;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;1700;Twenterand;7672;Twenterand;13FI;00;De Regenboog;7671ZX;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7610;Almelo;13PK;00;Chr Basisschool Rehoboth;7671RK;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7671;Twenterand;13PK;00;Chr Basisschool Rehoboth;7671RK;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;12;10;14;11;11;13;14;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;1700;Twenterand;7672;Twenterand;13PK;00;Chr Basisschool Rehoboth;7671RK;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7671;Twenterand;13TK;00;Chr Basisschool De Polle;7671PH;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;9;3;7;6;4;7;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;1700;Twenterand;7675;Twenterand;13TK;00;Chr Basisschool De Polle;7671PH;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7678;Tubbergen;13TK;00;Chr Basisschool De Polle;7671PH;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1700;Twenterand;7676;Twenterand;16WL;00;Kennedy Basisschool;7681AL;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7681;Twenterand;16WL;00;Kennedy Basisschool;7681AL;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;10;6;5;17;9;14;12;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;94
+20171001;1700;Twenterand;7676;Twenterand;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7681;Twenterand;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;37;27;25;42;27;27;25;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;232
+20171001;1700;Twenterand;7683;Twenterand;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7686;Twenterand;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;4;3;3;3;1;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1700;Twenterand;7687;Hellendoorn;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7688;Hellendoorn;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7693;Hardenberg;16XP;00;Oranjeschool;7681DN;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7681;Twenterand;16YJ;00;Basisschool De Linde;7681RA;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;3;10;9;11;7;7;8;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;1700;Twenterand;7683;Twenterand;16YJ;00;Basisschool De Linde;7681RA;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7686;Twenterand;16YJ;00;Basisschool De Linde;7681RA;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7671;Twenterand;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7681;Twenterand;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;23;26;29;30;29;27;32;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;220
+20171001;1700;Twenterand;7683;Twenterand;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1700;Twenterand;7686;Twenterand;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1700;Twenterand;7687;Hellendoorn;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7694;Hardenberg;16YZ;00;Basisschool Nieuwoord;7681HD;VROOMSHOOP;Overijssel;Bo;Protestants-Christelijk;99594;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7645;Wierden;21BF;00;St Antonius Basisschool;7671VW;VRIEZENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7671;Twenterand;21BF;00;St Antonius Basisschool;7671VW;VRIEZENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;8;8;9;9;6;10;15;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;1700;Twenterand;7672;Twenterand;21BF;00;St Antonius Basisschool;7671VW;VRIEZENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;2;1;1;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1700;Twenterand;7676;Twenterand;21BF;00;St Antonius Basisschool;7671VW;VRIEZENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1700;Twenterand;7681;Twenterand;21BF;00;St Antonius Basisschool;7671VW;VRIEZENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;2515;'s-Gravenhage;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7606;Almelo;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7671;Twenterand;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;8;20;16;17;18;27;18;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;1700;Twenterand;7672;Twenterand;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;17;22;26;34;35;33;32;29;1;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;1700;Twenterand;7676;Twenterand;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7683;Twenterand;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7687;Hellendoorn;22LL;00;Shalom;7671ND;VRIEZENVEEN;Overijssel;Bo;Protestants-Christelijk;61751;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7447;Hellendoorn;23HA;00;Geref Basissch Domino;7683CK;DEN HAM OV;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1700;Twenterand;7681;Twenterand;23HA;00;Geref Basissch Domino;7683CK;DEN HAM OV;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;3;6;3;4;7;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1700;Twenterand;7683;Twenterand;23HA;00;Geref Basissch Domino;7683CK;DEN HAM OV;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;9;6;8;7;11;7;6;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;1700;Twenterand;7685;Ommen;23HA;00;Geref Basissch Domino;7683CK;DEN HAM OV;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1700;Twenterand;7686;Twenterand;23HA;00;Geref Basissch Domino;7683CK;DEN HAM OV;Overijssel;Bo;Gereformeerd vrijgemaakt;41624;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

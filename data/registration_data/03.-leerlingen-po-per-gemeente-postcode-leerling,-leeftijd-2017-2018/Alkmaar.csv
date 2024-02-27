@@ -1,0 +1,816 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;361;Alkmaar;1483;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1602;Enkhuizen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1616;Drechterland;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1628;Hoorn;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1633;Koggenland;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1645;Koggenland;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1701;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1701;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;3;0;1;2;1;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1702;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1702;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1703;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1703;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1704;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;0;3;0;2;1;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1705;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;2;0;1;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1705;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;1;2;1;2;3;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1706;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1706;Heerhugowaard;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1713;Koggenland;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1713;Koggenland;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1721;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1721;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1722;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1722;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1723;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1724;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1731;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1731;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1732;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1733;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1733;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1738;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1741;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1741;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1742;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1742;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1744;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1746;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1747;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1752;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1753;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1753;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1755;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1755;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1756;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1759;Schagen;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1767;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1768;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1777;Hollands Kroon;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1788;Den Helder;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1813;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1814;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1814;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;4;1;0;0;1;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1815;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1816;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1817;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1822;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1823;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1824;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1824;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1825;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1825;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1826;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1826;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;4;2;2;2;2;1;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1829;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1831;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1831;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1841;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1846;Alkmaar;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1851;Heiloo;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1852;Heiloo;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1852;Heiloo;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1853;Heiloo;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1861;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1861;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1862;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1862;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;3;3;4;3;0;0;0;0;0;0;0;0;14
+20171001;361;Alkmaar;1871;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1873;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1901;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1902;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1902;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1906;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1911;Uitgeest;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1911;Uitgeest;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1931;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1931;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1934;Bergen (NH.);01WX;00;De Alk;1813KE;ALKMAAR;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1701;Heerhugowaard;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1702;Heerhugowaard;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1703;Heerhugowaard;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1704;Heerhugowaard;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;1;1;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1705;Heerhugowaard;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1713;Koggenland;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1718;Opmeer;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1721;Langedijk;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1722;Langedijk;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1814;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;0;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1816;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1817;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;3;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1822;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1823;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1824;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;3;1;0;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1825;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1826;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;1;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1827;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;3;3;4;2;6;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;361;Alkmaar;1829;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1831;Alkmaar;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1832;Langedijk;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1851;Heiloo;03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1862;Bergen (NH.);03AZ;00;Geref Basissch De Rank;1817HJ;ALKMAAR;Noord-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1702;Heerhugowaard;04VH;00;St Michael-School;1846LG;ZUIDSCHERMER;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1846;Alkmaar;04VH;00;St Michael-School;1846LG;ZUIDSCHERMER;Noord-Holland;Bo;Rooms-Katholiek;73919;0;2;1;0;0;6;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;361;Alkmaar;1847;Alkmaar;04VH;00;St Michael-School;1846LG;ZUIDSCHERMER;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1448;Purmerend;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1464;Beemster;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;1;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1483;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;29;26;21;29;28;21;24;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;361;Alkmaar;1484;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;3;3;6;6;8;5;7;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;361;Alkmaar;1485;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1486;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1846;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1847;Alkmaar;05DH;00;De Balein;1483VR;DE RIJP;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1183;Amstelveen;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1463;Beemster;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;14;15;12;7;17;5;15;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;361;Alkmaar;1645;Koggenland;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1841;Alkmaar;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;4;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1842;Alkmaar;06TD;00;Basisschool De Bonte Mol;1636XC;SCHERMERHORN;Noord-Holland;Bo;Rooms-Katholiek;73919;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1462;Beemster;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1483;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1485;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1486;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;1;2;2;2;2;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;361;Alkmaar;1487;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1488;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1489;Castricum;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1536;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1841;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;1;2;1;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1844;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;4;6;4;2;2;0;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;361;Alkmaar;1846;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;3;2;4;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1847;Alkmaar;08IW;00;De Overhael;1844KL;DRIEHUIZEN;Noord-Holland;Bo;Openbaar;41191;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1462;Beemster;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1464;Beemster;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1483;Alkmaar;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;11;18;13;16;14;13;17;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;117
+20171001;361;Alkmaar;1484;Alkmaar;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;1;2;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1486;Alkmaar;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1534;Wormerland;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1846;Alkmaar;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;1;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;3641;De Ronde Venen;08TK;00;Basissch De Tweemaster;1483VR;DE RIJP;Noord-Holland;Bo;Openbaar;41191;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1485;Alkmaar;09IW;00;Basisschool W J Driessen;1843JS;GROOTSCHERMER;Noord-Holland;Bo;Openbaar;41191;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1507;Zaanstad;09IW;00;Basisschool W J Driessen;1843JS;GROOTSCHERMER;Noord-Holland;Bo;Openbaar;41191;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;09IW;00;Basisschool W J Driessen;1843JS;GROOTSCHERMER;Noord-Holland;Bo;Openbaar;41191;0;4;7;7;5;5;12;3;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;361;Alkmaar;1703;Heerhugowaard;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1721;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;3;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1722;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1723;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1724;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1738;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1744;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1746;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1747;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1753;Schagen;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1813;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1816;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1817;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1822;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;3;1;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;361;Alkmaar;1823;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1824;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;3;1;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1825;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;3;2;1;5;4;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;361;Alkmaar;1826;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;7;3;5;4;4;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;361;Alkmaar;1827;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;5;12;5;11;7;3;11;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;361;Alkmaar;1829;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1831;Alkmaar;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;2;1;3;1;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;361;Alkmaar;1832;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;2;4;3;2;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;361;Alkmaar;1851;Heiloo;09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1862;Bergen (NH.);09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1871;Bergen (NH.);09NN;00;Rudolf Steinerschool;1826KL;ALKMAAR;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1702;Heerhugowaard;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1705;Heerhugowaard;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;2;0;4;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1713;Koggenland;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1721;Langedijk;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1749;Schagen;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;2;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1812;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1813;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1814;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;2;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1815;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;2;1;2;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;361;Alkmaar;1816;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1817;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1821;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1822;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;1;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1823;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;9;7;4;3;3;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;361;Alkmaar;1824;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;3;2;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1825;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1826;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1829;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;4;2;2;5;6;0;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;361;Alkmaar;1834;Langedijk;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1841;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1842;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1844;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1846;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1847;Alkmaar;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1851;Heiloo;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1942;Beverwijk;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1967;Heemskerk;09NN;01;VS de Sterrenzanger;1829CE;OUDORP NH;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1458;Wormerland;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1464;Beemster;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;1;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1486;Alkmaar;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;3;2;4;0;0;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;361;Alkmaar;1487;Alkmaar;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1488;Alkmaar;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;4;1;3;2;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;361;Alkmaar;1489;Castricum;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1531;Wormerland;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1536;Alkmaar;09RR;00;Basisschool Vinckhuysen;1486MG;WEST-GRAFTDIJK;Noord-Holland;Bo;Openbaar;41191;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1561;Zaanstad;10VU;00;Opb Basissch de Wiekslag;1841GR;STOMPETOREN;Noord-Holland;Bo;Openbaar;41191;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1841;Alkmaar;10VU;00;Opb Basissch de Wiekslag;1841GR;STOMPETOREN;Noord-Holland;Bo;Openbaar;41191;0;21;19;14;18;18;25;11;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;361;Alkmaar;1842;Alkmaar;10VU;00;Opb Basissch de Wiekslag;1841GR;STOMPETOREN;Noord-Holland;Bo;Openbaar;41191;0;0;1;3;4;5;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;361;Alkmaar;1566;Zaanstad;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1814;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1821;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1822;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;6;12;14;7;13;13;5;12;2;1;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;361;Alkmaar;1824;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;16;13;11;12;5;10;12;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;361;Alkmaar;1825;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;10;8;20;15;12;11;17;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;361;Alkmaar;1826;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;1;2;2;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1827;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1831;Alkmaar;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1921;Castricum;14FJ;00;DURV !;1825KA;ALKMAAR;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1823;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1824;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;30;23;21;27;19;9;10;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;361;Alkmaar;1825;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;2;0;2;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1826;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1829;Alkmaar;15KX;00;Obs Jules Verne;1824EZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1705;Heerhugowaard;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1817;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1821;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1824;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;1;1;2;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1825;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;3;4;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1826;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;2;7;2;4;6;6;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;361;Alkmaar;1827;Alkmaar;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;1;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1834;Langedijk;15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1861;Bergen (NH.);15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1862;Bergen (NH.);15LN;01;Montessorischool;1826DM;ALKMAAR;Noord-Holland;Bo;Algemeen bijzonder;41364;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1761;Hollands Kroon;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1811;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;3;7;1;4;4;3;3;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;361;Alkmaar;1812;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;16;14;15;10;6;9;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;361;Alkmaar;1814;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;41;36;31;38;40;36;28;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;280
+20171001;361;Alkmaar;1815;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;4;1;2;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;361;Alkmaar;1816;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1817;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;2;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1825;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1826;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1827;Alkmaar;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1906;Castricum;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1934;Bergen (NH.);15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1967;Heemskerk;15OY;00;RK BS St Adelbertus;1814CJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1703;Heerhugowaard;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1721;Langedijk;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1749;Schagen;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1815;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1817;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1822;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1824;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1825;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;4;6;2;11;5;9;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;361;Alkmaar;1826;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;3;1;3;6;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;361;Alkmaar;1827;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;23;25;29;24;15;32;22;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;361;Alkmaar;1831;Alkmaar;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;2;3;1;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;361;Alkmaar;1834;Langedijk;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1851;Heiloo;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;9635;Menterwolde;15UP;00;Obs Liereland;1827DM;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;15WW;00;OBS De Fontein;1814LS;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;15WW;00;OBS De Fontein;1814LS;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;9;12;18;9;10;6;8;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;361;Alkmaar;1814;Alkmaar;15WW;00;OBS De Fontein;1814LS;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;4;5;4;3;3;4;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;361;Alkmaar;1826;Alkmaar;15WW;00;OBS De Fontein;1814LS;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1759;Schagen;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1814;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1821;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1823;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;2;4;1;4;5;3;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;361;Alkmaar;1824;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;23;20;32;28;29;28;28;19;8;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;361;Alkmaar;1825;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1826;Alkmaar;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;15YF;00;RK BS Regenboog;1824EZ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1032;Amsterdam;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1713;Koggenland;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1754;Schagen;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1812;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1813;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1814;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1822;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;4;4;1;1;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;361;Alkmaar;1823;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;34;21;19;21;22;13;18;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;361;Alkmaar;1824;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1826;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1829;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;14;13;9;14;14;15;14;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;361;Alkmaar;1831;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1834;Langedijk;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1841;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1847;Alkmaar;15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1862;Bergen (NH.);15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1871;Bergen (NH.);15YF;01;RK BS De Regenboog;1829EA;OUDORP NH;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1721;Langedijk;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1742;Schagen;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1811;Alkmaar;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;16;7;6;9;10;12;12;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;361;Alkmaar;1814;Alkmaar;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;14;17;16;18;19;15;9;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;361;Alkmaar;1815;Alkmaar;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1816;Alkmaar;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1851;Heiloo;16BU;00;RK BS Kard De Jong;1814NE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1068;Amsterdam;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1186;Amstelveen;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1705;Heerhugowaard;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1724;Langedijk;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1747;Schagen;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;7;5;6;5;5;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;361;Alkmaar;1813;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;4;2;3;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;361;Alkmaar;1814;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;8;10;13;7;12;5;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;361;Alkmaar;1815;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;19;25;26;21;20;23;20;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;361;Alkmaar;1816;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;3;8;6;2;7;4;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;361;Alkmaar;1817;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;2;0;1;1;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1821;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1822;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1823;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;4;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1824;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1825;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1827;Alkmaar;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1851;Heiloo;16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;2;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1861;Bergen (NH.);16DG;00;Rk Basissch De Kring;1815GE;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1633;Koggenland;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1648;Koggenland;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;20;17;24;21;15;18;15;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;361;Alkmaar;1814;Alkmaar;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;2;2;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1823;Alkmaar;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1827;Alkmaar;16EQ;00;RK Basissch St Matthias;1813XV;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1063;Amsterdam;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1702;Heerhugowaard;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1703;Heerhugowaard;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1733;Hollands Kroon;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;2;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1814;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1815;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;3;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1816;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;28;31;39;32;39;27;30;30;4;0;0;0;0;0;0;0;0;0;0;0;0;0;260
+20171001;361;Alkmaar;1817;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1822;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1825;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1827;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1841;Alkmaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1861;Bergen (NH.);16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1931;Bergen (NH.);16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1934;Bergen (NH.);16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;2242;Wassenaar;16FW;00;RK BS De Driemaster;1816EP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1382;Weesp;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1702;Heerhugowaard;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1703;Heerhugowaard;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1705;Heerhugowaard;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1711;Koggenland;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1722;Langedijk;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1812;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1813;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1814;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1817;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1821;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;8;20;17;15;13;6;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;361;Alkmaar;1822;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;3;1;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1823;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;15;21;23;33;21;24;18;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;361;Alkmaar;1824;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;2;1;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1825;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1826;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1829;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;22;21;19;12;16;14;17;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;361;Alkmaar;1841;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1842;Alkmaar;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1851;Heiloo;16HU;00;OBS De Zes Wielen;1823DC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;  40;Onbekend;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1096;Amsterdam;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1443;Purmerend;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1781;Den Helder;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;13;13;16;21;24;8;15;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;361;Alkmaar;1814;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1815;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;6;6;5;2;2;5;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;361;Alkmaar;1823;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1824;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1825;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1826;Alkmaar;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1852;Heiloo;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1951;Velsen;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1975;Velsen;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;5825;Boxmeer;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;9341;Noordenveld;16IQ;00;RK BS De Wegwijzer;1813CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;  30;ander land;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1705;Heerhugowaard;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1722;Langedijk;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1814;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1822;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1824;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1825;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;20;20;18;16;16;18;10;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;361;Alkmaar;1826;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;9;7;14;10;15;10;15;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;361;Alkmaar;1827;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;8;18;9;15;9;16;12;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;361;Alkmaar;1831;Alkmaar;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;16JV;00;RK Basissch 't Baeken;1825HC;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1702;Heerhugowaard;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1705;Heerhugowaard;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1721;Langedijk;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1722;Langedijk;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1754;Schagen;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1777;Hollands Kroon;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1811;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1815;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1824;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1825;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;4;8;3;6;10;6;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;361;Alkmaar;1826;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;17;22;22;26;19;22;15;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;361;Alkmaar;1827;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;5;7;5;2;3;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;361;Alkmaar;1831;Alkmaar;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1832;Langedijk;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1834;Langedijk;16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;2;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1861;Bergen (NH.);16KJ;00;OBS De Vlieger;1826GP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1701;Heerhugowaard;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1822;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1823;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1824;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;2;1;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1825;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;31;31;34;28;26;30;21;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;219
+20171001;361;Alkmaar;1826;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;16KW;00;RK Basissch De Burijn;1825DP;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1816;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1817;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1824;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1825;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;11;10;9;21;18;14;15;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;361;Alkmaar;1826;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1827;Alkmaar;16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1861;Bergen (NH.);16LI;00;De Sterrenwachter;1825DP;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1721;Langedijk;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1746;Schagen;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;8;8;8;6;8;9;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;361;Alkmaar;1824;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;2;3;1;3;2;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;361;Alkmaar;1825;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;1;3;2;5;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;361;Alkmaar;1826;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;21;16;19;28;18;24;24;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;361;Alkmaar;1827;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1831;Alkmaar;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;16MX;00;RK BS Het Kompas;1826CG;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1825;Alkmaar;16UJ;00;Obs Zandloper;1831CC;KOEDIJK;Noord-Holland;Bo;Openbaar;42514;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1826;Alkmaar;16UJ;00;Obs Zandloper;1831CC;KOEDIJK;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1827;Alkmaar;16UJ;00;Obs Zandloper;1831CC;KOEDIJK;Noord-Holland;Bo;Openbaar;42514;0;12;12;14;13;17;14;11;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;361;Alkmaar;1831;Alkmaar;16UJ;00;Obs Zandloper;1831CC;KOEDIJK;Noord-Holland;Bo;Openbaar;42514;0;13;18;15;22;14;15;17;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;361;Alkmaar;1832;Langedijk;16UJ;00;Obs Zandloper;1831CC;KOEDIJK;Noord-Holland;Bo;Openbaar;42514;0;1;1;2;2;1;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;361;Alkmaar;1732;Hollands Kroon;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;7;10;9;7;12;9;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;361;Alkmaar;1813;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;6;8;6;7;11;8;4;7;1;1;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;361;Alkmaar;1814;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;19;27;18;25;25;19;26;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;361;Alkmaar;1815;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;31;30;35;34;33;32;28;25;0;0;0;0;0;0;0;0;0;0;0;0;0;0;248
+20171001;361;Alkmaar;1816;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;5;9;3;7;8;4;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;361;Alkmaar;1817;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;4;0;5;2;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;361;Alkmaar;1821;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1823;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1824;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1825;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1826;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1829;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1831;Alkmaar;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1851;Heiloo;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;2;1;2;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1852;Heiloo;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1934;Bergen (NH.);16WU;00;OBS De Kennemerpoort;1814EC;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1705;Heerhugowaard;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1722;Langedijk;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1811;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;2;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1813;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1814;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1815;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;3;1;0;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1816;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;21;17;16;20;9;21;16;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;361;Alkmaar;1817;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;38;35;30;38;27;23;33;26;4;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;361;Alkmaar;1822;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1825;Alkmaar;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1851;Heiloo;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1852;Heiloo;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;4533;Terneuzen;16XY;00;Obs Nicolaas Beets;1817HJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;16XY;03;Obs Nicolaas Beets;1816JZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1815;Alkmaar;16XY;03;Obs Nicolaas Beets;1816JZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;16XY;03;Obs Nicolaas Beets;1816JZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;7;9;11;4;11;5;8;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;361;Alkmaar;1817;Alkmaar;16XY;03;Obs Nicolaas Beets;1816JZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1825;Alkmaar;16XY;03;Obs Nicolaas Beets;1816JZ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1034;Amsterdam;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1135;Edam-Volendam;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1463;Beemster;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1483;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1483;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1488;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1504;Zaanstad;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1541;Zaanstad;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1544;Zaanstad;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1561;Zaanstad;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1562;Zaanstad;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1606;Drechterland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1611;Stede Broec;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1616;Drechterland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1619;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1622;Hoorn;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1625;Hoorn;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1628;Hoorn;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1628;Hoorn;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1631;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1633;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1643;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1645;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1648;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1657;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1674;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1687;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1688;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1689;Hoorn;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1693;Medemblik;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1701;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1701;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1702;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1702;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;2;3;2;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1703;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1703;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;2;3;3;2;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1704;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1704;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1705;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1705;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;11;1;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1706;Heerhugowaard;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1713;Koggenland;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1716;Opmeer;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1718;Opmeer;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1721;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1722;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1723;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1723;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1724;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1733;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1733;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1735;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1741;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1742;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1742;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1747;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1749;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1755;Schagen;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1761;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1766;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1767;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1767;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1771;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1773;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1775;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1775;Hollands Kroon;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1781;Den Helder;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1782;Den Helder;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1784;Den Helder;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1785;Den Helder;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1794;Texel;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;2;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1813;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;2;2;0;1;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1814;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1814;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1815;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1815;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1816;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;1;3;0;0;1;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1816;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1817;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1817;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1822;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1822;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;1;2;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1823;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1824;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;1;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1824;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1825;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;1;2;3;2;3;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;361;Alkmaar;1825;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;2;3;0;2;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1826;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;2;1;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1826;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;3;2;1;1;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1827;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;1;0;1;1;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;361;Alkmaar;1827;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;3;3;0;1;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1829;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1829;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1831;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1831;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1834;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1841;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1843;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1851;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1852;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1852;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1853;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1853;Heiloo;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1861;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1862;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1862;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1871;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1871;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1902;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1902;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1906;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1906;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1911;Uitgeest;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1911;Uitgeest;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1931;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1931;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1934;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1935;Bergen (NH.);18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1946;Beverwijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1948;Beverwijk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1962;Heemskerk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1964;Heemskerk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1965;Heemskerk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1966;Heemskerk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1967;Heemskerk;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;2011;Haarlem;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2025;Haarlem;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2034;Haarlem;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2034;Haarlem;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2037;Haarlem;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2104;Heemstede;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2134;Haarlemmermeer;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;So;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2135;Haarlemmermeer;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2181;Hillegom;18ZJ;00;Opb sch zmok De Spinaker;1817EZ;ALKMAAR;Noord-Holland;Vso;Openbaar;42514;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1483;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1636;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1701;Heerhugowaard;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1703;Heerhugowaard;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1705;Heerhugowaard;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1721;Langedijk;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1722;Langedijk;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1723;Langedijk;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1724;Langedijk;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1747;Schagen;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;1;1;1;3;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1814;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;1;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1815;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1817;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1824;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1825;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;1;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1826;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1827;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;1;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1831;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1841;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1843;Alkmaar;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1851;Heiloo;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;1;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1852;Heiloo;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;0;5;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1906;Castricum;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1911;Uitgeest;19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1931;Bergen (NH.);19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1934;Bergen (NH.);19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1935;Bergen (NH.);19XX;00;De Piramide;1813SV;ALKMAAR;Noord-Holland;Sbo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1703;Heerhugowaard;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1705;Heerhugowaard;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1721;Langedijk;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1722;Langedijk;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1723;Langedijk;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1724;Langedijk;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1733;Hollands Kroon;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1749;Schagen;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1811;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1813;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1814;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1815;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1816;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1817;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1821;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1823;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;1;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1824;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;5;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1825;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;2;3;3;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;361;Alkmaar;1826;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;1;0;0;5;1;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;361;Alkmaar;1827;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;1;2;4;0;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;361;Alkmaar;1829;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1831;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1834;Langedijk;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;1;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1841;Alkmaar;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1853;Heiloo;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1861;Bergen (NH.);20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1862;Bergen (NH.);20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1871;Bergen (NH.);20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1921;Castricum;20GF;00;SSBO De Vlindertuin;1824KV;ALKMAAR;Noord-Holland;Sbo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1611;Stede Broec;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1613;Stede Broec;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1614;Stede Broec;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1616;Drechterland;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1619;Medemblik;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1624;Hoorn;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1625;Hoorn;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1628;Hoorn;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1633;Koggenland;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1655;Medemblik;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1689;Hoorn;20WR;05;Burg. de Wildeschool;1816JZ;ALKMAAR;Noord-Holland;So;Openbaar;21679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1724;Langedijk;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1824;Alkmaar;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1825;Alkmaar;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1827;Alkmaar;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;22;17;19;30;23;27;31;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;361;Alkmaar;1831;Alkmaar;22JV;00;RK Basissch Erasmus;1827PA;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;3;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;361;Alkmaar;1721;Langedijk;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1823;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1824;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1825;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1826;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1827;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;31;23;20;20;24;25;23;24;7;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;361;Alkmaar;1831;Alkmaar;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;1;1;1;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;361;Alkmaar;1834;Langedijk;23JH;00;OBS de Cocon;1827NJ;ALKMAAR;Noord-Holland;Bo;Openbaar;42514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1701;Heerhugowaard;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1702;Heerhugowaard;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;1;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1723;Langedijk;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1813;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;3;4;4;4;2;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;361;Alkmaar;1814;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;1;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;361;Alkmaar;1816;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;3;3;5;5;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;361;Alkmaar;1823;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1824;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1825;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;1;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1827;Alkmaar;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;1;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1834;Langedijk;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1852;Heiloo;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;3;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;361;Alkmaar;1862;Bergen (NH.);27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1921;Castricum;27PR;02;An Nasr;1816XA;ALKMAAR;Noord-Holland;Bo;Islamitisch;40400;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;  30;ander land;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1628;Hoorn;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1704;Heerhugowaard;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1706;Heerhugowaard;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;361;Alkmaar;1722;Langedijk;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1813;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;1822;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;21;30;32;32;33;42;35;36;6;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;361;Alkmaar;1823;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;361;Alkmaar;1824;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;2;3;2;1;3;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;361;Alkmaar;1825;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;361;Alkmaar;1826;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1827;Alkmaar;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;361;Alkmaar;1834;Langedijk;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;361;Alkmaar;1901;Castricum;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;2013;Haarlem;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;361;Alkmaar;3012;Rotterdam;31ET;00;De Lispeltuut;1822KJ;ALKMAAR;Noord-Holland;Bo;Rooms-Katholiek;60997;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

@@ -1,0 +1,130 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;216;Culemborg;4101;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;2;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;216;Culemborg;4102;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4103;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4104;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4105;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;13;13;17;12;14;17;19;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;216;Culemborg;4106;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;2;0;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;216;Culemborg;4107;Culemborg;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;1;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;216;Culemborg;4121;Vianen;07UA;00;RK Augustinus-School;4105EA;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4101;Culemborg;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;19;19;18;20;24;17;15;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;216;Culemborg;4102;Culemborg;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;4;3;3;2;8;1;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;216;Culemborg;4103;Culemborg;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;1;0;1;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;216;Culemborg;4105;Culemborg;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;2;2;0;2;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;216;Culemborg;4112;Buren;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4153;Geldermalsen;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;5301;Zaltbommel;08ZN;00;RK Josefschool;4101CZ;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4023;Buren;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;5;1;3;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;216;Culemborg;4102;Culemborg;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;8;22;13;14;16;15;15;17;6;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;216;Culemborg;4103;Culemborg;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4105;Culemborg;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4107;Culemborg;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4112;Buren;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4116;Buren;09WU;00;Basisschool De Palster;4102JN;CULEMBORG;Gelderland;Bo;Rooms-Katholiek;72554;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4101;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;2;1;1;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;216;Culemborg;4102;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;216;Culemborg;4103;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4105;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;18;19;22;20;25;20;24;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;216;Culemborg;4106;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;216;Culemborg;4107;Culemborg;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;216;Culemborg;4112;Buren;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4121;Vianen;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4145;Leerdam;10CS;00;Basisschool De Distelvlinder;4105TC;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4006;Tiel;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4101;Culemborg;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;2;2;0;5;2;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;216;Culemborg;4102;Culemborg;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;13;14;21;11;19;17;30;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;216;Culemborg;4103;Culemborg;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;216;Culemborg;4105;Culemborg;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;216;Culemborg;4106;Culemborg;11UD;00;De Kaardebol;4102KN;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4101;Culemborg;11UD;01;Daltonschool Culemborg;4105AL;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;3;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;216;Culemborg;4102;Culemborg;11UD;01;Daltonschool Culemborg;4105AL;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4105;Culemborg;11UD;01;Daltonschool Culemborg;4105AL;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;6;7;3;11;7;6;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;216;Culemborg;3531;Utrecht;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;11;20;16;14;10;10;14;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;216;Culemborg;4102;Culemborg;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;11;13;6;9;7;4;9;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;216;Culemborg;4103;Culemborg;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;7;6;9;5;9;8;6;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;216;Culemborg;4105;Culemborg;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;9;8;4;5;4;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;216;Culemborg;4107;Culemborg;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4112;Buren;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4115;Buren;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4116;Buren;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4121;Vianen;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4122;Vianen;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4245;Zederik;12EA;00;'t Praathuis;4103XZ;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4003;Tiel;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4031;Buren;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4033;Buren;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;1;0;0;3;2;6;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;216;Culemborg;4102;Culemborg;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;3;0;4;4;4;7;4;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;216;Culemborg;4103;Culemborg;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4105;Culemborg;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;1;0;3;3;2;5;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;216;Culemborg;4107;Culemborg;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4112;Buren;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;1;2;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;216;Culemborg;4121;Vianen;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4142;Leerdam;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4145;Leerdam;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4153;Geldermalsen;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4181;Neerijnen;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4191;Geldermalsen;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;2;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;216;Culemborg;5301;Zaltbommel;18YH;00;SSBO Koningin Juliana;4101JS;CULEMBORG;Gelderland;Sbo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;3522;Utrecht;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;17;16;20;10;16;10;18;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;216;Culemborg;4102;Culemborg;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;5;10;2;3;5;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;216;Culemborg;4103;Culemborg;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;216;Culemborg;4105;Culemborg;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;2;2;2;1;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;216;Culemborg;4112;Buren;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;5301;Zaltbommel;20CX;00;Koningin Beatrixschool;4101BK;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;  40;Onbekend;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;3531;Utrecht;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;7;3;3;3;8;5;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;216;Culemborg;4102;Culemborg;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;25;31;26;39;26;22;20;23;7;0;0;0;0;0;0;0;0;0;0;0;0;0;219
+20171001;216;Culemborg;4103;Culemborg;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;216;Culemborg;4104;Culemborg;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4105;Culemborg;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4112;Buren;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4121;Vianen;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4153;Geldermalsen;20DK;00;Bs Koning Willem Alexander;4102JA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;3998;Houten;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;2;4;1;1;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;216;Culemborg;4102;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;216;Culemborg;4103;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;216;Culemborg;4105;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;37;35;45;56;53;43;40;53;4;0;0;0;0;0;0;0;0;0;0;0;0;0;366
+20171001;216;Culemborg;4106;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;7;2;3;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;216;Culemborg;4107;Culemborg;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;1;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;216;Culemborg;4116;Buren;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4121;Vianen;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;216;Culemborg;4145;Leerdam;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4151;Geldermalsen;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4196;Geldermalsen;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;5141;Waalwijk;24AG;00;Oranje Nassauschool;4105XA;CULEMBORG;Gelderland;Bo;Protestants-Christelijk;41424;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;3;5;5;2;8;8;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;216;Culemborg;4102;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;1;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;216;Culemborg;4103;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4105;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;16;21;21;19;28;14;24;20;7;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;216;Culemborg;4106;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;3;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;216;Culemborg;4107;Culemborg;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4111;Buren;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4112;Buren;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4121;Vianen;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4122;Vianen;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;4145;Leerdam;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4152;Geldermalsen;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4181;Neerijnen;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4196;Geldermalsen;27RL;00;Parijsch;4105LE;CULEMBORG;Gelderland;Bo;Openbaar;41876;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;1095;Amsterdam;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;3411;Lopik;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;3981;Bunnik;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;3994;Houten;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4007;Tiel;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4021;Buren;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4101;Culemborg;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;3;1;1;1;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;216;Culemborg;4102;Culemborg;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;2;0;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;216;Culemborg;4103;Culemborg;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;3;0;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;216;Culemborg;4105;Culemborg;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;1;2;2;2;0;6;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;216;Culemborg;4107;Culemborg;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4111;Buren;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4112;Buren;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4131;Vianen;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;216;Culemborg;4132;Vianen;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;216;Culemborg;5344;Oss;29YD;00;Blink;4105BA;CULEMBORG;Gelderland;Bo;Algemeen bijzonder;77975;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

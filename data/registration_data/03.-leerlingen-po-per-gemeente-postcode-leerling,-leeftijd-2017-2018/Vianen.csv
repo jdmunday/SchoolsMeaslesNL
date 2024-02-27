@@ -1,0 +1,103 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;620;Vianen;3312;Dordrecht;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3402;IJsselstein;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3431;Nieuwegein;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3543;Utrecht;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4121;Vianen;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4124;Vianen;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4125;Vianen;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;620;Vianen;4131;Vianen;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;11;11;12;13;13;12;18;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;620;Vianen;4133;Vianen;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4145;Leerdam;03JE;00;Basisschool De Ark;4131AR;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;2968;Molenwaard;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3402;IJsselstein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;3404;IJsselstein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;3432;Nieuwegein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;3434;Nieuwegein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3436;Nieuwegein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3438;Nieuwegein;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3991;Houten;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4121;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4122;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4124;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4125;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4126;Zederik;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4128;Zederik;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;620;Vianen;4131;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;1;1;1;2;2;4;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;620;Vianen;4132;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;1;0;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;620;Vianen;4133;Vianen;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;2;3;1;2;8;2;9;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;620;Vianen;4142;Leerdam;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4231;Zederik;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4243;Zederik;03UO;00;Chr SSBO De Brug;4132XC;VIANEN UT;Utrecht;Sbo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4105;Culemborg;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4107;Culemborg;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4121;Vianen;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;620;Vianen;4122;Vianen;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;7;7;7;9;11;7;9;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;620;Vianen;4124;Vianen;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;3;1;1;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;620;Vianen;4143;Leerdam;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4145;Leerdam;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4151;Geldermalsen;04UU;00;Heredium;4122GA;ZIJDERVELD;Utrecht;Bo;Protestants-Christelijk;41439;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;3435;Nieuwegein;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3452;Utrecht;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4124;Vianen;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4125;Vianen;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;620;Vianen;4128;Zederik;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4131;Vianen;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;5;5;6;1;4;10;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;620;Vianen;4132;Vianen;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;22;20;27;26;31;32;22;26;7;0;0;0;0;0;0;0;0;0;0;0;0;0;213
+20171001;620;Vianen;4133;Vianen;06FO;00;Basisschool De Rank;4132CC;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;8;6;7;4;6;5;8;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;620;Vianen;3401;IJsselstein;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3404;IJsselstein;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3412;Lopik;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3432;Nieuwegein;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4121;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4124;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4125;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4128;Zederik;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4131;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;1;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;620;Vianen;4132;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;3;3;3;3;1;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;620;Vianen;4133;Vianen;06KO;00;De Wegwijzer Basisschool;4133DK;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;34;33;34;21;27;20;24;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;620;Vianen;4106;Culemborg;06KO;02;Basisschool De Regenboog;4121EL;EVERDINGEN;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4121;Vianen;06KO;02;Basisschool De Regenboog;4121EL;EVERDINGEN;Utrecht;Bo;Rooms-Katholiek;77975;0;6;7;7;4;5;7;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;620;Vianen;4124;Vianen;06KO;02;Basisschool De Regenboog;4121EL;EVERDINGEN;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4141;Leerdam;06KO;02;Basisschool De Regenboog;4121EL;EVERDINGEN;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3437;Nieuwegein;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4102;Culemborg;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4122;Vianen;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4125;Vianen;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4128;Zederik;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4131;Vianen;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;2;1;2;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;620;Vianen;4132;Vianen;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;620;Vianen;4133;Vianen;08JU;00;Basissch De Voorhof;4133DK;VIANEN UT;Utrecht;Bo;Protestants-Christelijk;41528;0;23;29;34;29;35;29;26;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;620;Vianen;3998;Houten;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4124;Vianen;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4125;Vianen;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4131;Vianen;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;2;1;3;6;2;1;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;620;Vianen;4132;Vianen;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;12;11;14;16;12;11;15;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;620;Vianen;4133;Vianen;08MO;00;Egbertusschool;4132VE;VIANEN UT;Utrecht;Bo;Rooms-Katholiek;77975;0;5;1;2;3;4;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;620;Vianen;3401;IJsselstein;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3436;Nieuwegein;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3437;Nieuwegein;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4105;Culemborg;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4128;Zederik;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;620;Vianen;4131;Vianen;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;1;3;1;2;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;620;Vianen;4132;Vianen;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;1;4;1;2;3;4;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;620;Vianen;4133;Vianen;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;13;14;14;12;11;17;16;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;620;Vianen;4147;Lingewaal;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4233;Zederik;18KP;00;Bs De Wiekslag;4133EA;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;1185;Amstelveen;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3533;Utrecht;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4125;Vianen;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4131;Vianen;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;11;16;14;10;7;9;11;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;620;Vianen;4132;Vianen;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;620;Vianen;4142;Leerdam;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;9581;Stadskanaal;18LZ;00;Basissch De Gaard;4131GZ;VIANEN UT;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;3432;Nieuwegein;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;3433;Nieuwegein;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4105;Culemborg;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4107;Culemborg;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;620;Vianen;4121;Vianen;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;1;2;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;620;Vianen;4124;Vianen;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;12;10;5;13;8;6;16;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;620;Vianen;4125;Vianen;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;3;1;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;620;Vianen;4126;Zederik;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4131;Vianen;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;620;Vianen;4132;Vianen;18LZ;01;BS De Gaard;4124AK;HAGESTEIN;Utrecht;Bo;Openbaar;41638;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

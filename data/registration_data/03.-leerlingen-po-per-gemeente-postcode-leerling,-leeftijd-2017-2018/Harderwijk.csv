@@ -1,0 +1,298 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;243;Harderwijk;3841;Harderwijk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3843;Harderwijk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3844;Harderwijk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3845;Harderwijk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3848;Harderwijk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3864;Nijkerk;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3882;Putten;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3893;Zeewolde;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8072;Nunspeet;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8256;Dronten;01AJ;01;Dr A Verschoor School;3842AE;HARDERWIJK;Gelderland;Vso;Algemeen bijzonder;62129;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3794;Barneveld;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;1;2;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;243;Harderwijk;3842;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;4;0;2;4;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;243;Harderwijk;3843;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;1;2;3;2;3;4;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;243;Harderwijk;3844;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;1;0;5;1;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;243;Harderwijk;3845;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;1;0;2;1;2;3;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;243;Harderwijk;3848;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;1;1;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3849;Harderwijk;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;1;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3851;Ermelo;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;1;0;1;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;243;Harderwijk;3852;Ermelo;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3853;Ermelo;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;3;2;3;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;243;Harderwijk;3881;Putten;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3882;Putten;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3891;Zeewolde;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;1;0;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3892;Zeewolde;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;2;0;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3893;Zeewolde;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;1;0;0;0;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3894;Zeewolde;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;1;3;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3897;Zeewolde;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8256;Dronten;02WU;00;Chr SSBO De Springplank;3844DH;HARDERWIJK;Gelderland;Sbo;Protestants-Christelijk;41671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;1274;Huizen;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3704;Zeist;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3824;Amersfoort;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;2;3;1;3;7;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;243;Harderwijk;3842;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;2;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3843;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;6;1;3;3;3;2;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;243;Harderwijk;3844;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;5;6;5;4;10;4;7;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;243;Harderwijk;3845;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;5;4;3;6;3;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;243;Harderwijk;3846;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3847;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3848;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3849;Harderwijk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3851;Ermelo;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3852;Ermelo;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;1;0;2;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3853;Ermelo;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3862;Nijkerk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3863;Nijkerk;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3893;Zeewolde;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3898;Zeewolde;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8075;Nunspeet;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8166;Epe;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8219;Lelystad;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;8226;Lelystad;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8251;Dronten;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;8256;Dronten;06AF;00;Vrije School Valentijn;3844EL;HARDERWIJK;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3841;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3842;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;2;1;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3843;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;3;5;0;6;3;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;243;Harderwijk;3844;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;8;14;12;12;8;18;7;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;243;Harderwijk;3845;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;6;4;4;10;3;6;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;243;Harderwijk;3847;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3853;Ermelo;06GU;00;GBS Fontanusschool;3844HZ;HARDERWIJK;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;2807;Gouda;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3845;Harderwijk;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3849;Harderwijk;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;21;21;20;25;12;22;19;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;243;Harderwijk;3882;Putten;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8077;Nunspeet;09CE;00;CBS De Parel;3849AD;HIERDEN;Gelderland;Bo;Protestants-Christelijk;85476;0;1;2;1;0;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;243;Harderwijk;  30;ander land;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3842;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;1;1;2;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;243;Harderwijk;3843;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;1;4;0;3;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;243;Harderwijk;3844;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;27;43;33;36;41;40;34;40;5;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;243;Harderwijk;3845;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;27;36;37;35;41;21;28;29;0;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;243;Harderwijk;3847;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3849;Harderwijk;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3852;Ermelo;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3853;Ermelo;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;2;1;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;8077;Nunspeet;09MF;00;Basissch Alfons Ariens;3844HZ;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;5;3;4;5;3;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;243;Harderwijk;3842;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;27;34;28;32;17;30;15;21;7;0;0;0;0;0;0;0;0;0;0;0;0;0;211
+20171001;243;Harderwijk;3843;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;2;5;10;5;9;13;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;243;Harderwijk;3844;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3845;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3846;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3847;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;3;2;2;6;3;4;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;243;Harderwijk;3849;Harderwijk;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;1;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3851;Ermelo;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3852;Ermelo;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;7722;Dalfsen;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8077;Nunspeet;10HB;00;Basissch Dominicus Savio;3842EH;HARDERWIJK;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;2524;'s-Gravenhage;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3772;Barneveld;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3785;Barneveld;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3841;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3842;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3842;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3843;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;1;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3843;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3844;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3844;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;2;2;1;1;1;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3845;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;1;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3845;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3847;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3848;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3849;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3849;Harderwijk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3851;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3852;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3852;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3853;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3853;Ermelo;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;1;2;2;2;2;1;0;0;0;0;0;0;0;11
+20171001;243;Harderwijk;3861;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3861;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3862;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3862;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3863;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3863;Nijkerk;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3881;Putten;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3881;Putten;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3882;Putten;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3882;Putten;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3891;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3891;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3892;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3893;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3893;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3894;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3894;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3897;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;So;Protestants-Christelijk;41671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3897;Zeewolde;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8256;Dronten;16TL;00;PC ZMLK Sch De Lelie;3842DP;HARDERWIJK;Gelderland;Vso;Protestants-Christelijk;41671;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;1402;Gooise Meren;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3842;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;7;5;3;3;6;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;243;Harderwijk;3843;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;7;15;12;15;11;4;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;243;Harderwijk;3844;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3845;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3846;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3847;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;5;8;4;6;5;2;6;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;243;Harderwijk;3849;Harderwijk;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3853;Ermelo;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8071;Nunspeet;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;8256;Dronten;19ML;00;OBS De Delta;3843GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3843;Harderwijk;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;2;0;2;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3844;Harderwijk;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;19;23;11;21;20;18;22;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;243;Harderwijk;3847;Harderwijk;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3852;Ermelo;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3853;Ermelo;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;7122;Aalten;20GY;00;Basisschool het Baken;3844EL;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;  30;ander land;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;3;1;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;243;Harderwijk;3842;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;25;31;38;23;26;25;19;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;243;Harderwijk;3843;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;2;2;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;243;Harderwijk;3844;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3845;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3847;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3848;Harderwijk;20HF;00;BS De Schakel;3842EH;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;1;2;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;243;Harderwijk;2521;'s-Gravenhage;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3842;Harderwijk;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;1;2;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;243;Harderwijk;3843;Harderwijk;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;8;4;7;7;6;10;19;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;243;Harderwijk;3844;Harderwijk;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;16;16;22;19;23;15;18;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;243;Harderwijk;3845;Harderwijk;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;1;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3851;Ermelo;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3852;Ermelo;20HH;00;Basissch de Wegwijzer;3844BA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3841;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3842;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;4;0;1;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;243;Harderwijk;3843;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;32;20;34;17;16;30;27;25;5;0;0;0;0;0;0;0;0;0;0;0;0;0;206
+20171001;243;Harderwijk;3844;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3847;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3848;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3849;Harderwijk;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8225;Lelystad;20HJ;00;Basisschool De Brug;3843EZ;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3781;Barneveld;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3841;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;9;13;15;12;22;11;12;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;243;Harderwijk;3842;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;5;2;2;4;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;243;Harderwijk;3843;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3844;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3845;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;1;2;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;243;Harderwijk;3846;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;3849;Harderwijk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3851;Ermelo;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3852;Ermelo;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3853;Ermelo;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3863;Nijkerk;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3881;Putten;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3882;Putten;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3892;Zeewolde;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;243;Harderwijk;3893;Zeewolde;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3894;Zeewolde;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3896;Zeewolde;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3898;Zeewolde;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8019;Zwolle;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8071;Nunspeet;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;8072;Nunspeet;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;8075;Nunspeet;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8162;Epe;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8222;Lelystad;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8225;Lelystad;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8226;Lelystad;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;8232;Lelystad;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;8244;Lelystad;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;8256;Dronten;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;9414;Midden-Drenthe;20HK;00;Basisschool het Kompas;3841KE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3812;Amersfoort;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;13;6;12;9;6;11;11;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;243;Harderwijk;3842;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;4;1;6;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;243;Harderwijk;3843;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3844;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;4;3;4;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;243;Harderwijk;3845;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3846;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;5;2;2;6;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;243;Harderwijk;3848;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3849;Harderwijk;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3898;Zeewolde;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;8256;Dronten;20HL;00;Basisschool de Rank;3841CV;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;1391;De Ronde Venen;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3812;Amersfoort;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3842;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3843;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;13;21;11;21;23;17;17;12;2;1;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;243;Harderwijk;3844;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3845;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3846;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3847;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;2;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3849;Harderwijk;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3852;Ermelo;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3853;Ermelo;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;4112;Buren;20HM;00;Bs Willem Alexander;3843BG;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;6;7;4;10;7;8;13;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;243;Harderwijk;3842;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;4;2;5;1;3;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;243;Harderwijk;3843;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3844;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;2;3;6;2;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;243;Harderwijk;3845;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3846;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3847;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3848;Harderwijk;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3888;Apeldoorn;22JB;00;De Veste;3841XC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3738;De Bilt;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3842;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;6;3;6;5;3;3;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;243;Harderwijk;3843;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;1;1;2;3;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;243;Harderwijk;3846;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3848;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;39;43;56;33;31;42;24;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;243;Harderwijk;3849;Harderwijk;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;2;2;2;5;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;243;Harderwijk;8253;Dronten;23CH;00;CBS De Bron;3848DE;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3841;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3842;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;5;3;1;5;5;2;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;243;Harderwijk;3843;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;1;0;3;2;4;2;4;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;243;Harderwijk;3844;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3845;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3848;Harderwijk;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;243;Harderwijk;3851;Ermelo;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3852;Ermelo;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3881;Putten;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;2;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;243;Harderwijk;3882;Putten;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3892;Zeewolde;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3894;Zeewolde;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;7433;Deventer;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;8256;Dronten;24MW;04;Al-Islaah;3842ZZ;HARDERWIJK;Gelderland;Bo;Islamitisch;40400;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3824;Amersfoort;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3841;Harderwijk;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3843;Harderwijk;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3844;Harderwijk;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;4;1;2;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;243;Harderwijk;3845;Harderwijk;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;47;60;50;55;46;31;30;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;349
+20171001;243;Harderwijk;3851;Ermelo;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;243;Harderwijk;3852;Ermelo;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3853;Ermelo;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;3;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;243;Harderwijk;8077;Nunspeet;25GJ;00;Basisschool de Triangel;3845CT;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3841;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3842;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3843;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3844;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;2;3;2;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;243;Harderwijk;3845;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;42;47;40;38;55;44;31;39;8;0;0;0;0;0;0;0;0;0;0;0;0;0;344
+20171001;243;Harderwijk;3847;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3849;Harderwijk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3852;Ermelo;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3853;Ermelo;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;3;0;1;0;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;243;Harderwijk;3863;Nijkerk;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3882;Putten;27XG;00;C.B.S. Het Startblok;3845KA;HARDERWIJK;Gelderland;Bo;Protestants-Christelijk;85476;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;  40;Onbekend;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3841;Harderwijk;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;243;Harderwijk;3842;Harderwijk;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3844;Harderwijk;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;2;1;1;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;243;Harderwijk;3845;Harderwijk;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;8;19;17;15;19;24;33;21;3;1;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;243;Harderwijk;3849;Harderwijk;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;243;Harderwijk;3851;Ermelo;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;243;Harderwijk;3853;Ermelo;27YD;00;De Bogen;3845GC;HARDERWIJK;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

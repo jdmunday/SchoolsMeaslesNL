@@ -1,0 +1,77 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;230;Elburg;8081;Elburg;00DY;00;Basisschool De Wegwijzer;8084GK;'T HARDE;Gelderland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8084;Elburg;00DY;00;Basisschool De Wegwijzer;8084GK;'T HARDE;Gelderland;Bo;Gereformeerd vrijgemaakt;41632;0;18;17;14;18;15;18;10;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;230;Elburg;8096;Oldebroek;00DY;00;Basisschool De Wegwijzer;8084GK;'T HARDE;Gelderland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8042;Zwolle;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8043;Zwolle;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;1;2;0;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;230;Elburg;8071;Nunspeet;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;230;Elburg;8081;Elburg;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;7;15;5;9;9;10;11;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;230;Elburg;8084;Elburg;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;230;Elburg;8085;Elburg;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8091;Oldebroek;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;1;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;230;Elburg;8094;Oldebroek;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;1;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;230;Elburg;8095;Oldebroek;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8096;Oldebroek;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8097;Oldebroek;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;0;0;3;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;230;Elburg;8223;Lelystad;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8231;Lelystad;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8241;Lelystad;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8242;Lelystad;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8243;Lelystad;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8253;Dronten;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8255;Dronten;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8256;Dronten;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8261;Kampen;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8265;Kampen;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8271;Kampen;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8302;Noordoostpolder;00DZ;00;Agnieten-School;8081NB;ELBURG;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8081;Elburg;04OV;00;Kbs Daltonschool Jeanne d'Arc;8084EX;'T HARDE;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8084;Elburg;04OV;00;Kbs Daltonschool Jeanne d'Arc;8084EX;'T HARDE;Gelderland;Bo;Rooms-Katholiek;40950;0;20;21;13;15;10;12;26;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;230;Elburg;8096;Oldebroek;04OV;00;Kbs Daltonschool Jeanne d'Arc;8084EX;'T HARDE;Gelderland;Bo;Rooms-Katholiek;40950;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;230;Elburg;8081;Elburg;05VS;00;Instituut Van Kinsbergen;8081VZ;ELBURG;Gelderland;Bo;Algemeen bijzonder;95395;0;9;9;10;6;15;9;12;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;230;Elburg;8084;Elburg;05VS;00;Instituut Van Kinsbergen;8081VZ;ELBURG;Gelderland;Bo;Algemeen bijzonder;95395;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8085;Elburg;05VS;00;Instituut Van Kinsbergen;8081VZ;ELBURG;Gelderland;Bo;Algemeen bijzonder;95395;0;0;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;230;Elburg;8096;Oldebroek;05VS;00;Instituut Van Kinsbergen;8081VZ;ELBURG;Gelderland;Bo;Algemeen bijzonder;95395;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8081;Elburg;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;34;42;36;32;33;31;28;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;261
+20171001;230;Elburg;8082;Elburg;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;230;Elburg;8085;Elburg;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;3;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;230;Elburg;8096;Oldebroek;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8097;Oldebroek;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8181;Heerde;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8251;Dronten;07XX;00;Prins Willem Alexander;8081LD;ELBURG;Gelderland;Bo;Protestants-Christelijk;83656;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8071;Nunspeet;07XY;00;Basisschool De Regenboog;8085AC;DOORNSPIJK;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8072;Nunspeet;07XY;00;Basisschool De Regenboog;8085AC;DOORNSPIJK;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;230;Elburg;8081;Elburg;07XY;00;Basisschool De Regenboog;8085AC;DOORNSPIJK;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8085;Elburg;07XY;00;Basisschool De Regenboog;8085AC;DOORNSPIJK;Gelderland;Bo;Protestants-Christelijk;42596;0;9;11;9;16;9;10;12;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;230;Elburg;8081;Elburg;08VW;00;Basisschool Mattanja;8085PH;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;6;3;2;4;2;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;230;Elburg;8084;Elburg;08VW;00;Basisschool Mattanja;8085PH;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;2;5;4;5;6;2;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;230;Elburg;8085;Elburg;08VW;00;Basisschool Mattanja;8085PH;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;10;10;10;10;12;9;10;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;230;Elburg;8071;Nunspeet;09TY;00;Ds. Baxschool;8085AM;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8072;Nunspeet;09TY;00;Ds. Baxschool;8085AM;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;1;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;230;Elburg;8084;Elburg;09TY;00;Ds. Baxschool;8085AM;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8085;Elburg;09TY;00;Ds. Baxschool;8085AM;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;18;27;27;29;18;22;12;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;230;Elburg;8096;Oldebroek;09TY;00;Ds. Baxschool;8085AM;DOORNSPIJK;Gelderland;Bo;Reformatorisch;38819;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;4815;Breda;11CK;00;Wildemaetschool;8081AN;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8081;Elburg;11CK;00;Wildemaetschool;8081AN;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;22;19;12;14;20;17;17;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;230;Elburg;8085;Elburg;11CK;00;Wildemaetschool;8081AN;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;230;Elburg;8081;Elburg;12AF;00;Het Octaaf;8081XX;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;22;24;26;39;28;24;34;31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;230;Elburg;8082;Elburg;12AF;00;Het Octaaf;8081XX;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;230;Elburg;8097;Oldebroek;12AF;00;Het Octaaf;8081XX;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;  40;Onbekend;16WI;00;PCBS De Parel;8084XE;'T HARDE;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8084;Elburg;16WI;00;PCBS De Parel;8084XE;'T HARDE;Gelderland;Bo;Protestants-Christelijk;42596;0;30;37;47;23;35;43;30;29;6;0;0;0;0;0;0;0;0;0;0;0;0;0;280
+20171001;230;Elburg;8085;Elburg;16WI;00;PCBS De Parel;8084XE;'T HARDE;Gelderland;Bo;Protestants-Christelijk;42596;0;0;0;0;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;230;Elburg;8081;Elburg;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;4;9;5;8;1;10;9;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;230;Elburg;8084;Elburg;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8085;Elburg;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8096;Oldebroek;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;8097;Oldebroek;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8256;Dronten;18GW;00;OBS De Vrijheid;8081VZ;ELBURG;Gelderland;Bo;Openbaar;41345;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;230;Elburg;  40;Onbekend;18GW;01;OBS De Blerck;8084EJ;'T HARDE;Gelderland;Bo;Openbaar;41345;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8081;Elburg;18GW;01;OBS De Blerck;8084EJ;'T HARDE;Gelderland;Bo;Openbaar;41345;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;230;Elburg;8084;Elburg;18GW;01;OBS De Blerck;8084EJ;'T HARDE;Gelderland;Bo;Openbaar;41345;0;4;6;7;5;8;9;8;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;230;Elburg;8085;Elburg;18GW;01;OBS De Blerck;8084EJ;'T HARDE;Gelderland;Bo;Openbaar;41345;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8096;Oldebroek;18GW;01;OBS De Blerck;8084EJ;'T HARDE;Gelderland;Bo;Openbaar;41345;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;230;Elburg;8081;Elburg;21NK;00;De Borchstee;8081RV;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;27;28;34;22;36;30;37;35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;249
+20171001;230;Elburg;8082;Elburg;21NK;00;De Borchstee;8081RV;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;4;4;2;1;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;230;Elburg;8085;Elburg;21NK;00;De Borchstee;8081RV;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;2;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;230;Elburg;8097;Oldebroek;21NK;00;De Borchstee;8081RV;ELBURG;Gelderland;Bo;Protestants-Christelijk;42596;0;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7

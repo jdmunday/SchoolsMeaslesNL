@@ -1,0 +1,142 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;98;Weststellingwerf;8331;Steenwijkerland;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8332;Steenwijkerland;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8381;Westerveld;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8388;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8389;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;1;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8391;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;6;4;6;3;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;98;Weststellingwerf;8392;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8393;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8397;Weststellingwerf;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8401;Opsterland;00CV;00;School Matthijsje;8388NA;OOSTERSTREEK;Friesland;Bo;Algemeen bijzonder;20210;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8356;Steenwijkerland;03XC;00;PC Basissch De Wegwijzer;8471VM;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8376;Steenwijkerland;03XC;00;PC Basissch De Wegwijzer;8471VM;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8397;Weststellingwerf;03XC;00;PC Basissch De Wegwijzer;8471VM;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;03XC;00;PC Basissch De Wegwijzer;8471VM;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;12;15;10;16;5;13;5;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;98;Weststellingwerf;8472;Weststellingwerf;03XC;00;PC Basissch De Wegwijzer;8471VM;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;1;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;98;Weststellingwerf;7973;Westerveld;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8341;Steenwijkerland;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8389;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;8392;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8394;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8397;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8398;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8421;Ooststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8422;Ooststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8423;Ooststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8441;Heerenveen;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8454;Heerenveen;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8455;Heerenveen;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;12;19;13;7;9;5;7;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;98;Weststellingwerf;8472;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;11;11;13;13;8;8;11;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;98;Weststellingwerf;8474;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;98;Weststellingwerf;8475;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8476;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8479;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8481;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8484;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8485;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;98;Weststellingwerf;8487;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8488;Weststellingwerf;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;8539;De Fryske Marren;05KA;00;St Franciscus-School;8471JX;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8391;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8394;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;98;Weststellingwerf;8471;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;7;8;12;9;11;13;13;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;98;Weststellingwerf;8472;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;1;1;3;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;98;Weststellingwerf;8477;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8478;Weststellingwerf;06NI;00;Pc Bso De Adelaar;8471BG;WOLVEGA;Friesland;Bo;Protestants-Christelijk;41282;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8391;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8393;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;0;0;2;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;98;Weststellingwerf;8395;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;0;1;3;6;2;5;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;98;Weststellingwerf;8396;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8397;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;0;2;3;5;1;2;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;98;Weststellingwerf;8398;Weststellingwerf;06SM;00;Fredericusschool;8395TN;STEGGERDA;Friesland;Bo;Rooms-Katholiek;40888;0;1;1;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;98;Weststellingwerf;8394;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8398;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8448;Heerenveen;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;20;13;17;19;16;14;23;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;98;Weststellingwerf;8472;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;8474;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8478;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8479;Weststellingwerf;07VZ;00;Mgr J. Scholtens-School;8471PK;WOLVEGA;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8374;Steenwijkerland;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8481;Weststellingwerf;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;98;Weststellingwerf;8482;Weststellingwerf;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;3;0;3;2;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;98;Weststellingwerf;8483;Weststellingwerf;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;4;5;5;4;5;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;98;Weststellingwerf;8484;Weststellingwerf;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;0;1;1;1;4;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;98;Weststellingwerf;8485;Weststellingwerf;12NL;00;OBS De Aventurijn;8485JJ;MUNNEKEBUREN;Friesland;Bo;Openbaar;41631;0;4;2;3;7;3;9;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;98;Weststellingwerf;8375;Steenwijkerland;12VM;00;Bs Dorpssch de Blesse;8397GV;DE BLESSE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8397;Weststellingwerf;12VM;00;Bs Dorpssch de Blesse;8397GV;DE BLESSE;Friesland;Bo;Openbaar;41631;0;8;6;2;6;5;4;10;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;98;Weststellingwerf;8398;Weststellingwerf;12VM;00;Bs Dorpssch de Blesse;8397GV;DE BLESSE;Friesland;Bo;Openbaar;41631;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;7903;Hoogeveen;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8385;Westerveld;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;3;0;3;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;98;Weststellingwerf;8386;Westerveld;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8388;Weststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;3;1;0;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;98;Weststellingwerf;8389;Weststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8392;Weststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;7;7;7;9;6;4;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;98;Weststellingwerf;8422;Ooststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8424;Ooststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8433;Ooststellingwerf;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8437;Westerveld;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;8438;Westerveld;13BL;00;Dalton BS de Oosterbrink;8392NK;BOIJL;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8351;Westerveld;13HA;00;Basisschool de Velden;8391KG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8389;Weststellingwerf;13HA;00;Basisschool de Velden;8391KG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8391;Weststellingwerf;13HA;00;Basisschool de Velden;8391KG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;9;9;3;5;8;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;98;Weststellingwerf;9271;Dantumadiel;13HA;00;Basisschool de Velden;8391KG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;  10;Belgie;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8244;Lelystad;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8332;Steenwijkerland;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8388;Weststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;2;2;3;3;2;6;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;98;Weststellingwerf;8389;Weststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;2;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8391;Weststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;16;19;19;12;16;23;26;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;98;Weststellingwerf;8393;Weststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8395;Weststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8421;Ooststellingwerf;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;9405;Assen;13QV;00;Vensterschool Noordwolde;8391BG;NOORDWOLDE FR;Friesland;Bo;Openbaar;41631;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;13UW;00;Basisschool de Striepe;8474CE;OLDEHOLTPADE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8474;Weststellingwerf;13UW;00;Basisschool de Striepe;8474CE;OLDEHOLTPADE;Friesland;Bo;Openbaar;41631;0;7;6;9;6;5;8;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;98;Weststellingwerf;8476;Weststellingwerf;13UW;00;Basisschool de Striepe;8474CE;OLDEHOLTPADE;Friesland;Bo;Openbaar;41631;0;3;1;3;1;4;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;98;Weststellingwerf;8477;Weststellingwerf;13UW;00;Basisschool de Striepe;8474CE;OLDEHOLTPADE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;13YI;00;Basisschool Heidepolle;8471VM;WOLVEGA;Friesland;Bo;Openbaar;41631;0;20;22;25;38;28;35;28;31;1;0;0;0;0;0;0;0;0;0;0;0;0;0;228
+20171001;98;Weststellingwerf;8474;Weststellingwerf;13YI;00;Basisschool Heidepolle;8471VM;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8485;Weststellingwerf;13YI;00;Basisschool Heidepolle;8471VM;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8486;Weststellingwerf;13YI;00;Basisschool Heidepolle;8471VM;WOLVEGA;Friesland;Bo;Openbaar;41631;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8488;Weststellingwerf;13YI;00;Basisschool Heidepolle;8471VM;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8471;Weststellingwerf;14BQ;00;Wolvega Zuid;8471LL;WOLVEGA;Friesland;Bo;Openbaar;41631;0;14;15;9;15;8;12;11;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;98;Weststellingwerf;8394;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;8;4;6;7;6;8;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;98;Weststellingwerf;8472;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;8;11;11;10;7;10;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;98;Weststellingwerf;8478;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8488;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8489;Weststellingwerf;14ER;00;BS Tuindorp;8472CH;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8471;Weststellingwerf;14HK;00;Dorpsschool;8471DN;WOLVEGA;Friesland;Bo;Openbaar;41631;0;4;9;9;8;14;17;11;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;98;Weststellingwerf;8472;Weststellingwerf;14HK;00;Dorpsschool;8471DN;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8487;Weststellingwerf;14HK;00;Dorpsschool;8471DN;WOLVEGA;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8471;Weststellingwerf;14JZ;00;De Lantscheene;8479HG;OLDETRIJNE;Friesland;Bo;Openbaar;41631;0;1;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8478;Weststellingwerf;14JZ;00;De Lantscheene;8479HG;OLDETRIJNE;Friesland;Bo;Openbaar;41631;0;1;2;0;1;1;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;98;Weststellingwerf;8479;Weststellingwerf;14JZ;00;De Lantscheene;8479HG;OLDETRIJNE;Friesland;Bo;Openbaar;41631;0;0;2;2;4;1;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;98;Weststellingwerf;8481;Weststellingwerf;14JZ;00;De Lantscheene;8479HG;OLDETRIJNE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8389;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8471;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8477;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8486;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;3;1;4;4;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;98;Weststellingwerf;8487;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;0;2;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;98;Weststellingwerf;8488;Weststellingwerf;14MO;00;De Lamer;8486GC;OLDELAMER;Friesland;Bo;Openbaar;41631;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;98;Weststellingwerf;8421;Ooststellingwerf;15EV;00;Basisschool 't Holtpad;8475EB;NIJEHOLTPADE;Friesland;Bo;Openbaar;41631;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8475;Weststellingwerf;15EV;00;Basisschool 't Holtpad;8475EB;NIJEHOLTPADE;Friesland;Bo;Openbaar;41631;0;4;2;7;5;5;6;4;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;98;Weststellingwerf;8389;Weststellingwerf;15KW;00;De Klaeter;8394VL;DE HOEVE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8394;Weststellingwerf;15KW;00;De Klaeter;8394VL;DE HOEVE;Friesland;Bo;Openbaar;41631;0;3;5;4;6;3;7;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;98;Weststellingwerf;8474;Weststellingwerf;15KW;00;De Klaeter;8394VL;DE HOEVE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8611;S∑dwest-Frysl‘n;15KW;00;De Klaeter;8394VL;DE HOEVE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8393;Weststellingwerf;15NK;00;Triangel;8395PW;STEGGERDA;Friesland;Bo;Openbaar;41631;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;98;Weststellingwerf;8395;Weststellingwerf;15NK;00;Triangel;8395PW;STEGGERDA;Friesland;Bo;Openbaar;41631;0;5;4;3;6;4;2;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;98;Weststellingwerf;8398;Weststellingwerf;15NK;00;Triangel;8395PW;STEGGERDA;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8332;Steenwijkerland;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8391;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;1;0;1;4;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;98;Weststellingwerf;8397;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8471;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;2;0;5;6;4;6;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;98;Weststellingwerf;8472;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;98;Weststellingwerf;8479;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;8483;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;98;Weststellingwerf;8485;Weststellingwerf;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;98;Weststellingwerf;9251;Tytsjerksteradiel;19QX;00;SSBO De Triade;8471AW;WOLVEGA;Friesland;Sbo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

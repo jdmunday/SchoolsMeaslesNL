@@ -1,0 +1,276 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;86;Opsterland;8434;Ooststellingwerf;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9201;Smallingerland;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9241;Opsterland;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9243;Opsterland;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;6;7;1;8;8;8;10;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;86;Opsterland;9248;Opsterland;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;1;0;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;86;Opsterland;9354;Leek;00DA;00;Chr BS Betrouwen;9243SJ;BAKKEVEEN;Friesland;Bo;Protestants-Christelijk;30051;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;7908;Hoogeveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;7921;De Wolden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;7942;Meppel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8308;Noordoostpolder;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8321;Urk;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8355;Steenwijkerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8375;Steenwijkerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8391;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8392;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8396;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8397;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8401;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8407;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8407;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8411;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8413;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8414;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8421;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8421;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8426;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8431;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8433;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8433;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8434;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8434;Ooststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8442;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8445;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8446;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8448;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8454;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8464;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8465;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8465;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8471;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8471;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8472;Weststellingwerf;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8491;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8495;Heerenveen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8501;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8501;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8502;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8502;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8507;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8516;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8521;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8523;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8525;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8525;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8531;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8535;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8539;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8561;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8566;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8567;De Fryske Marren;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8584;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8601;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8602;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8604;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8604;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8607;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8614;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8651;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8701;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8715;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8724;S∑dwest-Frysl‘n;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8734;Littenseradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8801;Franekeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8804;Franekeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8808;Franekeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8843;Littenseradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8855;Franekeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8862;Harlingen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8872;Harlingen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8913;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8918;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8924;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8925;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8926;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8931;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8932;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8935;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8939;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8941;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9001;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9008;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9021;Littenseradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9027;Littenseradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9034;Menameradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9035;Menameradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9041;Menameradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9073;Ferwerderadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9076;het Bildt;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9077;het Bildt;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9078;het Bildt;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9084;Leeuwarden;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9101;Dongeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9101;Dongeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9103;Dongeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9104;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9104;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9105;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9105;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9113;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9123;Dongeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9151;Dongeradeel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9161;Ameland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9171;Ferwerderadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9201;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9202;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9202;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9203;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9204;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9204;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9205;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9205;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9207;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9207;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9212;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9213;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9216;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9218;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9223;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9223;Smallingerland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9231;Achtkarspelen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9241;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9245;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9247;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9247;Opsterland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9251;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9251;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9254;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9254;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9255;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9257;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9258;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9261;Tytsjerksteradiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9269;Dantumadiel;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9281;Achtkarspelen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9284;Achtkarspelen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9285;Achtkarspelen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9288;Achtkarspelen;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9291;Kollumerland en Nieuwkruisland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9298;Kollumerland en Nieuwkruisland;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9351;Leek;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9356;Leek;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9363;Marum;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9411;Midden-Drenthe;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9681;Oldambt;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9844;Zuidhorn;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9864;Grootegast;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;So;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9865;Grootegast;00LD;00;School Lyndensteyn;9244CL;BEETSTERZWAAG;Friesland;Vso;Algemeen bijzonder;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9204;Smallingerland;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9205;Smallingerland;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9247;Opsterland;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;23;25;31;35;45;37;43;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;268
+20171001;86;Opsterland;9248;Opsterland;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;0;3;0;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;86;Opsterland;9249;Opsterland;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;86;Opsterland;9251;Tytsjerksteradiel;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9363;Marum;03XI;00;Chr Basissch De Opdracht;9247AA;URETERP;Friesland;Bo;Protestants-Christelijk;50104;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8405;Opsterland;04VU;00;Chr Basissch De Rank;8406ES;TIJNJE;Friesland;Bo;Protestants-Christelijk;46463;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8406;Opsterland;04VU;00;Chr Basissch De Rank;8406ES;TIJNJE;Friesland;Bo;Protestants-Christelijk;46463;0;4;6;8;7;9;5;7;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;86;Opsterland;8407;Opsterland;04VU;00;Chr Basissch De Rank;8406ES;TIJNJE;Friesland;Bo;Protestants-Christelijk;46463;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8457;Heerenveen;04VU;00;Chr Basissch De Rank;8406ES;TIJNJE;Friesland;Bo;Protestants-Christelijk;46463;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9245;Opsterland;04VU;00;Chr Basissch De Rank;8406ES;TIJNJE;Friesland;Bo;Protestants-Christelijk;46463;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8435;Ooststellingwerf;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9203;Smallingerland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9215;Smallingerland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9222;Smallingerland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9243;Opsterland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9247;Opsterland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;7;14;12;12;15;12;11;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;86;Opsterland;9248;Opsterland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;2;0;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;86;Opsterland;9249;Opsterland;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;2;3;5;6;8;2;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;86;Opsterland;9281;Achtkarspelen;04WW;00;Basisschool Eben Haezer;9247AC;URETERP;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8401;Opsterland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8409;Opsterland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9201;Smallingerland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9203;Smallingerland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9205;Smallingerland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9211;Smallingerland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;86;Opsterland;9241;Opsterland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9244;Opsterland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;20;13;14;24;25;34;21;33;3;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;86;Opsterland;9245;Opsterland;05LT;00;Chr Bs De Paedwizer;9244BB;BEETSTERZWAAG;Friesland;Bo;Protestants-Christelijk;81069;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9222;Smallingerland;05NY;00;Chr Basisschool Rehoboth;9249MC;FRIESCHEPALEN;Friesland;Bo;Protestants-Christelijk;84332;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9247;Opsterland;05NY;00;Chr Basisschool Rehoboth;9249MC;FRIESCHEPALEN;Friesland;Bo;Protestants-Christelijk;84332;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9248;Opsterland;05NY;00;Chr Basisschool Rehoboth;9249MC;FRIESCHEPALEN;Friesland;Bo;Protestants-Christelijk;84332;0;1;0;1;2;0;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;86;Opsterland;9249;Opsterland;05NY;00;Chr Basisschool Rehoboth;9249MC;FRIESCHEPALEN;Friesland;Bo;Protestants-Christelijk;84332;0;7;1;7;6;10;4;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;86;Opsterland;9363;Marum;05NY;00;Chr Basisschool Rehoboth;9249MC;FRIESCHEPALEN;Friesland;Bo;Protestants-Christelijk;84332;0;1;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;86;Opsterland;9212;Smallingerland;05PK;00;Chr Bs Votum Nostrum;9241GM;WIJNJEWOUDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9241;Opsterland;05PK;00;Chr Bs Votum Nostrum;9241GM;WIJNJEWOUDE;Friesland;Bo;Protestants-Christelijk;40342;0;6;6;9;11;14;17;14;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;86;Opsterland;9247;Opsterland;05PK;00;Chr Bs Votum Nostrum;9241GM;WIJNJEWOUDE;Friesland;Bo;Protestants-Christelijk;40342;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9215;Smallingerland;05WL;00;Chr Basisschool De Arke;9245HK;NIJ BEETS;Friesland;Bo;Protestants-Christelijk;96864;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9245;Opsterland;05WL;00;Chr Basisschool De Arke;9245HK;NIJ BEETS;Friesland;Bo;Protestants-Christelijk;96864;0;4;9;8;9;11;14;5;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;86;Opsterland;8401;Opsterland;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;25;35;32;31;35;38;19;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;235
+20171001;86;Opsterland;8404;Opsterland;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8406;Opsterland;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8407;Opsterland;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8408;Opsterland;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;1;2;0;1;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;86;Opsterland;8411;Heerenveen;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;86;Opsterland;8413;Heerenveen;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8414;Heerenveen;06IU;00;Chr Basissch De Librije;8401RE;GORREDIJK;Friesland;Bo;Protestants-Christelijk;38144;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8434;Ooststellingwerf;12RF;00;Basisschool de Oanrin;9243SJ;BAKKEVEEN;Friesland;Bo;Openbaar;41631;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9241;Opsterland;12RF;00;Basisschool de Oanrin;9243SJ;BAKKEVEEN;Friesland;Bo;Openbaar;41631;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;86;Opsterland;9243;Opsterland;12RF;00;Basisschool de Oanrin;9243SJ;BAKKEVEEN;Friesland;Bo;Openbaar;41631;0;14;8;13;8;18;8;9;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;86;Opsterland;9248;Opsterland;12RF;00;Basisschool de Oanrin;9243SJ;BAKKEVEEN;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9249;Opsterland;12RF;00;Basisschool de Oanrin;9243SJ;BAKKEVEEN;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8408;Opsterland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;1;1;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;86;Opsterland;8409;Opsterland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9202;Smallingerland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9207;Smallingerland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9212;Smallingerland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9244;Opsterland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;7;8;5;7;5;10;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;86;Opsterland;9245;Opsterland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9246;Opsterland;12YL;00;Basisschool de Trime;9244EW;BEETSTERZWAAG;Friesland;Bo;Openbaar;41631;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8428;Ooststellingwerf;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8434;Ooststellingwerf;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9202;Smallingerland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9207;Smallingerland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9222;Smallingerland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9247;Opsterland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;2;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;86;Opsterland;9248;Opsterland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;1;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;86;Opsterland;9249;Opsterland;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;2;3;2;3;1;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;86;Opsterland;9363;Marum;13EI;00;Basisschool de Skans;9249MC;FRIESCHEPALEN;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8401;Opsterland;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;23;20;16;24;20;18;22;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;169
+20171001;86;Opsterland;8403;Opsterland;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8408;Opsterland;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8414;Heerenveen;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8441;Heerenveen;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8506;De Fryske Marren;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9207;Smallingerland;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9663;Pekela;13JS;00;OBS De Flambou Trimbeets;8401PW;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8401;Opsterland;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;21;27;26;28;23;29;26;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;200
+20171001;86;Opsterland;8407;Opsterland;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8411;Heerenveen;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8413;Heerenveen;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9201;Smallingerland;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9204;Smallingerland;13SX;00;Loevestein;8401NN;GORREDIJK;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8408;Opsterland;13ZW;00;BS De Boge;8409JW;HEMRIK;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8409;Opsterland;13ZW;00;BS De Boge;8409JW;HEMRIK;Friesland;Bo;Openbaar;41631;0;4;4;8;9;7;5;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;86;Opsterland;9241;Opsterland;13ZW;00;BS De Boge;8409JW;HEMRIK;Friesland;Bo;Openbaar;41631;0;1;3;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;86;Opsterland;8255;Dronten;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8403;Opsterland;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;2;2;3;3;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;86;Opsterland;8404;Opsterland;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;15;10;12;11;16;7;11;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;86;Opsterland;8405;Opsterland;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8415;Heerenveen;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8457;Heerenveen;14FY;00;BS De Wjukslach;8404GL;LANGEZWAAG;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8401;Opsterland;14IS;00;BS de Flecht;8408JA;LIPPENHUIZEN;Friesland;Bo;Openbaar;41631;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8408;Opsterland;14IS;00;BS de Flecht;8408JA;LIPPENHUIZEN;Friesland;Bo;Openbaar;41631;0;5;9;6;8;13;10;9;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;86;Opsterland;8404;Opsterland;14LG;00;Basisschool de Hoekstien;8405GV;LUXWOUDE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8405;Opsterland;14LG;00;Basisschool de Hoekstien;8405GV;LUXWOUDE;Friesland;Bo;Openbaar;41631;0;5;5;6;8;5;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;86;Opsterland;8435;Ooststellingwerf;14QQ;00;Basisschool de Jasker;9245HM;NIJ BEETS;Friesland;Bo;Openbaar;41631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9215;Smallingerland;14QQ;00;Basisschool de Jasker;9245HM;NIJ BEETS;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;9244;Opsterland;14QQ;00;Basisschool de Jasker;9245HM;NIJ BEETS;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9245;Opsterland;14QQ;00;Basisschool de Jasker;9245HM;NIJ BEETS;Friesland;Bo;Openbaar;41631;0;5;6;7;8;5;5;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;86;Opsterland;8401;Opsterland;15GH;00;Basisschool 't Ambyld;8407ER;TERWISPEL;Friesland;Bo;Openbaar;41631;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8404;Opsterland;15GH;00;Basisschool 't Ambyld;8407ER;TERWISPEL;Friesland;Bo;Openbaar;41631;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;86;Opsterland;8407;Opsterland;15GH;00;Basisschool 't Ambyld;8407ER;TERWISPEL;Friesland;Bo;Openbaar;41631;0;2;9;10;9;6;15;12;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;86;Opsterland;8409;Opsterland;15GH;00;Basisschool 't Ambyld;8407ER;TERWISPEL;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9241;Opsterland;15GH;00;Basisschool 't Ambyld;8407ER;TERWISPEL;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;  40;Onbekend;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8401;Opsterland;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;8405;Opsterland;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;8406;Opsterland;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;11;7;12;5;10;9;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;86;Opsterland;8407;Opsterland;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;8457;Heerenveen;15JO;00;Basisschool De Pols;8406ES;TIJNJE;Friesland;Bo;Openbaar;41631;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;86;Opsterland;9201;Smallingerland;15MD;00;Basisschool de Twirre;9247BT;URETERP;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9205;Smallingerland;15MD;00;Basisschool de Twirre;9247BT;URETERP;Friesland;Bo;Openbaar;41631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;86;Opsterland;9247;Opsterland;15MD;00;Basisschool de Twirre;9247BT;URETERP;Friesland;Bo;Openbaar;41631;0;2;15;8;9;11;10;13;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;86;Opsterland;9248;Opsterland;15MD;00;Basisschool de Twirre;9247BT;URETERP;Friesland;Bo;Openbaar;41631;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9249;Opsterland;15MD;00;Basisschool de Twirre;9247BT;URETERP;Friesland;Bo;Openbaar;41631;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;86;Opsterland;9241;Opsterland;15OQ;00;Bs It Twaspan;9241GL;WIJNJEWOUDE;Friesland;Bo;Openbaar;41631;0;8;6;10;12;16;6;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80

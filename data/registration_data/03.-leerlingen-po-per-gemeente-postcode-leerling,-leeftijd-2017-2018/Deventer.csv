@@ -1,0 +1,504 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;150;Deventer;7205;Zutphen;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7206;Zutphen;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7207;Zutphen;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7211;Lochem;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7383;Voorst;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7413;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7414;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7416;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7417;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7418;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7419;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7421;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7424;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7433;Deventer;02PQ;05;LSG Rentray;7418AH;DEVENTER;Overijssel;Vso;Protestants-Christelijk;41635;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7424;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7425;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7433;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7434;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;14;10;14;9;8;9;7;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;150;Deventer;7435;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7451;Rijssen-Holten;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;8112;Raalte;03WI;00;RK Basissch Sancta Maria;7434PX;LETTELE;Overijssel;Bo;Rooms-Katholiek;40894;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7326;Apeldoorn;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7412;Deventer;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7413;Deventer;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;5;8;7;8;8;10;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;150;Deventer;7415;Deventer;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;6;9;9;8;10;14;14;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;150;Deventer;7416;Deventer;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7417;Deventer;04NU;00;Het Palet;7415AR;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;2;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7214;Lochem;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;1;3;1;2;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;150;Deventer;7415;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;10;1;9;3;2;3;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;150;Deventer;7416;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;2;3;1;5;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7417;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7424;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;0;1;1;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7425;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7433;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;42;50;37;51;39;45;41;35;7;0;0;0;0;0;0;0;0;0;0;0;0;0;347
+20171001;150;Deventer;7434;Deventer;04YY;00;Nicolaas Basisschool;7433DK;SCHALKHAAR;Overijssel;Bo;Rooms-Katholiek;53730;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7411;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;1;2;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7412;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;23;12;18;18;15;12;17;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;150;Deventer;7413;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;19;15;17;19;14;22;12;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;150;Deventer;7414;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;8;10;7;9;2;9;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;150;Deventer;7415;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;18;10;17;14;13;15;15;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;150;Deventer;7416;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;3;1;3;1;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7417;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7419;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7424;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7431;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7433;Deventer;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7439;Voorst;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;8121;Olst-Wijhe;05VR;00;Deventer Montessori Sch;7415LA;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;2726;Zoetermeer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7214;Lochem;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7392;Voorst;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7411;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;8;4;10;7;8;4;18;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;150;Deventer;7412;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;7;2;10;3;6;7;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;150;Deventer;7413;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;8;4;7;3;6;6;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;150;Deventer;7414;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;2;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7415;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;2;4;3;2;2;4;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;150;Deventer;7416;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;2;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7417;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;5;3;3;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;150;Deventer;7418;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7433;Deventer;06TU;00;Deventer Leerschool v Bo;7411HR;DEVENTER;Overijssel;Bo;Algemeen bijzonder;71242;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7412;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7417;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;2;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7418;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;1;0;1;0;2;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;150;Deventer;7419;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7421;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;8;10;10;10;9;13;20;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;150;Deventer;7422;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;9;9;9;10;14;7;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;150;Deventer;7423;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;4;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7424;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;0;2;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7429;Deventer;07KQ;00;ICB Wereldwijzer;7422NR;DEVENTER;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;2;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7434;Deventer;07KQ;01;ICB Wereldwijzer;7435PJ;OKKENBROEK;Overijssel;Bo;Samenwerking PC, RK;23128;0;1;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7435;Deventer;07KQ;01;ICB Wereldwijzer;7435PJ;OKKENBROEK;Overijssel;Bo;Samenwerking PC, RK;23128;0;5;6;5;9;4;3;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;150;Deventer;7451;Rijssen-Holten;07KQ;01;ICB Wereldwijzer;7435PJ;OKKENBROEK;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8112;Raalte;07KQ;01;ICB Wereldwijzer;7435PJ;OKKENBROEK;Overijssel;Bo;Samenwerking PC, RK;23128;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;5044;Tilburg;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7214;Lochem;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7216;Lochem;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7383;Voorst;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7396;Voorst;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;4;5;1;4;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;150;Deventer;7412;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;5;4;6;5;12;5;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;150;Deventer;7413;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;4;9;6;12;2;7;8;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;150;Deventer;7414;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;2;1;1;0;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7415;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;3;4;3;1;3;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;150;Deventer;7416;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;2;1;2;0;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;150;Deventer;7417;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;2;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7418;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7419;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;1;1;2;3;0;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;150;Deventer;7421;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7424;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7425;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7431;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;1;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7433;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7434;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;8121;Olst-Wijhe;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;2;0;3;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;8271;Kampen;08OY;00;Vrije Sch de Kl Johannes;7413XV;DEVENTER;Overijssel;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;  40;Onbekend;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;1069;Amsterdam;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;3894;Zeewolde;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7396;Voorst;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;4;6;6;8;6;10;5;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;150;Deventer;7412;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;2;0;1;5;8;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;150;Deventer;7413;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;7;5;6;5;7;5;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;150;Deventer;7414;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;2;0;0;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7416;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;6;8;12;5;7;10;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;150;Deventer;7417;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;2;1;0;5;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7425;Deventer;08UP;00;Basisschool De Windroos;7411LB;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7216;Lochem;09RO;00;Basisschool Looschool;7437RA;BATHMEN;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7435;Deventer;09RO;00;Basisschool Looschool;7437RA;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7437;Deventer;09RO;00;Basisschool Looschool;7437RA;BATHMEN;Overijssel;Bo;Openbaar;41862;0;1;3;0;3;4;4;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;150;Deventer;7413;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7414;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7415;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;11;15;12;13;7;14;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;150;Deventer;7416;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7417;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;2;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7423;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7433;Deventer;09TM;00;De Steenuil;7415JM;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7412;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7414;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;11;4;7;11;3;9;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;150;Deventer;7415;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;1;1;1;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7431;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;14;22;28;28;43;34;32;35;0;0;0;0;0;0;0;0;0;0;0;0;0;0;236
+20171001;150;Deventer;7433;Deventer;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8121;Olst-Wijhe;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;8196;Olst-Wijhe;10KW;00;Obs Slingerbos;7431BV;DIEPENVEEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7214;Lochem;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7216;Lochem;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7245;Lochem;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7421;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7423;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7428;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;3;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7434;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;2;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;150;Deventer;7435;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;10LK;00;Basisschool De Rythmeen;7437BX;BATHMEN;Overijssel;Bo;Openbaar;41862;0;18;25;17;20;27;27;27;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;150;Deventer;7331;Apeldoorn;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7383;Voorst;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7416;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7417;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7422;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;16;8;14;10;17;14;15;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;150;Deventer;7424;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7425;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7433;Deventer;10MW;00;PR Mauritsschool;7423DS;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7412;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7415;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;4;4;3;3;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;150;Deventer;7416;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7417;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7424;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;1;1;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7433;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;13;24;19;21;18;17;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;150;Deventer;7437;Deventer;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8121;Olst-Wijhe;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8124;Olst-Wijhe;11AL;00;Obs De Sleutel;7433EL;SCHALKHAAR;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;1462;Beemster;11AV;00;Basissch de Dorpsschool;7437AE;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7216;Lochem;11AV;00;Basissch de Dorpsschool;7437AE;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7428;Deventer;11AV;00;Basissch de Dorpsschool;7437AE;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7434;Deventer;11AV;00;Basissch de Dorpsschool;7437AE;BATHMEN;Overijssel;Bo;Openbaar;41862;0;0;0;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7437;Deventer;11AV;00;Basissch de Dorpsschool;7437AE;BATHMEN;Overijssel;Bo;Openbaar;41862;0;21;38;34;25;44;43;30;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;265
+20171001;150;Deventer;6904;Zevenaar;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7412;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;47;48;45;44;35;36;31;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;307
+20171001;150;Deventer;7413;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;5;5;1;5;5;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;150;Deventer;7414;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;4;4;5;3;10;2;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;150;Deventer;7415;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;3;2;2;1;5;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;150;Deventer;7416;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7417;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7423;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7424;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7429;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7431;Deventer;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;8121;Olst-Wijhe;11BS;00;RK Basisschool Adwaita;7412EV;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7413;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7417;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7421;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7423;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;11;19;19;15;24;21;20;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;150;Deventer;7424;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;2;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7425;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;3;1;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;150;Deventer;7429;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7433;Deventer;12JD;00;Sint Bernardusschool;7423DS;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7412;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;2;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7413;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7414;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;2;2;3;2;6;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;150;Deventer;7415;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;2;2;0;1;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;150;Deventer;7416;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7431;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;11;9;13;9;12;13;16;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;150;Deventer;7433;Deventer;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8121;Olst-Wijhe;12YO;00;Bs de Zonnewijzer;7431BH;DIEPENVEEN;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7413;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7416;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7418;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7421;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;9;9;12;4;6;6;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;150;Deventer;7422;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;7;10;7;6;8;3;5;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;150;Deventer;7423;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7425;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7429;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;4;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7435;Deventer;14HS;00;Obs Het Roessink;7422MZ;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;7;1;2;0;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;150;Deventer;7412;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7413;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;2;1;2;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;150;Deventer;7414;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;0;0;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7416;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;4;9;3;3;6;4;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;150;Deventer;7417;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;32;29;23;19;19;16;24;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;150;Deventer;7421;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7424;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7425;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7433;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;14KG;00;Kindcentrum Rivierenwijk;7417WN;DEVENTER;Overijssel;Bo;Samenwerking Opb., PC;42594;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;15;14;18;17;12;14;13;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;150;Deventer;7412;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;7;7;2;4;7;9;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;150;Deventer;7413;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;2;1;4;1;2;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;150;Deventer;7414;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7415;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;2;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7416;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7417;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7419;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7424;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;14YP;00;Obs De Hagenpoort;7411PT;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7413;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7414;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7416;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7417;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7422;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7423;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;9;13;9;11;14;14;13;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;150;Deventer;7425;Deventer;15FC;00;Obs De Schakel;7423DS;DEVENTER;Overijssel;Bo;Openbaar;41862;0;2;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7202;Zutphen;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7213;Lochem;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7391;Voorst;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7415;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7417;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7418;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7421;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;21;24;35;26;33;27;47;36;4;0;0;0;0;0;0;0;0;0;0;0;0;0;253
+20171001;150;Deventer;7422;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7423;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;3;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7424;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7425;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7426;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7427;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7428;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7429;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;2;1;3;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7433;Deventer;15IK;00;Obs Kolmenscate;7421GP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7412;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;18;10;15;34;20;35;22;17;7;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;150;Deventer;7413;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;4;4;3;0;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;150;Deventer;7414;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;2;3;1;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;150;Deventer;7415;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;3;1;1;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7416;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;15LC;00;Obs Cees Wilkeshuisschool;7412SM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;  30;ander land;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;2628;Delft;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;3079;Rotterdam;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;3284;Korendijk;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;3451;Utrecht;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;6021;Cranendonck;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7412;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;7;1;2;3;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;150;Deventer;7413;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;8;11;5;7;3;5;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;150;Deventer;7414;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7415;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;11;6;1;1;4;0;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;150;Deventer;7416;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7417;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;3;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7421;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7424;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7431;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7433;Deventer;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;6;7;5;9;5;4;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;150;Deventer;9251;Tytsjerksteradiel;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;9341;Noordenveld;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;9561;Vlagtwedde;15SM;00;De Paladijn;7413BA;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7384;Voorst;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7391;Voorst;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7396;Voorst;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7412;Deventer;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7413;Deventer;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7415;Deventer;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7419;Deventer;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;23;24;30;30;28;30;22;27;0;0;0;0;0;0;0;0;0;0;0;0;0;0;214
+20171001;150;Deventer;7439;Voorst;15ZB;00;Obs De Hovenschool;7419AP;DEVENTER;Overijssel;Bo;Openbaar;41862;0;2;1;1;2;5;2;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;150;Deventer;1505;Zaanstad;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7412;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7414;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;17;18;16;24;20;18;18;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;150;Deventer;7415;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;2;4;3;4;2;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;150;Deventer;7416;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7417;Deventer;16DV;00;Obs Borgloschool;7414CK;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7383;Voorst;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7384;Voorst;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7396;Voorst;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7412;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;1;2;2;3;3;6;14;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;150;Deventer;7413;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;2;4;2;6;9;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;150;Deventer;7414;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;4;4;2;2;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;150;Deventer;7415;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;4;5;4;8;5;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;150;Deventer;7416;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;0;2;3;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;150;Deventer;7417;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;1;2;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;150;Deventer;7419;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7421;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;2;4;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;7422;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7423;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;2;0;2;3;4;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;150;Deventer;7424;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;1;1;2;4;3;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;150;Deventer;7425;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;2;1;0;4;6;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;150;Deventer;7426;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7428;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7431;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7433;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;1;1;5;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;150;Deventer;7434;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;1;1;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;8101;Raalte;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;8121;Olst-Wijhe;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;8131;Olst-Wijhe;19RE;00;Panta rhei;7415KP;DEVENTER;Overijssel;Sbo;Algemeen bijzonder;41274;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;  40;Onbekend;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7412;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;1;2;1;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;7412;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;2;1;0;0;0;2;4;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7413;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;1;1;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7413;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;3;1;1;2;2;3;3;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7414;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;1;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7414;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7415;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;2;1;2;0;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;150;Deventer;7415;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;2;1;4;2;2;2;1;0;0;0;0;0;0;14
+20171001;150;Deventer;7416;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;1;0;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7416;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7417;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7417;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7418;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7422;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;2;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7423;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;2;2;1;2;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7424;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7424;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;1;0;0;0;1;1;1;1;1;0;0;0;0;0;0;6
+20171001;150;Deventer;7425;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;1;0;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7425;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7431;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7431;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7433;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7433;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7434;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7437;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;8102;Raalte;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8103;Raalte;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8103;Raalte;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8172;Epe;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;So;Openbaar;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8172;Epe;19SY;00;De Linde;7414CK;DEVENTER;Overijssel;Vso;Openbaar;40631;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;  10;Belgie;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7416;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7417;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7421;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;1;0;0;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7422;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7423;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;10;12;13;12;14;13;14;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;150;Deventer;7424;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7425;Deventer;21NE;00;L'Ambiente;7423EN;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;3;3;3;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;150;Deventer;7214;Lochem;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7412;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7413;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7414;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7416;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7421;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7422;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;3;1;3;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;150;Deventer;7424;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;16;13;22;28;19;28;38;30;2;1;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;150;Deventer;7425;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;27;29;40;46;50;48;65;46;7;0;0;0;0;0;0;0;0;0;0;0;0;0;358
+20171001;150;Deventer;7429;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7431;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7433;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7434;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7437;Deventer;27LZ;00;OBS De Wizard;7425GX;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7412;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7415;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7416;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7418;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;1;0;2;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7424;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;25;50;18;32;22;28;20;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;150;Deventer;7425;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;31;38;39;43;25;28;28;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;150;Deventer;7429;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7433;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7434;Deventer;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8124;Olst-Wijhe;27RT;00;de Vijf-er;7424DE;DEVENTER;Overijssel;Bo;Rooms-Katholiek;23128;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;  20;Duitsland;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7413;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7416;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7421;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;1;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7422;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7423;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;3;2;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;150;Deventer;7424;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;7;5;8;8;8;10;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;150;Deventer;7425;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;16;13;11;13;9;19;21;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;150;Deventer;7429;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7433;Deventer;27YB;00;de Rank;7425GX;DEVENTER;Overijssel;Bo;Protestants-Christelijk;23128;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;  30;ander land;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;  40;Onbekend;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7217;Lochem;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7411;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7412;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;3;2;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;7413;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;4;3;3;3;2;8;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;150;Deventer;7414;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;2;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7415;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;36;42;38;33;33;24;16;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;243
+20171001;150;Deventer;7416;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;9;14;16;17;9;11;5;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;150;Deventer;7417;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;5;7;5;9;7;5;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;150;Deventer;7418;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7421;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7423;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7424;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7425;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7431;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7433;Deventer;30AK;00;Obs De Flint;7415JM;DEVENTER;Overijssel;Bo;Openbaar;41862;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;  30;ander land;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7203;Zutphen;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7204;Zutphen;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;1;1;3;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;7241;Lochem;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7242;Lochem;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;2;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7312;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;4;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;150;Deventer;7322;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;3;0;3;0;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;150;Deventer;7323;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;2;2;4;2;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;150;Deventer;7325;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7327;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7328;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7329;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7335;Apeldoorn;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7391;Voorst;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7412;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;5;1;1;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7413;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;3;6;5;4;4;5;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;150;Deventer;7414;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;2;2;2;2;0;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;150;Deventer;7415;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;3;7;5;7;3;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;150;Deventer;7416;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7417;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;2;4;2;3;2;5;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;150;Deventer;7423;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7424;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7425;Deventer;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;8121;Olst-Wijhe;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;8172;Epe;30JV;00;de Zonnebloem;7414EZ;DEVENTER;Overijssel;Bo;Islamitisch;31076;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7213;Lochem;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7411;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;3;0;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7412;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;6;7;7;2;8;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;150;Deventer;7413;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;4;0;4;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7414;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;3;1;2;6;2;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;150;Deventer;7415;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;2;5;6;3;3;4;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;150;Deventer;7416;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;2;0;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;150;Deventer;7417;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7419;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7421;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;3;1;3;3;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;150;Deventer;7422;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;1;1;1;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;150;Deventer;7423;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;5;5;4;6;5;6;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;150;Deventer;7424;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;2;2;3;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;150;Deventer;7425;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;3;2;2;3;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;150;Deventer;7431;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;1;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;150;Deventer;7433;Deventer;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;6;3;7;3;4;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;150;Deventer;7461;Rijssen-Holten;30KE;00;EKC De Olijfboom;7413TV;DEVENTER;Overijssel;Bo;Evangelisch;42580;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;6821;Arnhem;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7412;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;7417;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7421;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;150;Deventer;7422;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;150;Deventer;7423;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;2;1;1;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;150;Deventer;7424;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;7;5;4;7;5;6;4;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;150;Deventer;7425;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;19;22;24;16;26;19;15;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;150;Deventer;7426;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;150;Deventer;7429;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;150;Deventer;7433;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;150;Deventer;7434;Deventer;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;150;Deventer;8111;Raalte;30UZ;00;De Ontdekking;7425GX;DEVENTER;Overijssel;Bo;Algemeen bijzonder;95148;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

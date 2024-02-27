@@ -1,0 +1,174 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;575;Noordwijk;2201;Noordwijk;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;2;4;4;2;7;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;575;Noordwijk;2202;Noordwijk;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;1;1;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;575;Noordwijk;2203;Noordwijk;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;13;11;15;14;14;11;16;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;575;Noordwijk;2204;Noordwijk;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2211;Noordwijkerhout;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2223;Katwijk;05DA;00;De Schapendel;2203GH;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2159;Kaag en Braassem;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2161;Lisse;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2182;Hillegom;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;12;8;14;12;6;12;9;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;575;Noordwijk;2202;Noordwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;3;1;3;4;2;4;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;575;Noordwijk;2203;Noordwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;3;2;2;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;575;Noordwijk;2211;Noordwijkerhout;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;1;1;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;575;Noordwijk;2215;Teylingen;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2221;Katwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2224;Katwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2225;Katwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2231;Katwijk;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2405;Alphen aan den Rijn;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2421;Nieuwkoop;05ID;00;RK Montesssorischool Noordwijk;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2152;Haarlemmermeer;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2171;Teylingen;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2201;Noordwijk;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;44;38;37;37;36;44;34;38;4;0;0;0;0;0;0;0;0;0;0;0;0;0;312
+20171001;575;Noordwijk;2202;Noordwijk;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;2;2;3;3;6;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;575;Noordwijk;2203;Noordwijk;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;5;4;4;5;4;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;575;Noordwijk;2211;Noordwijkerhout;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2215;Teylingen;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2225;Katwijk;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2231;Katwijk;07SG;00;Basissch De Bronckhorst;2201KW;NOORDWIJK ZH;Zuid-Holland;Bo;Rooms-Katholiek;40967;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;9;19;19;18;22;28;18;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;575;Noordwijk;2202;Noordwijk;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;5;8;14;12;11;16;13;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;575;Noordwijk;2203;Noordwijk;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;6;4;9;14;7;7;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;575;Noordwijk;2204;Noordwijk;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2211;Noordwijkerhout;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2215;Teylingen;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2221;Katwijk;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2241;Wassenaar;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2242;Wassenaar;09DT;00;De Witte School;2203JN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;38;44;35;46;41;34;30;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;284
+20171001;575;Noordwijk;2202;Noordwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;8;3;3;2;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;575;Noordwijk;2203;Noordwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;5;8;3;5;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;575;Noordwijk;2211;Noordwijkerhout;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2215;Teylingen;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2221;Katwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2224;Katwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2231;Katwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2235;Katwijk;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2318;Leiden;09ZQ;00;Daltonschool Klaverweide;2201DN;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2201;Noordwijk;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;3;1;4;0;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;575;Noordwijk;2202;Noordwijk;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;23;24;21;15;23;16;12;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;575;Noordwijk;2203;Noordwijk;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;1;1;2;1;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;575;Noordwijk;2204;Noordwijk;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2211;Noordwijkerhout;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;5707;Helmond;10JX;00;Chr Basisschool Zeehonk;2202KB;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;2;3;1;1;3;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;575;Noordwijk;2202;Noordwijk;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;8;17;19;22;11;15;16;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;575;Noordwijk;2203;Noordwijk;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;3;0;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;575;Noordwijk;2204;Noordwijk;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2211;Noordwijkerhout;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2241;Wassenaar;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2243;Wassenaar;10ZU;00;Chr Basissch Wakersduin;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;1171;Haarlemmermeer;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2134;Haarlemmermeer;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2144;Haarlemmermeer;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2161;Lisse;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2161;Lisse;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2162;Lisse;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2162;Lisse;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2165;Haarlemmermeer;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2171;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;1;2;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;575;Noordwijk;2171;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2172;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2172;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2181;Hillegom;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2181;Hillegom;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2182;Hillegom;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2182;Hillegom;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2191;Noordwijkerhout;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;1;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2201;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;4;2;3;1;1;0;0;0;0;0;0;0;12
+20171001;575;Noordwijk;2202;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2202;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2203;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2203;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2204;Noordwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2211;Noordwijkerhout;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;1;2;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2211;Noordwijkerhout;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;1;1;0;2;1;2;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2215;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;1;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2215;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;2;0;0;0;0;0;0;0;6
+20171001;575;Noordwijk;2221;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;1;0;1;0;4;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;575;Noordwijk;2221;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;5;2;1;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2223;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2223;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2224;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2224;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;1;2;1;3;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2225;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;2;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;575;Noordwijk;2225;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2231;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;1;1;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2231;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;3;2;2;1;2;0;0;0;0;0;0;0;11
+20171001;575;Noordwijk;2235;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2235;Katwijk;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2241;Wassenaar;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2315;Leiden;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2321;Leiden;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2331;Leiden;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2332;Leiden;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2341;Oegstgeest;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2341;Oegstgeest;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2342;Oegstgeest;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2343;Oegstgeest;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2352;Leiderdorp;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2352;Leiderdorp;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2353;Leiderdorp;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2361;Teylingen;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2371;Kaag en Braassem;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;Vso;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2375;Kaag en Braassem;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2402;Alphen aan den Rijn;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2441;Nieuwkoop;14MY;00;De Duinpieper;2203GH;NOORDWIJK ZH;Zuid-Holland;So;Protestants-Christelijk;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;  40;Onbekend;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;15;18;18;14;10;26;12;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;575;Noordwijk;2202;Noordwijk;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;575;Noordwijk;2203;Noordwijk;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;1;1;2;0;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;575;Noordwijk;2221;Katwijk;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2231;Katwijk;15BI;00;Basisschool Hoffenne;2201WN;NOORDWIJK ZH;Zuid-Holland;Bo;Protestants-Christelijk;41366;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2162;Lisse;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2171;Teylingen;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2172;Teylingen;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2181;Hillegom;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2182;Hillegom;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2201;Noordwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;9;13;9;7;9;6;5;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;575;Noordwijk;2202;Noordwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2204;Noordwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2211;Noordwijkerhout;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;2;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;575;Noordwijk;2215;Teylingen;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2221;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2223;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2224;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;1;2;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;575;Noordwijk;2225;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;575;Noordwijk;2231;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2235;Katwijk;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;575;Noordwijk;2252;Voorschoten;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2264;Leidschendam-Voorburg;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2311;Leiden;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2313;Leiden;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2321;Leiden;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2331;Leiden;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2341;Oegstgeest;22JR;00;De Jutter;2201XP;NOORDWIJK ZH;Zuid-Holland;Bo;Openbaar;41362;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2159;Kaag en Braassem;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2162;Lisse;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2171;Teylingen;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2172;Teylingen;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2181;Hillegom;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2182;Hillegom;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2201;Noordwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;3;3;3;6;3;6;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;575;Noordwijk;2202;Noordwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;4;14;7;14;7;9;11;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;575;Noordwijk;2203;Noordwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;3;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;575;Noordwijk;2204;Noordwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;2;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;575;Noordwijk;2211;Noordwijkerhout;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;3;1;3;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;575;Noordwijk;2215;Teylingen;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;1;1;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;575;Noordwijk;2223;Katwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2231;Katwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;575;Noordwijk;2235;Katwijk;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2242;Wassenaar;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2252;Voorschoten;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2253;Voorschoten;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2264;Leidschendam-Voorburg;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2311;Leiden;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2324;Leiden;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2341;Oegstgeest;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;1;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;575;Noordwijk;2353;Leiderdorp;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2361;Teylingen;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;575;Noordwijk;2481;Kaag en Braassem;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;575;Noordwijk;2729;Zoetermeer;28DA;00;De Noordwijkse School;2202SP;NOORDWIJK ZH;Zuid-Holland;Bo;Algemeen bijzonder;41596;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

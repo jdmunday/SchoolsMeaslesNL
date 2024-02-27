@@ -1,0 +1,716 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;355;Zeist;1261;Blaricum;01KI;02;De Heuvelrug (De Lindenhorst);3707CC;ZEIST;Utrecht;Vso;Algemeen bijzonder;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3707;Zeist;01KI;02;De Heuvelrug (De Lindenhorst);3707CC;ZEIST;Utrecht;Vso;Algemeen bijzonder;42756;0;0;0;0;0;0;0;0;0;2;2;3;4;10;6;0;0;0;0;0;0;0;0;27
+20171001;355;Zeist;3905;Veenendaal;01KI;02;De Heuvelrug (De Lindenhorst);3707CC;ZEIST;Utrecht;Vso;Algemeen bijzonder;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;01KI;02;De Heuvelrug (De Lindenhorst);3707CC;ZEIST;Utrecht;Vso;Algemeen bijzonder;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6671;Overbetuwe;01KI;02;De Heuvelrug (De Lindenhorst);3707CC;ZEIST;Utrecht;Vso;Algemeen bijzonder;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;6;9;5;7;6;5;5;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;355;Zeist;3702;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;2;2;3;4;3;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;355;Zeist;3703;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;19;17;26;15;18;18;17;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;355;Zeist;3704;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;4;8;7;3;9;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;355;Zeist;3705;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;4;2;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;355;Zeist;3706;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3707;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;4;6;6;4;8;6;7;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;355;Zeist;3708;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;2;1;3;2;3;2;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;355;Zeist;3709;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3711;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3712;Zeist;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3732;De Bilt;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3994;Houten;03KW;00;Basisschool Comenius;3703CG;ZEIST;Utrecht;Bo;Protestants-Christelijk;29577;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;1216;Hilversum;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3404;IJsselstein;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3437;Nieuwegein;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3441;Woerden;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3448;Woerden;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3452;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3453;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3454;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3514;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3543;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3544;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3554;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3555;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3561;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3562;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3563;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3564;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3572;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3581;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3582;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3583;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3584;Utrecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3603;Stichtse Vecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3621;Stichtse Vecht;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3703;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3704;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3705;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3706;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3707;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3708;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3712;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3721;De Bilt;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3723;De Bilt;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3731;De Bilt;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3734;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3735;Zeist;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3738;De Bilt;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3741;Baarn;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3742;Baarn;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;1;0;0;1;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3751;Bunschoten;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3754;Bunschoten;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3761;Soest;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3763;Soest;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3765;Soest;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3812;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3813;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;2;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3814;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3815;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;2;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3818;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3822;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3823;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3824;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;1;1;0;1;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;355;Zeist;3825;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3828;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3829;Amersfoort;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3831;Leusden;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3833;Leusden;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3834;Leusden;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3925;Scherpenzeel;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3931;Woudenberg;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3947;Wijk bij Duurstede;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3951;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3956;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3958;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3962;Wijk bij Duurstede;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3981;Bunnik;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3991;Houten;04AK;00;Dokter CP v Leersumsch;3707CE;ZEIST;Utrecht;So;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;1403;Gooise Meren;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3524;Utrecht;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3525;Utrecht;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3561;Utrecht;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3607;Stichtse Vecht;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3702;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3703;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3704;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3705;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3706;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3707;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3708;Zeist;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3721;De Bilt;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3737;De Bilt;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3741;Baarn;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3743;Baarn;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3817;Amersfoort;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3931;Woudenberg;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3951;Utrechtse Heuvelrug;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3958;Utrechtse Heuvelrug;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3961;Wijk bij Duurstede;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3981;Bunnik;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3993;Houten;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;5741;Laarbeek;04FP;00;SSBO Tobias;3701CC;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41202;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;  10;Belgie;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3572;Utrecht;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;5;1;2;5;1;6;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;355;Zeist;3702;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3703;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;2;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3704;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;2;3;2;3;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;355;Zeist;3705;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3707;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;14;21;19;21;22;14;20;17;2;0;0;0;0;0;0;0;0;0;0;0;0;0;150
+20171001;355;Zeist;3708;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;5;1;3;4;5;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;355;Zeist;3709;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3769;Soest;05WU;00;Zeister Schoolvereeniging;3707CA;ZEIST;Utrecht;Bo;Algemeen bijzonder;98463;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;2;4;2;2;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;355;Zeist;3702;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3703;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;1;4;0;3;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;355;Zeist;3704;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;3;4;3;4;3;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;355;Zeist;3705;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;3;6;5;3;5;4;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;355;Zeist;3706;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3707;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;6;4;4;4;6;4;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;355;Zeist;3708;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;2;2;4;0;3;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;355;Zeist;3709;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3711;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;3;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;355;Zeist;3721;De Bilt;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3732;De Bilt;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3734;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3735;Zeist;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3749;Baarn;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3768;Soest;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3769;Soest;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;4;3;3;0;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3931;Woudenberg;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3956;Utrechtse Heuvelrug;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3981;Bunnik;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3993;Houten;05WV;00;Zeister Vrije School;3707GL;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3702;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;4;3;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;355;Zeist;3703;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;0;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3704;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;3;2;1;3;2;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;355;Zeist;3705;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;3;5;2;1;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;355;Zeist;3706;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3707;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;2;1;4;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;355;Zeist;3708;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;1;2;2;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;355;Zeist;3709;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3722;De Bilt;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3731;De Bilt;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3769;Soest;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;06DY;00;Rehobothschool;3705PE;ZEIST;Utrecht;Bo;Reformatorisch;23064;0;1;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;  30;ander land;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3514;Utrecht;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3523;Utrecht;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3566;Utrecht;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3571;Utrecht;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3572;Utrecht;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;0;1;2;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3702;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3703;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3704;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;2;0;3;4;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;355;Zeist;3705;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;3;4;1;5;3;6;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;355;Zeist;3706;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;2;4;2;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;355;Zeist;3707;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;2;0;1;6;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;355;Zeist;3708;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;0;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3711;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;12;11;8;6;7;6;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;355;Zeist;3721;De Bilt;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3723;De Bilt;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3732;De Bilt;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3734;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3735;Zeist;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3764;Soest;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3766;Soest;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;7;7;8;11;8;12;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;07ZG;00;Basissch Oud Zandbergen;3712AD;HUIS TER HEIDE UT;Utrecht;Bo;Algemeen bijzonder;86724;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3437;Nieuwegein;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;11;8;5;11;13;6;5;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;355;Zeist;3702;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;8;10;12;17;9;7;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;355;Zeist;3703;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;2;2;3;3;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;355;Zeist;3704;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;5;3;1;6;2;0;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;355;Zeist;3705;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;54;65;55;48;38;46;43;34;5;0;0;0;0;0;0;0;0;0;0;0;0;0;388
+20171001;355;Zeist;3706;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;5;5;6;6;3;6;4;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;355;Zeist;3707;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;5;5;8;3;12;10;10;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;355;Zeist;3708;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;2;0;1;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;355;Zeist;3712;Zeist;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3812;Amersfoort;08LE;00;Ichthusschool;3705BT;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;2;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3702;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;2;2;1;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;355;Zeist;3703;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;3;1;2;3;1;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3704;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;12;21;23;14;17;14;13;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;355;Zeist;3705;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;5;3;5;2;6;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;355;Zeist;3706;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;3;3;4;1;4;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;355;Zeist;3707;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3712;Zeist;09KS;00;Basisschool Nye Kroost;3704EG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;1;3;1;5;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;355;Zeist;3702;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3703;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3704;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3707;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;0;0;1;2;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;355;Zeist;3708;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;21;29;21;26;26;18;23;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;180
+20171001;355;Zeist;3709;Zeist;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3905;Veenendaal;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;2;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3984;Bunnik;09OD;00;Kerckeboschschool;3708GA;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;2;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3702;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3703;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3704;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;2;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3705;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;6;6;8;15;9;10;6;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;355;Zeist;3706;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;20;15;14;14;7;10;8;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;355;Zeist;3707;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;4;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3708;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3931;Woudenberg;10FU;00;Basisschool De Wegwijzer;3705LW;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3703;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;8;8;10;12;6;11;9;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;355;Zeist;3704;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;45;40;30;30;27;35;32;38;5;0;0;0;0;0;0;0;0;0;0;0;0;0;282
+20171001;355;Zeist;3705;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;1;2;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3706;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;3;2;2;4;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;355;Zeist;3708;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3711;Zeist;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3732;De Bilt;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3981;Bunnik;11KQ;00;Basisschool de Sluis;3704GG;ZEIST;Utrecht;Bo;Protestants-Christelijk;35466;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3554;Utrecht;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3561;Utrecht;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3571;Utrecht;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3583;Utrecht;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;2;2;2;4;2;3;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;355;Zeist;3702;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;1;6;5;3;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;355;Zeist;3703;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;12;8;7;12;10;12;10;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;355;Zeist;3704;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;9;4;6;7;4;2;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;355;Zeist;3705;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;20;24;26;23;17;17;19;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;355;Zeist;3706;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;7;10;6;2;4;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;355;Zeist;3707;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;2;4;6;7;8;12;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;355;Zeist;3708;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;19;17;14;12;9;12;12;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;355;Zeist;3712;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3721;De Bilt;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3723;De Bilt;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3735;Zeist;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3741;Baarn;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3742;Baarn;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3763;Soest;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3772;Barneveld;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3981;Bunnik;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3984;Bunnik;12IW;00;WereldKidz Montessori Zeist;3705XL;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;  40;Onbekend;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3533;Utrecht;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3704;Zeist;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3705;Zeist;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;2;0;0;0;3;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;355;Zeist;3706;Zeist;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;20;18;15;18;11;11;20;19;7;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;355;Zeist;3707;Zeist;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;2;3;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;355;Zeist;3721;De Bilt;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;9341;Noordenveld;12YM;00;WereldKidz Op Dreef;3706EW;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;  40;Onbekend;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3703;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;4;2;6;8;4;5;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;355;Zeist;3704;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;4;7;8;5;7;6;6;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;355;Zeist;3705;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;2;3;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;355;Zeist;3706;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;0;0;2;1;0;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;355;Zeist;3708;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3984;Bunnik;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6222;Maastricht;13SY;00;WereldKidz Koppel;3704KC;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3711;Zeist;13SY;01;WereldKidz Pirapoleon;3711BP;AUSTERLITZ;Utrecht;Bo;Openbaar;41496;0;5;13;4;11;7;6;10;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;13SY;01;WereldKidz Pirapoleon;3711BP;AUSTERLITZ;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;13SY;01;WereldKidz Pirapoleon;3711BP;AUSTERLITZ;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3331;Zwijndrecht;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;9;14;12;14;11;18;10;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;355;Zeist;3702;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;4;4;3;6;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;355;Zeist;3703;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;2;0;4;1;2;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3704;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;3;3;6;5;1;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;355;Zeist;3705;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;4;6;3;3;11;5;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;355;Zeist;3706;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;1;1;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3707;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;7;12;6;11;9;7;11;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;355;Zeist;3708;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;2;0;0;2;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3712;Zeist;14DF;00;WereldKidz Het Spoor;3701EN;ZEIST;Utrecht;Bo;Openbaar;41496;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3514;Utrecht;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3541;Utrecht;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3555;Utrecht;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3572;Utrecht;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3702;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3703;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;2;2;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;355;Zeist;3704;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;6;2;1;1;2;4;4;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;355;Zeist;3705;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;3;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;355;Zeist;3706;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;3;3;0;2;1;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3707;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3708;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;2;1;2;4;2;5;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;355;Zeist;3711;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3712;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3721;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;1;0;1;3;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;355;Zeist;3723;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3731;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3732;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3734;Zeist;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3737;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3738;De Bilt;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3762;Soest;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3763;Soest;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3765;Soest;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3766;Soest;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;1;1;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3814;Amersfoort;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3931;Woudenberg;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3951;Utrechtse Heuvelrug;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;2;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;1;1;3;1;2;2;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;355;Zeist;3981;Bunnik;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3984;Bunnik;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3985;Bunnik;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3994;Houten;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4191;Geldermalsen;19RT;00;SSBO de Stuifheuvel;3708DM;ZEIST;Utrecht;Sbo;Algemeen bijzonder;41879;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3401;IJsselstein;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3431;Nieuwegein;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3432;Nieuwegein;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3527;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3531;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3561;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3563;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3564;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3572;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3581;Utrecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3601;Stichtse Vecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3612;Stichtse Vecht;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3702;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3703;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3704;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3704;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3705;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3705;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;2;1;0;1;2;0;0;2;0;0;0;0;0;0;8
+20171001;355;Zeist;3706;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3706;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3707;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3707;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3708;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3711;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3721;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3722;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3722;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3723;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3723;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3731;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3732;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3734;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3735;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3735;Zeist;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;4;2;0;1;1;1;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3738;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3738;De Bilt;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3761;Soest;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3763;Soest;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3764;Soest;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3769;Soest;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;1;1;0;0;0;0;0;6
+20171001;355;Zeist;3812;Amersfoort;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3816;Amersfoort;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3817;Amersfoort;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3825;Amersfoort;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3931;Woudenberg;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3945;Wijk bij Duurstede;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3951;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3956;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3961;Wijk bij Duurstede;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3961;Wijk bij Duurstede;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3962;Wijk bij Duurstede;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3981;Bunnik;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3984;Bunnik;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3984;Bunnik;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3985;Bunnik;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3985;Bunnik;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3992;Houten;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3993;Houten;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3994;Houten;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;1;1;0;0;0;0;0;0;6
+20171001;355;Zeist;3995;Houten;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4131;Vianen;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;Vso;Openbaar;41496;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6714;Ede;19TJ;00;WereldKidz Meerklank;3705AR;ZEIST;Utrecht;So;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;  30;ander land;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;6;2;4;7;3;2;4;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;355;Zeist;3702;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;17;14;23;17;22;9;14;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;355;Zeist;3703;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;1;3;3;3;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3704;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;1;5;2;3;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;355;Zeist;3705;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;6;8;6;8;13;6;9;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;355;Zeist;3706;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;6;2;3;6;1;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;355;Zeist;3707;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;5;3;5;8;4;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;355;Zeist;3708;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;15;19;25;25;14;23;19;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;355;Zeist;3712;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3734;Zeist;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3769;Soest;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3772;Barneveld;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3984;Bunnik;20IN;00;De Damiaanschool;3702VM;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3702;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3703;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;8;8;4;6;13;6;12;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;355;Zeist;3704;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;11;16;15;21;19;11;26;13;5;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;355;Zeist;3705;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3706;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;3;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3707;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3708;Zeist;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3721;De Bilt;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3769;Soest;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3981;Bunnik;20IR;00;Basisschool de Griffel;3704KC;ZEIST;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;2551;'s-Gravenhage;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3705;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3706;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3707;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3712;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3721;De Bilt;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3722;De Bilt;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3723;De Bilt;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3732;De Bilt;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3734;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;22;31;29;29;26;34;31;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;355;Zeist;3735;Zeist;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3749;Baarn;20IZ;00;De Kameleon;3734VH;DEN DOLDER;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;  30;ander land;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3513;Utrecht;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3514;Utrecht;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3525;Utrecht;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3701;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;2;2;5;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;355;Zeist;3702;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;6;5;3;5;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;355;Zeist;3703;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;3;4;5;4;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;355;Zeist;3704;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;6;11;3;10;3;4;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;355;Zeist;3705;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;4;4;3;5;7;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;355;Zeist;3706;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;5;1;3;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;355;Zeist;3707;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;10;4;5;8;4;11;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;355;Zeist;3708;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;3;0;2;7;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;355;Zeist;3711;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;3;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3712;Zeist;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;2;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;355;Zeist;3769;Soest;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;1;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;355;Zeist;3931;Woudenberg;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3981;Bunnik;21OM;00;Zeister Vrije School;3707CV;ZEIST;Utrecht;Bo;Antroposofisch;98489;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;1211;Hilversum;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1216;Hilversum;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1218;Hilversum;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1276;Huizen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;355;Zeist;1403;Gooise Meren;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1951;Velsen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3401;IJsselstein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3402;IJsselstein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3402;IJsselstein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3404;IJsselstein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3404;IJsselstein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3405;Lopik;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3411;Lopik;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3411;Lopik;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3421;Oudewater;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3432;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3434;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3434;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3437;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3437;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3438;Nieuwegein;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3446;Woerden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3448;Woerden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3448;Woerden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3451;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3451;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3452;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3452;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3453;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;355;Zeist;3454;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3481;Woerden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3481;Woerden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3521;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3522;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3522;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3523;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3524;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3526;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3526;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3531;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3531;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3532;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3533;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3543;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3544;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3544;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3546;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3552;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3552;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3553;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3554;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3554;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3555;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3561;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3562;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3563;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3563;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3564;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3564;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3572;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3573;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3582;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3583;Utrecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3605;Stichtse Vecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3607;Stichtse Vecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3608;Stichtse Vecht;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3615;De Bilt;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3645;De Ronde Venen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3701;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3702;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3703;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3704;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3704;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3705;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;1;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;355;Zeist;3705;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;2;2;1;3;0;0;0;0;0;0;0;0;0;8
+20171001;355;Zeist;3706;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3706;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3707;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3707;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;2;1;1;3;5;1;0;0;0;0;0;0;0;0;13
+20171001;355;Zeist;3712;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3721;De Bilt;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3723;De Bilt;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3723;De Bilt;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3732;De Bilt;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3735;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3735;Zeist;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;355;Zeist;3742;Baarn;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3742;Baarn;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3751;Bunschoten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3751;Bunschoten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3752;Bunschoten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3752;Bunschoten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3754;Bunschoten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3762;Soest;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3765;Soest;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3769;Soest;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3772;Barneveld;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3791;Leusden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3794;Barneveld;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3794;Barneveld;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3812;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3812;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3813;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3815;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3815;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3816;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3817;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3818;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3823;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3824;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3824;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;1;0;0;0;0;0;0;5
+20171001;355;Zeist;3825;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3825;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3826;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3828;Amersfoort;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3831;Leusden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3831;Leusden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3834;Leusden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3834;Leusden;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3871;Nijkerk;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3902;Veenendaal;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3904;Veenendaal;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3905;Veenendaal;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3931;Woudenberg;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3941;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;3
+20171001;355;Zeist;3945;Wijk bij Duurstede;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3953;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3956;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3958;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3961;Wijk bij Duurstede;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3961;Wijk bij Duurstede;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3971;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;5
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;355;Zeist;3972;Utrechtse Heuvelrug;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;2;0;2;2;5;0;0;0;0;0;0;12
+20171001;355;Zeist;3984;Bunnik;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3985;Bunnik;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3991;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3991;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3992;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3993;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3994;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3998;Houten;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4021;Buren;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4033;Buren;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4121;Vianen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4132;Vianen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4133;Vianen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4133;Vianen;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;355;Zeist;4143;Leerdam;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;Vso;Algemeen bijzonder;30866;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8226;Lelystad;23GL;00;Intermetzo Zonnehuizen Onderw;3704HB;ZEIST;Utrecht;So;Algemeen bijzonder;30866;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;1222;Hilversum;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1244;Wijdemeren;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;1403;Gooise Meren;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;2411;Bodegraven-Reeuwijk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;2731;Alphen aan den Rijn;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;2967;Molenwaard;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3361;Sliedrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3401;IJsselstein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3402;IJsselstein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3404;IJsselstein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3434;Nieuwegein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3434;Nieuwegein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3438;Nieuwegein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3438;Nieuwegein;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;4
+20171001;355;Zeist;3446;Woerden;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3452;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3453;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3453;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3526;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3527;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3561;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3571;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3572;Utrecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3605;Stichtse Vecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3608;Stichtse Vecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3621;Stichtse Vecht;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3703;Zeist;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;4
+20171001;355;Zeist;3704;Zeist;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3708;Zeist;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3764;Soest;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3765;Soest;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3766;Soest;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3772;Barneveld;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3781;Barneveld;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3813;Amersfoort;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3815;Amersfoort;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3825;Amersfoort;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3829;Amersfoort;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3832;Leusden;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3851;Ermelo;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3863;Nijkerk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3863;Nijkerk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3871;Nijkerk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3882;Putten;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3901;Veenendaal;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3905;Veenendaal;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3906;Veenendaal;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3931;Woudenberg;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3956;Utrechtse Heuvelrug;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;3984;Bunnik;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3991;Houten;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3993;Houten;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;3998;Houten;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4105;Culemborg;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4105;Culemborg;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4116;Buren;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4142;Leerdam;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4191;Geldermalsen;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;4194;Geldermalsen;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;4225;Giessenlanden;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;355;Zeist;5306;Zaltbommel;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6706;Wageningen;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6708;Wageningen;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6721;Ede;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6741;Ede;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6741;Ede;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6823;Arnhem;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6844;Arnhem;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;355;Zeist;6922;Duiven;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6951;Rheden;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;6991;Rheden;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7009;Doetinchem;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7223;Bronckhorst;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7312;Apeldoorn;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7322;Apeldoorn;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7451;Rijssen-Holten;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7481;Haaksbergen;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7533;Enschede;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7544;Enschede;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7681;Twenterand;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;7683;Twenterand;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8031;Zwolle;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8042;Zwolle;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;355;Zeist;8043;Zwolle;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8077;Nunspeet;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8181;Heerde;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2
+20171001;355;Zeist;8191;Heerde;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8231;Lelystad;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8321;Urk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;355;Zeist;8322;Urk;25GR;00;Bartimeus OVVGL;3703AJ;ZEIST;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1

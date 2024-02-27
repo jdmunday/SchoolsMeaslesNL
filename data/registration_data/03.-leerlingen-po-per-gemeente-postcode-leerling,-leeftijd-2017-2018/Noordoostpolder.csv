@@ -1,0 +1,335 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;171;Noordoostpolder;8302;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;6;6;7;3;5;3;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;171;Noordoostpolder;8303;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;6;8;3;9;6;8;16;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;171;Noordoostpolder;8304;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;1;1;0;0;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;171;Noordoostpolder;8308;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8312;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8314;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8315;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8316;Noordoostpolder;03KT;00;De Planthof;8303HL;EMMELOORD;Flevoland;Bo;Gereformeerd vrijgemaakt;41632;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8301;Noordoostpolder;03QP;00;SWS De Fladderiep;8317AG;KRAGGENBURG;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8307;Noordoostpolder;03QP;00;SWS De Fladderiep;8317AG;KRAGGENBURG;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8317;Noordoostpolder;03QP;00;SWS De Fladderiep;8317AG;KRAGGENBURG;Flevoland;Bo;Samenwerking PC, RK;40662;0;9;10;12;13;10;10;14;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;171;Noordoostpolder;8307;Noordoostpolder;03RA;00;RK Basissch De Horizon;8307AX;ENS;Flevoland;Bo;Rooms-Katholiek;40662;0;11;14;12;20;15;17;21;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;171;Noordoostpolder;8317;Noordoostpolder;03RA;00;RK Basissch De Horizon;8307AX;ENS;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8302;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;3;6;4;1;7;10;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;171;Noordoostpolder;8303;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;8;3;6;2;5;6;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;171;Noordoostpolder;8304;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;1;2;3;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;171;Noordoostpolder;8307;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;4;2;1;3;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;171;Noordoostpolder;8308;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;1;2;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8309;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;8;4;6;6;10;2;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;171;Noordoostpolder;8311;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;1;2;1;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;8312;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;2;1;1;2;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;171;Noordoostpolder;8315;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;2;0;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;171;Noordoostpolder;8316;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;2;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8317;Noordoostpolder;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8321;Urk;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8341;Steenwijkerland;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8373;Steenwijkerland;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8531;De Fryske Marren;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8565;De Fryske Marren;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8566;De Fryske Marren;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;2;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8567;De Fryske Marren;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;1;4;2;3;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;171;Noordoostpolder;8574;De Fryske Marren;03TD;00;Basissch Eben Haezer;8303ZR;EMMELOORD;Flevoland;Bo;Reformatorisch;46152;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8304;Noordoostpolder;04ZB;00;Mariabasisschool;8316BL;MARKNESSE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8305;Noordoostpolder;04ZB;00;Mariabasisschool;8316BL;MARKNESSE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;04ZB;00;Mariabasisschool;8316BL;MARKNESSE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8316;Noordoostpolder;04ZB;00;Mariabasisschool;8316BL;MARKNESSE;Flevoland;Bo;Rooms-Katholiek;40662;0;9;9;12;8;14;21;7;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;171;Noordoostpolder;8317;Noordoostpolder;04ZB;00;Mariabasisschool;8316BL;MARKNESSE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8302;Noordoostpolder;04ZX;00;Titus Brandsma School;8308AL;NAGELE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8305;Noordoostpolder;04ZX;00;Titus Brandsma School;8308AL;NAGELE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8307;Noordoostpolder;04ZX;00;Titus Brandsma School;8308AL;NAGELE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8308;Noordoostpolder;04ZX;00;Titus Brandsma School;8308AL;NAGELE;Flevoland;Bo;Rooms-Katholiek;40662;0;7;13;15;10;12;11;9;13;0;1;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;171;Noordoostpolder;8309;Noordoostpolder;04ZX;00;Titus Brandsma School;8308AL;NAGELE;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8303;Noordoostpolder;05CZ;00;SWS Fondali;8312AX;CREIL;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8311;Noordoostpolder;05CZ;00;SWS Fondali;8312AX;CREIL;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;05CZ;00;SWS Fondali;8312AX;CREIL;Flevoland;Bo;Rooms-Katholiek;40662;0;11;16;10;10;18;12;7;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;171;Noordoostpolder;8313;Noordoostpolder;05CZ;00;SWS Fondali;8312AX;CREIL;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8302;Noordoostpolder;06YL;00;Basisschool De Ark;8311AZ;ESPEL;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8303;Noordoostpolder;06YL;00;Basisschool De Ark;8311AZ;ESPEL;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8311;Noordoostpolder;06YL;00;Basisschool De Ark;8311AZ;ESPEL;Flevoland;Bo;Samenwerking PC, RK;40662;0;15;16;13;17;9;9;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;171;Noordoostpolder;8312;Noordoostpolder;06YL;00;Basisschool De Ark;8311AZ;ESPEL;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8313;Noordoostpolder;06YL;00;Basisschool De Ark;8311AZ;ESPEL;Flevoland;Bo;Samenwerking PC, RK;40662;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8301;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8302;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;9;17;14;18;14;17;17;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;171;Noordoostpolder;8303;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;11;22;21;23;28;23;19;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;171;Noordoostpolder;8304;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8305;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8308;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8311;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;1;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8314;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8316;Noordoostpolder;08JS;00;Alb Schweitzer-School;8303VA;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;5;1;5;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;171;Noordoostpolder;8302;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;24;20;19;31;20;17;14;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;171;Noordoostpolder;8303;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;4;4;2;2;0;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;171;Noordoostpolder;8304;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;2;3;3;3;3;3;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;171;Noordoostpolder;8305;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;1;1;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8308;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8312;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8314;Noordoostpolder;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8489;Weststellingwerf;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8531;De Fryske Marren;09JQ;00;St Joseph School;8302AS;EMMELOORD;Flevoland;Bo;Rooms-Katholiek;40662;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;2;1;3;1;4;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;171;Noordoostpolder;8302;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;17;18;23;18;16;17;12;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;171;Noordoostpolder;8303;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;3;10;2;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;171;Noordoostpolder;8304;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;1;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8305;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8312;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8314;Noordoostpolder;10OF;00;De Koperwiek;8302CN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8212;Lelystad;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8301;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8302;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;2;2;0;2;5;6;9;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;171;Noordoostpolder;8303;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;14;13;18;12;20;21;9;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;171;Noordoostpolder;8304;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8305;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8309;Noordoostpolder;11QC;00;CBS De Triangel;8303XL;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8313;Noordoostpolder;11QN;00;Paulus School;8313AH;RUTTEN;Flevoland;Bo;Rooms-Katholiek;40662;0;11;14;7;11;8;8;9;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;171;Noordoostpolder;8538;De Fryske Marren;11QN;00;Paulus School;8313AH;RUTTEN;Flevoland;Bo;Rooms-Katholiek;40662;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;1221;Hilversum;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8223;Lelystad;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8302;Noordoostpolder;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;12;27;15;21;25;18;26;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;171;Noordoostpolder;8303;Noordoostpolder;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;18;17;15;20;12;18;26;14;0;1;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;171;Noordoostpolder;8312;Noordoostpolder;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8316;Noordoostpolder;12KG;00;CBS De Lichtboei;8303KN;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;3;1;7;4;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;171;Noordoostpolder;8302;Noordoostpolder;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;4;2;4;2;3;5;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;171;Noordoostpolder;8303;Noordoostpolder;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8304;Noordoostpolder;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;22;23;30;14;32;18;17;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;171;Noordoostpolder;8305;Noordoostpolder;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;2;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8501;De Fryske Marren;12ST;00;CBS 't Kompas;8304GA;EMMELOORD;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8313;Noordoostpolder;12ZH;00;CBS De Schalmei;8314AH;BANT;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8314;Noordoostpolder;12ZH;00;CBS De Schalmei;8314AH;BANT;Flevoland;Bo;Protestants-Christelijk;52274;0;6;9;14;8;11;12;4;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;171;Noordoostpolder;8315;Noordoostpolder;12ZH;00;CBS De Schalmei;8314AH;BANT;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8374;Steenwijkerland;12ZH;00;CBS De Schalmei;8314AH;BANT;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8305;Noordoostpolder;13FE;00;CBS De Rank;8315AM;LUTTELGEEST;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;13FE;00;CBS De Rank;8315AM;LUTTELGEEST;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;5;6;4;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;171;Noordoostpolder;8316;Noordoostpolder;13FE;00;CBS De Rank;8315AM;LUTTELGEEST;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8313;Noordoostpolder;13KN;00;CBS Sjaloom;8313AR;RUTTEN;Flevoland;Bo;Protestants-Christelijk;52274;0;7;8;7;10;7;6;6;7;0;1;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;171;Noordoostpolder;8314;Noordoostpolder;13KN;00;CBS Sjaloom;8313AR;RUTTEN;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8302;Noordoostpolder;13TJ;00;CBS Op de Wieken;8309AM;TOLLEBEEK;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8303;Noordoostpolder;13TJ;00;CBS Op de Wieken;8309AM;TOLLEBEEK;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;13TJ;00;CBS Op de Wieken;8309AM;TOLLEBEEK;Flevoland;Bo;Protestants-Christelijk;52274;0;21;26;21;19;19;18;20;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;171;Noordoostpolder;8311;Noordoostpolder;13TJ;00;CBS Op de Wieken;8309AM;TOLLEBEEK;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8308;Noordoostpolder;13WT;00;CBS Klimop;8308AL;NAGELE;Flevoland;Bo;Protestants-Christelijk;52274;0;6;4;10;7;6;5;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;171;Noordoostpolder;8311;Noordoostpolder;14AD;00;CBS De Regenboog;8312AX;CREIL;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8312;Noordoostpolder;14AD;00;CBS De Regenboog;8312AX;CREIL;Flevoland;Bo;Protestants-Christelijk;52274;0;4;6;5;2;3;7;11;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;171;Noordoostpolder;8314;Noordoostpolder;14AD;00;CBS De Regenboog;8312AX;CREIL;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14CA;00;De Wending;8314AA;BANT;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8305;Noordoostpolder;14CA;00;De Wending;8314AA;BANT;Flevoland;Bo;Openbaar;40662;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8314;Noordoostpolder;14CA;00;De Wending;8314AA;BANT;Flevoland;Bo;Openbaar;40662;0;7;5;7;7;7;5;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;171;Noordoostpolder;8315;Noordoostpolder;14CA;00;De Wending;8314AA;BANT;Flevoland;Bo;Openbaar;40662;0;0;1;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8263;Kampen;14DL;00;CBS Het Lichtschip;8307AN;ENS;Flevoland;Bo;Protestants-Christelijk;52274;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14DL;00;CBS Het Lichtschip;8307AN;ENS;Flevoland;Bo;Protestants-Christelijk;52274;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8307;Noordoostpolder;14DL;00;CBS Het Lichtschip;8307AN;ENS;Flevoland;Bo;Protestants-Christelijk;52274;0;16;16;14;12;13;10;10;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;171;Noordoostpolder;8317;Noordoostpolder;14DL;00;CBS Het Lichtschip;8307AN;ENS;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8032;Zwolle;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8316;Noordoostpolder;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;5;9;9;13;11;12;11;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;171;Noordoostpolder;8317;Noordoostpolder;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8325;Steenwijkerland;14GF;00;CBS De Zeester;8316CH;MARKNESSE;Flevoland;Bo;Protestants-Christelijk;52274;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8301;Noordoostpolder;14HT;00;o.b.s. De Carrousel;8302CN;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;2;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14HT;00;o.b.s. De Carrousel;8302CN;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;8;3;6;3;2;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14HT;00;o.b.s. De Carrousel;8302CN;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;4;0;7;2;3;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;171;Noordoostpolder;8307;Noordoostpolder;14HT;00;o.b.s. De Carrousel;8302CN;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;14KI;00;Roderik v Voorstschool;8303VA;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;2;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14KI;00;Roderik v Voorstschool;8303VA;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;3;2;0;2;3;7;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14KI;00;Roderik v Voorstschool;8303VA;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;10;16;10;16;9;17;11;12;0;1;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;171;Noordoostpolder;8304;Noordoostpolder;14KI;00;Roderik v Voorstschool;8303VA;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8314;Noordoostpolder;14KI;00;Roderik v Voorstschool;8303VA;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14MX;00;De Keerkring;8303BB;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;12;7;13;9;14;8;9;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;171;Noordoostpolder;8304;Noordoostpolder;14MX;00;De Keerkring;8303BB;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;14MX;00;De Keerkring;8303BB;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8312;Noordoostpolder;14MX;00;De Keerkring;8303BB;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8321;Urk;14MX;00;De Keerkring;8303BB;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;7944;Meppel;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8226;Lelystad;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8241;Lelystad;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8245;Lelystad;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8245;Lelystad;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8251;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8251;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8252;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8253;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8255;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8255;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;2;0;3;0;1;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8256;Dronten;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8271;Kampen;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8271;Kampen;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;4;0;0;1;1;2;0;0;0;0;0;0;0;8
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;1;1;3;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;3;2;4;1;3;4;3;1;0;0;0;0;0;0;21
+20171001;171;Noordoostpolder;8304;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;1;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8304;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;1;0;1;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8307;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8307;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8308;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8309;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8311;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8311;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8312;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;2;0;0;1;1;0;1;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8314;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8314;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;1;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8316;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8317;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8317;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8319;Noordoostpolder;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8321;Urk;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;1;1;1;2;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;171;Noordoostpolder;8321;Urk;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;3;4;1;5;1;5;4;2;0;0;0;0;0;0;25
+20171001;171;Noordoostpolder;8322;Urk;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;1;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8322;Urk;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;1;3;1;0;1;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8325;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8325;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;1;1;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8326;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8326;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8332;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8341;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8343;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8356;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8356;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8374;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8374;Steenwijkerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8446;Heerenveen;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8485;Weststellingwerf;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8531;De Fryske Marren;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8531;De Fryske Marren;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8556;De Fryske Marren;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8561;De Fryske Marren;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;Vso;Protestants-Christelijk;84202;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;9201;Smallingerland;14WS;00;Zonnebloemschool;8303JZ;EMMELOORD;Flevoland;So;Protestants-Christelijk;84202;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;2;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8302;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;35;24;23;29;21;24;33;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;212
+20171001;171;Noordoostpolder;8303;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;12;9;4;9;11;11;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;171;Noordoostpolder;8304;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8305;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8307;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8308;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8309;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8315;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8316;Noordoostpolder;14YR;00;De Zevensprong;8302JD;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;6991;Rheden;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;5;3;4;6;2;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;171;Noordoostpolder;8302;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8303;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8304;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;9;16;6;4;8;11;11;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;171;Noordoostpolder;8308;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8314;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;15FD;00;Windkracht 10;8304DR;EMMELOORD;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8267;Kampen;15IL;00;De Regenboog;8307AN;ENS;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8307;Noordoostpolder;15IL;00;De Regenboog;8307AN;ENS;Flevoland;Bo;Openbaar;40662;0;4;5;4;7;8;2;4;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;171;Noordoostpolder;4184;Neerijnen;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8314;Noordoostpolder;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8315;Noordoostpolder;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;13;22;11;14;14;13;12;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;171;Noordoostpolder;8316;Noordoostpolder;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8326;Steenwijkerland;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8373;Steenwijkerland;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;8374;Steenwijkerland;15QD;00;De Klipper;8315AD;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8302;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8305;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8307;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8316;Noordoostpolder;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;7;7;9;8;12;13;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;171;Noordoostpolder;9581;Stadskanaal;15SN;00;De Driesprong;8316AX;MARKNESSE;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;1095;Amsterdam;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;1443;Purmerend;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;5666;Geldrop-Mierlo;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;6021;Cranendonck;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;1;1;0;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;6835;Arnhem;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8302;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;1;1;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;171;Noordoostpolder;8303;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;1;1;3;3;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;171;Noordoostpolder;8304;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8308;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8311;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8315;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;11;9;16;8;16;12;11;13;9;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;171;Noordoostpolder;8316;Noordoostpolder;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8321;Urk;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8325;Steenwijkerland;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;171;Noordoostpolder;9341;Noordenveld;15XA;00;a.z.s. De Wissel;8315PS;LUTTELGEEST;Flevoland;Bo;Openbaar;40662;0;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8308;Noordoostpolder;15ZC;00;SWS  De Sprang;8309AM;TOLLEBEEK;Flevoland;Bo;Openbaar;40662;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8309;Noordoostpolder;15ZC;00;SWS  De Sprang;8309AM;TOLLEBEEK;Flevoland;Bo;Openbaar;40662;0;9;13;16;11;13;10;8;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;171;Noordoostpolder;8311;Noordoostpolder;15ZC;00;SWS  De Sprang;8309AM;TOLLEBEEK;Flevoland;Bo;Openbaar;40662;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8223;Lelystad;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8242;Lelystad;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;2;0;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;171;Noordoostpolder;8302;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;1;2;1;3;4;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;171;Noordoostpolder;8303;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;3;0;2;2;1;6;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;171;Noordoostpolder;8304;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;1;0;2;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;8305;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8307;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8308;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8309;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;2;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;8311;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8312;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8313;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8314;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8315;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8316;Noordoostpolder;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8321;Urk;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;3;5;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;171;Noordoostpolder;8322;Urk;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;171;Noordoostpolder;8325;Steenwijkerland;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8501;De Fryske Marren;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8531;De Fryske Marren;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8539;De Fryske Marren;16TH;00;SBO De Klimboom;8303ZR;EMMELOORD;Flevoland;Sbo;Protestants-Christelijk;52274;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8251;Dronten;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8255;Dronten;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8262;Kampen;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8264;Kampen;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8265;Kampen;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8301;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8302;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;1;4;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;8302;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;3;1;0;1;2;2;1;0;0;0;0;0;0;0;10
+20171001;171;Noordoostpolder;8303;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;0;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;171;Noordoostpolder;8303;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;2;2;4;4;2;1;0;0;0;0;0;0;0;0;15
+20171001;171;Noordoostpolder;8304;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8304;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8307;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8308;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8308;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8309;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8309;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8311;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8312;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8312;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8313;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8314;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8314;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8315;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8315;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8316;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8316;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8317;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8317;Noordoostpolder;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8321;Urk;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;3;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;171;Noordoostpolder;8321;Urk;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;3;3;2;2;1;0;0;0;0;0;0;0;0;11
+20171001;171;Noordoostpolder;8322;Urk;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8322;Urk;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8325;Steenwijkerland;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8373;Steenwijkerland;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8501;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8521;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8531;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;So;Algemeen bijzonder;30882;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;171;Noordoostpolder;8531;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;6
+20171001;171;Noordoostpolder;8536;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8539;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;171;Noordoostpolder;8561;De Fryske Marren;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8608;S∑dwest-Frysl‘n;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;171;Noordoostpolder;8627;S∑dwest-Frysl‘n;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;171;Noordoostpolder;8861;Harlingen;23HU;03;Eduvierschool De Optimist;8302VM;EMMELOORD;Flevoland;Vso;Algemeen bijzonder;30882;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1

@@ -1,0 +1,95 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1742;Rijssen-Holten;7434;Deventer;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7442;Hellendoorn;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7443;Hellendoorn;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;1;0;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;1;1;1;2;3;1;6;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;1;4;6;4;6;4;13;6;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;1;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1742;Rijssen-Holten;7467;Wierden;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7468;Wierden;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1742;Rijssen-Holten;7471;Hof van Twente;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1742;Rijssen-Holten;7641;Wierden;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7642;Wierden;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1742;Rijssen-Holten;7645;Wierden;00ZS;00;SSBO Elim;7462TK;RIJSSEN;Overijssel;Sbo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;19;11;11;11;14;17;11;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;14;6;10;6;14;12;6;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;4;2;4;3;2;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1742;Rijssen-Holten;7468;Wierden;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7552;Hengelo;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7623;Borne;03LS;00;Klim Op School;7461EJ;RIJSSEN;Overijssel;Bo;Rooms-Katholiek;68836;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7437;Deventer;10DG;00;Basisschool Dijkerhoek;7451LV;HOLTEN;Overijssel;Bo;Openbaar;41476;0;0;1;0;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;10DG;00;Basisschool Dijkerhoek;7451LV;HOLTEN;Overijssel;Bo;Openbaar;41476;0;9;6;17;9;11;14;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;1742;Rijssen-Holten;6842;Arnhem;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7433;Deventer;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7434;Deventer;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7437;Deventer;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7448;Hellendoorn;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;44;34;26;34;41;36;37;40;7;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7688;Hellendoorn;10KQ;00;PC Bs De Regenboog;7451EV;HOLTEN;Overijssel;Bo;Protestants-Christelijk;83696;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;6971;Brummen;11JA;00;Odbs de Holterenk;7451AW;HOLTEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;11JA;00;Odbs de Holterenk;7451AW;HOLTEN;Overijssel;Bo;Openbaar;41476;0;20;17;11;12;18;20;15;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;11JA;00;Odbs de Holterenk;7451AW;HOLTEN;Overijssel;Bo;Openbaar;41476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;11JA;00;Odbs de Holterenk;7451AW;HOLTEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;11JA;00;Odbs de Holterenk;7451AW;HOLTEN;Overijssel;Bo;Openbaar;41476;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7417;Deventer;11UO;00;Haarschool;7451DZ;HOLTEN;Overijssel;Bo;Openbaar;41476;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;11UO;00;Haarschool;7451DZ;HOLTEN;Overijssel;Bo;Openbaar;41476;0;21;11;22;24;25;22;24;29;0;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;1742;Rijssen-Holten;7555;Hengelo;11UO;00;Haarschool;7451DZ;HOLTEN;Overijssel;Bo;Openbaar;41476;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7241;Lochem;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;28;32;25;28;25;25;23;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;214
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;2;0;3;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;2;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1742;Rijssen-Holten;7642;Wierden;13NP;00;Beatrixschool;7461VW;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;3;5;3;4;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;12;10;11;11;9;15;19;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;58;75;82;91;63;67;79;61;7;0;0;0;0;0;0;0;0;0;0;0;0;0;583
+20171001;1742;Rijssen-Holten;7467;Wierden;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7468;Wierden;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;13RZ;00;Basisschool Juliana;7462XC;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;15;17;13;9;14;15;12;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;12;10;13;13;13;10;8;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1742;Rijssen-Holten;7468;Wierden;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7545;Enschede;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7701;Hardenberg;13VR;00;Basisschool Wilhelmina;7462AA;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;13ZG;00;Bs Willem Alexander;7462HN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;13ZG;00;Bs Willem Alexander;7462HN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;1;2;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;13ZG;00;Bs Willem Alexander;7462HN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;22;15;27;27;34;22;29;31;0;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;14FI;00;Basisschool Johan Friso;7462BN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;3;5;10;6;7;5;3;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;14FI;00;Basisschool Johan Friso;7462BN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;18;17;17;15;7;18;20;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;14FI;00;Basisschool Johan Friso;7462BN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;14FI;00;Basisschool Johan Friso;7462BN;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;14IA;00;Basisschool Constantyn;7462LX;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;1;2;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;14IA;00;Basisschool Constantyn;7462LX;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;24;33;22;23;32;24;27;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;14IA;00;Basisschool Constantyn;7462LX;RIJSSEN;Overijssel;Bo;Protestants-Christelijk;77196;0;0;4;1;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;18IF;00;OBS de Salto;7462JA;RIJSSEN;Overijssel;Bo;Openbaar;41476;0;1;0;0;0;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;18IF;00;OBS de Salto;7462JA;RIJSSEN;Overijssel;Bo;Openbaar;41476;0;3;3;8;7;7;4;10;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;18IF;00;OBS de Salto;7462JA;RIJSSEN;Overijssel;Bo;Openbaar;41476;0;0;1;0;3;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;19RJ;00;Banisschool;7463CJ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;1;2;1;5;2;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;19RJ;00;Banisschool;7463CJ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;2;3;4;4;5;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;19RJ;00;Banisschool;7463CJ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;24;35;42;34;43;31;31;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;269
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;19TB;00;Brekeldschool;7462GS;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;19TB;00;Brekeldschool;7462GS;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;20;37;27;33;35;25;29;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;239
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;19TB;00;Brekeldschool;7462GS;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;25;15;24;26;19;20;23;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;5;7;1;5;9;4;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1742;Rijssen-Holten;7468;Wierden;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;1;1;2;1;0;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1742;Rijssen-Holten;7475;Hof van Twente;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;2;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1742;Rijssen-Holten;7642;Wierden;19UE;00;In Den Climtuin;7461XN;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7461;Rijssen-Holten;19VI;00;Haarschool;7462BZ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;13;11;14;12;12;13;8;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;19VI;00;Haarschool;7462BZ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;13;11;15;13;14;16;13;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;19VI;00;Haarschool;7462BZ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;2;3;1;3;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1742;Rijssen-Holten;7466;Wierden;19VI;00;Haarschool;7462BZ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7467;Wierden;19VI;00;Haarschool;7462BZ;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1742;Rijssen-Holten;7451;Rijssen-Holten;19VR;00;De Ronde Maat;7462LX;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1742;Rijssen-Holten;7462;Rijssen-Holten;19VR;00;De Ronde Maat;7462LX;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;21;21;21;23;28;24;18;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;189
+20171001;1742;Rijssen-Holten;7463;Rijssen-Holten;19VR;00;De Ronde Maat;7462LX;RIJSSEN;Overijssel;Bo;Reformatorisch;42122;0;3;2;2;4;4;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24

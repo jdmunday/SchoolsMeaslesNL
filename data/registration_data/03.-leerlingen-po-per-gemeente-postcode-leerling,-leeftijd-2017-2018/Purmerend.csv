@@ -1,0 +1,435 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;439;Purmerend;1131;Edam-Volendam;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1132;Edam-Volendam;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1141;Waterland;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;3;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1442;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1443;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;1;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1445;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;1;1;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;439;Purmerend;1446;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1447;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1448;Purmerend;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1462;Beemster;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1471;Edam-Volendam;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1475;Edam-Volendam;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1507;Zaanstad;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1521;Zaanstad;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1531;Wormerland;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1534;Wormerland;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1561;Zaanstad;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1566;Zaanstad;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1622;Hoorn;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1689;Hoorn;01KX;00;Bets Frijlingschool;1442EC;PURMEREND;Noord-Holland;So;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1018;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1025;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1033;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1034;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1062;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1092;Amsterdam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1132;Edam-Volendam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1135;Edam-Volendam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1141;Waterland;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1441;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;2;2;4;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1442;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;6;0;2;0;1;0;0;0;0;0;0;9
+20171001;439;Purmerend;1443;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1444;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1445;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;1;3;1;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1446;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1447;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;1;2;1;5;0;0;0;0;0;0;0;0;0;10
+20171001;439;Purmerend;1448;Purmerend;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;1;2;3;3;0;1;1;0;0;0;0;0;0;12
+20171001;439;Purmerend;1456;Wormerland;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1462;Beemster;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1463;Beemster;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1472;Edam-Volendam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1473;Edam-Volendam;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1488;Alkmaar;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1501;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1503;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1504;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1505;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1506;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1508;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1521;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1541;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1544;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1567;Zaanstad;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1613;Stede Broec;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1621;Hoorn;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1623;Hoorn;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1671;Medemblik;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1689;Hoorn;07IQ;12;Altra College Waterland;1447CP;PURMEREND;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;  40;Onbekend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1107;Amsterdam;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1441;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;27;24;10;24;14;18;12;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;439;Purmerend;1442;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1443;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;1;0;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1445;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1446;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1447;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1448;Purmerend;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;22;26;24;25;46;31;40;36;9;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;439;Purmerend;1451;Landsmeer;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1456;Wormerland;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1462;Beemster;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1474;Edam-Volendam;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1483;Alkmaar;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1534;Wormerland;09XL;00;Oec BS Trifolium;1441RJ;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;  30;ander land;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;  40;Onbekend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1034;Amsterdam;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1131;Edam-Volendam;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;3;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1135;Edam-Volendam;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;1;3;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1141;Waterland;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1151;Waterland;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1156;Waterland;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;2;1;0;3;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;439;Purmerend;1442;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;19;20;16;19;13;12;13;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;439;Purmerend;1443;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;3;8;3;7;10;12;8;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;439;Purmerend;1444;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1445;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;2;1;0;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;439;Purmerend;1446;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;2;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1447;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1448;Purmerend;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1452;Waterland;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1462;Beemster;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1474;Edam-Volendam;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;6544;Nijmegen;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;8242;Lelystad;11QV;00;Basisschool 't Prisma;1442WN;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;1;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1442;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1443;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;2;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1444;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1445;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;30;29;35;26;38;33;35;33;9;0;0;0;0;0;0;0;0;0;0;0;0;0;268
+20171001;439;Purmerend;1446;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;7;8;12;10;9;12;9;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;439;Purmerend;1447;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1448;Purmerend;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1622;Hoorn;12BP;00;Basisschool De Toermalijn;1445KD;PURMEREND;Noord-Holland;Bo;Rooms-Katholiek;41012;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;3;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1442;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;12;14;15;13;33;15;7;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;439;Purmerend;1443;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;5;8;9;5;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;439;Purmerend;1444;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;34;34;38;45;28;47;33;30;4;0;0;0;0;0;0;0;0;0;0;0;0;0;293
+20171001;439;Purmerend;1445;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1446;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1447;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1448;Purmerend;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1461;Beemster;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1462;Beemster;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1471;Edam-Volendam;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1501;Zaanstad;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1741;Schagen;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1962;Heemskerk;12KT;00;Basisschool Klim Op;1444HV;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1032;Amsterdam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1131;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1131;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1132;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1132;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;2;0;0;3;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1135;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1135;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1141;Waterland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1141;Waterland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;4;1;0;2;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1153;Waterland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1156;Waterland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1441;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;1;3;0;1;3;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1442;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;2;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1442;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1443;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;1;1;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1443;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1444;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1444;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1445;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;1;0;0;2;4;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;439;Purmerend;1445;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1446;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1446;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1447;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1447;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;2;0;0;4;3;1;0;0;0;0;0;0;10
+20171001;439;Purmerend;1448;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;1;1;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1448;Purmerend;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;4;2;3;1;5;1;0;0;0;0;0;0;0;16
+20171001;439;Purmerend;1451;Landsmeer;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1452;Waterland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1456;Wormerland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1462;Beemster;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1462;Beemster;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;3
+20171001;439;Purmerend;1471;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1472;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1472;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1474;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1474;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1477;Edam-Volendam;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1483;Alkmaar;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1511;Oostzaan;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1521;Zaanstad;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1531;Wormerland;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1619;Medemblik;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;Vso;Openbaar;42558;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1628;Hoorn;15DZ;00;O.S.V.O. M.L. Kingschool;1442VS;PURMEREND;Noord-Holland;So;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1052;Amsterdam;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1093;Amsterdam;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;26;29;27;31;24;32;13;27;0;0;0;0;0;0;0;0;0;0;0;0;0;0;209
+20171001;439;Purmerend;1442;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;4;5;8;6;6;6;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;439;Purmerend;1443;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;3;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1444;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1446;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1447;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1448;Purmerend;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;1;3;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1456;Wormerland;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1461;Beemster;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1462;Beemster;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1471;Edam-Volendam;15WJ;00;OBS Willem Eggert;1441HM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1069;Amsterdam;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1141;Waterland;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;1;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;439;Purmerend;1442;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;2;3;0;2;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;439;Purmerend;1443;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;32;32;41;53;45;36;36;40;6;0;0;0;0;0;0;0;0;0;0;0;0;0;321
+20171001;439;Purmerend;1444;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1445;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1446;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1448;Purmerend;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1616;Drechterland;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;2512;'s-Gravenhage;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;7335;Apeldoorn;16AJ;00;OBS Wheermolen;1443WT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;  30;ander land;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1442;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;24;20;16;20;12;20;12;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;439;Purmerend;1443;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;6;2;1;5;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;439;Purmerend;1444;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;2;2;1;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1445;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1446;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1448;Purmerend;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1567;Zaanstad;16BZ;00;OBS 't Carrousel;1442PZ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1025;Amsterdam;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;25;24;15;23;24;24;21;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;439;Purmerend;1442;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1443;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;2;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1444;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1445;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1447;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;2;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1448;Purmerend;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1452;Waterland;16HK;00;OBS De Ranonkel;1441TT;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;  40;Onbekend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1097;Amsterdam;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1161;Haarlemmermeer;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1442;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;3;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1443;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;3;1;3;1;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;439;Purmerend;1444;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;26;28;21;22;21;30;22;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;439;Purmerend;1446;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;32;21;26;30;30;14;23;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;194
+20171001;439;Purmerend;1447;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;2;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1448;Purmerend;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1509;Zaanstad;16MC;00;Daltonbasisschool De AkkerDijk;1445HC;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1055;Amsterdam;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1335;Almere;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1442;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1443;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;3;1;1;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1444;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;17;16;13;13;8;16;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;439;Purmerend;1446;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;5;2;5;1;2;11;5;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;439;Purmerend;1447;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1448;Purmerend;16UC;00;OBS De Boemerang;1445NM;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1064;Amsterdam;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1135;Edam-Volendam;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1141;Waterland;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;3;0;1;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1442;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;1;0;2;5;4;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;439;Purmerend;1443;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;3;1;1;5;4;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;439;Purmerend;1444;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;2;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1445;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;1;5;1;2;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;439;Purmerend;1446;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;2;0;2;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1447;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;1;2;2;7;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;439;Purmerend;1448;Purmerend;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;1;3;2;1;4;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;439;Purmerend;1452;Waterland;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1456;Wormerland;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1461;Beemster;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1462;Beemster;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1471;Edam-Volendam;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1474;Edam-Volendam;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1482;Waterland;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1501;Zaanstad;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1511;Oostzaan;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1562;Zaanstad;19UM;00;SSBO Het Tangram;1441MS;PURMEREND;Noord-Holland;Sbo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1021;Amsterdam;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1131;Edam-Volendam;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1132;Edam-Volendam;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;1;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1135;Edam-Volendam;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1141;Waterland;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1442;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1443;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1446;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1447;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1448;Purmerend;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1461;Beemster;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1473;Edam-Volendam;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1482;Waterland;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1525;Zaanstad;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1541;Zaanstad;20WR;02;Alexander Roozendaalschool;1441TT;PURMEREND;Noord-Holland;So;Openbaar;21679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;1;2;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;439;Purmerend;1442;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1443;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1444;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;4;2;3;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;439;Purmerend;1446;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1447;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;19;17;9;18;12;15;12;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;439;Purmerend;1448;Purmerend;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1622;Hoorn;21NH;00;OBS De Delta;1447AV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1442;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;1;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1443;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1445;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;8;4;1;6;5;5;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;439;Purmerend;1446;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1447;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;8;15;15;14;15;12;13;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;439;Purmerend;1448;Purmerend;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1482;Waterland;22FC;00;Het Baken;1447AS;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;  40;Onbekend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1072;Amsterdam;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1132;Edam-Volendam;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;3;2;4;3;3;2;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;439;Purmerend;1442;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;2;1;3;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;439;Purmerend;1443;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;1;0;4;1;4;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;439;Purmerend;1444;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;1;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1445;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;7;4;6;4;2;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;439;Purmerend;1446;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;3;0;3;2;2;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;439;Purmerend;1447;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;10;12;2;14;8;8;12;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;439;Purmerend;1448;Purmerend;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;1;2;2;3;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;439;Purmerend;1456;Wormerland;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1462;Beemster;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1474;Edam-Volendam;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1674;Medemblik;22OD;00;Montessori School;1447BT;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;79796;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;6;2;3;3;2;4;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;439;Purmerend;1442;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;2;0;1;3;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1443;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1444;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1445;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1447;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1448;Purmerend;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;59;46;52;45;48;40;30;25;4;0;0;0;0;0;0;0;0;0;0;0;0;0;349
+20171001;439;Purmerend;1451;Landsmeer;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1456;Wormerland;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1461;Beemster;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1462;Beemster;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1471;Edam-Volendam;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1501;Zaanstad;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1505;Zaanstad;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1562;Zaanstad;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1934;Bergen (NH.);23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;2914;Zuidplas;23EA;00;OBS De Weidevogels;1448JJ;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;23TB;00;De Vlieger;1447EN;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1443;Purmerend;23TB;00;De Vlieger;1447EN;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1445;Purmerend;23TB;00;De Vlieger;1447EN;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;1;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1447;Purmerend;23TB;00;De Vlieger;1447EN;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;25;33;30;32;26;31;23;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;439;Purmerend;1448;Purmerend;23TB;00;De Vlieger;1447EN;PURMEREND;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1121;Landsmeer;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1127;Landsmeer;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1131;Edam-Volendam;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1135;Edam-Volendam;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1141;Waterland;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1441;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;1;0;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;439;Purmerend;1442;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1443;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1444;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1446;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1447;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1448;Purmerend;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;1;2;2;5;10;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;439;Purmerend;1451;Landsmeer;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1452;Waterland;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1454;Waterland;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1461;Beemster;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1483;Alkmaar;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1487;Alkmaar;23XJ;00;SSBO Het Plankier;1448JK;PURMEREND;Noord-Holland;Sbo;Rooms-Katholiek;41012;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1443;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1445;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1446;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1447;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;21;19;19;22;22;17;30;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;439;Purmerend;1448;Purmerend;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;3825;Amersfoort;24BL;00;OBS 't Pierement;1447RS;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1121;Landsmeer;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1141;Waterland;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1145;Waterland;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1151;Waterland;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;6;9;9;7;6;0;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;439;Purmerend;1442;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;8;1;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;439;Purmerend;1443;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;2;1;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1444;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1445;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1446;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1447;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;3;2;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;439;Purmerend;1448;Purmerend;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;4;3;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;439;Purmerend;1456;Wormerland;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1461;Beemster;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;5;1;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;439;Purmerend;1462;Beemster;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1464;Beemster;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1471;Edam-Volendam;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1472;Edam-Volendam;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1477;Edam-Volendam;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1534;Wormerland;24RA;00;Waterlandschool;1441SZ;PURMEREND;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;439;Purmerend;1121;Landsmeer;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1441;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;5;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1442;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1443;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1444;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1445;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;1;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;439;Purmerend;1447;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;3;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1448;Purmerend;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;42;34;31;52;31;28;39;27;1;0;0;0;0;0;0;0;0;0;0;0;0;0;285
+20171001;439;Purmerend;1511;Oostzaan;26AP;00;OBS De Koempoelan;1448BV;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1023;Amsterdam;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1024;Amsterdam;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1441;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;2;1;5;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;439;Purmerend;1442;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1443;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1445;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1446;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1448;Purmerend;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;40;32;35;42;49;37;48;46;7;0;0;0;0;0;0;0;0;0;0;0;0;0;336
+20171001;439;Purmerend;1451;Landsmeer;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1508;Zaanstad;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1566;Zaanstad;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1628;Hoorn;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1689;Hoorn;26AR;00;Basisschool de Marimba;1448TP;PURMEREND;Noord-Holland;Bo;Samenwerking PC, RK;41012;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1018;Amsterdam;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1024;Amsterdam;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;2;2;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;439;Purmerend;1442;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1443;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1444;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1445;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1446;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1447;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;2;0;0;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;439;Purmerend;1448;Purmerend;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;40;44;30;34;41;51;39;48;3;0;0;0;0;0;0;0;0;0;0;0;0;0;330
+20171001;439;Purmerend;1456;Wormerland;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;439;Purmerend;1461;Beemster;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1471;Edam-Volendam;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1502;Zaanstad;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1544;Zaanstad;27CJ;00;OBS De Nieuwe Wereld;1448XW;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;  10;Belgie;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1018;Amsterdam;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1033;Amsterdam;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1442;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1443;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1446;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;439;Purmerend;1447;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1448;Purmerend;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;11;15;21;23;28;41;32;30;6;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;439;Purmerend;1451;Landsmeer;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1704;Heerhugowaard;27NZ;00;OBS Oeboentoe;1448PN;PURMEREND;Noord-Holland;Bo;Openbaar;42558;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1013;Amsterdam;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1135;Edam-Volendam;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;439;Purmerend;1441;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;1;1;3;1;3;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;439;Purmerend;1442;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;3;2;1;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;439;Purmerend;1443;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;3;3;4;2;5;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;439;Purmerend;1445;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;1;1;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;439;Purmerend;1446;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;439;Purmerend;1447;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;0;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;439;Purmerend;1448;Purmerend;30WZ;00;ibs De Roos;1443VB;PURMEREND;Noord-Holland;Bo;Islamitisch;41256;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

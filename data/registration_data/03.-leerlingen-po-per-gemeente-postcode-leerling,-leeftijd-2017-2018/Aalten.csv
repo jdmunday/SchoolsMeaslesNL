@@ -1,0 +1,88 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;197;Aalten;7009;Doetinchem;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7041;Montferland;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7051;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;197;Aalten;7055;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7064;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;197;Aalten;7071;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7081;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7084;Oude IJsselstreek;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7091;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;1;1;1;1;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;197;Aalten;7095;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7101;Winterswijk;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7104;Winterswijk;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7109;Winterswijk;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7119;Winterswijk;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7121;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;1;0;2;3;3;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;197;Aalten;7122;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;1;0;1;3;7;6;8;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;197;Aalten;7123;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;2;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;197;Aalten;7126;Aalten;02WC;00;Nieuw Hessen;7121MG;AALTEN;Gelderland;Sbo;Protestants-Christelijk;41787;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;  20;Duitsland;05GL;00;St Liboriusschool;7091CV;DINXPERLO;Gelderland;Bo;Rooms-Katholiek;50129;0;3;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;197;Aalten;  30;ander land;05GL;00;St Liboriusschool;7091CV;DINXPERLO;Gelderland;Bo;Rooms-Katholiek;50129;0;0;3;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;197;Aalten;7084;Oude IJsselstreek;05GL;00;St Liboriusschool;7091CV;DINXPERLO;Gelderland;Bo;Rooms-Katholiek;50129;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7091;Aalten;05GL;00;St Liboriusschool;7091CV;DINXPERLO;Gelderland;Bo;Rooms-Katholiek;50129;0;15;19;12;17;23;25;17;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;197;Aalten;7095;Aalten;05GL;00;St Liboriusschool;7091CV;DINXPERLO;Gelderland;Bo;Rooms-Katholiek;50129;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7121;Aalten;05LR;00;Chr Basisschool Barlo;7122RK;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;3;1;2;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;197;Aalten;7122;Aalten;05LR;00;Chr Basisschool Barlo;7122RK;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;5;5;6;3;2;3;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;197;Aalten;7131;Oost Gelre;05LR;00;Chr Basisschool Barlo;7122RK;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7132;Oost Gelre;05LR;00;Chr Basisschool Barlo;7122RK;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7065;Oude IJsselstreek;05QO;00;Chr Basissch De Klimop;7122LX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7121;Aalten;05QO;00;Chr Basissch De Klimop;7122LX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7122;Aalten;05QO;00;Chr Basissch De Klimop;7122LX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;7;8;7;11;8;7;13;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;197;Aalten;9561;Vlagtwedde;05QO;00;Chr Basissch De Klimop;7122LX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;  20;Duitsland;06CP;00;Basisschool De Wegwijzer;7091CW;DINXPERLO;Gelderland;Bo;Openbaar;41501;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;  30;ander land;06CP;00;Basisschool De Wegwijzer;7091CW;DINXPERLO;Gelderland;Bo;Openbaar;41501;0;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7041;Montferland;06CP;00;Basisschool De Wegwijzer;7091CW;DINXPERLO;Gelderland;Bo;Openbaar;41501;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7061;Oude IJsselstreek;06CP;00;Basisschool De Wegwijzer;7091CW;DINXPERLO;Gelderland;Bo;Openbaar;41501;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7091;Aalten;06CP;00;Basisschool De Wegwijzer;7091CW;DINXPERLO;Gelderland;Bo;Openbaar;41501;0;7;8;11;13;8;12;16;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;197;Aalten;7054;Oude IJsselstreek;06HV;00;RK Jozefschool;7121ET;AALTEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7113;Winterswijk;06HV;00;RK Jozefschool;7121ET;AALTEN;Gelderland;Bo;Rooms-Katholiek;42616;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7121;Aalten;06HV;00;RK Jozefschool;7121ET;AALTEN;Gelderland;Bo;Rooms-Katholiek;42616;0;4;6;6;5;13;12;4;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;197;Aalten;7122;Aalten;06HV;00;RK Jozefschool;7121ET;AALTEN;Gelderland;Bo;Rooms-Katholiek;42616;0;5;3;7;11;9;12;11;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;197;Aalten;7123;Aalten;06HV;00;RK Jozefschool;7121ET;AALTEN;Gelderland;Bo;Rooms-Katholiek;42616;0;1;0;0;2;2;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;197;Aalten;7109;Winterswijk;06YP;00;Basisschool Bastion;7126BL;BREDEVOORT;Gelderland;Bo;Rooms-Katholiek;76910;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7121;Aalten;06YP;00;Basisschool Bastion;7126BL;BREDEVOORT;Gelderland;Bo;Rooms-Katholiek;76910;0;2;3;1;3;3;3;8;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;197;Aalten;7122;Aalten;06YP;00;Basisschool Bastion;7126BL;BREDEVOORT;Gelderland;Bo;Rooms-Katholiek;76910;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7126;Aalten;06YP;00;Basisschool Bastion;7126BL;BREDEVOORT;Gelderland;Bo;Rooms-Katholiek;76910;0;13;16;12;6;23;16;14;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;197;Aalten;  20;Duitsland;06ZL;00;Basisschool't Mollenveld;7121KZ;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7108;Winterswijk;06ZL;00;Basisschool't Mollenveld;7121KZ;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;2;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;197;Aalten;7109;Winterswijk;06ZL;00;Basisschool't Mollenveld;7121KZ;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;1;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;197;Aalten;7121;Aalten;06ZL;00;Basisschool't Mollenveld;7121KZ;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;6;2;3;2;10;9;5;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;197;Aalten;7122;Aalten;06ZL;00;Basisschool't Mollenveld;7121KZ;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7009;Doetinchem;07FK;00;OBS De Slinger;7121DP;AALTEN;Gelderland;Bo;Openbaar;41501;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;7121;Aalten;07FK;00;OBS De Slinger;7121DP;AALTEN;Gelderland;Bo;Openbaar;41501;0;7;7;13;10;8;8;12;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;197;Aalten;7122;Aalten;07FK;00;OBS De Slinger;7121DP;AALTEN;Gelderland;Bo;Openbaar;41501;0;7;3;6;7;6;11;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;197;Aalten;7123;Aalten;07FK;00;OBS De Slinger;7121DP;AALTEN;Gelderland;Bo;Openbaar;41501;0;1;0;1;0;1;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;197;Aalten;7095;Aalten;08BQ;00;Basissch 't Warmelinck;7122JX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7121;Aalten;08BQ;00;Basissch 't Warmelinck;7122JX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7122;Aalten;08BQ;00;Basissch 't Warmelinck;7122JX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;4;9;4;7;9;9;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;197;Aalten;7121;Aalten;08CY;00;IKC Uniek;7121VB;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;13;8;14;11;12;13;13;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;98
+20171001;197;Aalten;7122;Aalten;08CY;00;IKC Uniek;7121VB;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;3;2;5;7;8;4;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;197;Aalten;7123;Aalten;08CY;00;IKC Uniek;7121VB;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;8;6;9;10;6;5;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;197;Aalten;7011;Doetinchem;08RL;00;Groen van Prinsterer;7121EM;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7121;Aalten;08RL;00;Groen van Prinsterer;7121EM;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;33;34;23;31;38;24;29;31;1;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;197;Aalten;7122;Aalten;08RL;00;Groen van Prinsterer;7121EM;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;3;8;3;4;5;6;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;197;Aalten;7123;Aalten;08RL;00;Groen van Prinsterer;7121EM;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;9;7;8;7;5;5;9;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;197;Aalten;8021;Zwolle;08RL;00;Groen van Prinsterer;7121EM;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;  20;Duitsland;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;6;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;197;Aalten;  30;ander land;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;0;8;11;2;9;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;197;Aalten;  40;Onbekend;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7065;Oude IJsselstreek;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7071;Oude IJsselstreek;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7084;Oude IJsselstreek;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7091;Aalten;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;30;37;41;54;43;40;40;42;6;0;0;0;0;0;0;0;0;0;0;0;0;0;333
+20171001;197;Aalten;7095;Aalten;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;197;Aalten;7122;Aalten;09DL;00;De Bosmark;7091XC;DINXPERLO;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;197;Aalten;  30;ander land;09ZJ;00;Basisschool De Hove;7095AX;DE HEURNE;Gelderland;Bo;Protestants-Christelijk;41787;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;7084;Oude IJsselstreek;09ZJ;00;Basisschool De Hove;7095AX;DE HEURNE;Gelderland;Bo;Protestants-Christelijk;41787;0;1;3;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;197;Aalten;7091;Aalten;09ZJ;00;Basisschool De Hove;7095AX;DE HEURNE;Gelderland;Bo;Protestants-Christelijk;41787;0;1;1;2;2;2;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;197;Aalten;7095;Aalten;09ZJ;00;Basisschool De Hove;7095AX;DE HEURNE;Gelderland;Bo;Protestants-Christelijk;41787;0;11;10;8;14;8;6;10;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;197;Aalten;7122;Aalten;09ZJ;00;Basisschool De Hove;7095AX;DE HEURNE;Gelderland;Bo;Protestants-Christelijk;41787;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;197;Aalten;  30;ander land;10JT;00;De Triangel;7122BC;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7055;Oude IJsselstreek;10JT;00;De Triangel;7122BC;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7121;Aalten;10JT;00;De Triangel;7122BC;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;2;2;1;3;2;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;197;Aalten;7122;Aalten;10JT;00;De Triangel;7122BC;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;26;21;26;24;25;20;21;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;197;Aalten;7123;Aalten;10JT;00;De Triangel;7122BC;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;197;Aalten;7121;Aalten;10JT;01;De Triangel;7122ZX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;8;9;2;14;7;13;7;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;197;Aalten;7122;Aalten;10JT;01;De Triangel;7122ZX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;17;19;13;16;19;15;21;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;197;Aalten;7123;Aalten;10JT;01;De Triangel;7122ZX;AALTEN;Gelderland;Bo;Protestants-Christelijk;41787;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

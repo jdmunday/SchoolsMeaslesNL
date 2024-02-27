@@ -1,0 +1,494 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1783;Westland;2286;Rijswijk;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2292;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2295;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2295;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2493;'s-Gravenhage;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2551;'s-Gravenhage;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1783;Westland;2587;'s-Gravenhage;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2635;Midden-Delfland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2671;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;2;1;2;0;4;3;0;0;0;0;0;0;0;13
+20171001;1783;Westland;2672;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2672;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;4
+20171001;1783;Westland;2676;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2678;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2678;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2681;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;1;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2681;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;1;1;1;5;2;3;1;0;0;0;0;0;15
+20171001;1783;Westland;2685;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2685;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2691;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;1;0;1;4;3;0;1;0;0;0;0;0;0;11
+20171001;1783;Westland;2692;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2692;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;1;0;0;0;0;0;4
+20171001;1783;Westland;2693;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2694;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2694;Westland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1783;Westland;2717;Zoetermeer;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3132;Vlaardingen;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3141;Maassluis;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3141;Maassluis;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3142;Maassluis;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3146;Maassluis;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2;0;1;0;0;0;0;0;0;5
+20171001;1783;Westland;3155;Midden-Delfland;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;5283;Boxtel;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;8315;Noordoostpolder;00PZ;01;Herman Broerenschool;2671HS;NAALDWIJK;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2201;Noordwijk;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2264;Leidschendam-Voorburg;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2548;'s-Gravenhage;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2582;'s-Gravenhage;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2586;'s-Gravenhage;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2597;'s-Gravenhage;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2672;Westland;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2681;Westland;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;1;1;1;2;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2694;Westland;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3132;Vlaardingen;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;00PZ;03;Herman Broerenschool;2681JC;MONSTER;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;  40;Onbekend;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;1;3;2;0;4;1;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1783;Westland;2292;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2295;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;1;1;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2533;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2543;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2552;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2553;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2573;'s-Gravenhage;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;1;3;2;1;10;12;8;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;1783;Westland;2672;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;1;1;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2673;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;2675;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;0;3;2;4;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1783;Westland;2676;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2678;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;1;0;4;1;3;4;5;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;1783;Westland;2681;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;2;0;3;2;0;6;6;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;1783;Westland;2684;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2685;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;2;0;0;1;2;1;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1783;Westland;2691;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;4;3;3;11;0;7;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;1783;Westland;2692;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2693;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2694;Westland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;1;0;0;0;1;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;3141;Maassluis;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3142;Maassluis;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3144;Maassluis;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3146;Maassluis;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;3151;Rotterdam;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;1;2;0;0;3;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1783;Westland;3155;Midden-Delfland;02FI;00;SBO De Diamant;2671GM;NAALDWIJK;Zuid-Holland;Sbo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2613;Delft;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2636;Midden-Delfland;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2671;Westland;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;3;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2675;Westland;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2678;Westland;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;20;23;33;25;21;30;20;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;1783;Westland;2685;Westland;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3137;Vlaardingen;05XZ;00;Basisschool De Vlieten;2678PB;DE LIER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2283;Rijswijk;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2525;'s-Gravenhage;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2552;'s-Gravenhage;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2681;Westland;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;13;12;22;20;23;14;24;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;143
+20171001;1783;Westland;2684;Westland;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;3;6;9;2;8;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;1783;Westland;2691;Westland;06BE;00;Willemsschool;2681TT;MONSTER;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;  30;ander land;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2284;Rijswijk;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2285;Rijswijk;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2286;Rijswijk;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;30;32;30;33;26;18;23;21;5;0;0;0;0;0;0;0;0;0;0;0;0;0;218
+20171001;1783;Westland;2292;Westland;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;4;3;2;6;7;5;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;1783;Westland;2295;Westland;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;2;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2531;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2532;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2542;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;2;3;4;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1783;Westland;2543;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2544;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2545;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2546;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;3;4;4;2;2;5;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1783;Westland;2551;'s-Gravenhage;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2635;Midden-Delfland;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2675;Westland;06CY;00;Basisschool De Kijckert;2291LC;WATERINGEN;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2283;Rijswijk;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2285;Rijswijk;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2286;Rijswijk;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2288;Rijswijk;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;39;34;39;28;28;26;27;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;247
+20171001;1783;Westland;2292;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;4;6;9;6;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;1783;Westland;2295;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;3;3;3;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1783;Westland;2531;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2532;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;2;0;1;3;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1783;Westland;2543;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2544;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2546;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2548;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;8;12;6;8;5;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1783;Westland;2574;'s-Gravenhage;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2631;Pijnacker-Nootdorp;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2681;Westland;06DO;00;Pieter v d Plas School;2291SK;WATERINGEN;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2545;'s-Gravenhage;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2676;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2681;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;1;6;5;4;4;3;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;1783;Westland;2685;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;9;15;10;8;14;8;11;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;1783;Westland;2692;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;0;3;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2694;Westland;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;0;1;3;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;3151;Rotterdam;06ET;00;Eben Haezerschool;2691ZC;'S-GRAVENZANDE;Zuid-Holland;Bo;Reformatorisch;42570;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2287;Rijswijk;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2295;Westland;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2544;'s-Gravenhage;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2613;Delft;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;17;12;17;17;20;19;17;23;5;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;1783;Westland;2685;Westland;07LZ;00;Basisschool De Hoeksteen;2675XT;HONSELERSDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;1;0;1;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2562;'s-Gravenhage;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2625;Delft;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2636;Midden-Delfland;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;1;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2671;Westland;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2678;Westland;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;37;46;46;35;36;32;43;45;6;0;0;0;0;0;0;0;0;0;0;0;0;0;326
+20171001;1783;Westland;2691;Westland;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3131;Vlaardingen;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3155;Midden-Delfland;07RV;00;Basissch De Achtsprong;2678VG;DE LIER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;1;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2541;'s-Gravenhage;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2673;Westland;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;4;2;5;4;8;9;15;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;1783;Westland;2692;Westland;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;2;0;1;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2693;Westland;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2694;Westland;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;2;2;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1783;Westland;3151;Rotterdam;08VV;00;Godfried Bomans-School;2691TM;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2676;Westland;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;24;27;24;23;36;28;31;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;220
+20171001;1783;Westland;2678;Westland;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;1;1;0;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2694;Westland;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;3155;Midden-Delfland;09PI;00;Basisschool Het Kompas;2676XH;MAASDIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;  40;Onbekend;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2241;Wassenaar;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;1;2;3;10;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;1783;Westland;2692;Westland;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;3;10;5;6;8;10;10;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;1783;Westland;2693;Westland;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2694;Westland;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;3151;Rotterdam;09TX;00;John F. Kennedy-School;2692BV;'S-GRAVENZANDE;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2291;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2553;'s-Gravenhage;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2564;'s-Gravenhage;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2673;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2675;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2681;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;29;23;25;33;30;29;39;38;2;0;0;0;0;0;0;0;0;0;0;0;0;0;248
+20171001;1783;Westland;2684;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;2685;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2691;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2694;Westland;09WF;00;De Zeester;2681LB;MONSTER;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;  40;Onbekend;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2282;Rijswijk;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2295;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2544;'s-Gravenhage;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;13;18;23;24;21;17;18;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;1783;Westland;2672;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2673;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;4;1;3;0;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1783;Westland;2676;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2678;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2681;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;1;5;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2685;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2691;Westland;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;1;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;5363;Grave;09YS;00;Basisschool Rehoboth;2671WX;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2533;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2543;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2544;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;2;3;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1783;Westland;2545;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2548;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2552;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2553;'s-Gravenhage;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;3;4;2;2;5;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1783;Westland;2671;Westland;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2675;Westland;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2681;Westland;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2685;Westland;10JH;00;Bs De Nieuwe Weg;2685WB;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;18;23;23;21;20;22;10;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;1783;Westland;2542;'s-Gravenhage;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2553;'s-Gravenhage;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2563;'s-Gravenhage;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2681;Westland;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;21;31;32;26;45;42;39;41;5;0;0;0;0;0;0;0;0;0;0;0;0;0;282
+20171001;1783;Westland;2684;Westland;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;2;0;2;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1783;Westland;2685;Westland;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;3;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;2691;Westland;10NA;00;De Blinkerd;2681TD;MONSTER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2285;Rijswijk;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2548;'s-Gravenhage;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2552;'s-Gravenhage;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2671;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;25;33;30;34;30;27;31;30;7;0;0;0;0;0;0;0;0;0;0;0;0;0;247
+20171001;1783;Westland;2672;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;11;10;11;11;11;11;10;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;1783;Westland;2673;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;2;5;2;3;3;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1783;Westland;2675;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2681;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;4;2;0;2;2;5;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1783;Westland;2692;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2694;Westland;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3141;Maassluis;10RA;00;Chr Bs de Ouverture;2671VV;NAALDWIJK;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2286;Rijswijk;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2292;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2544;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;5;2;4;3;5;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1783;Westland;2546;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2551;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2552;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2553;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;3;1;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2555;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2583;'s-Gravenhage;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2675;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2681;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;3;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2684;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2685;Westland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;22;26;25;26;34;35;24;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;1783;Westland;3155;Midden-Delfland;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3701;Zeist;10ZF;00;RK Bs de Verburchhof;2685RS;POELDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2636;Midden-Delfland;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2671;Westland;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2672;Westland;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2676;Westland;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2678;Westland;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;21;19;18;24;18;24;26;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;169
+20171001;1783;Westland;2712;Zoetermeer;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3051;Rotterdam;11CD;00;Pr Willem Alexandersch;2678TX;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2636;Midden-Delfland;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2678;Westland;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;29;25;26;28;27;26;36;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;210
+20171001;1783;Westland;2685;Westland;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3144;Maassluis;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3155;Midden-Delfland;11OW;00;Koningin Julianaschool;2678ER;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2544;'s-Gravenhage;12AA;00;Prins Mauritsschool;2678WE;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2678;Westland;12AA;00;Prins Mauritsschool;2678WE;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;35;11;19;16;30;20;25;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;1783;Westland;3146;Maassluis;12AA;00;Prins Mauritsschool;2678WE;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3155;Midden-Delfland;12AA;00;Prins Mauritsschool;2678WE;DE LIER;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2681;Westland;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;24;20;22;17;19;19;16;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;1783;Westland;2692;Westland;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;4;2;0;4;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1783;Westland;2693;Westland;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;2;2;4;1;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;1783;Westland;2694;Westland;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;4;1;5;3;6;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1783;Westland;3151;Rotterdam;13DD;00;Chr Bs de Wegwijzer;2691VK;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;  30;ander land;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;  40;Onbekend;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;2673;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2678;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2681;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2691;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;44;58;45;32;37;38;37;40;5;0;0;0;0;0;0;0;0;0;0;0;0;0;336
+20171001;1783;Westland;2692;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;11;16;10;14;11;14;13;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;1783;Westland;2693;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;0;2;2;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1783;Westland;2694;Westland;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;3;3;1;5;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1783;Westland;3036;Rotterdam;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3151;Rotterdam;13IK;00;De Kameleon;2691EE;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;3;1;2;6;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;1783;Westland;2548;'s-Gravenhage;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2681;Westland;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2691;Westland;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;11;16;10;14;17;12;19;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;1783;Westland;2692;Westland;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;4;3;2;5;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1783;Westland;2693;Westland;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2694;Westland;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;33;30;39;33;39;37;23;34;1;0;0;0;0;0;0;0;0;0;0;0;0;0;269
+20171001;1783;Westland;3144;Maassluis;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;13RX;00;Pr Willem Alexandersch;2694BW;'S-GRAVENZANDE;Zuid-Holland;Bo;Protestants-Christelijk;41454;0;0;3;1;1;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2545;'s-Gravenhage;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2553;'s-Gravenhage;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2675;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2676;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2681;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;0;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2691;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;32;33;37;48;35;39;26;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;281
+20171001;1783;Westland;2692;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;8;2;5;6;6;4;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;1783;Westland;2693;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;3;1;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2694;Westland;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;6;7;6;7;17;10;11;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;1783;Westland;3118;Schiedam;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3151;Rotterdam;18LS;00;OBS De Driekleur;2691XD;'S-GRAVENZANDE;Zuid-Holland;Bo;Openbaar;41455;0;2;1;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2291;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2292;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2543;'s-Gravenhage;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2544;'s-Gravenhage;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2571;'s-Gravenhage;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2672;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2675;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;28;26;23;30;39;30;35;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;237
+20171001;1783;Westland;2681;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2685;Westland;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;3141;Maassluis;18ZC;00;RK Basissch 't Startblok;2675BR;HONSELERSDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2292;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2671;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;11;12;18;18;14;16;19;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;1783;Westland;2672;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;5;4;1;3;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1783;Westland;2673;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;30;30;42;26;31;28;41;25;5;0;0;0;0;0;0;0;0;0;0;0;0;0;258
+20171001;1783;Westland;2675;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2678;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2681;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2691;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2692;Westland;18ZQ;00;RK BS Bernadette;2673BK;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2521;'s-Gravenhage;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;21;24;24;18;31;24;20;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;1783;Westland;2672;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;1;1;2;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2673;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;5;1;5;4;6;3;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;1783;Westland;2681;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2685;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;1;1;1;4;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2692;Westland;19AC;00;RK Basissch Joannes;2671ZZ;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2292;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2546;'s-Gravenhage;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2553;'s-Gravenhage;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2563;'s-Gravenhage;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;13;17;24;11;23;18;13;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;1783;Westland;2672;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;4;7;3;8;5;4;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;1783;Westland;2673;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2675;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;2;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2676;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;13;8;13;8;15;19;20;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;1783;Westland;2678;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2681;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2691;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;3;3;2;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;1783;Westland;2694;Westland;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2716;Zoetermeer;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3141;Maassluis;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3142;Maassluis;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3145;Maassluis;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;19AT;00;RK BS Het Tweespan;2676BJ;MAASDIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;  30;ander land;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;1336;Almere;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2285;Rijswijk;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2291;Westland;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;46;42;43;40;30;30;34;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;286
+20171001;1783;Westland;2292;Westland;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;2;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2295;Westland;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2497;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2531;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2532;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2541;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2542;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;7;2;4;2;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1783;Westland;2543;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;3;0;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2544;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;1;1;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2545;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2546;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2548;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;9;7;11;7;6;8;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;1783;Westland;2553;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2554;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2555;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2591;'s-Gravenhage;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2631;Pijnacker-Nootdorp;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2675;Westland;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2718;Zoetermeer;20CB;00;Kath Basissch Pius X;2291SX;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2285;Rijswijk;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;11;7;11;5;5;8;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;1783;Westland;2292;Westland;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;23;31;33;36;50;46;44;41;0;0;0;0;0;0;0;0;0;0;0;0;0;0;304
+20171001;1783;Westland;2295;Westland;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2533;'s-Gravenhage;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2548;'s-Gravenhage;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;7;4;7;4;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1783;Westland;2552;'s-Gravenhage;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2685;Westland;20CV;00;Basissch St Jozef;2292AD;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2285;Rijswijk;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2286;Rijswijk;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2291;Westland;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;19;19;26;23;27;24;28;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;194
+20171001;1783;Westland;2292;Westland;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;5;3;5;12;12;15;10;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;1783;Westland;2295;Westland;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2523;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2526;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2533;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2541;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2542;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2543;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2544;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2545;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;3;2;5;0;4;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1783;Westland;2574;'s-Gravenhage;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2635;Midden-Delfland;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;0;0;2;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1783;Westland;2691;Westland;20DJ;00;Kath Basissch Maria;2291MB;WATERINGEN;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2273;Leidschendam-Voorburg;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2292;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2295;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;22;26;34;31;26;48;25;39;5;0;0;0;0;0;0;0;0;0;0;0;0;0;256
+20171001;1783;Westland;2531;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2544;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1783;Westland;2545;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2548;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2561;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2573;'s-Gravenhage;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2672;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;2;2;4;4;4;5;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;1783;Westland;2676;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2692;Westland;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;3151;Rotterdam;20DV;00;Basissch Andreashof;2295PE;KWINTSHEUL;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2292;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2295;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2553;'s-Gravenhage;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2636;Midden-Delfland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1783;Westland;2672;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2673;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2675;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2678;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2681;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2685;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2694;Westland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3142;Maassluis;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3151;Rotterdam;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;3155;Midden-Delfland;20KP;06;De Strandwacht;2671DH;NAALDWIJK;Zuid-Holland;So;Openbaar;41572;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2271;Leidschendam-Voorburg;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2281;Rijswijk;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2291;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2542;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2544;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2545;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2546;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2548;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2553;'s-Gravenhage;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;1;4;1;3;3;7;3;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;1783;Westland;2672;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;1;1;2;4;3;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;1783;Westland;2673;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2675;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;5;8;5;12;5;14;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;1783;Westland;2681;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2685;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;12;10;7;5;8;7;13;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;1783;Westland;2691;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2694;Westland;21KE;00;ODS Westland;2672BB;NAALDWIJK;Zuid-Holland;Bo;Openbaar;41455;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2671;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;15;7;7;7;7;5;10;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;1783;Westland;2672;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;36;22;20;20;18;22;22;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;1783;Westland;2673;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2675;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;1;0;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2685;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1783;Westland;2691;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2692;Westland;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;3141;Maassluis;22MD;00;De Regenboog Basisschool;2672DR;NAALDWIJK;Zuid-Holland;Bo;Rooms-Katholiek;20671;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2275;Leidschendam-Voorburg;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2291;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2295;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1783;Westland;2542;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2548;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2552;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1783;Westland;2553;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;1;2;2;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1783;Westland;2554;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2565;'s-Gravenhage;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2671;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;2;1;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2672;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2673;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;2;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2675;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;1;1;1;0;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1783;Westland;2676;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1783;Westland;2678;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2681;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;37;31;35;31;32;21;37;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;246
+20171001;1783;Westland;2684;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;3;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;2685;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1783;Westland;2691;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;3;2;2;4;2;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;1783;Westland;2692;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;2;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1783;Westland;2694;Westland;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;0;3;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1783;Westland;3151;Rotterdam;23EC;00;1e Westlandse Montessorisch;2681PM;MONSTER;Zuid-Holland;Bo;Algemeen bijzonder;30835;0;4;0;2;1;3;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16

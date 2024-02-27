@@ -1,0 +1,485 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;106;Assen;7843;Coevorden;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7955;Staphorst;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;8031;Zwolle;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;8432;Ooststellingwerf;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8434;Ooststellingwerf;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9248;Opsterland;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9331;Noordenveld;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9341;Noordenveld;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;1;1;3;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9402;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9403;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;4;8;3;9;2;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;106;Assen;9404;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;5;1;6;7;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;106;Assen;9405;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9406;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;5;0;2;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;106;Assen;9407;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;2;0;5;1;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;106;Assen;9408;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9409;Assen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9422;Midden-Drenthe;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9433;Midden-Drenthe;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9441;Midden-Drenthe;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9442;Midden-Drenthe;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9449;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9451;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;3;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9454;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9458;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9465;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9467;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9469;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9471;Tynaarlo;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9472;Tynaarlo;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9482;Tynaarlo;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9485;Tynaarlo;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9497;Tynaarlo;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9561;Vlagtwedde;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9617;Slochteren;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9658;Aa en Hunze;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9736;Groningen;00DX;00;Vrije School Assen;9404KK;ASSEN;Drenthe;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;1035;Amsterdam;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7823;Emmen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7909;Hoogeveen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7943;Meppel;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8411;Heerenveen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8433;Ooststellingwerf;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8446;Heerenveen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;106;Assen;9341;Noordenveld;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9367;Marum;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;3;4;0;1;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9403;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;4;3;3;4;2;0;0;0;0;0;0;0;0;16
+20171001;106;Assen;9404;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;2;1;1;2;1;0;1;0;0;0;0;0;0;10
+20171001;106;Assen;9405;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9406;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;2;8;4;5;2;0;0;0;0;0;0;0;0;23
+20171001;106;Assen;9407;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;1;3;0;1;1;0;0;0;0;0;0;0;8
+20171001;106;Assen;9408;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;4;1;3;1;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9411;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9414;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9415;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9422;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;3;1;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9433;Midden-Drenthe;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;2;2;1;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9462;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9463;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9468;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9472;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9475;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9481;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9482;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9489;Assen;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9494;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9501;Stadskanaal;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9502;Stadskanaal;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9511;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9514;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9521;Borger-Odoorn;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9531;Borger-Odoorn;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9533;Borger-Odoorn;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9581;Stadskanaal;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9606;Hoogezand-Sappemeer;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9641;Veendam;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9649;Menterwolde;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9656;Aa en Hunze;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9675;Oldambt;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9686;Oldambt;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9765;Tynaarlo;00ZF;00;De Atlas;9402KH;ASSEN;Drenthe;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;2;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9402;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;7;7;8;6;6;10;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;106;Assen;9403;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;4;1;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9404;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;3;0;7;0;6;4;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;106;Assen;9405;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;2;1;3;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;106;Assen;9406;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;9;8;6;8;6;7;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;106;Assen;9408;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9411;Midden-Drenthe;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;2;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9413;Midden-Drenthe;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9414;Midden-Drenthe;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;2;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9421;Midden-Drenthe;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9433;Midden-Drenthe;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9451;Aa en Hunze;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9487;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9488;Assen;03HR;00;Geref Basissch De Cirkel;9402AR;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8428;Ooststellingwerf;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9335;Noordenveld;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9405;Assen;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;3;4;2;2;6;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;106;Assen;9406;Assen;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9407;Assen;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9408;Assen;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;16;17;21;17;20;21;23;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;106;Assen;9421;Midden-Drenthe;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;3;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;106;Assen;9422;Midden-Drenthe;06EO;00;GBS De Parel;9408AM;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;3;3;7;1;2;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;106;Assen;8433;Ooststellingwerf;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9405;Assen;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;16;10;18;16;12;18;14;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;106;Assen;9406;Assen;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;2;1;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9408;Assen;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9737;Groningen;06HP;00;Basisschool Het Octaaf;9405HX;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;6961;Brummen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7827;Emmen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;8431;Ooststellingwerf;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9331;Noordenveld;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9403;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9404;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9405;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9406;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;3;0;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;106;Assen;9407;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9408;Assen;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9414;Midden-Drenthe;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9421;Midden-Drenthe;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9461;Aa en Hunze;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9468;Aa en Hunze;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9472;Tynaarlo;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9494;Tynaarlo;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9642;Veendam;06SV;00;De Aventurijn;9405HX;ASSEN;Drenthe;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9403;Assen;07PA;00;RK Basisschool Vredeveld;9404KK;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;1;2;1;3;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;106;Assen;9404;Assen;07PA;00;RK Basisschool Vredeveld;9404KK;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;6;4;4;3;1;5;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;106;Assen;9409;Assen;07PA;00;RK Basisschool Vredeveld;9404KK;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;08XL;00;Maria in Campisschool;9402JA;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;3;6;4;3;4;2;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;106;Assen;9406;Assen;08XL;00;Maria in Campisschool;9402JA;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;3;0;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9407;Assen;08XL;00;Maria in Campisschool;9402JA;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9408;Assen;08XL;00;Maria in Campisschool;9402JA;ASSEN;Drenthe;Bo;Rooms-Katholiek;45000;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9401;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9402;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9403;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;4;6;5;4;3;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;106;Assen;9404;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;5;10;15;11;21;11;17;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;106;Assen;9405;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9407;Assen;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9446;Aa en Hunze;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9451;Aa en Hunze;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9467;Aa en Hunze;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9482;Tynaarlo;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9602;Hoogezand-Sappemeer;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9755;Haren;09KO;00;De Regenboog;9404KE;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9342;Noordenveld;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9402;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;3;3;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9403;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9404;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9406;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;17;16;18;21;18;15;24;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;106;Assen;9407;Assen;11KN;00;De Lichtbaak;9406TH;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;2;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;  40;Onbekend;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9301;Noordenveld;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;4;2;2;1;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;106;Assen;9402;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;18;17;27;18;17;17;9;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;106;Assen;9403;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9404;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9406;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;11;15;13;9;10;12;13;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;106;Assen;9407;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9408;Assen;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9413;Midden-Drenthe;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9421;Midden-Drenthe;11VZ;00;Het Kompas PC Basissch;9402CB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;3;8;3;1;3;3;7;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;106;Assen;9403;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9405;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9406;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9407;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;34;38;42;50;45;38;28;33;4;0;0;0;0;0;0;0;0;0;0;0;0;0;312
+20171001;106;Assen;9408;Assen;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9446;Aa en Hunze;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9485;Tynaarlo;12OR;00;De Scharmhof;9407EA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9404;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9405;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;10;13;14;10;23;21;17;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;106;Assen;9406;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;1;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;106;Assen;9407;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9408;Assen;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;14AS;00;Baggelhuizenschool;9405HX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9401;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9403;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9405;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9406;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;16;13;15;6;10;17;6;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;106;Assen;9407;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9408;Assen;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9521;Borger-Odoorn;14GR;00;OBS De Driemaster;9406TH;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;14;19;16;20;30;11;18;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;106;Assen;9402;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;7;9;6;5;2;7;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;106;Assen;9403;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;3;3;4;6;5;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;106;Assen;9404;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;3;2;0;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9405;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;5;3;6;1;10;5;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;106;Assen;9406;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;6;1;5;4;2;1;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;106;Assen;9407;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9408;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;0;3;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9409;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9457;Aa en Hunze;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9481;Tynaarlo;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9482;Tynaarlo;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9485;Tynaarlo;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9492;Assen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9531;Borger-Odoorn;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9718;Groningen;14JI;00;Emmaschool;9401HH;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;  40;Onbekend;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;1606;Drechterland;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9403;Assen;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;6;7;5;7;4;8;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;106;Assen;9404;Assen;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;18;13;15;13;20;27;15;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;106;Assen;9405;Assen;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9408;Assen;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9414;Midden-Drenthe;14LV;00;Basisschool Valkenhorst;9404GD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;2;2;1;0;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;106;Assen;9402;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;5;13;9;11;9;7;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;106;Assen;9403;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;3;2;2;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9404;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;4;3;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9405;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;3;3;3;3;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;106;Assen;9406;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;13;16;22;9;12;13;8;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;106;Assen;9407;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;2;2;3;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;106;Assen;9408;Assen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9421;Midden-Drenthe;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9422;Midden-Drenthe;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9451;Aa en Hunze;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9457;Aa en Hunze;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9728;Groningen;15EF;00;o.b.s.Theo Thijssen;9406AX;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;  40;Onbekend;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;2631;Pijnacker-Nootdorp;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9341;Noordenveld;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;0;1;2;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9401;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9402;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;18;21;13;21;16;18;11;16;0;1;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;106;Assen;9404;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9405;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;14;8;10;4;10;12;7;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;106;Assen;9406;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;3;4;3;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;106;Assen;9407;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;2;3;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;106;Assen;9408;Assen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9422;Midden-Drenthe;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9423;Midden-Drenthe;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9515;Aa en Hunze;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9665;Pekela;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9732;Groningen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9733;Groningen;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9761;Tynaarlo;15KJ;00;Basisschool de Vuurvogel;9402TB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;5;5;2;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;106;Assen;9403;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9404;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9406;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;1;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9407;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;15;29;15;15;22;18;17;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;151
+20171001;106;Assen;9408;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9487;Assen;15PM;00;De Veldkei;9407AM;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7812;Emmen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7991;Westerveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9301;Noordenveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9331;Noordenveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9337;Noordenveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9341;Noordenveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9342;Noordenveld;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;2;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9402;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;106;Assen;9403;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;2;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9403;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;2;3;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9404;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9404;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9405;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9405;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9406;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9406;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;2;3;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9407;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9407;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;4;6;2;1;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9408;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9408;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9411;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9414;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9414;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9422;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9422;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;106;Assen;9423;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9423;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9431;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9434;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9436;Midden-Drenthe;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9449;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9451;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9451;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;106;Assen;9463;Aa en Hunze;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9471;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9471;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9472;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9481;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9481;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9489;Assen;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9494;Tynaarlo;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;So;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9531;Borger-Odoorn;20BG;00;V Lieflandschool;9405HX;ASSEN;Drenthe;Vso;Openbaar;42719;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7512;Enschede;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7908;Hoogeveen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7961;De Wolden;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;8426;Ooststellingwerf;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9402;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;2;0;0;1;1;0;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;106;Assen;9403;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;2;4;2;2;6;5;7;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;106;Assen;9404;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9405;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;1;0;3;4;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;106;Assen;9406;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;1;0;4;7;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;106;Assen;9407;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;1;0;2;0;3;1;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;106;Assen;9408;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;1;1;6;2;2;3;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;106;Assen;9409;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9411;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;1;0;0;0;2;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9414;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9415;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9422;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9423;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9436;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9438;Midden-Drenthe;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9444;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9451;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9458;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9462;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9463;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9468;Aa en Hunze;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9471;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9472;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9473;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9481;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;1;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9482;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9489;Assen;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9491;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9494;Tynaarlo;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9501;Stadskanaal;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9531;Borger-Odoorn;20BX;00;SSBO De Meander;9406XP;ASSEN;Drenthe;Sbo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7933;Hoogeveen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9201;Smallingerland;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9403;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;44;51;37;54;37;44;30;36;1;0;0;0;0;0;0;0;0;0;0;0;0;0;334
+20171001;106;Assen;9405;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9406;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9407;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;2;1;1;3;2;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;106;Assen;9409;Assen;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9414;Midden-Drenthe;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9461;Aa en Hunze;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9466;Aa en Hunze;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9481;Tynaarlo;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9491;Tynaarlo;21LS;00;De Borg;9403GN;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7921;De Wolden;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9401;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;2;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9403;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;28;35;20;40;34;55;62;48;7;0;0;0;0;0;0;0;0;0;0;0;0;0;329
+20171001;106;Assen;9404;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9406;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9407;Assen;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9421;Midden-Drenthe;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9482;Tynaarlo;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9781;Bedum;21LT;00;Bs De Marskramer;9403LT;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;8426;Ooststellingwerf;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;8431;Ooststellingwerf;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9341;Noordenveld;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9402;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9403;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;1;0;0;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9404;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9405;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9406;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;3;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9407;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9408;Assen;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9411;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9413;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9414;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9418;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9421;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9422;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;2;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;106;Assen;9423;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9431;Midden-Drenthe;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9458;Aa en Hunze;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9472;Tynaarlo;23NV;00;PC SSBO De Boei;9406XP;ASSEN;Drenthe;Sbo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;4341;Middelburg;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9403;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;38;29;32;27;33;32;28;34;6;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;106;Assen;9405;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9407;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;2;1;2;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;106;Assen;9409;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;0;2;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9453;Aa en Hunze;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9485;Tynaarlo;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9488;Assen;24MU;00;OBS Heksenketel;9403WD;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9331;Noordenveld;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9336;Noordenveld;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9341;Noordenveld;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9402;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9403;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9405;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;3;7;8;9;8;7;5;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;106;Assen;9406;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;1;1;0;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9407;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9408;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;35;26;35;36;50;36;32;40;1;0;0;0;0;0;0;0;0;0;0;0;0;0;291
+20171001;106;Assen;9421;Midden-Drenthe;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9489;Assen;26PN;00;Het Sterrenschip;9408MB;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9402;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9404;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9405;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;4;4;3;7;3;6;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;106;Assen;9406;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9408;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;12;22;29;29;36;30;27;24;4;0;0;0;0;0;0;0;0;0;0;0;0;0;213
+20171001;106;Assen;9421;Midden-Drenthe;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;2;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9488;Assen;27BM;00;Chr BS het Krijt;9408MB;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;  40;Onbekend;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9336;Noordenveld;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9403;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9405;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;2;4;3;4;2;4;6;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;106;Assen;9406;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;2;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;106;Assen;9407;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9408;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;37;42;46;68;70;83;76;75;5;0;0;0;0;0;0;0;0;0;0;0;0;0;502
+20171001;106;Assen;9421;Midden-Drenthe;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9452;Aa en Hunze;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9489;Assen;27WY;00;OBS Kloosterveen;9408JA;ASSEN;Drenthe;Bo;Openbaar;42719;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7828;Emmen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;7991;Westerveld;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9248;Opsterland;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9321;Noordenveld;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9331;Noordenveld;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9341;Noordenveld;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9351;Leek;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9355;Leek;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9401;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;106;Assen;9402;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9403;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;2;0;3;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;106;Assen;9404;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9405;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;7;4;4;2;5;4;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;106;Assen;9406;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;3;0;3;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9407;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;3;0;2;1;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;106;Assen;9408;Assen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;54;32;47;45;28;35;25;33;3;0;0;0;0;0;0;0;0;0;0;0;0;0;302
+20171001;106;Assen;9417;Midden-Drenthe;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9421;Midden-Drenthe;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;106;Assen;9422;Midden-Drenthe;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;2;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;106;Assen;9438;Midden-Drenthe;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9444;Aa en Hunze;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9451;Aa en Hunze;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9461;Aa en Hunze;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9462;Aa en Hunze;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9469;Aa en Hunze;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9471;Tynaarlo;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9481;Tynaarlo;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9491;Tynaarlo;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;106;Assen;9502;Stadskanaal;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9527;Borger-Odoorn;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9531;Borger-Odoorn;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;106;Assen;9611;Hoogezand-Sappemeer;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9646;Veendam;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9648;Veendam;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9665;Pekela;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9712;Groningen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9727;Groningen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9737;Groningen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9743;Groningen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9744;Groningen;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9761;Tynaarlo;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9828;Leek;27WZ;00;de Kloostertuin;9408JA;ASSEN;Drenthe;Bo;Protestants-Christelijk;32073;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9334;Noordenveld;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;106;Assen;9335;Noordenveld;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9336;Noordenveld;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;106;Assen;9403;Assen;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;8;15;18;28;17;20;16;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;106;Assen;9406;Assen;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;1;2;1;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;106;Assen;9407;Assen;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;10;13;5;9;11;6;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;106;Assen;9466;Aa en Hunze;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;106;Assen;9491;Tynaarlo;29XN;00;De Driesprong;9403PA;ASSEN;Drenthe;Bo;Gereformeerd vrijgemaakt;41025;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

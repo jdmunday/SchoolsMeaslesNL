@@ -1,0 +1,1244 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;758;Breda;4251;Werkendam;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4711;Rucphen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4714;Rucphen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4715;Rucphen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4721;Rucphen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4741;Halderberge;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4744;Halderberge;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4791;Moerdijk;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4793;Moerdijk;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4797;Moerdijk;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4812;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;4;1;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4813;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;2;2;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4814;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4815;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4818;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4823;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;1;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4824;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4826;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4827;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;3;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4836;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4839;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4844;Drimmelen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4847;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4851;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4854;Breda;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4855;Alphen-Chaam;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4856;Alphen-Chaam;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4871;Etten-Leur;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;2;1;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4872;Etten-Leur;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4873;Etten-Leur;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4875;Etten-Leur;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4876;Etten-Leur;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;2;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4881;Zundert;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;2;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4882;Zundert;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4884;Zundert;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4891;Zundert;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4901;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;2;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4902;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;2;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4904;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;1;1;5;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4906;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4907;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4908;Oosterhout;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4926;Drimmelen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4927;Drimmelen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4931;Geertruidenberg;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4941;Geertruidenberg;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4942;Geertruidenberg;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;5122;Gilze en Rijen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5124;Gilze en Rijen;01JO;06;De Spreekhoorn;4812GE;BREDA;Noord-Brabant;So;Rooms-Katholiek;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4273;Werkendam;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4285;Woudrichem;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4615;Bergen op Zoom;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4621;Bergen op Zoom;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4624;Bergen op Zoom;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4641;Woensdrecht;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4645;Woensdrecht;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4651;Steenbergen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4661;Bergen op Zoom;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4664;Bergen op Zoom;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4694;Tholen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4695;Tholen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4702;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;1;0;2;1;0;0;0;0;0;0;0;6
+20171001;758;Breda;4703;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4706;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4707;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4708;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4709;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4711;Rucphen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4714;Rucphen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4715;Rucphen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4721;Rucphen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4724;Roosendaal;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4741;Halderberge;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4751;Halderberge;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;758;Breda;4761;Moerdijk;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4765;Moerdijk;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4771;Moerdijk;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4793;Moerdijk;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;3;3;5;7;0;0;0;0;0;0;0;0;19
+20171001;758;Breda;4812;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4813;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4814;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4815;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4818;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4826;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;2;0;0;2;1;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4827;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4834;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4844;Drimmelen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4845;Drimmelen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4861;Alphen-Chaam;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;5
+20171001;758;Breda;4871;Etten-Leur;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4872;Etten-Leur;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4873;Etten-Leur;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4876;Etten-Leur;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4881;Zundert;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;758;Breda;4901;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4902;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;3
+20171001;758;Breda;4903;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4904;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4906;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4907;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4908;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4909;Oosterhout;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4931;Geertruidenberg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4941;Geertruidenberg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4942;Geertruidenberg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5014;Tilburg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5038;Tilburg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5049;Tilburg;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5104;Dongen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5131;Alphen-Chaam;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5151;Heusden;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5626;Eindhoven;02RH;00;Het Berkenhofcollege;4836AD;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4271;Werkendam;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4273;Werkendam;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4707;Roosendaal;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4709;Roosendaal;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4811;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4819;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4823;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4824;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4835;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4854;Breda;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4871;Etten-Leur;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4875;Etten-Leur;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4876;Etten-Leur;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4901;Oosterhout;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4902;Oosterhout;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4904;Oosterhout;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4906;Oosterhout;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4909;Oosterhout;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4926;Drimmelen;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4942;Geertruidenberg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4942;Geertruidenberg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5025;Tilburg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5032;Tilburg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5043;Tilburg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5043;Tilburg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5044;Tilburg;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5081;Hilvarenbeek;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;5126;Gilze en Rijen;02RH;12;De Kei;4818CG;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3055;Rotterdam;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4273;Werkendam;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4706;Roosendaal;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4711;Rucphen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4714;Rucphen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4812;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4813;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4814;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4816;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4823;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4826;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4827;Breda;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4844;Drimmelen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4855;Alphen-Chaam;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4871;Etten-Leur;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4872;Etten-Leur;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4873;Etten-Leur;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4876;Etten-Leur;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4881;Zundert;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4891;Zundert;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4901;Oosterhout;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4902;Oosterhout;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4904;Oosterhout;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4907;Oosterhout;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4908;Oosterhout;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4931;Geertruidenberg;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4941;Geertruidenberg;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5037;Tilburg;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5049;Tilburg;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5101;Dongen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5102;Dongen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5104;Dongen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5111;Baarle-Nassau;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5121;Gilze en Rijen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5122;Gilze en Rijen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5126;Gilze en Rijen;02RH;13;De Singel;4811SZ;BREDA;Noord-Brabant;So;Rooms-Katholiek;41200;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  10;Belgie;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  40;Onbekend;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3341;Hendrik-Ido-Ambacht;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4251;Werkendam;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4255;Werkendam;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4273;Werkendam;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;3;1;2;0;1;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4284;Woudrichem;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4285;Woudrichem;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4286;Woudrichem;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4611;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4615;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4616;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4621;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4624;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4631;Woensdrecht;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4661;Bergen op Zoom;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4671;Steenbergen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4691;Tholen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4701;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4702;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4706;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4707;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;4;1;1;1;0;1;0;0;0;0;0;0;0;8
+20171001;758;Breda;4708;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4711;Rucphen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4714;Rucphen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4715;Rucphen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4721;Rucphen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4724;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4726;Roosendaal;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4731;Halderberge;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;3;4;2;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4735;Rucphen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4741;Halderberge;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4744;Halderberge;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4751;Halderberge;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4754;Halderberge;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4758;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4765;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4771;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4793;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4797;Moerdijk;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4811;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4812;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;2;3;2;3;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4813;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4814;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;1;2;2;1;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4815;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4816;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;2;0;4;0;3;2;1;0;0;0;0;0;0;0;12
+20171001;758;Breda;4818;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;4;0;1;3;2;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4823;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;2;3;3;2;1;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4824;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;3;2;3;1;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4825;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;2;3;1;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4827;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;758;Breda;4835;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4841;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;4;3;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4844;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4845;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;2;1;2;0;1;0;0;0;0;0;0;0;7
+20171001;758;Breda;4849;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4854;Breda;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1;1;0;0;0;0;0;0;0;6
+20171001;758;Breda;4861;Alphen-Chaam;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4871;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;3;1;1;2;5;2;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4872;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;3;2;2;1;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4873;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4874;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4875;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4876;Etten-Leur;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4881;Zundert;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;1;0;0;0;0;0;0;0;5
+20171001;758;Breda;4884;Zundert;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4901;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4902;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;4;2;1;1;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4904;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;2;4;6;4;1;0;0;0;0;0;0;0;0;18
+20171001;758;Breda;4905;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4906;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4907;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;3;3;3;2;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4908;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4909;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4911;Oosterhout;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4924;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4926;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4927;Drimmelen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4931;Geertruidenberg;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4941;Geertruidenberg;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;3;1;2;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4942;Geertruidenberg;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4944;Geertruidenberg;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5045;Tilburg;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5101;Dongen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5102;Dongen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5103;Dongen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5104;Dongen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5109;Dongen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5111;Baarle-Nassau;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5113;Baarle-Nassau;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;5122;Gilze en Rijen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5126;Gilze en Rijen;02RH;14;Het Brederocollege;4819HG;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41200;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;  10;Belgie;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4207;Gorinchem;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4251;Werkendam;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4273;Werkendam;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4286;Woudrichem;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4615;Bergen op Zoom;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4651;Steenbergen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4671;Steenbergen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4708;Roosendaal;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4761;Moerdijk;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;2;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4771;Moerdijk;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4793;Moerdijk;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4812;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;4;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4813;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4814;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;1;1;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4815;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4816;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;1;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4817;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;2;2;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4818;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4822;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;1;0;1;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4823;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;1;1;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4824;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;0;0;1;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4826;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;1;1;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4827;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;2;0;2;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4834;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4835;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;0;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4838;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4844;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4845;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4847;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;2;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4849;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4854;Breda;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4855;Alphen-Chaam;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4856;Alphen-Chaam;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4871;Etten-Leur;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;2;3;3;2;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;758;Breda;4872;Etten-Leur;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4873;Etten-Leur;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4874;Etten-Leur;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4876;Etten-Leur;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;2;2;2;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4881;Zundert;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;1;0;1;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4884;Zundert;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4901;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4902;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4903;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4904;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;0;1;2;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4906;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4907;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;1;1;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4908;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4909;Oosterhout;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4921;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4924;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4926;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4927;Drimmelen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4931;Geertruidenberg;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4941;Geertruidenberg;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4942;Geertruidenberg;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5101;Dongen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5102;Dongen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5103;Dongen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5104;Dongen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5105;Dongen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5111;Baarle-Nassau;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;1;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;5122;Gilze en Rijen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;1;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;5126;Gilze en Rijen;02RK;00;Het Kasteel;4834LD;BREDA;Noord-Brabant;So;Rooms-Katholiek;41407;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4791;Moerdijk;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4811;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4814;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4815;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4822;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4823;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4824;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4839;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4841;Breda;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;7;6;6;13;6;9;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;758;Breda;4844;Drimmelen;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4871;Etten-Leur;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4872;Etten-Leur;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4873;Etten-Leur;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4875;Etten-Leur;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4876;Etten-Leur;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4882;Zundert;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4921;Drimmelen;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4924;Drimmelen;03CW;00;OBS Apollo;4841ND;PRINSENBEEK;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4731;Halderberge;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4816;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4817;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4823;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4824;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;23;25;34;33;44;34;28;36;8;0;0;0;0;0;0;0;0;0;0;0;0;0;265
+20171001;758;Breda;4827;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;6;5;14;9;6;13;10;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;758;Breda;4834;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;03JC;00;Kbs John F Kennedy;4826KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4812;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;2;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4814;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;2;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4818;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;2;2;2;0;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;758;Breda;4819;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4822;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4834;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;39;48;39;39;41;31;35;39;4;0;0;0;0;0;0;0;0;0;0;0;0;0;315
+20171001;758;Breda;4835;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;56;48;43;59;39;52;56;36;6;0;0;0;0;0;0;0;0;0;0;0;0;0;395
+20171001;758;Breda;4836;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4837;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;2;0;3;1;4;2;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;758;Breda;4851;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;2;0;2;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4854;Breda;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;3;0;0;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4855;Alphen-Chaam;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4876;Etten-Leur;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5124;Gilze en Rijen;03LY;00;RK BS Laurentius;4835CD;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;32203;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4812;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4815;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;62;50;63;55;49;47;60;57;9;0;0;0;0;0;0;0;0;0;0;0;0;0;452
+20171001;758;Breda;4826;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4847;Breda;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4849;Oosterhout;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4861;Alphen-Chaam;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4876;Etten-Leur;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4904;Oosterhout;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5045;Tilburg;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5144;Waalwijk;03MR;00;Kbs Weilust;4817WR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;6;3;6;3;3;6;12;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;758;Breda;4812;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4813;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4817;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;1;0;3;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4818;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;58;60;77;74;69;72;60;66;10;0;0;0;0;0;0;0;0;0;0;0;0;0;546
+20171001;758;Breda;4824;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;10;6;4;5;8;4;11;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;758;Breda;4835;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;7;2;4;5;7;10;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;758;Breda;4837;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4841;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4854;Breda;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;1;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4858;Alphen-Chaam;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4872;Etten-Leur;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4902;Oosterhout;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4904;Oosterhout;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4907;Oosterhout;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5035;Tilburg;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5126;Gilze en Rijen;03NW;00;Kbs De Zandberg;4818GL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4811;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4818;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4819;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4835;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4836;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4847;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;37;31;40;35;44;35;35;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;279
+20171001;758;Breda;4854;Breda;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4856;Alphen-Chaam;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4858;Alphen-Chaam;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;3;1;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4859;Alphen-Chaam;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;06BB;00;OBS De Klokkebei;4851BG;ULVENHOUT;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4812;Breda;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;1;3;2;5;1;3;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;758;Breda;4841;Breda;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4849;Oosterhout;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;1;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4854;Breda;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;46;46;52;51;64;59;67;58;0;0;0;0;0;0;0;0;0;0;0;0;0;0;443
+20171001;758;Breda;4859;Alphen-Chaam;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;5121;Gilze en Rijen;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5124;Gilze en Rijen;06IK;00;Basisschool De Spindel;4854CP;BAVEL;Noord-Brabant;Bo;Rooms-Katholiek;32060;0;0;0;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4811;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4815;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;1;0;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4822;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4823;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4824;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4839;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;2;2;1;0;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4841;Breda;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;43;50;61;74;89;99;88;69;14;0;0;0;0;0;0;0;0;0;0;0;0;0;587
+20171001;758;Breda;4871;Etten-Leur;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4872;Etten-Leur;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5124;Gilze en Rijen;06IT;00;Kbs De Griffioen;4841XC;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  10;Belgie;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4761;Moerdijk;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4762;Moerdijk;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4772;Moerdijk;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4782;Moerdijk;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;5;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4812;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;1;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4813;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;3;1;2;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4814;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4815;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;1;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4816;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;2;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4817;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;2;4;8;2;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;758;Breda;4818;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4819;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;2;0;3;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4822;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4823;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4824;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;2;2;2;2;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4825;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;2;1;4;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4827;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;0;0;2;1;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4834;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;2;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4835;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4838;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4841;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4844;Drimmelen;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;3;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4847;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4854;Breda;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4855;Alphen-Chaam;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4871;Etten-Leur;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;2;1;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4876;Etten-Leur;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4904;Oosterhout;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4931;Geertruidenberg;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;06OZ;00;Rudolf Steinerschool;4816AD;BREDA;Noord-Brabant;Bo;Antroposofisch;59984;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;  30;ander land;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4811;Breda;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4822;Breda;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;4;4;1;2;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;758;Breda;4823;Breda;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;1;0;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4824;Breda;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;28;32;31;40;43;27;39;20;4;0;0;0;0;0;0;0;0;0;0;0;0;0;264
+20171001;758;Breda;4844;Drimmelen;06XI;00;Kbs De Werft;4824KA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;21;18;23;14;16;11;11;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;758;Breda;4812;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4814;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;2;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4815;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;1;6;4;5;13;5;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;758;Breda;4816;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;6;11;8;7;13;8;7;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;70
+20171001;758;Breda;4817;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;14;18;19;30;23;23;20;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;758;Breda;4818;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;5;5;1;1;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;758;Breda;4827;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;3;1;2;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4834;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4835;Breda;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4876;Etten-Leur;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4907;Oosterhout;07PJ;00;Kbs St Joseph;4811CL;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4812;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;10;9;12;8;14;9;17;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;758;Breda;4817;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4824;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4827;Breda;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4891;Zundert;07TY;00;Kbs De Liniedoorn;4816GG;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4813;Breda;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4818;Breda;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4836;Breda;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;16;17;20;16;13;23;17;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;758;Breda;4858;Alphen-Chaam;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4861;Alphen-Chaam;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4904;Oosterhout;07VE;00;Kbs De Rosmolen;4851TE;ULVENHOUT;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  40;Onbekend;08JT;00;Kbs De Wisselaar;4826AH;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;08JT;00;Kbs De Wisselaar;4826AH;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4826;Breda;08JT;00;Kbs De Wisselaar;4826AH;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;20;25;24;16;23;19;21;26;1;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;758;Breda;4827;Breda;08JT;00;Kbs De Wisselaar;4826AH;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;1;1;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4847;Breda;08JT;00;Kbs De Wisselaar;4826AH;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4741;Halderberge;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4815;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4822;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4823;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;4;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4824;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4839;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;1;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4841;Breda;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;50;47;39;29;36;34;28;34;2;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;758;Breda;4904;Oosterhout;08LS;00;Kbs De Horizon;4841GJ;PRINSENBEEK;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4691;Tholen;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4817;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;4;5;0;4;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;758;Breda;4818;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;4;2;3;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;758;Breda;4826;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4827;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;27;34;37;39;38;43;18;32;2;0;0;0;0;0;0;0;0;0;0;0;0;0;270
+20171001;758;Breda;4835;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;2;1;1;6;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4836;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4841;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4854;Breda;08WW;00;Kbs Jacinta;4834XV;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;2;1;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4811;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;9;12;14;14;11;12;12;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;758;Breda;4812;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;4;8;3;5;4;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;758;Breda;4814;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;3;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4815;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4818;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;5;2;1;2;2;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;758;Breda;4819;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;5;2;5;1;8;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;758;Breda;4822;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4823;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4835;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4838;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4851;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4854;Breda;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4902;Oosterhout;09DE;00;Nutsbasisschool Boeimeer;4818RJ;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4815;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4819;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4824;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4834;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;15;23;21;17;22;14;25;26;0;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;758;Breda;4835;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4854;Breda;09JT;00;Kbs De Burchtgaarde;4834LP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;3;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4811;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4815;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;36;50;49;51;38;36;43;20;7;0;0;0;0;0;0;0;0;0;0;0;0;0;330
+20171001;758;Breda;4816;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;8;5;7;3;7;2;6;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;758;Breda;4817;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;2;1;2;4;4;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;758;Breda;4827;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4847;Breda;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4873;Etten-Leur;09WT;00;Kbs De Spoorzoeker;4815BC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  30;ander land;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;7;7;5;4;3;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;758;Breda;4812;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4817;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;3;1;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4818;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;25;16;27;27;29;20;31;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;758;Breda;4819;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4822;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;3;5;2;5;6;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;758;Breda;4835;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;3;6;4;5;10;10;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;758;Breda;4836;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4837;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;5;4;9;4;7;7;9;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;758;Breda;4847;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;2;1;1;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4854;Breda;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;2;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4858;Alphen-Chaam;09ZF;00;Nutsbasissch Dirk v Veen;4818GD;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4812;Breda;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;19;27;22;20;22;18;25;15;7;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;758;Breda;4823;Breda;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4881;Zundert;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;10JP;00;Kbs Olympia;4822XM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3438;Nieuwegein;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4731;Halderberge;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4813;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4815;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4822;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;16;16;17;9;17;13;8;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;758;Breda;4823;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4824;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;57;71;65;67;47;55;50;44;9;0;0;0;0;0;0;0;0;0;0;0;0;0;465
+20171001;758;Breda;4827;Breda;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;10RK;00;De Hoogakker;4824SG;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4812;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;16;18;32;22;20;13;14;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;758;Breda;4813;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;31;25;31;25;35;22;31;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;758;Breda;4814;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;1;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4816;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4822;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4823;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4824;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4836;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4837;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4838;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4839;Breda;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4904;Oosterhout;10XJ;00;Kbs De Eerste Rith;4813GM;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;4;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4823;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;20;18;28;23;26;27;19;16;4;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;758;Breda;4824;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;1;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4826;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;10ZM;00;Kbs Kievitsloop;4823JJ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4817;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;29;29;29;20;29;31;25;30;5;0;0;0;0;0;0;0;0;0;0;0;0;0;227
+20171001;758;Breda;4822;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4827;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;1;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4834;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4844;Drimmelen;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4847;Breda;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4904;Oosterhout;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5121;Gilze en Rijen;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;9625;Slochteren;11SJ;00;Obs De Tweesprong;4817NX;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4812;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;13;12;8;12;15;13;14;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;758;Breda;4813;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;54;49;45;61;64;51;62;53;1;0;0;0;0;0;0;0;0;0;0;0;0;0;440
+20171001;758;Breda;4814;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;6;4;3;5;8;4;13;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;758;Breda;4815;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4819;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4823;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4835;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;2;0;3;0;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;758;Breda;4839;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4851;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4854;Breda;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4871;Etten-Leur;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4873;Etten-Leur;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5036;Tilburg;11WP;00;Kbs St Maerte;4813GP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  10;Belgie;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;3;5;5;3;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;758;Breda;  30;ander land;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;2593;'s-Gravenhage;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;3243;Goeree-Overflakkee;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3311;Dordrecht;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3314;Dordrecht;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4261;Aalburg;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4701;Roosendaal;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4702;Roosendaal;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4708;Roosendaal;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4741;Halderberge;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;3;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4812;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;3;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4813;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4814;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;3;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4817;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;1;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4818;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;8;6;4;8;5;6;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;758;Breda;4819;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;5;7;3;3;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;758;Breda;4823;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4834;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;4;5;4;5;2;6;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;758;Breda;4835;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;27;28;30;23;25;23;25;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;202
+20171001;758;Breda;4836;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;3;0;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4837;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;5;8;6;9;10;8;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;758;Breda;4838;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4851;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4854;Breda;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;3;0;6;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;758;Breda;4855;Alphen-Chaam;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4861;Alphen-Chaam;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4876;Etten-Leur;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4881;Zundert;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5035;Tilburg;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5036;Tilburg;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5037;Tilburg;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5101;Dongen;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5113;Baarle-Nassau;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5126;Gilze en Rijen;12FD;00;PC Basissch Dr de Visser;4835LH;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;14;20;15;6;10;7;11;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;758;Breda;4823;Breda;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;5;5;5;1;5;6;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;758;Breda;4824;Breda;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;2;3;4;2;4;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;758;Breda;4826;Breda;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4873;Etten-Leur;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4901;Oosterhout;12FD;01;De Rietvink;4822RB;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4337;Middelburg;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4813;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4814;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4819;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4836;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;4;4;4;5;6;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;758;Breda;4841;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4854;Breda;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4873;Etten-Leur;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4881;Zundert;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;12GC;00;Kbs Effen;4838BA;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;4;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;  10;Belgie;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4824;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;3;5;7;6;4;8;14;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;758;Breda;4827;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;22;30;35;23;34;19;19;15;8;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;758;Breda;4834;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4854;Breda;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4904;Oosterhout;12LV;00;Basisschool Het Noorderlicht;4827CN;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  30;ander land;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3313;Dordrecht;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4284;Woudrichem;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;1;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4812;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;3;3;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4813;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;1;2;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4815;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4816;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;1;2;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4817;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;6;11;9;11;9;13;8;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;758;Breda;4818;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4819;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4823;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;7;3;7;5;4;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;758;Breda;4827;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;15;13;12;14;13;13;22;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;758;Breda;4834;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;2;4;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4835;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4854;Breda;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4855;Alphen-Chaam;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4871;Etten-Leur;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4872;Etten-Leur;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4873;Etten-Leur;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4876;Etten-Leur;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4881;Zundert;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;1;4;1;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;758;Breda;4882;Zundert;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4921;Drimmelen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4926;Drimmelen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4941;Geertruidenberg;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;5062;Oisterwijk;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5101;Dongen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5102;Dongen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5104;Dongen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5111;Baarle-Nassau;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;5113;Baarle-Nassau;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5121;Gilze en Rijen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5122;Gilze en Rijen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5126;Gilze en Rijen;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;2;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;5131;Alphen-Chaam;12WE;00;De Fontein;4827NJ;BREDA;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;2;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4811;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4812;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;1;0;2;5;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;758;Breda;4813;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;69;98;77;91;85;91;87;78;21;0;0;0;0;0;0;0;0;0;0;0;0;0;697
+20171001;758;Breda;4815;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4818;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4823;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4824;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4826;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4827;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4876;Etten-Leur;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4882;Zundert;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;14CI;00;Kbs De Boomgaard;4814TZ;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;5;8;5;7;2;8;7;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;758;Breda;4812;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;2;5;6;3;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;758;Breda;4813;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4814;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;5;7;7;11;7;11;4;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;758;Breda;4822;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4824;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4872;Etten-Leur;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5021;Tilburg;14KN;00;Kbs De Weerijs;4814EP;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;8;11;16;13;20;12;16;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;758;Breda;4812;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;13;18;18;15;19;13;7;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;758;Breda;4813;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;2;1;4;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4814;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4815;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4818;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;2;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4819;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;25;27;33;27;31;27;27;24;2;1;0;0;0;0;0;0;0;0;0;0;0;0;224
+20171001;758;Breda;4826;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4835;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;2;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;758;Breda;4855;Alphen-Chaam;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4891;Zundert;15DB;00;Kbs Petrus en Paulus;4819HR;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;3261;Oud-Beijerland;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4812;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;2;0;3;4;1;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;758;Breda;4813;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;2;3;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4814;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;1;1;2;1;4;4;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;758;Breda;4816;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;3;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4817;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;1;2;3;4;2;10;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;758;Breda;4818;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4819;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;1;0;2;2;5;2;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;758;Breda;4823;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4824;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;2;1;3;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4825;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4826;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;2;0;2;3;5;6;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;758;Breda;4827;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;1;1;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4834;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4835;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4838;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4844;Drimmelen;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4847;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4849;Oosterhout;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4854;Breda;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;4;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4861;Alphen-Chaam;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4872;Etten-Leur;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5111;Baarle-Nassau;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;5113;Baarle-Nassau;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;1;1;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;758;Breda;5122;Gilze en Rijen;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;5124;Gilze en Rijen;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5126;Gilze en Rijen;15LO;00;Ons sbo;4819GD;BREDA;Noord-Brabant;Sbo;Rooms-Katholiek;41407;0;0;0;0;1;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4811;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4812;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;18;23;19;19;18;19;25;19;3;1;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;758;Breda;4813;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;3;3;2;1;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;758;Breda;4814;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;1;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4826;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4834;Breda;15ZM;00;Kbs De Parel;4812JC;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  10;Belgie;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4711;Rucphen;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4812;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4815;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;4;1;0;2;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4817;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;3;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;758;Breda;4826;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;8;7;7;7;4;9;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;758;Breda;4827;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;34;26;26;21;22;13;11;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;758;Breda;4834;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4835;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;16;21;14;17;16;19;25;21;5;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;758;Breda;4849;Oosterhout;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4851;Breda;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4902;Oosterhout;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4904;Oosterhout;17WY;00;Kbs De Wegwijzer;4847HE;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2517;'s-Gravenhage;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4815;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;2;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4824;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;2;4;3;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4834;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;35;42;37;41;51;49;45;43;5;0;0;0;0;0;0;0;0;0;0;0;0;0;348
+20171001;758;Breda;4875;Etten-Leur;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4904;Oosterhout;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4907;Oosterhout;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4911;Oosterhout;17XW;00;Kbs Helder Camara;4847KS;TETERINGEN;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  30;ander land;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4285;Woudrichem;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;1;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4817;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;1;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4824;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;5;1;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4827;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;9;12;8;11;3;5;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;758;Breda;4847;Breda;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;6;3;6;6;7;7;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;758;Breda;4905;Oosterhout;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4908;Oosterhout;18GP;00;OBS De Springplank;4847HE;TETERINGEN;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;6;1;5;2;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;758;Breda;4823;Breda;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;14;14;19;16;20;7;22;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;758;Breda;4824;Breda;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;1;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4826;Breda;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4827;Breda;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4844;Drimmelen;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4871;Etten-Leur;21PP;00;OBS De Wildert;4823BJ;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4816;Breda;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4822;Breda;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;7;5;10;6;7;4;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;758;Breda;4823;Breda;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;15;9;12;18;15;26;18;26;4;1;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;758;Breda;4824;Breda;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5122;Gilze en Rijen;21PQ;00;Kbs De Driezwing;4823MS;BREDA;Noord-Brabant;Bo;Rooms-Katholiek;41407;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;3344;Hendrik-Ido-Ambacht;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4817;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4822;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;15;24;21;15;12;21;18;23;4;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;758;Breda;4823;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;35;47;23;40;37;36;38;32;6;0;0;0;0;0;0;0;0;0;0;0;0;0;294
+20171001;758;Breda;4824;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;3;4;6;4;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;758;Breda;4826;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4871;Etten-Leur;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4902;Oosterhout;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5036;Tilburg;21PR;00;Nutsbasisschool Burgst;4822RS;BREDA;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2995;Zwijndrecht;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3315;Dordrecht;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;3317;Dordrecht;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3319;Dordrecht;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4206;Gorinchem;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4207;Gorinchem;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4223;Giessenlanden;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4251;Werkendam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4255;Werkendam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;758;Breda;4271;Werkendam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4273;Werkendam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;4
+20171001;758;Breda;4281;Woudrichem;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4701;Roosendaal;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4708;Roosendaal;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4711;Rucphen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4714;Rucphen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4715;Rucphen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4724;Roosendaal;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4741;Halderberge;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4751;Halderberge;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4754;Halderberge;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;4;1;1;1;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4771;Moerdijk;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4811;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;2;2;2;2;3;2;2;2;0;0;0;0;0;0;17
+20171001;758;Breda;4812;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;3;3;1;0;0;1;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4813;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;2;2;1;0;1;0;0;0;0;0;0;0;7
+20171001;758;Breda;4814;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;3;0;1;3;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4815;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;2;0;2;0;0;3;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4817;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;2;3;3;0;2;2;0;0;0;0;0;0;0;12
+20171001;758;Breda;4818;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4819;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4822;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;1;3;2;1;2;1;0;0;0;0;0;0;11
+20171001;758;Breda;4823;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;2;1;2;1;2;0;0;0;0;0;0;0;8
+20171001;758;Breda;4824;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4826;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;2;1;1;1;0;2;0;0;0;0;0;0;0;8
+20171001;758;Breda;4827;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;2;1;3;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4834;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4835;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4838;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4841;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;1;1;2;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4844;Drimmelen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;4;1;3;0;4;0;0;0;0;0;0;0;0;0;12
+20171001;758;Breda;4845;Drimmelen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4847;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;758;Breda;4849;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4854;Breda;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;2;0;0;2;2;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4861;Alphen-Chaam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;4
+20171001;758;Breda;4871;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;2;2;3;2;2;2;0;0;0;0;0;0;0;0;13
+20171001;758;Breda;4872;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;1;0;0;0;0;0;0;0;6
+20171001;758;Breda;4873;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;3;1;1;0;3;0;2;0;0;0;0;0;0;11
+20171001;758;Breda;4874;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;758;Breda;4875;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4876;Etten-Leur;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4881;Zundert;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4882;Zundert;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4884;Zundert;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4885;Zundert;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4891;Zundert;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;2;1;0;3;0;2;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4901;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;3;1;1;1;2;0;0;0;0;0;0;0;9
+20171001;758;Breda;4902;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4904;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;4;2;3;2;1;2;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4906;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4907;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4908;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4911;Oosterhout;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4921;Drimmelen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;3;2;0;1;0;1;1;0;0;0;0;0;0;8
+20171001;758;Breda;4926;Drimmelen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4931;Geertruidenberg;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;2;2;0;2;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4941;Geertruidenberg;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;1;2;0;1;3;2;0;0;0;0;0;0;0;10
+20171001;758;Breda;4942;Geertruidenberg;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;5111;Baarle-Nassau;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5121;Gilze en Rijen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;5122;Gilze en Rijen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;758;Breda;5126;Gilze en Rijen;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;5131;Alphen-Chaam;21RO;00;Breda College;4817DM;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;41407;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  30;ander land;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;2
+20171001;758;Breda;  40;Onbekend;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;758;Breda;1063;Amsterdam;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+20171001;758;Breda;1105;Amsterdam;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;1851;Heiloo;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+20171001;758;Breda;2906;Capelle aan den IJssel;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3202;Nissewaard;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;758;Breda;3526;Utrecht;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;758;Breda;3555;Utrecht;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;3562;Utrecht;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;758;Breda;3921;Rhenen;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;758;Breda;4337;Middelburg;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4836;Breda;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;1;2;5;1;4;7;2;2;4;0;29
+20171001;758;Breda;5346;Oss;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;5482;Meierijstad;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;758;Breda;5617;Eindhoven;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5623;Eindhoven;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;758;Breda;6267;Eijsden-Margraten;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;6522;Nijmegen;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;758;Breda;7021;Bronckhorst;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;758;Breda;7211;Lochem;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;7241;Lochem;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;8239;Lelystad;23GY;01;Het Ginnekencollege;4836AB;BREDA;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1
+20171001;758;Breda;  30;ander land;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;1031;Amsterdam;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3086;Rotterdam;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4714;Rucphen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4761;Moerdijk;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4765;Moerdijk;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4782;Moerdijk;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4791;Moerdijk;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4811;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;11;9;10;7;8;9;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;758;Breda;4812;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;7;17;9;4;5;6;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;758;Breda;4813;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;8;6;1;6;2;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;758;Breda;4814;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;6;7;5;5;1;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;758;Breda;4815;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4817;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;6;4;4;0;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;758;Breda;4818;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;3;5;9;4;9;4;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;758;Breda;4819;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;3;4;3;5;2;6;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;758;Breda;4822;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4823;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;2;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4824;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;2;1;1;2;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;758;Breda;4826;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4827;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4834;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;6;3;2;4;4;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;758;Breda;4835;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;2;2;2;3;4;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;758;Breda;4836;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4837;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4838;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;2;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;758;Breda;4844;Drimmelen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4847;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4849;Oosterhout;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4851;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4854;Breda;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;4;1;2;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;758;Breda;4855;Alphen-Chaam;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4858;Alphen-Chaam;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4861;Alphen-Chaam;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4871;Etten-Leur;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4873;Etten-Leur;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4876;Etten-Leur;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4881;Zundert;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4884;Zundert;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4891;Zundert;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4901;Oosterhout;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4926;Drimmelen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5025;Tilburg;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5045;Tilburg;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5101;Dongen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5121;Gilze en Rijen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;5122;Gilze en Rijen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5126;Gilze en Rijen;23PD;00;Montessori + Breda;4818RH;BREDA;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4811;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4817;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4818;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4822;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4827;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;2;3;1;3;3;7;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;758;Breda;4849;Oosterhout;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4851;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4854;Breda;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;22;31;45;36;38;35;45;39;8;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;758;Breda;4859;Alphen-Chaam;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4903;Oosterhout;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5124;Gilze en Rijen;24BE;00;OBS De Toermalijn;4854KE;BAVEL;Noord-Brabant;Bo;Openbaar;41869;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;  30;ander land;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4811;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4813;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4815;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4816;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;4;7;6;4;3;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;758;Breda;4817;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;4;3;2;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;758;Breda;4822;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4823;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4824;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;10;7;7;8;6;4;7;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;758;Breda;4827;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;6;4;4;5;5;4;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;758;Breda;4834;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;758;Breda;4847;Breda;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4902;Oosterhout;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;1;1;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;758;Breda;4904;Oosterhout;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;3;5;9;7;5;5;4;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;758;Breda;4907;Oosterhout;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4908;Oosterhout;24RZ;00;Okba Ibnoe Nafi;4816EM;BREDA;Noord-Brabant;Bo;Islamitisch;41863;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;  10;Belgie;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;2266;Leidschendam-Voorburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2273;Leidschendam-Voorburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2524;'s-Gravenhage;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2907;Capelle aan den IJssel;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2951;Alblasserdam;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2982;Ridderkerk;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;2993;Barendrecht;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3035;Rotterdam;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3059;Rotterdam;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3068;Rotterdam;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;3074;Rotterdam;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4264;Aalburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4335;Middelburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4471;Goes;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4617;Bergen op Zoom;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4651;Steenbergen;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4706;Roosendaal;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4707;Roosendaal;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4725;Roosendaal;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4731;Halderberge;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4756;Steenbergen;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4812;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4813;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4818;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4823;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4834;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4835;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4836;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4849;Oosterhout;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4851;Breda;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;758;Breda;4874;Etten-Leur;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4881;Zundert;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;758;Breda;4906;Oosterhout;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5011;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5014;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5032;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5036;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;5042;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5045;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5045;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;5046;Tilburg;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5051;Goirle;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;5101;Dongen;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5161;Waalwijk;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5175;Loon op Zand;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5224;'s-Hertogenbosch;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5245;'s-Hertogenbosch;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5271;Sint-Michielsgestel;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5627;Eindhoven;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;So;Rooms-Katholiek;42536;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;5835;Boxmeer;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;6051;Maasgouw;25HE;02;Onderwijsinst Sensis;4836AC;BREDA;Noord-Brabant;Vso;Rooms-Katholiek;42536;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;758;Breda;4761;Moerdijk;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4816;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4817;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;758;Breda;4825;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4826;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4827;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;758;Breda;4834;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;758;Breda;4847;Breda;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;20;19;26;11;20;8;11;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;758;Breda;4902;Oosterhout;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;758;Breda;4904;Oosterhout;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;758;Breda;4906;Oosterhout;30FL;00;NBS Teteringen;4847EW;TETERINGEN;Noord-Brabant;Bo;Algemeen bijzonder;40637;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

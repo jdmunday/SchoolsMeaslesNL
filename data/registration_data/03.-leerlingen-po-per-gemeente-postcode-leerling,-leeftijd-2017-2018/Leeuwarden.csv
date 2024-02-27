@@ -1,0 +1,971 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;80;Leeuwarden;8491;Heerenveen;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8731;Littenseradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8802;Franekeradeel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8804;Franekeradeel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8915;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;2;0;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8916;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8917;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;2;2;2;5;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;80;Leeuwarden;8919;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;2;1;0;1;1;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;80;Leeuwarden;8922;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8923;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;2;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8924;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;2;1;2;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;80;Leeuwarden;8925;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8926;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;2;1;6;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8931;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;3;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8932;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8933;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8934;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;2;1;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8936;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8937;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8939;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8941;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9001;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9005;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;0;2;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;9011;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9035;Menameradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9041;Menameradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9044;Menameradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9047;het Bildt;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;2;0;1;2;5;3;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9073;Ferwerderadiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9074;Ferwerderadiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9075;het Bildt;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;9078;het Bildt;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9079;het Bildt;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9088;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9089;Leeuwarden;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;1;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9265;Tytsjerksteradiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9269;Dantumadiel;02BJ;00;Aquamarijn;8918CT;LEEUWARDEN;Friesland;Sbo;Protestants-Christelijk;40636;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8401;Opsterland;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8446;Heerenveen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8448;Heerenveen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8464;De Fryske Marren;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8491;Heerenveen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8602;S∑dwest-Frysl‘n;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8754;S∑dwest-Frysl‘n;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8801;Franekeradeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8806;Franekeradeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8808;Franekeradeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8857;Harlingen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8861;Harlingen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8862;Harlingen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;1;1;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8872;Harlingen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8916;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8921;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;3;0;1;1;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8922;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8923;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;1;1;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8924;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;2;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8925;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8926;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;0;1;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8931;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8933;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8934;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8935;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8936;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8937;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8939;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9001;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9003;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9008;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9011;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9012;S∑dwest-Frysl‘n;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9022;Littenseradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9032;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9033;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9034;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9035;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9036;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9038;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9041;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9047;het Bildt;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9071;Leeuwarderadeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9072;het Bildt;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9077;het Bildt;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9078;het Bildt;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9083;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9101;Dongeradeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9143;Dongeradeel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9178;Ferwerderadiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9218;Smallingerland;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9247;Opsterland;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;1;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9257;Tytsjerksteradiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9271;Dantumadiel;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9281;Achtkarspelen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9285;Achtkarspelen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9287;Achtkarspelen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9288;Achtkarspelen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9289;Achtkarspelen;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9291;Kollumerland en Nieuwkruisland;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9298;Kollumerland en Nieuwkruisland;02EP;00;Caleidoscoop;8924JK;LEEUWARDEN;Friesland;So;Algemeen bijzonder;41414;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8494;Heerenveen;03VL;00;Basisschool Sint Radboud;9011WE;JIRNSUM;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9001;Leeuwarden;03VL;00;Basisschool Sint Radboud;9011WE;JIRNSUM;Friesland;Bo;Rooms-Katholiek;41000;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9011;Leeuwarden;03VL;00;Basisschool Sint Radboud;9011WE;JIRNSUM;Friesland;Bo;Rooms-Katholiek;41000;0;14;9;5;5;7;4;10;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;80;Leeuwarden;8935;Leeuwarden;04MS;00;Chr Basissch Nydjip;9001LA;GROU;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9001;Leeuwarden;04MS;00;Chr Basissch Nydjip;9001LA;GROU;Friesland;Bo;Protestants-Christelijk;41419;0;21;21;22;27;9;18;14;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;80;Leeuwarden;9005;Leeuwarden;04MS;00;Chr Basissch Nydjip;9001LA;GROU;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9011;Leeuwarden;04MS;00;Chr Basissch Nydjip;9001LA;GROU;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9263;Tytsjerksteradiel;04MS;00;Chr Basissch Nydjip;9001LA;GROU;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9084;Leeuwarden;05UW;00;Chr Basisschool De Arke;9088AS;WIRDUM FR;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;05UW;00;Chr Basisschool De Arke;9088AS;WIRDUM FR;Friesland;Bo;Protestants-Christelijk;41419;0;6;7;7;7;6;5;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;80;Leeuwarden;8911;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8913;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;2;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8915;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;3;0;2;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8916;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;2;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8917;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8918;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;3;1;2;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8922;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8923;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8924;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8925;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8926;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;4;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8927;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8931;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;2;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8932;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;5;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8933;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8934;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8935;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;3;1;6;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;80;Leeuwarden;8939;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;3;4;1;4;5;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;80;Leeuwarden;8941;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;3;3;3;2;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;80;Leeuwarden;9005;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9034;Menameradiel;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;1;0;1;3;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;9088;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9089;Leeuwarden;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9101;Dongeradeel;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;06EC;00;GBS De Princenhof;8931EG;LEEUWARDEN;Friesland;Bo;Gereformeerd vrijgemaakt;42607;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8331;Steenwijkerland;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8441;Heerenveen;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8495;Heerenveen;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8635;Littenseradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8832;Littenseradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8856;Franekeradeel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8857;Harlingen;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;2;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8913;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8915;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8916;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8917;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8918;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8919;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;1;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8921;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;2;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8922;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8925;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8926;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8931;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;4;6;5;2;2;5;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;80;Leeuwarden;8933;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;2;2;5;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8934;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;1;5;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8935;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;2;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8939;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;1;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8941;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9011;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9022;Littenseradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;2;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;9024;Littenseradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9031;Menameradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9033;Menameradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9036;Menameradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9047;het Bildt;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9057;Leeuwarderadeel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9061;Tytsjerksteradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9077;het Bildt;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9083;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9084;Leeuwarden;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9091;Tytsjerksteradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9104;Dantumadiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9111;Ferwerderadiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9204;Smallingerland;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9207;Smallingerland;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9269;Dantumadiel;06PV;00;Michaelschool;8932DG;LEEUWARDEN;Friesland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  20;Duitsland;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8491;Heerenveen;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8604;S∑dwest-Frysl‘n;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;2;0;1;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;80;Leeuwarden;8912;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;2;1;6;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;80;Leeuwarden;8914;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8915;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;4;0;0;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8916;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;3;5;1;6;1;5;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;80;Leeuwarden;8917;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;7;3;8;7;5;7;10;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;80;Leeuwarden;8918;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;5;3;2;4;0;2;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;80;Leeuwarden;8919;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;1;1;0;4;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8921;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;2;4;3;3;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;80;Leeuwarden;8922;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8923;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;2;5;1;2;0;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;80;Leeuwarden;8924;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8925;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8926;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;3;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8927;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8931;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8932;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8933;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8934;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8935;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8939;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;2;0;5;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8941;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9004;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9005;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9031;Menameradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9034;Menameradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9035;Menameradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9036;Menameradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9044;Menameradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9076;het Bildt;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9078;het Bildt;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9083;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9084;Leeuwarden;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9256;Tytsjerksteradiel;07LD;00;Leeuwarder Schoolver;8917EN;LEEUWARDEN;Friesland;Bo;Algemeen bijzonder;35504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;1391;De Ronde Venen;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;1;1;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8922;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8923;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8924;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;2;3;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8925;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;13;23;22;20;28;20;21;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;80;Leeuwarden;8926;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;7;22;14;20;16;19;26;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;80;Leeuwarden;8927;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;2;2;1;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8931;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8932;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8933;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8937;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8939;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;2;2;1;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8941;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;19;11;8;14;11;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;80;Leeuwarden;9005;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9024;Littenseradiel;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9033;Menameradiel;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9035;Menameradiel;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9076;het Bildt;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9084;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;6;9;6;4;6;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;80;Leeuwarden;9087;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9088;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;1;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;9089;Leeuwarden;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9164;Ameland;09KF;00;De Sprong;8925AG;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  40;Onbekend;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8911;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8913;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8915;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8916;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8919;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;2;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8924;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8931;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;7;10;6;16;5;4;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;80;Leeuwarden;8932;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;16;17;18;18;13;18;18;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;80;Leeuwarden;8933;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;3;2;1;0;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8934;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;4;0;4;3;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;80;Leeuwarden;8935;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;4;4;1;1;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;80;Leeuwarden;8936;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;2;1;1;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;80;Leeuwarden;8941;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9005;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9034;Menameradiel;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9084;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;10FJ;00;Basisschool Sint Paulus;8932AB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8914;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8915;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;7;9;5;10;5;6;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;80;Leeuwarden;8916;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;10;17;13;11;9;18;6;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;80;Leeuwarden;8917;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;10;21;9;11;15;11;14;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;80;Leeuwarden;8918;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;3;3;4;5;4;4;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;80;Leeuwarden;8919;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;2;4;3;3;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;80;Leeuwarden;8921;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8922;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8923;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8924;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8925;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8932;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8939;Leeuwarden;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9033;Menameradiel;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9041;Menameradiel;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9057;Leeuwarderadeel;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9256;Tytsjerksteradiel;11KJ;00;Basisschool Sint Thomas;8916EL;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8939;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9001;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9008;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9025;Littenseradiel;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9089;Leeuwarden;12FL;00;Basissch Teake J Roorda;9089BG;WYTGAARD;Friesland;Bo;Rooms-Katholiek;41000;0;6;4;4;7;8;3;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;80;Leeuwarden;  30;ander land;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8446;Heerenveen;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8447;Heerenveen;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8458;Heerenveen;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8494;Heerenveen;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8722;S∑dwest-Frysl‘n;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8814;Franekeradeel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8915;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8917;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8924;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8925;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8926;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8927;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8931;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;2;2;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8932;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;17;24;16;29;15;20;21;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;80;Leeuwarden;8933;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;7;9;6;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;80;Leeuwarden;8934;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;8;11;5;14;12;7;10;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;80;Leeuwarden;8935;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;6;3;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8939;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8941;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;4;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;80;Leeuwarden;9027;Littenseradiel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9061;Tytsjerksteradiel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9081;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9088;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9089;Leeuwarden;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9204;Smallingerland;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9269;Dantumadiel;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9298;Kollumerland en Nieuwkruisland;12QC;00;Johan Willem Frisoschool;8932HN;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;3073;Rotterdam;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8923;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8931;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8933;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8934;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;3;2;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;80;Leeuwarden;8935;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;26;29;36;35;39;35;21;18;5;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;80;Leeuwarden;8936;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;5;6;2;4;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;80;Leeuwarden;8937;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8939;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9005;Leeuwarden;13IR;00;Willem Alexanderschool;8935LW;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;6535;Nijmegen;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8921;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8922;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8924;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;1;2;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8925;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;14;18;10;18;16;17;18;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;80;Leeuwarden;8926;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;22;15;22;26;14;25;14;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;80;Leeuwarden;8927;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;2;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8934;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8939;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9081;Leeuwarden;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9202;Smallingerland;14QA;00;Dr. Algraschool;8925AG;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9003;Leeuwarden;14QN;00;IBS De Twamester;9005PW;WERGEA;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9005;Leeuwarden;14QN;00;IBS De Twamester;9005PW;WERGEA;Friesland;Bo;Openbaar;41850;0;20;18;16;15;19;16;15;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;80;Leeuwarden;9006;Leeuwarden;14QN;00;IBS De Twamester;9005PW;WERGEA;Friesland;Bo;Openbaar;41850;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9865;Grootegast;14QN;00;IBS De Twamester;9005PW;WERGEA;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8911;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8914;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;6;5;5;2;2;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;80;Leeuwarden;8919;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;6;4;2;7;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;80;Leeuwarden;8922;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;11;6;11;10;10;12;10;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;80;Leeuwarden;8923;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;4;1;1;9;9;7;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;80;Leeuwarden;8935;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8937;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9001;Leeuwarden;15AH;00;Prins Constantijnschool;8922CS;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9003;Leeuwarden;15AV;00;De Finne;9003MJ;WARTEN;Friesland;Bo;Openbaar;41850;0;10;7;8;7;9;8;7;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;80;Leeuwarden;9004;Leeuwarden;15AV;00;De Finne;9003MJ;WARTEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9005;Leeuwarden;15AV;00;De Finne;9003MJ;WARTEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;4;6;1;2;5;7;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;80;Leeuwarden;8913;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;1;0;2;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;80;Leeuwarden;8914;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8917;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;1;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8918;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8919;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8921;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;7;4;8;7;7;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;80;Leeuwarden;8922;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8923;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8924;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8925;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8926;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8932;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8933;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;8;4;8;3;3;6;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;80;Leeuwarden;8934;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8935;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9034;Menameradiel;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9062;Tytsjerksteradiel;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9086;Leeuwarden;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9263;Tytsjerksteradiel;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9711;Groningen;15HJ;00;Obs de Oldenye;8911DV;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8911;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;27;26;17;27;24;18;30;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;80;Leeuwarden;8921;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8922;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8924;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8931;Leeuwarden;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;15IV;00;Prins Mauritsschool;8918GE;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9001;Leeuwarden;15JJ;00;It Tredde Ste;9011WE;JIRNSUM;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9011;Leeuwarden;15JJ;00;It Tredde Ste;9011WE;JIRNSUM;Friesland;Bo;Openbaar;41850;0;9;12;10;14;10;11;16;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;80;Leeuwarden;9012;S∑dwest-Frysl‘n;15JJ;00;It Tredde Ste;9011WE;JIRNSUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9013;S∑dwest-Frysl‘n;15JJ;00;It Tredde Ste;9011WE;JIRNSUM;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;  10;Belgie;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;14;13;13;11;17;27;13;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;80;Leeuwarden;8916;Leeuwarden;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8918;Leeuwarden;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;3;3;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8921;Leeuwarden;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9022;Littenseradiel;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9057;Leeuwarderadeel;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9074;Ferwerderadiel;15KE;00;Obs de Wester;8915CC;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8914;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8915;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;15;25;18;21;9;11;18;19;0;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;80;Leeuwarden;8916;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;3;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8917;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;3;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;80;Leeuwarden;8919;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8925;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8933;Leeuwarden;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9648;Veendam;15NV;00;Albertine Agnesschool;8915BB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8702;S∑dwest-Frysl‘n;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8913;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;26;16;19;19;22;20;20;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;80;Leeuwarden;8914;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;1;0;0;2;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;8915;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;0;0;3;4;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;80;Leeuwarden;8916;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;9;5;6;6;9;3;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;80;Leeuwarden;8917;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;10;15;10;14;14;9;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;80;Leeuwarden;8918;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;0;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8919;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8921;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;3;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8922;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8923;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;3;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8924;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8925;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8927;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8931;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8937;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9057;Leeuwarderadeel;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9083;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;15QK;00;Kon Wilhelminaschool;8913CX;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8913;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;2;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8921;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;10;24;13;14;16;15;13;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;80;Leeuwarden;8922;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;2;1;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8923;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8924;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;3;3;1;1;4;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;80;Leeuwarden;8926;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8927;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8931;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8932;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8933;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;5;4;8;2;5;9;2;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;80;Leeuwarden;8934;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8937;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;3;3;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8941;Leeuwarden;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9045;Menameradiel;15SW;00;Kon. Beatrixschool;8921BR;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  30;ander land;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8406;Opsterland;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8491;Heerenveen;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8494;Heerenveen;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8495;Heerenveen;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9001;Leeuwarden;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;26;27;28;28;35;39;36;52;11;1;0;0;0;0;0;0;0;0;0;0;0;0;283
+20171001;80;Leeuwarden;9007;Leeuwarden;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9026;Littenseradiel;15TG;00;OBS De TWA Fisken;9001LA;GROU;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;15WI;00;De Plataanschool;8924CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;0;3;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;80;Leeuwarden;8923;Leeuwarden;15WI;00;De Plataanschool;8924CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8924;Leeuwarden;15WI;00;De Plataanschool;8924CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;5;6;13;10;9;7;11;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;80;Leeuwarden;9001;Leeuwarden;15WI;00;De Plataanschool;8924CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8491;Heerenveen;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9007;Leeuwarden;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9008;Leeuwarden;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;15;13;12;16;10;12;13;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;101
+20171001;80;Leeuwarden;9009;Leeuwarden;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;1;1;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;9011;Leeuwarden;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;15XT;00;Trije Doarpen Skoalle;9008TB;REDUZUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8913;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8925;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8931;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8932;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8933;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8934;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;2;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8935;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;7;10;15;20;18;13;19;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;80;Leeuwarden;8936;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;4;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;80;Leeuwarden;8937;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8939;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9084;Leeuwarden;16DK;00;OBS De Weide;8935GH;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  30;ander land;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8923;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8924;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8932;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8933;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;8;7;8;8;5;7;7;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;80;Leeuwarden;8934;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8935;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8936;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;3;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8937;Leeuwarden;16ET;00;OBS Potmarge;8933CZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;0;2;1;5;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;80;Leeuwarden;  30;ander land;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8917;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;3;3;7;2;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;80;Leeuwarden;8921;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;6;11;3;9;7;13;13;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;80;Leeuwarden;8922;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;4;3;1;2;3;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;80;Leeuwarden;8923;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;2;2;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8924;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;0;1;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8925;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8933;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8937;Leeuwarden;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;16HJ;00;IKC Aventurijn;8921NM;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;7971;Westerveld;16IT;00;Uniasch;9088AS;WIRDUM FR;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9005;Leeuwarden;16IT;00;Uniasch;9088AS;WIRDUM FR;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9087;Leeuwarden;16IT;00;Uniasch;9088AS;WIRDUM FR;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9088;Leeuwarden;16IT;00;Uniasch;9088AS;WIRDUM FR;Friesland;Bo;Openbaar;41850;0;5;9;5;8;3;11;7;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;80;Leeuwarden;8915;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8924;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8931;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8932;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;2;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8934;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8935;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8936;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;2;3;4;2;4;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;80;Leeuwarden;8941;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;2;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;9004;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;23;22;27;20;15;22;14;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;80;Leeuwarden;9086;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;16JY;00;Wiardasch;9084BB;GOUTUM;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8584;S∑dwest-Frysl‘n;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8916;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8917;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8919;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;1;2;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8922;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;1;3;2;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8923;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;4;2;7;1;3;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;80;Leeuwarden;8924;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8925;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8926;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8927;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;4;6;1;1;3;5;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;80;Leeuwarden;8932;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8934;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8935;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9005;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9024;Littenseradiel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9067;Dantumadiel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;2;3;3;1;5;3;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;80;Leeuwarden;9082;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9083;Leeuwarden;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;2;0;3;1;2;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;9091;Tytsjerksteradiel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;2;4;2;3;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;80;Leeuwarden;9101;Dongeradeel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9288;Achtkarspelen;16KZ;00;Prof Wassenberghsch;9081AR;LEKKUM;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  10;Belgie;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8835;Littenseradiel;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8915;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8924;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8926;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8931;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;9;11;8;12;10;8;12;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;80;Leeuwarden;8932;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;11;9;8;24;14;11;6;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;80;Leeuwarden;8933;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8934;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8935;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8936;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9005;Leeuwarden;16MB;00;OBS Het Palet;8932BR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  30;ander land;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;4907;Oosterhout;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8911;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8913;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;10;7;9;8;9;11;9;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;80;Leeuwarden;8919;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8921;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;0;2;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8922;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;2;2;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8923;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;23;11;16;14;11;14;13;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;80;Leeuwarden;8924;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;4;0;2;1;1;4;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8925;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8931;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8934;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8936;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8937;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9001;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9005;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9298;Kollumerland en Nieuwkruisland;16NS;00;obs Eestroom Brandemeer;8923BW;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;2627;Delft;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;12;17;17;19;16;20;14;17;0;0;0;0;0;0;0;0;0;0;0;0;0;0;132
+20171001;80;Leeuwarden;8914;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;2;2;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8915;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8916;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;3;3;5;8;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;80;Leeuwarden;8917;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;0;1;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8918;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8919;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;4;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8922;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8925;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8931;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8934;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9034;Menameradiel;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;16UB;00;OBS De Vosseburcht;8913HK;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8917;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8921;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8922;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8923;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8924;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;3;4;1;4;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;80;Leeuwarden;8925;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;12;16;11;5;12;10;13;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;80;Leeuwarden;8926;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;18;22;18;28;24;22;19;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;80;Leeuwarden;8927;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8931;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8933;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8935;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8938;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9133;Dongeradeel;16ZB;00;OBS De Wielen;8925GZ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8914;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;3;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;80;Leeuwarden;8917;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8919;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8922;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8923;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8924;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8925;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8931;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8932;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8935;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;4;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8936;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8937;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8939;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8941;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9001;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9003;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9005;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9008;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9022;Littenseradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9026;Littenseradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9035;Menameradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9036;Menameradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9041;Menameradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9047;het Bildt;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;1;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;9054;Leeuwarderadeel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9061;Tytsjerksteradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9062;Tytsjerksteradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9071;Leeuwarderadeel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9074;Ferwerderadiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9079;het Bildt;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9271;Dantumadiel;19TP;00;SSBO De Trilker;8915CD;LEEUWARDEN;Friesland;Sbo;Openbaar;41850;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;1738;Schagen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;1788;Den Helder;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;1985;Velsen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;2282;Rijswijk;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;2406;Alphen aan den Rijn;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;3132;Vlaardingen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8406;Opsterland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8407;Opsterland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8442;Heerenveen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8446;Heerenveen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8448;Heerenveen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8463;De Fryske Marren;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8471;Weststellingwerf;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8491;Heerenveen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8517;De Fryske Marren;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8531;De Fryske Marren;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8602;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8605;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8607;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8608;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8621;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8651;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8711;S∑dwest-Frysl‘n;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8731;Littenseradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8801;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1;1;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8802;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8804;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8806;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8811;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8842;Littenseradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8851;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8854;Franekeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8861;Harlingen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8862;Harlingen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;0;0;4;1;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8899;Vlieland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8913;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8916;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8917;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8918;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;3;1;4;4;3;0;0;0;0;0;0;0;0;16
+20171001;80;Leeuwarden;8921;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;2;2;0;6;7;1;0;0;0;0;0;0;0;19
+20171001;80;Leeuwarden;8922;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;2;3;2;1;0;0;0;0;0;0;0;0;10
+20171001;80;Leeuwarden;8923;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;3;1;1;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8924;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8925;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8926;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;3;0;1;0;2;1;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8931;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;3;3;1;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8932;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;3;2;1;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8933;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8934;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8935;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;2;6;4;1;0;0;0;0;0;0;0;0;15
+20171001;80;Leeuwarden;8936;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;5;10;13;5;1;0;1;0;0;0;0;0;36
+20171001;80;Leeuwarden;8937;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9001;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9005;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9011;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9023;Littenseradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9031;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9033;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9034;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9035;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9036;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;9038;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9044;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9047;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;3;2;3;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9061;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9062;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9063;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9074;Ferwerderadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9075;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;2;1;1;2;1;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;9077;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9078;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9079;het Bildt;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9088;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9089;Leeuwarden;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9101;Dongeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9104;Dantumadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9134;Dongeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9147;Dongeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9151;Dongeradeel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9166;Schiermonnikoog;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9172;Ferwerderadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9173;Ferwerderadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9178;Ferwerderadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9201;Smallingerland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9207;Smallingerland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9211;Smallingerland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9216;Smallingerland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9233;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;3;1;0;1;2;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9256;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9265;Tytsjerksteradiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9271;Dantumadiel;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9281;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9285;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9286;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9288;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9291;Kollumerland en Nieuwkruisland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9297;Kollumerland en Nieuwkruisland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9298;Kollumerland en Nieuwkruisland;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9728;Groningen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9873;Achtkarspelen;23JT;00;De Monoliet;8932BR;LEEUWARDEN;Friesland;Vso;Algemeen bijzonder;41414;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8456;Heerenveen;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8801;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8802;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8802;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8804;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8807;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8816;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8855;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8855;Franekeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8857;Harlingen;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8862;Harlingen;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8862;Harlingen;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;2;2;2;1;0;1;0;0;0;0;0;0;0;9
+20171001;80;Leeuwarden;8872;Harlingen;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8881;Terschelling;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8914;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8915;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8916;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8918;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8918;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;2;3;2;1;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8921;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8921;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;1;2;1;1;1;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;8922;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8922;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8923;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8923;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8924;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8925;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8926;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8931;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8932;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8933;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8934;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;1;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8935;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;1;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8937;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8939;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8939;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;2;1;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8941;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8941;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9003;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9005;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9011;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9035;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9035;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9038;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9038;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9041;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9041;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9044;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9045;Menameradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9051;Leeuwarderadeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9054;Leeuwarderadeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9055;Leeuwarderadeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9061;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9073;Ferwerderadiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9076;het Bildt;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;9077;het Bildt;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9077;het Bildt;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9081;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9083;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9088;Leeuwarden;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9091;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9101;Dongeradeel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9172;Ferwerderadiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9251;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9254;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;Vso;Openbaar;42665;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9255;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9256;Tytsjerksteradiel;26LD;00;ZML-School It Twaluk;8915BH;LEEUWARDEN;Friesland;So;Openbaar;42665;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;4285;Woudrichem;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8921;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8931;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8933;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8934;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8939;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;27;35;50;50;48;62;45;46;2;0;0;0;0;0;0;0;0;0;0;0;0;0;365
+20171001;80;Leeuwarden;8941;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;9005;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9084;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;9086;Leeuwarden;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;0;0;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;80;Leeuwarden;9982;Eemsmond;27NL;00;Maximaschool;8939CB;LEEUWARDEN;Friesland;Bo;Protestants-Christelijk;41419;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8913;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8917;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8921;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8932;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8934;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;2;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;80;Leeuwarden;8939;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;31;35;38;40;39;39;47;46;5;0;0;0;0;0;0;0;0;0;0;0;0;0;320
+20171001;80;Leeuwarden;8941;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9003;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9074;Ferwerderadiel;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9085;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9086;Leeuwarden;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;2;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;80;Leeuwarden;9271;Dantumadiel;27RN;00;De Wynwizer;8939CR;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;  40;Onbekend;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;1186;Amstelveen;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8915;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8918;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;2;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;80;Leeuwarden;8921;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;18;16;17;21;14;14;14;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;80;Leeuwarden;8922;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;4;4;3;2;3;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;80;Leeuwarden;8923;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;5;3;9;3;5;5;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;80;Leeuwarden;8924;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;13;14;9;9;4;10;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;80;Leeuwarden;8926;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;80;Leeuwarden;8932;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8933;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8934;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8935;Leeuwarden;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9056;Leeuwarderadeel;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9076;het Bildt;31AG;00;IKC Franciscus;8921XB;LEEUWARDEN;Friesland;Bo;Rooms-Katholiek;41000;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8911;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8916;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8922;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8926;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8931;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8932;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;80;Leeuwarden;8933;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8934;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;8935;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;8939;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;80;Leeuwarden;8941;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;24;36;37;22;22;20;17;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;183
+20171001;80;Leeuwarden;9005;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9036;Menameradiel;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9084;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;9;6;8;4;6;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;80;Leeuwarden;9086;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9088;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;80;Leeuwarden;9089;Leeuwarden;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;80;Leeuwarden;9204;Smallingerland;31GH;00;De Pionier;8941AJ;LEEUWARDEN;Friesland;Bo;Openbaar;41850;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

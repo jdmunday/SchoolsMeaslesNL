@@ -1,0 +1,669 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;503;Delft;2271;Leidschendam-Voorburg;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2272;Leidschendam-Voorburg;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2273;Leidschendam-Voorburg;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2282;Rijswijk;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2292;Westland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2497;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2498;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2516;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2524;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2526;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2531;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2542;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2548;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;2;0;0;0;1;1;1;0;0;0;0;0;0;0;5
+20171001;503;Delft;2552;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2563;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2565;'s-Gravenhage;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;503;Delft;2612;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;4
+20171001;503;Delft;2614;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;503;Delft;2622;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;2;0;0;0;0;0;0;5
+20171001;503;Delft;2623;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;1;0;0;0;0;0;0;5
+20171001;503;Delft;2625;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;1;0;1;2;1;1;0;0;0;0;0;0;0;7
+20171001;503;Delft;2628;Delft;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;1;3;2;1;0;0;0;0;0;0;0;8
+20171001;503;Delft;2631;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;2;1;2;0;2;0;0;0;0;0;0;8
+20171001;503;Delft;2632;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;503;Delft;2636;Midden-Delfland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2641;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;503;Delft;2642;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2643;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;3;0;0;0;0;0;0;5
+20171001;503;Delft;2651;Lansingerland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2652;Lansingerland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2661;Lansingerland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;503;Delft;2662;Lansingerland;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2713;Zoetermeer;00PZ;00;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2273;Leidschendam-Voorburg;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2284;Rijswijk;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2402;Alphen aan den Rijn;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2541;'s-Gravenhage;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2542;'s-Gravenhage;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2612;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2613;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2614;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2622;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2623;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2625;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2628;Delft;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2631;Pijnacker-Nootdorp;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2636;Midden-Delfland;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2642;Pijnacker-Nootdorp;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;00PZ;02;Herman Broerenschool;2612SP;DELFT;Zuid-Holland;So;Algemeen bijzonder;38209;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2266;Leidschendam-Voorburg;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2273;Leidschendam-Voorburg;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2288;Rijswijk;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2291;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2292;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2295;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;503;Delft;2493;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2493;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2498;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2512;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2525;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2525;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2533;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2542;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2544;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2547;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2548;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2553;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2562;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2566;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2572;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2583;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2593;'s-Gravenhage;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2613;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2614;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2622;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2623;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2623;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2625;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2625;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2628;Delft;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2631;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;1;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2632;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2632;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2636;Midden-Delfland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2636;Midden-Delfland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2641;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2642;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2643;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2645;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2645;Pijnacker-Nootdorp;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2652;Lansingerland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2665;Lansingerland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2671;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2671;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2672;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2673;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2675;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2675;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2678;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2678;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2681;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2691;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2691;Westland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2712;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2715;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2715;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2716;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2717;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2719;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2719;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2721;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2724;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2728;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2729;Zoetermeer;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2805;Gouda;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2807;Gouda;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3135;Vlaardingen;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3137;Vlaardingen;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3145;Maassluis;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3151;Rotterdam;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;3155;Midden-Delfland;02YJ;00;Maurice Maeterlincksch;2625XR;DELFT;Zuid-Holland;So;Algemeen bijzonder;42573;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2265;Leidschendam-Voorburg;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2281;Rijswijk;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2283;Rijswijk;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2286;Rijswijk;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2288;Rijswijk;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2289;Rijswijk;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2291;Westland;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2492;'s-Gravenhage;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2498;'s-Gravenhage;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2516;'s-Gravenhage;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2612;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2613;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;5;8;2;3;0;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;503;Delft;2614;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;9;4;8;7;6;7;4;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;503;Delft;2622;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;1;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2623;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2624;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;2;3;3;0;2;2;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;503;Delft;2625;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;4;2;3;1;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;503;Delft;2627;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;2;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2628;Delft;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;2;1;2;3;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;503;Delft;2635;Midden-Delfland;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;2;3;3;2;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;503;Delft;2643;Pijnacker-Nootdorp;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;0;4;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2678;Westland;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;3046;Rotterdam;04MF;00;Delftse Montessorischool;2613JK;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;31162;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  30;ander land;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2281;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2282;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2283;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2284;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2286;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;3;3;1;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2287;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2288;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2289;Rijswijk;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;2;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2295;Westland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2492;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2498;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;2;0;2;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2518;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2542;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2544;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2548;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2552;'s-Gravenhage;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;3;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;503;Delft;2612;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;1;1;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2613;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;13;6;4;10;9;9;8;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;503;Delft;2614;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;7;6;1;7;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;503;Delft;2622;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2623;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2625;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;2;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2626;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2627;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2628;Delft;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;2;1;1;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2631;Pijnacker-Nootdorp;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2632;Pijnacker-Nootdorp;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;4;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2636;Midden-Delfland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2641;Pijnacker-Nootdorp;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2645;Pijnacker-Nootdorp;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;2;1;4;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2652;Lansingerland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2661;Lansingerland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2678;Westland;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2724;Zoetermeer;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;3011;Rotterdam;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3114;Schiedam;06RE;00;De Vrije School Widar;2613XB;DELFT;Zuid-Holland;Bo;Antroposofisch;61960;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2281;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2282;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2284;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2286;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2288;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;2;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2289;Rijswijk;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;2;1;1;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;503;Delft;2496;'s-Gravenhage;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2497;'s-Gravenhage;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;4;3;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;503;Delft;2498;'s-Gravenhage;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;3;2;1;1;4;3;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;503;Delft;2515;'s-Gravenhage;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2586;'s-Gravenhage;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;16;6;14;11;12;8;16;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;503;Delft;2612;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;10;9;9;11;4;11;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;503;Delft;2613;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;9;6;10;13;10;9;5;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;503;Delft;2614;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;2;6;6;2;6;2;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;503;Delft;2622;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2625;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;1;1;1;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2627;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;2;1;2;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2628;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;2;2;6;7;3;5;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;503;Delft;2629;Delft;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2631;Pijnacker-Nootdorp;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2632;Pijnacker-Nootdorp;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2642;Pijnacker-Nootdorp;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;1;3;1;2;4;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;503;Delft;2652;Lansingerland;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2661;Lansingerland;08CF;00;Delftsche Schoolver;2611XG;DELFT;Zuid-Holland;Bo;Algemeen bijzonder;95135;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;4;0;2;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;503;Delft;2289;Rijswijk;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2291;Westland;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2496;'s-Gravenhage;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2497;'s-Gravenhage;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2498;'s-Gravenhage;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2611;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2612;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;6;2;8;3;3;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;503;Delft;2613;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;1;1;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2614;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;2;2;3;7;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;503;Delft;2622;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;1;2;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2623;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;1;0;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2624;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;5;2;5;0;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;503;Delft;2625;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;3;0;1;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2627;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2628;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;15;18;15;11;16;13;14;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;503;Delft;2629;Delft;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2631;Pijnacker-Nootdorp;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2636;Midden-Delfland;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2641;Pijnacker-Nootdorp;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;1;0;3;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2642;Pijnacker-Nootdorp;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;0;0;2;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2643;Pijnacker-Nootdorp;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2645;Pijnacker-Nootdorp;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;8;11;6;10;5;8;10;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;503;Delft;2718;Zoetermeer;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;5644;Eindhoven;10WI;00;Prins Mauritsschool;2628GJ;DELFT;Zuid-Holland;Bo;Reformatorisch;26613;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  30;ander land;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;2;5;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;503;Delft;2264;Leidschendam-Voorburg;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2281;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2282;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2283;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2284;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2287;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2288;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2289;Rijswijk;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2332;Leiden;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2492;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2493;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2497;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2498;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2514;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2517;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2553;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2581;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2585;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2595;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2597;'s-Gravenhage;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;5;5;3;2;6;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;503;Delft;2612;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2613;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;15;14;24;22;21;22;17;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;503;Delft;2614;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;9;5;11;6;7;9;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;503;Delft;2622;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2623;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;2;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2624;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;3;3;2;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2625;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;3;1;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2627;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2628;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;5;2;6;1;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;503;Delft;2629;Delft;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2631;Pijnacker-Nootdorp;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2632;Pijnacker-Nootdorp;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2636;Midden-Delfland;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2642;Pijnacker-Nootdorp;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2645;Pijnacker-Nootdorp;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;3043;Rotterdam;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3055;Rotterdam;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;3068;Rotterdam;12SL;00;Gabrielschool;2613VX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2282;Rijswijk;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2284;Rijswijk;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2591;'s-Gravenhage;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2614;Delft;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;19;19;13;12;21;9;14;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;503;Delft;2628;Delft;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2635;Midden-Delfland;12SL;01;Gabrielschool;2614SH;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;  30;ander land;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2283;Rijswijk;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2288;Rijswijk;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2524;'s-Gravenhage;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;10;4;5;4;6;5;7;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;503;Delft;2612;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;7;7;10;5;9;6;10;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;503;Delft;2613;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2614;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2624;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2625;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2627;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2628;Delft;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;13;15;8;8;9;9;15;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;503;Delft;2631;Pijnacker-Nootdorp;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2636;Midden-Delfland;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2642;Pijnacker-Nootdorp;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;13FA;00;RK Basissch de Oostpoort;2611SN;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;1421;Uithoorn;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2498;'s-Gravenhage;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2612;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;7;2;3;3;0;3;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;503;Delft;2624;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2625;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2627;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2628;Delft;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;8;15;9;9;13;10;16;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;503;Delft;2723;Zoetermeer;13KK;00;Cornelis Musiusschool;2628SR;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2288;Rijswijk;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2289;Rijswijk;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;6;1;4;4;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;503;Delft;2496;'s-Gravenhage;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2498;'s-Gravenhage;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2543;'s-Gravenhage;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;1;4;1;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;503;Delft;2612;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;28;23;19;23;19;17;13;20;2;1;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;503;Delft;2613;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2614;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2622;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2627;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2628;Delft;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;4;4;3;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;503;Delft;2635;Midden-Delfland;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2642;Pijnacker-Nootdorp;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2729;Zoetermeer;13PI;00;Bernadette Mariaschool;2612XZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  30;ander land;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  40;Onbekend;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;1444;Purmerend;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2274;Leidschendam-Voorburg;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2281;Rijswijk;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2285;Rijswijk;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2287;Rijswijk;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2544;'s-Gravenhage;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2574;'s-Gravenhage;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2613;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;2;2;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2614;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;10;7;10;9;8;3;8;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;64
+20171001;503;Delft;2622;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;3;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2624;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;12;15;13;16;11;8;17;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;108
+20171001;503;Delft;2625;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;18;14;12;12;9;13;7;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;503;Delft;2628;Delft;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2635;Midden-Delfland;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2636;Midden-Delfland;13QZ;00;Parkschool;2624RZ;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  40;Onbekend;13WS;00;Mgr Bekkersschool;2624ZA;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;13WS;00;Mgr Bekkersschool;2624ZA;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;13WS;00;Mgr Bekkersschool;2624ZA;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;15;6;16;16;15;14;13;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;503;Delft;2625;Delft;13WS;00;Mgr Bekkersschool;2624ZA;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;2;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;3046;Rotterdam;13WS;00;Mgr Bekkersschool;2624ZA;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  40;Onbekend;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2286;Rijswijk;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;2;1;3;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2288;Rijswijk;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2289;Rijswijk;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;0;0;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2493;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2496;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2498;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2525;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2553;'s-Gravenhage;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;4;3;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2612;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;3;3;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;503;Delft;2613;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;41;29;43;29;25;32;21;24;8;0;0;0;0;0;0;0;0;0;0;0;0;0;252
+20171001;503;Delft;2614;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;12;4;9;11;7;12;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;503;Delft;2622;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2625;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2627;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2628;Delft;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;3;1;2;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;503;Delft;2635;Midden-Delfland;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;4;2;4;3;3;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;503;Delft;2636;Midden-Delfland;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2645;Pijnacker-Nootdorp;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;3031;Rotterdam;13YL;00;Freinetsch Delft Opb Bso;2613LE;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2263;Leidschendam-Voorburg;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2622;Delft;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2623;Delft;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;3;1;3;2;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2625;Delft;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;31;29;28;23;17;29;19;18;3;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;503;Delft;2628;Delft;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;14DJ;00;Titus Brandsmaschool;2625KX;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2286;Rijswijk;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2287;Rijswijk;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2288;Rijswijk;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2289;Rijswijk;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2523;'s-Gravenhage;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;2;3;4;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2612;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2613;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;15;20;12;11;14;9;11;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;503;Delft;2614;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;27;26;21;24;22;20;28;18;4;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;503;Delft;2622;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2623;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;2;2;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2625;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2627;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2628;Delft;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2635;Midden-Delfland;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2645;Pijnacker-Nootdorp;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;3081;Rotterdam;14FM;00;Chris Het Mozaiek;2613GV;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2614;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2622;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;2;0;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2623;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;15;18;16;16;15;10;18;12;2;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;503;Delft;2624;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;0;0;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2625;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;2;1;2;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2626;Delft;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2636;Midden-Delfland;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2645;Pijnacker-Nootdorp;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2718;Zoetermeer;14GD;00;Regenboog-School;2623MZ;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2522;'s-Gravenhage;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2613;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2614;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2622;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;22;11;22;18;25;19;13;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;503;Delft;2623;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2624;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2625;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;1;3;6;3;4;4;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;503;Delft;2628;Delft;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2636;Midden-Delfland;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;14IX;00;De Bonte Pael;2622EE;DELFT;Zuid-Holland;Bo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2273;Leidschendam-Voorburg;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2274;Leidschendam-Voorburg;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2282;Rijswijk;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2283;Rijswijk;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2288;Rijswijk;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;2;4;1;2;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2289;Rijswijk;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;5;0;2;3;0;3;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;503;Delft;2497;'s-Gravenhage;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2498;'s-Gravenhage;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2548;'s-Gravenhage;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2553;'s-Gravenhage;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;16;16;14;15;18;14;16;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;503;Delft;2612;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;11;10;15;16;8;11;7;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;503;Delft;2613;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;8;5;9;9;9;11;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;503;Delft;2614;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2616;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2622;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2623;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2625;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2627;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;3;5;3;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;503;Delft;2628;Delft;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;3;1;4;3;8;9;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;503;Delft;2635;Midden-Delfland;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2642;Pijnacker-Nootdorp;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2645;Pijnacker-Nootdorp;14KW;00;PC Bs Max Havelaar;2611JR;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  40;Onbekend;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2273;Leidschendam-Voorburg;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2286;Rijswijk;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2288;Rijswijk;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2512;'s-Gravenhage;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2531;'s-Gravenhage;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2574;'s-Gravenhage;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;3;2;2;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2614;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2622;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;2;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2623;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2624;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;30;21;27;25;22;28;26;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;503;Delft;2625;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;13;4;12;10;9;12;6;10;1;2;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;503;Delft;2627;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;2;4;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2628;Delft;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;2;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2631;Pijnacker-Nootdorp;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2635;Midden-Delfland;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2641;Pijnacker-Nootdorp;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2642;Pijnacker-Nootdorp;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2643;Pijnacker-Nootdorp;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2661;Lansingerland;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;3031;Rotterdam;14MR;00;Basisschool de Eglantier;2624NX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;  40;Onbekend;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;1106;Amsterdam;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2285;Rijswijk;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2614;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;2;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2622;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2624;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;15;15;10;3;13;5;8;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;503;Delft;2625;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;21;23;20;21;27;22;33;19;6;0;0;0;0;0;0;0;0;0;0;0;0;0;192
+20171001;503;Delft;2627;Delft;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;15AL;00;Chr Basissch de Horizon;2625BW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2622;Delft;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2623;Delft;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;2;2;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;503;Delft;2625;Delft;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;10;9;22;16;18;14;21;19;4;0;0;0;0;0;0;0;0;0;0;0;0;0;133
+20171001;503;Delft;2716;Zoetermeer;15FT;00;Chr Basissch Rembrandt;2625GM;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2613;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2614;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2622;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;2;4;0;7;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;503;Delft;2623;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;12;7;9;12;7;4;7;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;503;Delft;2624;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;1;0;2;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;503;Delft;2625;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2629;Delft;15FT;01;Chr Basisschool de Ark;2623NW;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;  30;ander land;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;  40;Onbekend;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2274;Leidschendam-Voorburg;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2288;Rijswijk;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;3;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2289;Rijswijk;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;5;3;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;503;Delft;2496;'s-Gravenhage;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2497;'s-Gravenhage;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;2;1;3;0;4;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;503;Delft;2498;'s-Gravenhage;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;4;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2611;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;17;11;13;13;17;13;8;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;102
+20171001;503;Delft;2612;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;12;10;22;12;11;17;15;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;503;Delft;2613;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;6;10;6;4;5;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;503;Delft;2614;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;4;4;3;5;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;503;Delft;2622;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2624;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;2;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2625;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;2;0;1;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2627;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;1;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2628;Delft;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;4;10;9;6;5;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;503;Delft;2631;Pijnacker-Nootdorp;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2641;Pijnacker-Nootdorp;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2645;Pijnacker-Nootdorp;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;3;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2652;Lansingerland;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2801;Gouda;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3025;Rotterdam;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3061;Rotterdam;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3083;Rotterdam;15IE;00;Montessorisch Jan Vermeer;2612SR;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2282;Rijswijk;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2283;Rijswijk;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2285;Rijswijk;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2352;Leiderdorp;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2555;'s-Gravenhage;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2614;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2622;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;23;15;20;19;14;26;20;21;1;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;503;Delft;2623;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2624;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;3;2;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2625;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;3;3;6;6;1;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;503;Delft;2626;Delft;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;3146;Maassluis;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;5301;Zaltbommel;15LQ;00;Chr Basisschool de Bron;2622EA;DELFT;Zuid-Holland;Bo;Protestants-Christelijk;83228;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2271;Leidschendam-Voorburg;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2543;'s-Gravenhage;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2614;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2622;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;5;2;1;6;4;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;503;Delft;2623;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;13;15;6;17;16;17;12;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;503;Delft;2624;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;5;1;3;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;503;Delft;2625;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;2;0;2;4;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2628;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2629;Delft;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;1;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2635;Midden-Delfland;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3077;Rotterdam;15NM;00;OBS S Carmiggelt;2623MX;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2272;Leidschendam-Voorburg;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2289;Rijswijk;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2498;'s-Gravenhage;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2513;'s-Gravenhage;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2611;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2613;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2614;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;3;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;503;Delft;2622;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;10;18;9;11;15;11;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;503;Delft;2623;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2624;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;1;3;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;503;Delft;2625;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;6;5;4;4;3;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;503;Delft;2627;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2628;Delft;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2632;Pijnacker-Nootdorp;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;503;Delft;2645;Pijnacker-Nootdorp;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;503;Delft;2729;Zoetermeer;15PZ;00;o.b.s. De Eglantier Tanthof;2622HB;DELFT;Zuid-Holland;Bo;Openbaar;41441;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2613;Delft;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2614;Delft;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2624;Delft;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2625;Delft;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2632;Pijnacker-Nootdorp;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2641;Pijnacker-Nootdorp;20KP;02;School Verb A/H P.I.;2625XR;DELFT;Zuid-Holland;So;Openbaar;41572;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2289;Rijswijk;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2553;'s-Gravenhage;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2612;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;1;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2613;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;1;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2614;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;1;0;1;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;503;Delft;2622;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;1;3;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;503;Delft;2623;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2624;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;1;1;1;3;2;3;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;503;Delft;2625;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;5;1;2;8;14;8;10;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;503;Delft;2628;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;1;0;2;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;503;Delft;2629;Delft;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2635;Midden-Delfland;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2652;Lansingerland;21GJ;00;SSBO Laurentius;2625AN;DELFT;Zuid-Holland;Sbo;Rooms-Katholiek;40928;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2153;Haarlemmermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2264;Leidschendam-Voorburg;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2274;Leidschendam-Voorburg;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2282;Rijswijk;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2285;Rijswijk;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2286;Rijswijk;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2291;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2295;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2496;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2497;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2498;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2521;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2525;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2546;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2548;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2552;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2553;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2573;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2574;'s-Gravenhage;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2611;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2612;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2613;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2614;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2622;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2623;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2624;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;2;2;0;2;1;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2625;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0;0;0;0;0;0;0;0;0;6
+20171001;503;Delft;2628;Delft;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;2;2;1;0;0;0;0;0;0;0;0;7
+20171001;503;Delft;2631;Pijnacker-Nootdorp;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;1;0;2;1;1;0;0;0;0;0;0;0;6
+20171001;503;Delft;2641;Pijnacker-Nootdorp;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2645;Pijnacker-Nootdorp;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2652;Lansingerland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2671;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2678;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;503;Delft;2681;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;503;Delft;2685;Westland;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2712;Zoetermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2716;Zoetermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2717;Zoetermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2727;Zoetermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;2728;Zoetermeer;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3071;Rotterdam;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3145;Maassluis;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;503;Delft;3151;Rotterdam;23GJ;02;Pleysier College Delft;2624JZ;DELFT;Zuid-Holland;Vso;Algemeen bijzonder;30815;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1

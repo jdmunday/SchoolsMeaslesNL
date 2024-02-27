@@ -1,0 +1,947 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;546;Leiden;1431;Aalsmeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2041;Zandvoort;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2114;Bloemendaal;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2133;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2134;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2135;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2151;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;1;2;1;1;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2152;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2157;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2161;Lisse;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2162;Lisse;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;1;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2165;Haarlemmermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2172;Teylingen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2182;Hillegom;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;2;0;2;1;2;1;1;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2191;Noordwijkerhout;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2201;Noordwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2202;Noordwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2203;Noordwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2211;Noordwijkerhout;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2215;Teylingen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;1;3;3;1;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2221;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2223;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2224;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2225;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;2;2;1;2;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2231;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;2;2;0;3;0;1;0;0;0;0;0;0;10
+20171001;546;Leiden;2235;Katwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2241;Wassenaar;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2242;Wassenaar;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2243;Wassenaar;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2244;Wassenaar;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2252;Voorschoten;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;1;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2253;Voorschoten;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2261;Leidschendam-Voorburg;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2264;Leidschendam-Voorburg;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2271;Leidschendam-Voorburg;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2272;Leidschendam-Voorburg;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2274;Leidschendam-Voorburg;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2313;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;4;2;1;0;1;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2314;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2316;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2317;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2318;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2321;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2324;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2331;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2332;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2333;Leiden;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;3;1;1;0;0;1;1;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2342;Oegstgeest;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2353;Leiderdorp;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;2;3;0;2;0;0;0;0;0;0;9
+20171001;546;Leiden;2361;Teylingen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;546;Leiden;2371;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2374;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2377;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2381;Zoeterwoude;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2382;Zoeterwoude;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2391;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2394;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2396;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2402;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2403;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;2;3;2;0;0;1;1;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2404;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2405;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2406;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2408;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;2;2;1;2;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2411;Bodegraven-Reeuwijk;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2421;Nieuwkoop;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2431;Nieuwkoop;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2435;Nieuwkoop;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2441;Nieuwkoop;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2445;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2451;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2461;Nieuwkoop;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2465;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2471;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2481;Kaag en Braassem;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2492;'s-Gravenhage;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2493;'s-Gravenhage;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2665;Lansingerland;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2671;Westland;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2675;Westland;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2711;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2717;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2718;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2719;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2721;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2722;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2724;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2725;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2726;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2727;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2728;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2729;Zoetermeer;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2741;Waddinxveen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2742;Waddinxveen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2743;Waddinxveen;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2751;Zuidplas;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2771;Alphen aan den Rijn;00NT;03;Prof Dr Leo Kannerschool;2324JM;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2171;Teylingen;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2202;Noordwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2221;Katwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2223;Katwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2223;Katwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2224;Katwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2241;Wassenaar;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2242;Wassenaar;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2251;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;3;1;0;2;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2252;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2253;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2254;Voorschoten;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;546;Leiden;2263;Leidschendam-Voorburg;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2263;Leidschendam-Voorburg;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2313;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2313;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2314;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2314;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2315;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2316;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2316;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2317;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2317;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2318;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2318;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2321;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;5
+20171001;546;Leiden;2324;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;2;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2324;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2331;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2331;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;4;0;1;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2332;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2332;Leiden;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2351;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2352;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2353;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2361;Teylingen;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2361;Teylingen;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2371;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2371;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2375;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2375;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2377;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2377;Kaag en Braassem;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2381;Zoeterwoude;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2382;Zoeterwoude;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2391;Alphen aan den Rijn;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2396;Alphen aan den Rijn;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2716;Zoetermeer;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2721;Zoetermeer;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2721;Zoetermeer;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2726;Zoetermeer;00OQ;00;Korte Vlietsch voor ZMLK;2324CR;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2103;Heemstede;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2121;Bloemendaal;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2135;Haarlemmermeer;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2161;Lisse;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2162;Lisse;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2163;Lisse;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2165;Haarlemmermeer;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2172;Teylingen;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2201;Noordwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2215;Teylingen;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2221;Katwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2225;Katwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2235;Katwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2251;Voorschoten;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2252;Voorschoten;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2274;Leidschendam-Voorburg;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2313;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2316;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2317;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2331;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2332;Leiden;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2341;Oegstgeest;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2355;Kaag en Braassem;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2361;Teylingen;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2371;Kaag en Braassem;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2394;Alphen aan den Rijn;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2402;Alphen aan den Rijn;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2403;Alphen aan den Rijn;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2405;Alphen aan den Rijn;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2408;Alphen aan den Rijn;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2411;Bodegraven-Reeuwijk;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2421;Nieuwkoop;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2435;Nieuwkoop;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2441;Nieuwkoop;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2461;Nieuwkoop;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2481;Kaag en Braassem;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2522;'s-Gravenhage;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2631;Pijnacker-Nootdorp;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2726;Zoetermeer;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2743;Waddinxveen;01JO;03;De Weerklank;2324VN;LEIDEN;Zuid-Holland;Vso;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2151;Haarlemmermeer;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2161;Lisse;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2162;Lisse;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2171;Teylingen;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2172;Teylingen;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2182;Hillegom;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2201;Noordwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2202;Noordwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2211;Noordwijkerhout;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2221;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;2;1;1;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2223;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2224;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;3;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2225;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2231;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;3;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2235;Katwijk;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2242;Wassenaar;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2251;Voorschoten;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2252;Voorschoten;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2273;Leidschendam-Voorburg;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2313;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2315;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2316;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2317;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2324;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2331;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2332;Leiden;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2341;Oegstgeest;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2343;Oegstgeest;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2352;Leiderdorp;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2353;Leiderdorp;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2371;Kaag en Braassem;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2377;Kaag en Braassem;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2405;Alphen aan den Rijn;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2451;Kaag en Braassem;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2517;'s-Gravenhage;01JO;04;de Weerklank;2324VN;LEIDEN;Zuid-Holland;So;Protestants-Christelijk;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2224;Katwijk;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;5;10;9;12;3;6;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;546;Leiden;2312;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;5;4;5;3;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;546;Leiden;2313;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;13;8;10;7;16;11;17;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;546;Leiden;2314;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2315;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;4;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2316;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;3;0;3;0;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;546;Leiden;2317;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2321;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;4;5;0;2;2;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;546;Leiden;2332;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;1;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2333;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2334;Leiden;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2396;Alphen aan den Rijn;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2403;Alphen aan den Rijn;04PN;00;Haanstra Basisschool;2311GM;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;36739;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2172;Teylingen;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2242;Wassenaar;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2252;Voorschoten;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;2;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2262;Leidschendam-Voorburg;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2264;Leidschendam-Voorburg;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;2;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2312;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;4;3;3;5;4;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;546;Leiden;2313;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;6;3;1;3;4;4;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;546;Leiden;2314;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;3;2;3;6;2;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;546;Leiden;2316;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;9;10;4;6;3;5;10;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;546;Leiden;2317;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;2;3;2;4;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;546;Leiden;2318;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;2;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2321;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;2;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2322;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2331;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2332;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;2;2;1;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2333;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2334;Leiden;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2341;Oegstgeest;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;2;2;3;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2342;Oegstgeest;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2351;Leiderdorp;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2352;Leiderdorp;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;1;0;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2353;Leiderdorp;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2355;Kaag en Braassem;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2361;Teylingen;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2371;Kaag en Braassem;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2382;Zoeterwoude;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2394;Alphen aan den Rijn;06UT;00;Vrije School Mareland;2316HA;LEIDEN;Zuid-Holland;Bo;Antroposofisch;41359;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2223;Katwijk;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2235;Katwijk;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2251;Voorschoten;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2253;Voorschoten;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;1;4;6;1;4;5;5;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;546;Leiden;2312;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;4;2;3;2;0;2;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;546;Leiden;2313;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;3;1;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2314;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2315;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2316;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;3;1;3;2;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;546;Leiden;2317;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;1;2;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2318;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;6;8;1;5;5;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;546;Leiden;2324;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;1;4;6;0;5;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;546;Leiden;2331;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;2;2;2;2;4;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;546;Leiden;2332;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;17;7;6;16;12;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;546;Leiden;2333;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2334;Leiden;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2342;Oegstgeest;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2343;Oegstgeest;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2351;Leiderdorp;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2352;Leiderdorp;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2353;Leiderdorp;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2548;'s-Gravenhage;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;3543;Utrecht;08CJ;00;Eerste Leidse Schoolver;2332AX;LEIDEN;Zuid-Holland;Bo;Algemeen bijzonder;96617;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2224;Katwijk;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2253;Voorschoten;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2311;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2312;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2313;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2315;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2316;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2317;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2318;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;6;7;6;0;5;7;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;546;Leiden;2324;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;4;4;3;6;6;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;546;Leiden;2331;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;2;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2332;Leiden;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;39;46;47;41;45;41;33;27;1;0;0;0;0;0;0;0;0;0;0;0;0;0;320
+20171001;546;Leiden;2341;Oegstgeest;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2342;Oegstgeest;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2361;Teylingen;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2553;'s-Gravenhage;14MM;00;De Morskring;2332XG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2252;Voorschoten;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2253;Voorschoten;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;1;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2311;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2313;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2316;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;3;6;4;6;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;546;Leiden;2322;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;9;10;10;14;6;13;10;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;546;Leiden;2331;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2332;Leiden;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2351;Leiderdorp;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2352;Leiderdorp;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2361;Teylingen;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;15IC;00;Apollo;2324BG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  40;Onbekend;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2252;Voorschoten;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2313;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;5;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2314;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;20;31;30;39;39;47;38;38;3;0;0;0;0;0;0;0;0;0;0;0;0;0;285
+20171001;546;Leiden;2315;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2316;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;9;7;6;1;9;10;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;546;Leiden;2324;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;5;4;5;1;3;7;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;546;Leiden;2331;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2332;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2334;Leiden;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2352;Leiderdorp;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2353;Leiderdorp;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2371;Kaag en Braassem;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2382;Zoeterwoude;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;7;7;4;6;4;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;546;Leiden;2394;Alphen aan den Rijn;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2554;'s-Gravenhage;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;4204;Gorinchem;15KV;00;Telders;2321TE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;1104;Amsterdam;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2224;Katwijk;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2253;Voorschoten;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;17;11;13;6;7;7;9;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;546;Leiden;2312;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;19;18;10;16;11;11;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;546;Leiden;2313;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;9;9;14;6;5;7;4;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;546;Leiden;2314;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;8;7;5;3;6;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;546;Leiden;2316;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;24;12;13;12;13;8;9;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;546;Leiden;2317;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;4;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2321;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;11;9;6;7;4;9;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;546;Leiden;2324;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;3;2;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2331;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2332;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2334;Leiden;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2341;Oegstgeest;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2343;Oegstgeest;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2352;Leiderdorp;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2381;Zoeterwoude;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2401;Alphen aan den Rijn;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2516;'s-Gravenhage;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2593;'s-Gravenhage;15NJ;00;Lucas V Leyden;2311RE;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2315;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;4;2;3;4;3;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;546;Leiden;2316;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;3;1;0;2;3;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;546;Leiden;2317;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;9;14;8;11;10;13;9;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;546;Leiden;2331;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2334;Leiden;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2342;Oegstgeest;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2343;Oegstgeest;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2351;Leiderdorp;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2352;Leiderdorp;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2353;Leiderdorp;15PX;00;Brede School Merenwijk;2317AN;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2315;Leiden;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;2;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2316;Leiden;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2317;Leiden;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;11;8;19;10;22;13;11;19;2;1;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;546;Leiden;2318;Leiden;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;5;8;8;14;2;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;546;Leiden;2334;Leiden;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2341;Oegstgeest;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2353;Leiderdorp;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2361;Teylingen;15SH;00;De Meerpaal;2318TJ;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  30;ander land;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2314;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;0;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;546;Leiden;2316;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;4;2;1;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;546;Leiden;2317;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;39;33;39;36;28;32;27;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;546;Leiden;2318;Leiden;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;9;7;7;13;6;5;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;546;Leiden;2343;Oegstgeest;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2353;Leiderdorp;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2394;Alphen aan den Rijn;15UO;00;De Dukdalf;2317XK;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;  40;Onbekend;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2314;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;8;13;23;10;11;17;13;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;546;Leiden;2316;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;9;14;5;7;4;7;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;546;Leiden;2317;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;3;3;4;4;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;546;Leiden;2321;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2324;Leiden;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2352;Leiderdorp;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2353;Leiderdorp;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2551;'s-Gravenhage;15WV;00;De Viersprong;2315HG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2318;Leiden;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2324;Leiden;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;3;3;0;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2331;Leiden;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;22;23;17;22;21;23;20;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;546;Leiden;2332;Leiden;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;6;7;5;6;3;9;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;546;Leiden;2343;Oegstgeest;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2377;Kaag en Braassem;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2394;Alphen aan den Rijn;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2481;Kaag en Braassem;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2717;Zoetermeer;15YY;00;De Stevenshof;2331DV;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;8;5;5;8;8;11;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;546;Leiden;2312;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;3;6;4;7;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;546;Leiden;2313;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;52;48;53;55;49;57;63;54;4;0;0;0;0;0;0;0;0;0;0;0;0;0;435
+20171001;546;Leiden;2314;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;15;15;16;13;13;13;17;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;116
+20171001;546;Leiden;2315;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;3;3;6;3;9;2;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;546;Leiden;2316;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;1;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2317;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;1;2;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2318;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;12;13;10;14;10;7;10;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;546;Leiden;2324;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;4;6;9;2;7;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;546;Leiden;2331;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;2;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2332;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;3;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2334;Leiden;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2352;Leiderdorp;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2353;Leiderdorp;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;1;1;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2382;Zoeterwoude;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;2;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2553;'s-Gravenhage;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2724;Zoetermeer;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;3071;Rotterdam;16AU;00;Lorentz;2313GG;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;5;1;2;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;546;Leiden;2314;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;21;14;15;13;16;28;22;12;0;1;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;546;Leiden;2316;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;2;8;5;8;3;9;3;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;546;Leiden;2317;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;4;3;4;3;8;3;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;546;Leiden;2318;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2331;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2334;Leiden;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2341;Oegstgeest;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2351;Leiderdorp;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2353;Leiderdorp;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2382;Zoeterwoude;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2451;Kaag en Braassem;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;3053;Rotterdam;17MJ;00;De Springplank;2315HG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;1121;Landsmeer;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;2;1;3;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2312;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;3;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2313;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2316;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;5;8;11;8;4;4;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;546;Leiden;2317;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2324;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2332;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2333;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;4;4;6;6;3;9;9;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;546;Leiden;2334;Leiden;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;2;8;10;3;7;4;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;546;Leiden;2341;Oegstgeest;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;2;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2342;Oegstgeest;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2343;Oegstgeest;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2361;Teylingen;17MJ;01;De Leidse Houtschool;2334CG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  40;Onbekend;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2253;Voorschoten;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;2;1;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2312;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;2;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2313;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;10;8;7;6;5;3;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;546;Leiden;2314;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;5;9;1;6;4;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;546;Leiden;2315;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;2;2;7;3;7;5;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;546;Leiden;2316;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;4;1;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2317;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;6;7;7;2;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;546;Leiden;2324;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;3;0;3;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2331;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2332;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2334;Leiden;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2352;Leiderdorp;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2394;Alphen aan den Rijn;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2727;Zoetermeer;17MY;00;Joppensz;2313GG;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;1086;Amsterdam;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;4;3;0;3;1;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;546;Leiden;2316;Leiden;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;2;2;1;2;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;546;Leiden;2317;Leiden;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;13;29;31;33;28;23;34;25;7;0;0;0;0;0;0;0;0;0;0;0;0;0;223
+20171001;546;Leiden;2318;Leiden;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;9;7;7;6;4;1;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;546;Leiden;2324;Leiden;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2377;Kaag en Braassem;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2624;Delft;17NV;00;Zylwyk;2317VX;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2181;Hillegom;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2313;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2317;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2331;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;16;19;21;22;17;19;13;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;546;Leiden;2332;Leiden;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;5;3;4;2;1;3;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;546;Leiden;2381;Zoeterwoude;17OZ;00;De Zwaluw;2331DV;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  40;Onbekend;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2253;Voorschoten;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2314;Leiden;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2316;Leiden;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;8;13;8;7;10;15;8;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;546;Leiden;2324;Leiden;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;8;8;11;11;9;2;7;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;546;Leiden;2332;Leiden;17QS;00;Daltonschool Leiden;2321TZ;LEIDEN;Zuid-Holland;Bo;Protestants-Christelijk;57266;0;0;1;3;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2161;Lisse;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2172;Teylingen;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2201;Noordwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2203;Noordwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2211;Noordwijkerhout;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2221;Katwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2223;Katwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2235;Katwijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2242;Wassenaar;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;2;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2253;Voorschoten;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2281;Rijswijk;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2313;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2314;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2315;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2317;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2318;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2324;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2331;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2332;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;2;0;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2334;Leiden;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2342;Oegstgeest;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2343;Oegstgeest;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2351;Leiderdorp;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2353;Leiderdorp;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;1;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2361;Teylingen;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2371;Kaag en Braassem;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2375;Kaag en Braassem;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2382;Zoeterwoude;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2394;Alphen aan den Rijn;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2396;Alphen aan den Rijn;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2403;Alphen aan den Rijn;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2421;Nieuwkoop;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2461;Nieuwkoop;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2481;Kaag en Braassem;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2741;Waddinxveen;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2771;Alphen aan den Rijn;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2806;Gouda;19OV;00;De Brug;2333AL;LEIDEN;Zuid-Holland;So;Openbaar;42504;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2172;Teylingen;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2201;Noordwijk;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2215;Teylingen;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2221;Katwijk;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2225;Katwijk;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2241;Wassenaar;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;2;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2242;Wassenaar;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2251;Voorschoten;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;1;0;1;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2252;Voorschoten;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;1;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2253;Voorschoten;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2265;Leidschendam-Voorburg;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2312;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;2;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2313;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2314;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;1;1;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2315;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;1;0;1;1;7;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;546;Leiden;2316;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;2;1;3;2;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;546;Leiden;2317;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;1;1;0;3;6;4;10;7;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;546;Leiden;2318;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2321;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;1;1;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2324;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;1;1;1;0;0;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2331;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;1;0;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2332;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;1;4;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2333;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2334;Leiden;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2341;Oegstgeest;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2342;Oegstgeest;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2343;Oegstgeest;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2351;Leiderdorp;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2352;Leiderdorp;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;2;1;1;5;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;546;Leiden;2353;Leiderdorp;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2355;Kaag en Braassem;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2361;Teylingen;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2371;Kaag en Braassem;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;1;1;3;0;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2377;Kaag en Braassem;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2381;Zoeterwoude;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2396;Alphen aan den Rijn;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2402;Alphen aan den Rijn;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2403;Alphen aan den Rijn;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2406;Alphen aan den Rijn;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2408;Alphen aan den Rijn;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2451;Kaag en Braassem;19SC;00;SBO De Vlieger;2334EZ;LEIDEN;Zuid-Holland;Sbo;Algemeen bijzonder;41047;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;1435;Haarlemmermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2152;Haarlemmermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2156;Haarlemmermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2161;Lisse;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2162;Lisse;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2171;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2171;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2172;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2172;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2181;Hillegom;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2182;Hillegom;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2182;Hillegom;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2201;Noordwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2201;Noordwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2202;Noordwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2203;Noordwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2211;Noordwijkerhout;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2211;Noordwijkerhout;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2215;Teylingen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2221;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2221;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2223;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2224;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2224;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2225;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;2;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2231;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2235;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2241;Wassenaar;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2241;Wassenaar;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2242;Wassenaar;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2243;Wassenaar;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2251;Voorschoten;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2252;Voorschoten;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2264;Leidschendam-Voorburg;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2313;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2314;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2314;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2315;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2317;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2317;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2318;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2324;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2331;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2332;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2334;Leiden;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;1;0;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2342;Oegstgeest;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2343;Oegstgeest;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2352;Leiderdorp;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;2;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2353;Leiderdorp;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2371;Kaag en Braassem;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2371;Kaag en Braassem;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2377;Kaag en Braassem;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2381;Zoeterwoude;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2391;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2391;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2394;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2401;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2402;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2403;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2405;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2405;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2408;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2408;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2411;Bodegraven-Reeuwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2411;Bodegraven-Reeuwijk;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2421;Nieuwkoop;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2431;Nieuwkoop;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2441;Nieuwkoop;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2461;Nieuwkoop;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2465;Kaag en Braassem;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2481;Kaag en Braassem;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2713;Zoetermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2716;Zoetermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2724;Zoetermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2726;Zoetermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2729;Zoetermeer;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2742;Waddinxveen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2742;Waddinxveen;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2771;Alphen aan den Rijn;19UQ;00;Mytylschool De Thermiek;2333VK;LEIDEN;Zuid-Holland;So;Algemeen bijzonder;41805;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;1187;Amstelveen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2135;Haarlemmermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2151;Haarlemmermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2161;Lisse;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2162;Lisse;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2171;Teylingen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2172;Teylingen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2182;Hillegom;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2211;Noordwijkerhout;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2221;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2223;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2224;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2225;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2243;Wassenaar;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2251;Voorschoten;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2252;Voorschoten;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2254;Voorschoten;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2313;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2314;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2317;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2318;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2321;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2324;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2331;Leiden;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2341;Oegstgeest;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2342;Oegstgeest;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2343;Oegstgeest;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2361;Teylingen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2381;Zoeterwoude;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2394;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2402;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2403;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2404;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2406;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2408;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2411;Bodegraven-Reeuwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2481;Kaag en Braassem;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2492;'s-Gravenhage;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2712;Zoetermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2718;Zoetermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2721;Zoetermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2723;Zoetermeer;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2741;Waddinxveen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2742;Waddinxveen;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2771;Alphen aan den Rijn;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2811;Bodegraven-Reeuwijk;19UQ;02;Mytylschool De Thermiek;2315BD;LEIDEN;Zuid-Holland;Vso;Algemeen bijzonder;41805;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  30;ander land;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2211;Noordwijkerhout;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2235;Katwijk;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2251;Voorschoten;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2313;Leiden;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2321;Leiden;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2324;Leiden;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;1;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2331;Leiden;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;18;16;25;32;26;24;32;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;206
+20171001;546;Leiden;2332;Leiden;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;3;3;1;6;3;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;546;Leiden;2361;Teylingen;20UL;00;RK Bs 'T Klankbord;2331DV;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2225;Katwijk;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;2;1;2;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2316;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;2;2;1;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2317;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;13;16;16;17;22;17;20;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;145
+20171001;546;Leiden;2318;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;20;15;26;18;14;19;17;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;546;Leiden;2334;Leiden;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2341;Oegstgeest;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2353;Leiderdorp;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2375;Kaag en Braassem;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2651;Lansingerland;20UW;00;RK Bs De Tweemaster;2318TJ;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2231;Katwijk;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2253;Voorschoten;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;7;8;4;4;12;6;6;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;546;Leiden;2312;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;2;3;5;2;9;7;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;546;Leiden;2313;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;70;66;58;64;47;54;42;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;434
+20171001;546;Leiden;2314;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;19;15;17;19;17;23;18;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;546;Leiden;2315;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;7;7;4;6;5;2;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;546;Leiden;2316;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;3;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2317;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2318;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2321;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;3;6;4;5;3;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;546;Leiden;2323;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;3;3;2;4;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;546;Leiden;2331;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2332;Leiden;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2351;Leiderdorp;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2352;Leiderdorp;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;2;2;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2353;Leiderdorp;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2381;Zoeterwoude;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2382;Zoeterwoude;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;1;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2394;Alphen aan den Rijn;20VB;00;RK Sint Joseph-School;2313JE;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2253;Voorschoten;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2315;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2316;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2317;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2321;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;3;3;0;4;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;546;Leiden;2324;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;2;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2331;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;2;0;0;2;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2332;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;10;8;17;15;10;18;12;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;546;Leiden;2333;Leiden;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2361;Teylingen;20VD;00;RK Bs Pacelli-School;2332XH;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;  40;Onbekend;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2223;Katwijk;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2251;Voorschoten;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2311;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2312;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;3;2;2;2;0;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;546;Leiden;2313;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2314;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;13;6;11;8;10;6;9;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;546;Leiden;2316;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;5;4;6;12;7;9;6;13;2;1;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;546;Leiden;2317;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;1;0;0;1;3;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;546;Leiden;2318;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2324;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2332;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2334;Leiden;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2352;Leiderdorp;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2353;Leiderdorp;20VF;00;RK Basisschool De Singel;2315HG;LEIDEN;Zuid-Holland;Bo;Rooms-Katholiek;57266;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2231;Katwijk;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2235;Katwijk;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2241;Wassenaar;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2253;Voorschoten;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2312;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;3;7;2;3;4;4;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;546;Leiden;2313;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2315;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2316;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;21;26;23;27;24;24;10;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;546;Leiden;2317;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;3;1;2;0;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;546;Leiden;2321;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;3;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2324;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2331;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2332;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;546;Leiden;2333;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;5;3;4;6;8;7;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;546;Leiden;2334;Leiden;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;12;9;9;11;5;9;3;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;546;Leiden;2341;Oegstgeest;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;2;4;3;5;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;546;Leiden;2342;Oegstgeest;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;3;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2343;Oegstgeest;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;2;2;0;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;546;Leiden;2353;Leiderdorp;21QE;00;Woutertje Pieterse;2334CL;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2172;Teylingen;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2215;Teylingen;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2235;Katwijk;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2241;Wassenaar;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2251;Voorschoten;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;1;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;546;Leiden;2252;Voorschoten;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2253;Voorschoten;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;1;0;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2264;Leidschendam-Voorburg;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2311;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2313;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;2;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2314;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2315;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2316;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2317;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2321;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;2;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;546;Leiden;2324;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;546;Leiden;2331;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;23;22;22;27;20;19;21;29;1;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;546;Leiden;2332;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;2;4;1;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;546;Leiden;2333;Leiden;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2342;Oegstgeest;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2351;Leiderdorp;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2352;Leiderdorp;22KG;00;Anne Frank;2331PD;LEIDEN;Zuid-Holland;Bo;Openbaar;42504;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2201;Noordwijk;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;546;Leiden;2221;Katwijk;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;546;Leiden;2253;Voorschoten;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2312;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2313;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;546;Leiden;2314;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2315;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2316;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;2;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;546;Leiden;2317;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;1;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2321;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;1;2;4;3;2;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;546;Leiden;2324;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;0;1;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;546;Leiden;2331;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;546;Leiden;2332;Leiden;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;3;3;3;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;546;Leiden;2352;Leiderdorp;24DH;00;Er Riseleh;2313AB;LEIDEN;Zuid-Holland;Bo;Islamitisch;40048;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3

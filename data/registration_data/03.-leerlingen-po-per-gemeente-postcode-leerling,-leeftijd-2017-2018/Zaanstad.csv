@@ -1,0 +1,728 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;479;Zaanstad;1501;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1502;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1503;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;2;0;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1504;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;3;0;3;2;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;479;Zaanstad;1505;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;2;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1506;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;1;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1507;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1508;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1509;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;1;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1511;Oostzaan;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1521;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1531;Wormerland;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1541;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;1;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1544;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1551;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1562;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1566;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1567;Zaanstad;00UN;00;Tijstroom;1503TS;ZAANDAM;Noord-Holland;Sbo;Interconfessioneel;41251;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;  30;ander land;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1069;Amsterdam;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;37;30;33;27;34;37;24;32;2;0;0;0;0;0;0;0;0;0;0;0;0;0;256
+20171001;479;Zaanstad;1531;Wormerland;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;2;1;2;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1544;Zaanstad;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1561;Zaanstad;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1566;Zaanstad;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1851;Heiloo;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1944;Beverwijk;03TL;00;Basisschool Toermalijn;1521DZ;WORMERVEER;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1357;Almere;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1521;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1551;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;12;10;8;9;3;9;10;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;479;Zaanstad;1561;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;5;9;8;15;11;10;8;18;0;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;479;Zaanstad;1567;Zaanstad;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1965;Heemskerk;05UN;00;Chr Basisschool De Rank;1551RD;WESTZAAN;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1023;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1025;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1034;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1035;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1036;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1037;Amsterdam;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1121;Landsmeer;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;2;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1127;Landsmeer;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1441;Purmerend;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1444;Purmerend;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;4;4;1;4;5;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;479;Zaanstad;1502;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;4;5;1;3;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;479;Zaanstad;1503;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;6;5;1;8;7;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;479;Zaanstad;1504;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;2;4;4;3;4;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;479;Zaanstad;1505;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;1;1;4;1;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;479;Zaanstad;1506;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;3;1;5;3;5;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;479;Zaanstad;1507;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1508;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1509;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;1;3;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1511;Oostzaan;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;1;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1521;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;1;4;1;2;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;479;Zaanstad;1544;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1551;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1562;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;06RD;00;Vrije School Zaanstreek;1503AR;ZAANDAM;Noord-Holland;Bo;Antroposofisch;41296;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1135;Edam-Volendam;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1442;Purmerend;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1443;Purmerend;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1483;Alkmaar;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1502;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1503;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1504;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1505;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1506;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1507;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;2;2;3;1;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1508;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1509;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;2;3;1;1;1;1;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1525;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1531;Wormerland;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1541;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;2;4;1;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1544;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1546;Wormerland;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1562;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1566;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;4;0;1;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1567;Zaanstad;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1671;Medemblik;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1901;Castricum;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1902;Castricum;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1911;Uitgeest;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1944;Beverwijk;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1962;Heemskerk;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1965;Heemskerk;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1966;Heemskerk;07IQ;17;Altra College Zaanstreek;1562WP;KROMMENIE;Noord-Holland;Vso;Algemeen bijzonder;24922;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1456;Wormerland;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1501;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1505;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1509;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;17;12;9;15;15;9;7;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;95
+20171001;479;Zaanstad;1531;Wormerland;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;4;4;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;479;Zaanstad;1544;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;17;17;14;26;21;20;22;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;479;Zaanstad;1551;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1562;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1566;Zaanstad;07NT;00;De Werf;1544CA;ZAANDIJK;Noord-Holland;Bo;Algemeen bijzonder;45059;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1033;Amsterdam;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1056;Amsterdam;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1541;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1561;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;6;1;3;3;8;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;479;Zaanstad;1562;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;2;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1566;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;10;13;11;13;8;5;10;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;85
+20171001;479;Zaanstad;1567;Zaanstad;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;17;15;15;17;20;15;16;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;479;Zaanstad;1921;Castricum;07TN;00;Jenaplansch De Bijenkorf;1566KM;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1013;Amsterdam;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1021;Amsterdam;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1033;Amsterdam;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1075;Amsterdam;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;2;3;2;2;3;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;479;Zaanstad;1502;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;28;29;34;23;24;18;27;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;215
+20171001;479;Zaanstad;1503;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;5;5;5;8;6;6;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;479;Zaanstad;1504;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;2;0;2;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1505;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;2;1;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1506;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;2;4;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1507;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1508;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;2;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1509;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1511;Oostzaan;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;08XR;00;Basisschool Willibrord;1502VD;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1504;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;2;1;0;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1507;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;3;0;0;1;5;1;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;479;Zaanstad;1508;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1509;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;2;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1521;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1541;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;41;32;39;41;43;31;41;26;5;0;0;0;0;0;0;0;0;0;0;0;0;0;299
+20171001;479;Zaanstad;1544;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;4;6;3;3;7;6;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;479;Zaanstad;1551;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;2;2;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;479;Zaanstad;1561;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1567;Zaanstad;08YN;00;De Golfbreker;1541RT;KOOG AAN DE ZAAN;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1464;Beemster;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1551;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;20;21;24;20;31;20;22;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;479;Zaanstad;1562;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;22;25;19;19;19;19;20;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;479;Zaanstad;1566;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;2;0;5;2;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;479;Zaanstad;1911;Uitgeest;08YO;00;De Hoeksteen;1561JP;KROMMENIE;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;1;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1505;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1521;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1561;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;4;8;8;9;5;7;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;479;Zaanstad;1562;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;19;17;15;24;24;21;19;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;479;Zaanstad;1566;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;3;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1567;Zaanstad;09CL;00;Basisschool De Evenaar;1562WP;KROMMENIE;Noord-Holland;Bo;Protestants-Christelijk;41251;0;2;5;2;5;3;4;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;479;Zaanstad;1501;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1502;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1503;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;2;3;2;7;2;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;479;Zaanstad;1504;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;20;10;23;13;20;34;19;30;3;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;479;Zaanstad;1505;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;2;2;5;5;2;3;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;479;Zaanstad;1506;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;09VE;00;Paus Joannesschool;1504AH;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1551;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1561;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1562;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1566;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;46;32;35;38;34;27;37;28;5;0;0;0;0;0;0;0;0;0;0;0;0;0;282
+20171001;479;Zaanstad;1567;Zaanstad;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;2;3;3;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;479;Zaanstad;1911;Uitgeest;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1921;Castricum;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1948;Beverwijk;09WP;00;De Regenboog;1566XD;ASSENDELFT;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  40;Onbekend;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1112;Diemen;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1502;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;1;1;4;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1503;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;22;20;23;26;22;39;27;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;479;Zaanstad;1504;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;3;2;1;3;5;5;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;479;Zaanstad;1505;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1506;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1509;Zaanstad;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1511;Oostzaan;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1921;Castricum;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;3453;Utrecht;10OD;00;de Windroos;1503TJ;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1113;Diemen;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1503;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1504;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1505;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1506;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;3;2;2;4;0;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;479;Zaanstad;1507;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1509;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1521;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1541;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;27;32;23;27;30;34;33;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;479;Zaanstad;1544;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;3;7;5;8;8;10;15;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;479;Zaanstad;1551;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1561;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1567;Zaanstad;15UZ;00;Basisschool de Piramide;1541KL;KOOG AAN DE ZAAN;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;15XF;00;Chr BS Kleurenpracht;1503AM;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;7;8;7;3;7;6;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;479;Zaanstad;1504;Zaanstad;15XF;00;Chr BS Kleurenpracht;1503AM;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;11;11;13;15;9;16;11;10;3;1;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;479;Zaanstad;1505;Zaanstad;15XF;00;Chr BS Kleurenpracht;1503AM;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;15XF;00;Chr BS Kleurenpracht;1503AM;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1508;Zaanstad;15XF;00;Chr BS Kleurenpracht;1503AM;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1013;Amsterdam;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1456;Wormerland;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1503;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;2;2;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1504;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;4;4;2;8;3;12;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;479;Zaanstad;1509;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;22;27;27;16;25;27;23;30;1;0;0;0;0;0;0;0;0;0;0;0;0;0;198
+20171001;479;Zaanstad;1521;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1531;Wormerland;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1544;Zaanstad;16BA;00;ICBS De Vuurvogel;1509GL;ZAANDAM;Noord-Holland;Bo;Algemeen bijzonder;41251;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;6;12;15;12;14;7;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;479;Zaanstad;1502;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;2;2;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1503;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;8;4;7;6;6;1;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;479;Zaanstad;1504;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;26;25;19;23;18;32;14;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;479;Zaanstad;1505;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;11;20;12;8;9;9;12;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;479;Zaanstad;1506;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1509;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1544;Zaanstad;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;3295;Binnenmaas;16DY;00;CBS Tamarinde;1504AS;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1013;Amsterdam;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1502;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;6;5;4;2;3;7;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;479;Zaanstad;1503;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1504;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1505;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;1;3;6;3;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;479;Zaanstad;1562;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;16JK;00;cbs De Saenparel;1502ND;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1053;Amsterdam;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1448;Purmerend;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1464;Beemster;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1483;Alkmaar;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1502;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1504;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;1;0;2;1;2;4;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;479;Zaanstad;1505;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1506;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1507;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1521;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;2;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1531;Wormerland;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;1;0;0;2;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1541;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1544;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1551;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1567;Zaanstad;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1941;Beverwijk;16KI;00;Dynamica Onderwijs;1541WR;KOOG AAN DE ZAAN;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1031;Amsterdam;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1502;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1503;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1504;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1506;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1509;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1531;Wormerland;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1544;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1561;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1562;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1566;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1567;Zaanstad;16KI;02;Dynamica Onderwijs;1503LB;ZAANDAM;Noord-Holland;So;Openbaar;41852;0;0;0;0;1;0;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;  40;Onbekend;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1033;Amsterdam;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1121;Landsmeer;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1127;Landsmeer;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1448;Purmerend;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1503;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;2;1;1;2;2;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1504;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;2;2;2;0;1;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1505;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1506;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1507;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;1;1;2;3;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1508;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;3;1;1;1;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1511;Oostzaan;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1521;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1531;Wormerland;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1541;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;2;2;4;3;2;1;0;0;0;0;0;0;0;14
+20171001;479;Zaanstad;1544;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1546;Wormerland;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1562;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1566;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1567;Zaanstad;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;1;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1902;Castricum;16KI;03;Dynamica Onderwijs;1507JE;ZAANDAM;Noord-Holland;Vso;Openbaar;41852;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1503;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1504;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1507;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1531;Wormerland;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;16LH;00;SSBO Het Dok;1503LB;ZAANDAM;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1024;Amsterdam;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1121;Landsmeer;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1489;Castricum;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1504;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1506;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;2;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1507;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1509;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1511;Oostzaan;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1521;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;2;1;0;0;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1531;Wormerland;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1541;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1544;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1561;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;3;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;1;3;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1906;Castricum;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1921;Castricum;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1943;Beverwijk;17GW;12;Kentalis Signis Assendelft;1566KA;ASSENDELFT;Noord-Holland;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1062;Amsterdam;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1103;Amsterdam;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1447;Purmerend;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1456;Wormerland;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1502;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1503;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1504;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1505;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;1;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1506;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;1;1;0;1;2;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1507;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;2;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1508;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1509;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1511;Oostzaan;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1521;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;1;0;0;0;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1531;Wormerland;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;2;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1534;Wormerland;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;3;0;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1544;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;2;1;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1561;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;1;0;1;1;2;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;479;Zaanstad;1562;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1566;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;0;0;1;0;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;17UI;00;SSBO De Boei;1521WB;WORMERVEER;Noord-Holland;Sbo;Openbaar;41852;0;1;1;0;0;0;3;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1025;Amsterdam;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1034;Amsterdam;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1448;Purmerend;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1525;Zaanstad;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1561;Zaanstad;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;27;23;22;25;22;16;26;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;479;Zaanstad;1567;Zaanstad;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1825;Alkmaar;18MG;00;OBS De Dorpsakker;1566XD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1012;Amsterdam;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1057;Amsterdam;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1502;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1505;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1506;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;2;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1507;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;16;25;29;23;11;22;15;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;479;Zaanstad;1509;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1544;Zaanstad;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;9673;Oldambt;18QB;00;Obs Het Eiland;1507XE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;2;3;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1507;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;2;8;5;3;1;4;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;479;Zaanstad;1508;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;1;3;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1521;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;15;19;24;18;21;22;19;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;479;Zaanstad;1544;Zaanstad;18RD;00;Obs De Watermolen;1541WR;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;2;1;2;3;2;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;479;Zaanstad;  40;Onbekend;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1504;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1505;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1507;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;1;1;3;2;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;479;Zaanstad;1541;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;6;11;8;10;9;8;14;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;479;Zaanstad;1544;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;2;0;4;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1551;Zaanstad;18SC;00;Obs De Lindenboom;1541JB;KOOG AAN DE ZAAN;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18TQ;00;OBS De Overhaal;1562GH;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;18TQ;00;OBS De Overhaal;1562GH;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;2;5;3;2;2;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;479;Zaanstad;1562;Zaanstad;18TQ;00;OBS De Overhaal;1562GH;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;7;5;11;13;7;15;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;479;Zaanstad;1911;Uitgeest;18TQ;00;OBS De Overhaal;1562GH;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1095;Amsterdam;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1505;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1531;Wormerland;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1536;Alkmaar;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1561;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;22;26;20;30;24;23;26;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;479;Zaanstad;1562;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;36;22;32;41;34;34;45;36;6;0;0;0;0;0;0;0;0;0;0;0;0;0;286
+20171001;479;Zaanstad;1566;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;6;3;6;6;3;12;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;479;Zaanstad;1911;Uitgeest;18UC;00;Obs De Komeet;1562WP;KROMMENIE;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;  30;ander land;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1531;Wormerland;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;18;25;26;18;26;28;24;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;479;Zaanstad;1561;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1566;Zaanstad;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;4;0;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1825;Alkmaar;18VM;00;OBS De Kroosduiker;1551GJ;WESTZAAN;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1023;Amsterdam;18WR;00;Obs Theo Thijssen;1525PK;WESTKNOLLENDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18WR;00;Obs Theo Thijssen;1525PK;WESTKNOLLENDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1525;Zaanstad;18WR;00;Obs Theo Thijssen;1525PK;WESTKNOLLENDAM;Noord-Holland;Bo;Openbaar;41852;0;4;1;3;3;2;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;479;Zaanstad;1536;Alkmaar;18WR;00;Obs Theo Thijssen;1525PK;WESTKNOLLENDAM;Noord-Holland;Bo;Openbaar;41852;0;2;1;2;2;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1941;Beverwijk;18WR;00;Obs Theo Thijssen;1525PK;WESTKNOLLENDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1066;Amsterdam;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1097;Amsterdam;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1483;Alkmaar;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;38;33;41;40;54;39;28;38;6;0;0;0;0;0;0;0;0;0;0;0;0;0;317
+20171001;479;Zaanstad;1525;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1531;Wormerland;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;1;2;1;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1541;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1544;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1561;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1567;Zaanstad;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;2034;Haarlem;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;2133;Haarlemmermeer;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;5122;Gilze en Rijen;18WY;00;Obs De Pionier;1521JP;WORMERVEER;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  40;Onbekend;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1102;Amsterdam;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1442;Purmerend;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1502;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1503;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;2;1;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1504;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;10;13;4;3;5;5;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;479;Zaanstad;1509;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;19;27;23;24;13;16;23;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;162
+20171001;479;Zaanstad;1541;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1544;Zaanstad;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1823;Alkmaar;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1851;Heiloo;18ZI;00;Obs De Jagersplas;1509GE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1034;Amsterdam;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1165;Haarlemmerliede en Spaarnwoude;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;2;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1502;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;30;19;23;19;9;13;11;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;479;Zaanstad;1503;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;11;5;3;5;7;4;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;479;Zaanstad;1505;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;2;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1506;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;24;26;18;19;21;19;20;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;479;Zaanstad;1507;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;2;3;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1508;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;7;10;7;7;6;3;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;479;Zaanstad;1509;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1541;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;3;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1544;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1561;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1566;Zaanstad;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1943;Beverwijk;18ZV;00;OBS Over De Brug;1506HK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  30;ander land;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1022;Amsterdam;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1107;Amsterdam;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;4;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1502;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;3;1;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;479;Zaanstad;1503;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;2;2;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1504;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;2;3;4;2;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;479;Zaanstad;1505;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;3;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1506;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1507;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1508;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1509;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1521;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1531;Wormerland;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;3;2;2;2;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;479;Zaanstad;1541;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1544;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1561;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1562;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1566;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1567;Zaanstad;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1784;Den Helder;19AG;00;OBS De Gouw;1505CB;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1501;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;2;2;1;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1502;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1503;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;8;4;7;7;6;4;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;479;Zaanstad;1504;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;15;9;10;8;6;13;13;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;479;Zaanstad;1505;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;4;1;4;4;6;10;8;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;479;Zaanstad;1506;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1544;Zaanstad;19AG;01;Obs De Gouw;1504AL;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  30;ander land;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1022;Amsterdam;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1058;Amsterdam;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1092;Amsterdam;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1503;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;22;20;23;20;18;12;19;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;479;Zaanstad;1504;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;6;9;12;9;9;5;9;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;479;Zaanstad;1505;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1508;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1541;Zaanstad;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;4101;Culemborg;19AO;00;Obs De Spiegel;1503BK;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1503;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1504;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1508;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;15;19;10;17;12;13;17;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;479;Zaanstad;1509;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;6419;Heerlen;19AX;00;OBS Kogerveld;1508AW;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;3;2;3;3;3;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;479;Zaanstad;1502;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;5;5;0;1;4;3;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;479;Zaanstad;1503;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;2;2;3;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1504;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1505;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1506;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;17;26;17;22;22;28;19;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;174
+20171001;479;Zaanstad;1507;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;10;12;11;9;7;14;20;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;479;Zaanstad;1508;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1544;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;2;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1562;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1566;Zaanstad;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1622;Hoorn;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1744;Schagen;19BF;00;Obs De Dijk;1507BE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;4;3;5;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;479;Zaanstad;1502;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1503;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1504;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;2;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1505;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;27;28;25;20;25;17;16;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;479;Zaanstad;1506;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;8;6;7;6;7;11;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;479;Zaanstad;1508;Zaanstad;19BV;00;Obs De Voorzaan;1506NM;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  40;Onbekend;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1013;Amsterdam;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1501;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;27;27;38;29;41;32;34;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;252
+20171001;479;Zaanstad;1502;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;7;8;3;4;6;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;479;Zaanstad;1503;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;6;9;5;11;12;8;6;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;66
+20171001;479;Zaanstad;1504;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;9;6;16;7;8;16;4;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;76
+20171001;479;Zaanstad;1505;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;12;11;15;8;14;15;13;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;479;Zaanstad;1506;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;3;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1507;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1508;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;4;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1509;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1544;Zaanstad;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;3432;Nieuwegein;19BZ;00;Obs H. Gorter;1501TX;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1019;Amsterdam;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1501;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;8;6;7;8;7;5;8;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;479;Zaanstad;1502;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;5;4;7;5;8;4;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;479;Zaanstad;1503;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;6;6;3;4;3;1;8;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;479;Zaanstad;1504;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;0;5;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;479;Zaanstad;1506;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;26;30;36;41;28;34;33;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;251
+20171001;479;Zaanstad;1507;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;8;0;4;2;3;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;479;Zaanstad;1508;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1509;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1531;Wormerland;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1544;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1551;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;1;1;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1567;Zaanstad;19CC;00;OBS Et Buut;1506WE;ZAANDAM;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1504;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1505;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1507;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1508;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;4;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1531;Wormerland;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1544;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;26;28;36;28;32;29;32;33;4;0;0;0;0;0;0;0;0;0;0;0;0;0;248
+20171001;479;Zaanstad;1551;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1567;Zaanstad;19DK;00;Obs De Zoeker;1544VX;ZAANDIJK;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1501;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;2;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1502;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;3;1;4;6;3;3;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;479;Zaanstad;1503;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;1;3;5;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;479;Zaanstad;1504;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1505;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;1;1;4;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;479;Zaanstad;1506;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;7;11;14;12;11;14;6;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;479;Zaanstad;1507;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;26;16;26;30;25;19;26;18;9;0;0;0;0;0;0;0;0;0;0;0;0;0;195
+20171001;479;Zaanstad;1508;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;1;2;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;479;Zaanstad;1509;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1521;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1531;Wormerland;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1544;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;1;0;0;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1551;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1566;Zaanstad;22KA;00;Cbs Het Baken;1507XE;ZAANDAM;Noord-Holland;Bo;Protestants-Christelijk;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1432;Aalsmeer;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1503;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1506;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1507;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;28;38;27;42;32;38;34;20;0;0;0;0;0;0;0;0;0;0;0;0;0;0;259
+20171001;479;Zaanstad;1508;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1511;Oostzaan;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1544;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1562;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1566;Zaanstad;22KB;00;RK BS de Rietvink;1507XE;ZAANDAM;Noord-Holland;Bo;Rooms-Katholiek;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  30;ander land;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  40;Onbekend;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1068;Amsterdam;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1508;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1541;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1551;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1566;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;11;12;20;12;16;21;18;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;479;Zaanstad;1567;Zaanstad;26BB;00;OBS Ayundo;1566MX;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;4;3;4;6;4;5;8;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;479;Zaanstad;1033;Amsterdam;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1521;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1531;Wormerland;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1561;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1562;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;0;1;0;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1566;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;16;13;15;29;26;29;30;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;479;Zaanstad;1567;Zaanstad;26BC;00;Interconf Bs Octant;1566MZ;ASSENDELFT;Noord-Holland;Bo;Samenwerking PC, RK;41251;0;3;1;0;3;3;2;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;479;Zaanstad;  30;ander land;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1024;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1025;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1033;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1034;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1069;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1094;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1095;Amsterdam;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1501;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;1;1;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1503;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;8;5;5;5;7;3;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;479;Zaanstad;1504;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;18;17;17;10;14;9;7;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;479;Zaanstad;1505;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;11;9;6;9;6;5;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;479;Zaanstad;1507;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;2;3;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1508;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;2;1;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1562;Zaanstad;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;7909;Hoogeveen;27MA;00;Basisschool De Horizon;1504BA;ZAANDAM;Noord-Holland;Bo;Islamitisch;41256;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  30;ander land;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1034;Amsterdam;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1055;Amsterdam;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1135;Edam-Volendam;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1441;Purmerend;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1443;Purmerend;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1448;Purmerend;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1456;Wormerland;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1501;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1502;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1503;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;1;1;2;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1504;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1505;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;2;0;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;479;Zaanstad;1506;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;2;1;1;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;479;Zaanstad;1507;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;2;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1508;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;2;2;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1509;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1521;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;4;3;2;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;479;Zaanstad;1531;Wormerland;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;3;2;2;3;0;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;479;Zaanstad;1536;Alkmaar;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;2;4;2;4;3;5;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;479;Zaanstad;1544;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;7;1;3;6;3;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;479;Zaanstad;1546;Wormerland;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;479;Zaanstad;1561;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1562;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;1;1;1;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;479;Zaanstad;1566;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1567;Zaanstad;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;1;1;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1911;Uitgeest;27YV;00;Het SchatRijk;1544VZ;ZAANDIJK;Noord-Holland;Bo;Evangelisch;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;  40;Onbekend;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1505;Zaanstad;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1511;Oostzaan;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;479;Zaanstad;1562;Zaanstad;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1566;Zaanstad;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;4;3;3;1;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;479;Zaanstad;1567;Zaanstad;28AG;00;Obs De Meander;1567HD;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;22;26;28;23;27;33;39;36;7;0;0;0;0;0;0;0;0;0;0;0;0;0;241
+20171001;479;Zaanstad;1503;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1544;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1561;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1562;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1566;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;1;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1567;Zaanstad;30AH;00; De Oceaan;1567HD;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;49;33;44;35;42;46;21;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;296
+20171001;479;Zaanstad;1458;Wormerland;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1503;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1507;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;479;Zaanstad;1531;Wormerland;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1541;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;479;Zaanstad;1561;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;479;Zaanstad;1562;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;0;3;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;479;Zaanstad;1566;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;4;6;4;2;6;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;479;Zaanstad;1567;Zaanstad;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;66;81;73;73;66;62;72;31;2;0;0;0;0;0;0;0;0;0;0;0;0;0;526
+20171001;479;Zaanstad;1705;Heerhugowaard;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1827;Alkmaar;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1942;Beverwijk;30FU;00;Het Koraal;1567LP;ASSENDELFT;Noord-Holland;Bo;Interconfessioneel;41251;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1487;Alkmaar;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1509;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1521;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1541;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1551;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;479;Zaanstad;1561;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;2;1;1;3;4;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;479;Zaanstad;1562;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;3;2;1;0;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;479;Zaanstad;1566;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;4;3;5;2;4;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;479;Zaanstad;1567;Zaanstad;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;47;45;54;57;51;48;44;24;9;0;0;0;0;0;0;0;0;0;0;0;0;0;379
+20171001;479;Zaanstad;1843;Alkmaar;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;479;Zaanstad;1901;Castricum;30FY;00;Obs De Delta;1567LP;ASSENDELFT;Noord-Holland;Bo;Openbaar;41852;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

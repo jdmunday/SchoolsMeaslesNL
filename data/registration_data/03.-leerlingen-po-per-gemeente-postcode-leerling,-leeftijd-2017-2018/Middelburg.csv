@@ -1,0 +1,351 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;687;Middelburg;4339;Middelburg;00IM;00;Joos v Larensch;4341ER;ARNEMUIDEN;Zeeland;Bo;Reformatorisch;30145;0;2;0;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;687;Middelburg;4341;Middelburg;00IM;00;Joos v Larensch;4341ER;ARNEMUIDEN;Zeeland;Bo;Reformatorisch;30145;0;13;11;12;17;12;14;15;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;687;Middelburg;4456;Borsele;00IM;00;Joos v Larensch;4341ER;ARNEMUIDEN;Zeeland;Bo;Reformatorisch;30145;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4328;Schouwen-Duiveland;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4331;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4332;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4332;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;3
+20171001;687;Middelburg;4333;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4333;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;3;1;0;1;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4334;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4334;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;3;0;1;0;0;0;0;0;0;5
+20171001;687;Middelburg;4335;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4335;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;2;2;2;0;0;0;2;1;0;0;0;0;0;10
+20171001;687;Middelburg;4336;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4336;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4337;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4337;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;3;2;2;2;1;1;1;1;0;0;0;0;0;13
+20171001;687;Middelburg;4339;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4341;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4341;Middelburg;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4351;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4352;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4353;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4356;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4356;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4357;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4361;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4361;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4363;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4371;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4371;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4374;Veere;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4381;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4382;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4383;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4384;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4384;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;3
+20171001;687;Middelburg;4385;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4385;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4386;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;2;0;0;0;0;0;0;4
+20171001;687;Middelburg;4388;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;1;0;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4388;Vlissingen;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;1;0;2;0;4;0;1;0;0;0;0;0;0;0;8
+20171001;687;Middelburg;4435;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4444;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4451;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;687;Middelburg;4453;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4454;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4456;Borsele;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4458;Goes;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4458;Goes;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;687;Middelburg;4462;Goes;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2
+20171001;687;Middelburg;4463;Goes;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;So;Algemeen bijzonder;41312;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4463;Goes;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4493;Noord-Beveland;00OJ;00;Klimopschool;4335XG;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;41312;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;  30;ander land;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4331;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;2;1;4;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;687;Middelburg;4332;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;687;Middelburg;4333;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;3;4;3;6;4;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;687;Middelburg;4334;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;2;1;5;4;2;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;687;Middelburg;4335;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;4;6;6;8;3;5;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;687;Middelburg;4336;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;3;3;2;2;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;687;Middelburg;4337;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;4;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;687;Middelburg;4339;Middelburg;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4351;Veere;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;687;Middelburg;4352;Veere;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4354;Veere;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4364;Veere;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4384;Vlissingen;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4385;Vlissingen;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4388;Vlissingen;03TJ;00;Regenboogschool;4333BW;MIDDELBURG;Zeeland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4305;Schouwen-Duiveland;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4335;Middelburg;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4336;Middelburg;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4337;Middelburg;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4341;Middelburg;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4385;Vlissingen;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4386;Vlissingen;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4411;Reimerswaal;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4416;Reimerswaal;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4462;Goes;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4484;Noord-Beveland;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4508;Sluis;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4624;Bergen op Zoom;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4641;Woensdrecht;04EY;00;SO/VSO Respont (Asteria);4335ER;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4334;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4335;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4336;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4337;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;2;2;1;0;1;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4341;Middelburg;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4353;Veere;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4361;Veere;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4381;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4383;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4384;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4385;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4386;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4387;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4401;Reimerswaal;04EY;11;SO/VSO Respont (OdyZee);4333BP;MIDDELBURG;Zeeland;Vso;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;2223;Katwijk;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4325;Schouwen-Duiveland;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;2;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4334;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4335;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4336;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4337;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4341;Middelburg;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4351;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4354;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4357;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4363;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4365;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4373;Veere;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4382;Vlissingen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4384;Vlissingen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4385;Vlissingen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;1;1;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4388;Vlissingen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4416;Reimerswaal;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4433;Borsele;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4436;Borsele;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4451;Borsele;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4461;Goes;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4462;Goes;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4463;Goes;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4481;Goes;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4501;Sluis;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4506;Sluis;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4508;Sluis;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4511;Sluis;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4532;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4533;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4536;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4537;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4541;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4542;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4543;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4571;Terneuzen;04EY;12;SO/VSO Respont (Keurhove);4336GN;MIDDELBURG;Zeeland;So;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4331;Middelburg;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4332;Middelburg;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;4;2;3;3;2;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;687;Middelburg;4333;Middelburg;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;9;8;12;10;14;10;10;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;687;Middelburg;4334;Middelburg;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;3;5;3;4;4;1;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;687;Middelburg;4335;Middelburg;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;8;11;8;11;3;8;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;687;Middelburg;4351;Veere;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;5;1;3;4;2;6;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;687;Middelburg;4352;Veere;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4353;Veere;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;2;2;2;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;687;Middelburg;4364;Veere;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4371;Veere;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4387;Vlissingen;06EE;00;H Faukelius Basisschool;4333EK;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4328;Schouwen-Duiveland;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;2;5;4;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;687;Middelburg;4332;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;2;1;3;2;2;1;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;687;Middelburg;4333;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;6;8;1;7;5;4;6;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;687;Middelburg;4334;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;2;3;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;687;Middelburg;4335;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;1;5;2;4;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;687;Middelburg;4336;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;4;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4337;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;1;1;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4339;Middelburg;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4352;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4353;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4356;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4361;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4363;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4364;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4371;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;1;1;0;1;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4374;Veere;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4382;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;5;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4383;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4384;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;2;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4385;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;2;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4386;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;6;1;2;2;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;687;Middelburg;4389;Vlissingen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4421;Kapelle;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4454;Borsele;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4493;Noord-Beveland;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4511;Sluis;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4536;Terneuzen;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;5091;Oirschot;06YJ;00;Vrije School Zeeland;4333DD;MIDDELBURG;Zeeland;Bo;Antroposofisch;76585;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4333;Middelburg;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;9;2;4;8;5;7;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;687;Middelburg;4335;Middelburg;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4339;Middelburg;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4352;Veere;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4353;Veere;07ZN;00;Palmenhof;4333KL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4333;Middelburg;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4335;Middelburg;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;1;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4336;Middelburg;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;9;6;8;3;5;1;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;687;Middelburg;4337;Middelburg;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;13;24;17;29;19;16;27;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;687;Middelburg;4338;Middelburg;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4352;Veere;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4373;Veere;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4421;Kapelle;09AS;00;RK BS Franciscus;4337AL;MIDDELBURG;Zeeland;Bo;Rooms-Katholiek;77533;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4335;Middelburg;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4336;Middelburg;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;4;6;5;8;5;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;687;Middelburg;4337;Middelburg;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;5;5;8;4;6;4;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;687;Middelburg;4339;Middelburg;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;4;0;4;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;687;Middelburg;4341;Middelburg;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;11;18;11;21;10;11;13;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;687;Middelburg;4371;Veere;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4389;Vlissingen;09JH;00;P Immens Basisschool;4336HN;MIDDELBURG;Zeeland;Bo;Reformatorisch;42724;0;1;2;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4337;Middelburg;11EY;00;Oleanderhof;4341LV;ARNEMUIDEN;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4339;Middelburg;11EY;00;Oleanderhof;4341LV;ARNEMUIDEN;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4341;Middelburg;11EY;00;Oleanderhof;4341LV;ARNEMUIDEN;Zeeland;Bo;Protestants-Christelijk;42653;0;25;25;29;33;26;25;35;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;221
+20171001;687;Middelburg;4351;Veere;11EY;00;Oleanderhof;4341LV;ARNEMUIDEN;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;  40;Onbekend;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4334;Middelburg;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4335;Middelburg;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;28;27;38;28;24;28;27;40;2;0;0;0;0;0;0;0;0;0;0;0;0;0;242
+20171001;687;Middelburg;4336;Middelburg;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4337;Middelburg;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;1;3;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;687;Middelburg;4383;Vlissingen;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4385;Vlissingen;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4387;Vlissingen;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4388;Vlissingen;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;6021;Cranendonck;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;9341;Noordenveld;14EX;00;De Stroming;4335TH;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4331;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4335;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4336;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4337;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;7;18;12;12;13;16;15;21;11;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;687;Middelburg;4339;Middelburg;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;14MT;00;De Vossenburch;4337VM;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4333;Middelburg;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4337;Middelburg;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;2;11;5;11;2;5;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;687;Middelburg;4339;Middelburg;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;9;13;12;11;18;10;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;687;Middelburg;4341;Middelburg;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4389;Vlissingen;14MT;01;De Vosseburch;4339BR;NIEUW- EN SINT JOOSLAND;Zeeland;Bo;Openbaar;42610;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4331;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;3;0;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4332;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;4;10;4;7;4;13;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;62
+20171001;687;Middelburg;4333;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;2;5;7;6;9;5;13;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;687;Middelburg;4334;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4335;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;1;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;687;Middelburg;4336;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4337;Middelburg;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;0;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4351;Veere;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4364;Veere;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;15IH;00;het Talent;4333BW;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;  30;ander land;15LA;00;De Leeuwenburch;4336GL;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4335;Middelburg;15LA;00;De Leeuwenburch;4336GL;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4336;Middelburg;15LA;00;De Leeuwenburch;4336GL;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;14;19;12;12;9;18;12;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;687;Middelburg;4337;Middelburg;15LA;00;De Leeuwenburch;4336GL;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;1;1;3;2;2;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;687;Middelburg;4388;Vlissingen;15LA;00;De Leeuwenburch;4336GL;MIDDELBURG;Zeeland;Bo;Openbaar;42610;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;3;0;1;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4332;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4333;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4334;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;20;9;22;9;12;9;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;687;Middelburg;4335;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;17;11;10;11;7;3;8;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;687;Middelburg;4336;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4337;Middelburg;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4364;Veere;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4383;Vlissingen;15NS;00;De Aventurijn;4334BA;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4332;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4335;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;2;0;0;0;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;687;Middelburg;4336;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;44;34;39;49;37;45;42;39;4;0;0;0;0;0;0;0;0;0;0;0;0;0;333
+20171001;687;Middelburg;4337;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;16;16;14;18;16;18;15;11;2;0;0;0;0;0;0;0;0;0;0;0;0;0;126
+20171001;687;Middelburg;4341;Middelburg;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4374;Veere;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4384;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4385;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4386;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4388;Vlissingen;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4456;Borsele;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4484;Noord-Beveland;15SP;00;BS Cypressenhof;4336EL;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4336;Middelburg;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;3;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;687;Middelburg;4337;Middelburg;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;22;22;18;24;22;32;21;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;687;Middelburg;4339;Middelburg;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4381;Vlissingen;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4382;Vlissingen;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4388;Vlissingen;15UU;00;Wilgenhof;4337JV;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;  40;Onbekend;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;7;1;4;7;10;6;10;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;687;Middelburg;4332;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;9;7;8;7;18;7;8;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;77
+20171001;687;Middelburg;4333;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;7;15;15;11;12;13;16;13;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;687;Middelburg;4334;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;2;5;2;4;8;2;5;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;687;Middelburg;4335;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;3;0;2;3;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;687;Middelburg;4336;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4337;Middelburg;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;1;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4356;Veere;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4383;Vlissingen;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4386;Vlissingen;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4424;Kapelle;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4484;Noord-Beveland;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4486;Noord-Beveland;15XC;00;Acaciahof;4333BW;MIDDELBURG;Zeeland;Bo;Protestants-Christelijk;42653;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;2904;Capelle aan den IJssel;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4332;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4333;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4334;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;687;Middelburg;4335;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;1;0;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4336;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;1;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;687;Middelburg;4337;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;1;3;3;2;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;687;Middelburg;4339;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4341;Middelburg;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4353;Veere;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4356;Veere;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4364;Veere;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4381;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4382;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;3;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;687;Middelburg;4383;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;687;Middelburg;4384;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4385;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4386;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4388;Vlissingen;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;1;1;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;687;Middelburg;4511;Sluis;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4615;Bergen op Zoom;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;5701;Helmond;16OU;00;SSBO Het Springtij;4335XG;MIDDELBURG;Zeeland;Sbo;Algemeen bijzonder;40876;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4337;Middelburg;21LW;00;Basisschool T Vierschip;4341LE;ARNEMUIDEN;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4341;Middelburg;21LW;00;Basisschool T Vierschip;4341LE;ARNEMUIDEN;Zeeland;Bo;Openbaar;42610;0;20;20;13;19;14;20;18;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;141
+20171001;687;Middelburg;4383;Vlissingen;21LW;00;Basisschool T Vierschip;4341LE;ARNEMUIDEN;Zeeland;Bo;Openbaar;42610;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4331;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;25;16;15;29;21;21;15;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;687;Middelburg;4332;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;14;16;23;12;14;12;8;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;687;Middelburg;4333;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;7;6;6;10;7;8;7;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;687;Middelburg;4334;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;3;5;2;5;4;4;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;687;Middelburg;4335;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;7;8;2;6;7;9;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;687;Middelburg;4336;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;8;2;5;3;1;0;2;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;687;Middelburg;4337;Middelburg;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;6;9;6;7;6;3;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;687;Middelburg;4351;Veere;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;1;0;0;1;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;687;Middelburg;4357;Veere;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4364;Veere;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4371;Veere;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4373;Veere;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4381;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4382;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4383;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;687;Middelburg;4385;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4386;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4388;Vlissingen;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;687;Middelburg;4451;Borsele;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4455;Borsele;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;687;Middelburg;4522;Sluis;22MP;00;ABS;4331RR;MIDDELBURG;Zeeland;Bo;Algemeen bijzonder;30715;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

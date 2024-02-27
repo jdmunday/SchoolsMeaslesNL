@@ -1,0 +1,92 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;416;Langedijk;1448;Purmerend;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1703;Heerhugowaard;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1721;Langedijk;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1822;Alkmaar;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;20;10;12;12;18;10;6;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;416;Langedijk;1823;Alkmaar;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;2;3;4;3;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;416;Langedijk;1824;Alkmaar;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1827;Alkmaar;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1834;Langedijk;05IQ;00;RK BS Paus Johannes;1834XN;SINT PANCRAS;Noord-Holland;Bo;Rooms-Katholiek;79536;0;13;19;19;24;22;35;24;29;0;0;0;0;0;0;0;0;0;0;0;0;0;0;185
+20171001;416;Langedijk;1704;Heerhugowaard;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1721;Langedijk;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;3;1;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;416;Langedijk;1724;Langedijk;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1822;Alkmaar;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;2;1;1;0;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;416;Langedijk;1824;Alkmaar;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1825;Alkmaar;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1827;Alkmaar;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;1;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;416;Langedijk;1834;Langedijk;05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;38;31;28;32;25;25;16;21;0;0;0;0;0;0;0;0;0;0;0;0;0;0;216
+20171001;416;Langedijk;1871;Bergen (NH.);05SC;00;PC Basisschool Het Baken;1834CG;SINT PANCRAS;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1702;Heerhugowaard;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1703;Heerhugowaard;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1704;Heerhugowaard;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;5;3;3;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;416;Langedijk;1705;Heerhugowaard;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;416;Langedijk;1721;Langedijk;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;14;12;7;16;17;20;17;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;416;Langedijk;1722;Langedijk;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;5;7;3;3;5;4;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;416;Langedijk;1723;Langedijk;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;416;Langedijk;1827;Alkmaar;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1834;Langedijk;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;1;0;2;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;416;Langedijk;2691;Westland;08PV;00;J.D. van Arkelschool;1721BW;BROEK OP LANGEDIJK;Noord-Holland;Bo;Protestants-Christelijk;40712;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1704;Heerhugowaard;11NC;00;RK Basisschool Maria;1723WB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1722;Langedijk;11NC;00;RK Basisschool Maria;1723WB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;3;2;2;6;4;5;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;416;Langedijk;1723;Langedijk;11NC;00;RK Basisschool Maria;1723WB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;9;4;7;5;14;13;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;416;Langedijk;1724;Langedijk;11NC;00;RK Basisschool Maria;1723WB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1076;Amsterdam;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1704;Heerhugowaard;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;416;Langedijk;1721;Langedijk;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1722;Langedijk;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;8;8;8;12;13;9;16;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;416;Langedijk;1723;Langedijk;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;11;7;11;10;10;6;7;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;416;Langedijk;1724;Langedijk;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;416;Langedijk;1749;Schagen;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1829;Alkmaar;11YL;00;RK Bs Duizend Eilanden;1723AA;NOORD-SCHARWOUDE;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1704;Heerhugowaard;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1722;Langedijk;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1723;Langedijk;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;3;2;2;1;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;416;Langedijk;1724;Langedijk;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;15;15;18;15;25;23;27;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;416;Langedijk;1738;Schagen;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;416;Langedijk;1746;Schagen;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;416;Langedijk;1747;Schagen;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1751;Schagen;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1823;Alkmaar;12HS;00;RK Basissch Sint Maarten;1724NZ;OUDKARSPEL;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;  30;ander land;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1701;Heerhugowaard;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;416;Langedijk;1704;Heerhugowaard;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;4;3;1;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;416;Langedijk;1705;Heerhugowaard;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;416;Langedijk;1713;Koggenland;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1721;Langedijk;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;35;30;31;30;23;29;31;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;416;Langedijk;1722;Langedijk;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;7;20;16;18;11;10;6;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;416;Langedijk;1723;Langedijk;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;1;1;0;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;416;Langedijk;1724;Langedijk;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;416;Langedijk;1822;Alkmaar;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;10;7;4;4;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;416;Langedijk;1825;Alkmaar;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1827;Alkmaar;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1834;Langedijk;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;9;12;12;12;10;16;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;416;Langedijk;1842;Alkmaar;12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1862;Bergen (NH.);12LQ;00;De Phoenix;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1701;Heerhugowaard;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1704;Heerhugowaard;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;1;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;416;Langedijk;1705;Heerhugowaard;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1711;Koggenland;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1721;Langedijk;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;2;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;416;Langedijk;1722;Langedijk;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;22;19;16;16;15;15;17;22;2;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;416;Langedijk;1723;Langedijk;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;42;39;38;32;26;32;29;28;2;0;0;0;0;0;0;0;0;0;0;0;0;0;268
+20171001;416;Langedijk;1724;Langedijk;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;3;1;6;3;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;416;Langedijk;1733;Hollands Kroon;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;416;Langedijk;1817;Alkmaar;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1824;Alkmaar;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1827;Alkmaar;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1834;Langedijk;12TT;00;De Wijde Veert;1723AB;NOORD-SCHARWOUDE;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1705;Heerhugowaard;12TT;01;Barnewiel;1724SV;OUDKARSPEL;Noord-Holland;Bo;Openbaar;41364;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1721;Langedijk;12TT;01;Barnewiel;1724SV;OUDKARSPEL;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1723;Langedijk;12TT;01;Barnewiel;1724SV;OUDKARSPEL;Noord-Holland;Bo;Openbaar;41364;0;0;1;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;416;Langedijk;1724;Langedijk;12TT;01;Barnewiel;1724SV;OUDKARSPEL;Noord-Holland;Bo;Openbaar;41364;0;8;21;9;8;11;11;8;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;88
+20171001;416;Langedijk;1738;Schagen;12TT;01;Barnewiel;1724SV;OUDKARSPEL;Noord-Holland;Bo;Openbaar;41364;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;416;Langedijk;1704;Heerhugowaard;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;416;Langedijk;1721;Langedijk;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;11;13;17;12;22;16;29;26;1;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;416;Langedijk;1722;Langedijk;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;7;1;4;5;11;5;14;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;51
+20171001;416;Langedijk;1723;Langedijk;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;416;Langedijk;1724;Langedijk;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1822;Alkmaar;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1823;Alkmaar;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1824;Alkmaar;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;416;Langedijk;1834;Langedijk;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;1;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;416;Langedijk;1972;Velsen;27JV;00;RK BSO De Koolvlet;1721HJ;BROEK OP LANGEDIJK;Noord-Holland;Bo;Rooms-Katholiek;79536;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

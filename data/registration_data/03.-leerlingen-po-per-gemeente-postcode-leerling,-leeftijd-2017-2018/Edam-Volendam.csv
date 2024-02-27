@@ -1,0 +1,104 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;385;Edam-Volendam;1131;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;3;1;2;2;3;5;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;385;Edam-Volendam;1132;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;1;1;3;4;1;9;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;385;Edam-Volendam;1135;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;1;0;0;2;2;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;385;Edam-Volendam;1141;Waterland;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;385;Edam-Volendam;1145;Waterland;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1156;Waterland;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1471;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1472;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1474;Edam-Volendam;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;7858;Borger-Odoorn;02RQ;00;RK SSBO St Vincentius;1131BJ;VOLENDAM;Noord-Holland;Sbo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;1;3;3;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;385;Edam-Volendam;1132;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;5;4;5;7;7;5;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;385;Edam-Volendam;1135;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;35;37;28;29;37;44;38;27;5;0;0;0;0;0;0;0;0;0;0;0;0;0;280
+20171001;385;Edam-Volendam;1145;Waterland;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1473;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;385;Edam-Volendam;1474;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1481;Edam-Volendam;07AH;00;Oec Basissch De Trimaran;1135KA;EDAM;Noord-Holland;Bo;Algemeen bijzonder;41012;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;2;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;385;Edam-Volendam;1132;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;385;Edam-Volendam;1135;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;13;21;21;15;24;11;16;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;385;Edam-Volendam;1145;Waterland;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;385;Edam-Volendam;1446;Purmerend;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1471;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1473;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1481;Edam-Volendam;07DM;00;De Nieuwe School;1135BT;EDAM;Noord-Holland;Bo;Algemeen bijzonder;82838;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;385;Edam-Volendam;1132;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;1;1;1;0;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;385;Edam-Volendam;1135;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;7;7;5;10;13;18;16;26;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;385;Edam-Volendam;1141;Waterland;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1473;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1474;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1475;Edam-Volendam;09ES;00;Basisschool De Piramide;1135JE;EDAM;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;11QQ;00;Basisschool de Spinmolen;1132AB;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;1;2;0;1;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;385;Edam-Volendam;1132;Edam-Volendam;11QQ;00;Basisschool de Spinmolen;1132AB;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;19;25;26;20;20;23;19;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;385;Edam-Volendam;1145;Waterland;11QQ;00;Basisschool de Spinmolen;1132AB;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1131;Edam-Volendam;12KP;00;J F Kennedybasisschool;1131DR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;26;30;23;27;23;21;24;23;0;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;385;Edam-Volendam;1132;Edam-Volendam;12KP;00;J F Kennedybasisschool;1131DR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;1;0;0;1;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;385;Edam-Volendam;1131;Edam-Volendam;12TD;00;Sint Petrusbasisschool;1131KX;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;16;10;5;11;3;3;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;385;Edam-Volendam;1132;Edam-Volendam;12TD;00;Sint Petrusbasisschool;1131KX;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;28;36;41;55;65;45;75;76;4;0;0;0;0;0;0;0;0;0;0;0;0;0;425
+20171001;385;Edam-Volendam;1135;Edam-Volendam;12TD;00;Sint Petrusbasisschool;1131KX;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1131;Edam-Volendam;13FK;00;Basisschool de Blokwhere;1132NA;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;1;2;4;11;1;1;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;385;Edam-Volendam;1132;Edam-Volendam;13FK;00;Basisschool de Blokwhere;1132NA;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;23;23;22;19;25;30;15;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;385;Edam-Volendam;1135;Edam-Volendam;13FK;00;Basisschool de Blokwhere;1132NA;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1474;Edam-Volendam;13FK;00;Basisschool de Blokwhere;1132NA;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1481;Edam-Volendam;13FK;00;Basisschool de Blokwhere;1132NA;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;13KQ;00;Sint Jozef Basisschool;1131DZ;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;28;24;18;27;23;24;18;26;3;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;385;Edam-Volendam;1132;Edam-Volendam;13KQ;00;Sint Jozef Basisschool;1131DZ;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;385;Edam-Volendam;1135;Edam-Volendam;13KQ;00;Sint Jozef Basisschool;1131DZ;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1141;Waterland;13KQ;00;Sint Jozef Basisschool;1131DZ;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1145;Waterland;13KQ;00;Sint Jozef Basisschool;1131DZ;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;13PL;00;St Nicolaas Basisschool;1131DR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;22;30;26;24;26;11;14;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;385;Edam-Volendam;1132;Edam-Volendam;13PL;00;St Nicolaas Basisschool;1131DR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;1;0;0;2;2;13;11;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;385;Edam-Volendam;1135;Edam-Volendam;13PL;00;St Nicolaas Basisschool;1131DR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1131;Edam-Volendam;13WV;00;De Springplank;1132BR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;1;7;5;2;1;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;385;Edam-Volendam;1132;Edam-Volendam;13WV;00;De Springplank;1132BR;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;28;22;31;23;28;20;27;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;385;Edam-Volendam;1132;Edam-Volendam;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1141;Waterland;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1461;Beemster;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1473;Edam-Volendam;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;4;6;2;10;6;3;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;385;Edam-Volendam;1474;Edam-Volendam;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;2;2;2;5;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;385;Edam-Volendam;1475;Edam-Volendam;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1476;Edam-Volendam;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1631;Koggenland;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;385;Edam-Volendam;1654;Medemblik;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1705;Heerhugowaard;18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1931;Bergen (NH.);18OZ;00;OBS 't Tilletje;1473PH;WARDER;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1132;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1135;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1463;Beemster;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;385;Edam-Volendam;1471;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1472;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1473;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1474;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;29;24;31;17;21;28;39;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;214
+20171001;385;Edam-Volendam;1475;Edam-Volendam;18QD;00;OBS De Koningsspil;1474HT;OOSTHUIZEN;Noord-Holland;Bo;Openbaar;41434;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1087;Amsterdam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1131;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1135;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1441;Purmerend;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1442;Purmerend;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1448;Purmerend;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;385;Edam-Volendam;1456;Wormerland;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1462;Beemster;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1471;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1472;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;4;8;4;5;4;12;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;385;Edam-Volendam;1473;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1474;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;1;0;1;0;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;385;Edam-Volendam;1481;Edam-Volendam;18SF;00;OBS Middelie;1472GT;MIDDELIE;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1444;Purmerend;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;0;1;0;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;385;Edam-Volendam;1446;Purmerend;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1448;Purmerend;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1456;Wormerland;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1461;Beemster;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;385;Edam-Volendam;1462;Beemster;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1471;Edam-Volendam;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;2;4;4;3;4;7;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;385;Edam-Volendam;1481;Edam-Volendam;18TA;00;Obs Pr Beatrix;1471CE;KWADIJK;Noord-Holland;Bo;Openbaar;41434;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1132;Edam-Volendam;18UD;00;OBS Meester Haye;1475JD;BEETS NH;Noord-Holland;Bo;Openbaar;41434;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1446;Purmerend;18UD;00;OBS Meester Haye;1475JD;BEETS NH;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;385;Edam-Volendam;1463;Beemster;18UD;00;OBS Meester Haye;1475JD;BEETS NH;Noord-Holland;Bo;Openbaar;41434;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1474;Edam-Volendam;18UD;00;OBS Meester Haye;1475JD;BEETS NH;Noord-Holland;Bo;Openbaar;41434;0;1;1;0;1;5;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;385;Edam-Volendam;1475;Edam-Volendam;18UD;00;OBS Meester Haye;1475JD;BEETS NH;Noord-Holland;Bo;Openbaar;41434;0;2;7;2;4;8;4;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;385;Edam-Volendam;1131;Edam-Volendam;27PK;00;'t Kofschip;1132LE;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;385;Edam-Volendam;1132;Edam-Volendam;27PK;00;'t Kofschip;1132LE;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;21;24;22;29;21;44;21;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;212
+20171001;385;Edam-Volendam;1135;Edam-Volendam;27PK;00;'t Kofschip;1132LE;VOLENDAM;Noord-Holland;Bo;Rooms-Katholiek;72853;0;0;3;3;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12

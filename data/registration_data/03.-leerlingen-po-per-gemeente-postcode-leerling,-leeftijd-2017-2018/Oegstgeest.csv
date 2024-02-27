@@ -1,0 +1,392 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;579;Oegstgeest;1186;Amstelveen;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2133;Haarlemmermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2134;Haarlemmermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2144;Haarlemmermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2152;Haarlemmermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2161;Lisse;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2162;Lisse;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2171;Teylingen;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2181;Hillegom;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;2;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2182;Hillegom;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2191;Noordwijkerhout;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2201;Noordwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2202;Noordwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2211;Noordwijkerhout;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2215;Teylingen;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2221;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2223;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2224;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2225;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2231;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2235;Katwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2241;Wassenaar;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2243;Wassenaar;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2251;Voorschoten;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2252;Voorschoten;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2253;Voorschoten;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2264;Leidschendam-Voorburg;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2311;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2312;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2313;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2314;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2315;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2316;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2317;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2318;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2324;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2331;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2332;Leiden;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2341;Oegstgeest;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2343;Oegstgeest;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2352;Leiderdorp;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2353;Leiderdorp;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2361;Teylingen;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2376;Kaag en Braassem;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2382;Zoeterwoude;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2396;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2401;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2402;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2403;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2404;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2405;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2408;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2411;Bodegraven-Reeuwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2415;Bodegraven-Reeuwijk;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2421;Nieuwkoop;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2451;Kaag en Braassem;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2461;Nieuwkoop;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2465;Kaag en Braassem;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2481;Kaag en Braassem;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2492;'s-Gravenhage;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2632;Pijnacker-Nootdorp;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2717;Zoetermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2721;Zoetermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2723;Zoetermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2727;Zoetermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2728;Zoetermeer;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2771;Alphen aan den Rijn;00NT;00;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;1422;Uithoorn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;1423;Uithoorn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;1431;Aalsmeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;1433;Aalsmeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2082;Velsen;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2114;Bloemendaal;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2121;Bloemendaal;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2131;Haarlemmermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2135;Haarlemmermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2136;Haarlemmermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2151;Haarlemmermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2152;Haarlemmermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2161;Lisse;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2162;Lisse;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2163;Lisse;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2171;Teylingen;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2181;Hillegom;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2182;Hillegom;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2201;Noordwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2203;Noordwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2211;Noordwijkerhout;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2215;Teylingen;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;2;0;1;1;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2221;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;2;1;2;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2223;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2224;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2225;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2231;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;7;0;0;2;0;0;0;0;0;0;0;0;0;10
+20171001;579;Oegstgeest;2235;Katwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2241;Wassenaar;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2242;Wassenaar;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2251;Voorschoten;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2262;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2264;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2266;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2271;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2272;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2273;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2274;Leidschendam-Voorburg;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2282;Rijswijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2284;Rijswijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2285;Rijswijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2292;Westland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2295;Westland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2312;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2313;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2314;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2315;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2316;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2317;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2318;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2321;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2324;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2331;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2332;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2334;Leiden;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2341;Oegstgeest;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2342;Oegstgeest;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2343;Oegstgeest;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;4;1;0;1;1;1;0;0;0;0;0;0;0;8
+20171001;579;Oegstgeest;2352;Leiderdorp;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2353;Leiderdorp;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2361;Teylingen;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2377;Kaag en Braassem;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2381;Zoeterwoude;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2382;Zoeterwoude;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2391;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2394;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2396;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2401;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2402;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2403;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2405;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2406;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2408;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2411;Bodegraven-Reeuwijk;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2421;Nieuwkoop;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2435;Nieuwkoop;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2441;Nieuwkoop;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2451;Kaag en Braassem;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2461;Nieuwkoop;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2465;Kaag en Braassem;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2471;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2481;Kaag en Braassem;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2492;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2496;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2497;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2498;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2521;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2522;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2523;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2525;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2526;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2533;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2542;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2544;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2546;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2548;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2551;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2553;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2554;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2555;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2564;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2566;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2574;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2587;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2593;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2595;'s-Gravenhage;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2611;Delft;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2631;Pijnacker-Nootdorp;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2635;Midden-Delfland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2636;Midden-Delfland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2642;Pijnacker-Nootdorp;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2675;Westland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2676;Westland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2691;Westland;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2711;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2712;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2713;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2716;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2717;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2718;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2721;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2722;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2723;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;2;1;1;0;1;1;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2725;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2727;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2728;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2729;Zoetermeer;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2731;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2743;Waddinxveen;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2751;Zuidplas;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2771;Alphen aan den Rijn;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2831;Krimpenerwaard;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;9062;Tytsjerksteradiel;00NT;05;Prof Dr Leo Kannerschool;2343SZ;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2037;Haarlem;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2104;Heemstede;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2131;Haarlemmermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2152;Haarlemmermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2161;Lisse;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2162;Lisse;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2171;Teylingen;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2172;Teylingen;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2182;Hillegom;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2202;Noordwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2203;Noordwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2211;Noordwijkerhout;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2215;Teylingen;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2221;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2221;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2224;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2224;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2225;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2225;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2231;Katwijk;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2241;Wassenaar;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2242;Wassenaar;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2252;Voorschoten;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2273;Leidschendam-Voorburg;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2311;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2312;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2315;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2317;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2318;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2324;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2331;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2331;Leiden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2352;Leiderdorp;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2371;Kaag en Braassem;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2402;Alphen aan den Rijn;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2403;Alphen aan den Rijn;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2405;Alphen aan den Rijn;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2405;Alphen aan den Rijn;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2408;Alphen aan den Rijn;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2497;'s-Gravenhage;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2531;'s-Gravenhage;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2563;'s-Gravenhage;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2586;'s-Gravenhage;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2631;Pijnacker-Nootdorp;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2681;Westland;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2685;Westland;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2713;Zoetermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2715;Zoetermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2715;Zoetermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2718;Zoetermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2722;Zoetermeer;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2743;Waddinxveen;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2751;Zuidplas;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;So;Algemeen bijzonder;30968;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;3445;Woerden;00NT;09;Prof Dr Leo Kannerschool;2342AK;OEGSTGEEST;Zuid-Holland;Vso;Algemeen bijzonder;30968;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;  30;ander land;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2171;Teylingen;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2203;Noordwijk;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2223;Katwijk;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2231;Katwijk;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;2;2;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2235;Katwijk;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2312;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2313;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2316;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2318;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2321;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2332;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2333;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;1;1;2;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;579;Oegstgeest;2334;Leiden;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2341;Oegstgeest;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;11;14;12;7;16;15;19;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;579;Oegstgeest;2342;Oegstgeest;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;5;3;2;5;1;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;579;Oegstgeest;2343;Oegstgeest;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;28;27;32;29;33;32;21;23;4;0;0;0;0;0;0;0;0;0;0;0;0;0;229
+20171001;579;Oegstgeest;2353;Leiderdorp;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2361;Teylingen;05IH;00;RK Jenaplansch De Kring;2343SR;OEGSTGEEST;Zuid-Holland;Bo;Rooms-Katholiek;75206;0;0;1;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2171;Teylingen;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2172;Teylingen;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2201;Noordwijk;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2215;Teylingen;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2231;Katwijk;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2235;Katwijk;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2314;Leiden;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2334;Leiden;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2341;Oegstgeest;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2342;Oegstgeest;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2343;Oegstgeest;06HT;00;Basissch Joris De Witte;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;32515;0;18;27;28;31;28;24;26;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;208
+20171001;579;Oegstgeest;2204;Noordwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2215;Teylingen;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2223;Katwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2224;Katwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2231;Katwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;10;13;6;4;13;7;11;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;579;Oegstgeest;2232;Katwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2235;Katwijk;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;5;1;2;3;4;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;579;Oegstgeest;2253;Voorschoten;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2316;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2317;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2318;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;2;1;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;579;Oegstgeest;2324;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2331;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2332;Leiden;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2341;Oegstgeest;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;1;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2342;Oegstgeest;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;1;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2343;Oegstgeest;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;2;5;3;3;4;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;579;Oegstgeest;2351;Leiderdorp;06KU;00;De Lichtwijzer;2341BK;OEGSTGEEST;Zuid-Holland;Bo;Gereformeerd vrijgemaakt;41646;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2231;Katwijk;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2235;Katwijk;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2251;Voorschoten;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2312;Leiden;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2315;Leiden;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2318;Leiden;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2333;Leiden;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2334;Leiden;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2341;Oegstgeest;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;34;31;33;29;26;28;30;28;1;0;0;0;0;0;0;0;0;0;0;0;0;0;240
+20171001;579;Oegstgeest;2342;Oegstgeest;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;4;7;7;4;4;4;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;579;Oegstgeest;2343;Oegstgeest;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;5;5;7;0;9;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;579;Oegstgeest;2361;Teylingen;08IH;00;Gevers Deutz Terwee;2341CV;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;1;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;579;Oegstgeest;2161;Lisse;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2172;Teylingen;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2201;Noordwijk;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2215;Teylingen;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2225;Katwijk;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2231;Katwijk;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;5;2;3;2;0;3;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;579;Oegstgeest;2235;Katwijk;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;3;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;579;Oegstgeest;2242;Wassenaar;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2263;Leidschendam-Voorburg;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2311;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;579;Oegstgeest;2312;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2313;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2314;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2315;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2316;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;2;4;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;579;Oegstgeest;2317;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2318;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2321;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2324;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2331;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2332;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2333;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;3;0;2;1;2;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;579;Oegstgeest;2334;Leiden;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;2;0;2;1;1;6;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;579;Oegstgeest;2341;Oegstgeest;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;11;19;9;11;15;17;25;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;579;Oegstgeest;2342;Oegstgeest;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;4;0;3;5;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;579;Oegstgeest;2343;Oegstgeest;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;30;22;26;22;24;25;16;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;579;Oegstgeest;2353;Leiderdorp;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2361;Teylingen;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;2;0;2;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;579;Oegstgeest;2362;Teylingen;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2402;Alphen aan den Rijn;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2582;'s-Gravenhage;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2584;'s-Gravenhage;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2771;Alphen aan den Rijn;09IH;00;Opb Montessorisch Oegstgeest;2343CE;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;  30;ander land;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2159;Kaag en Braassem;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2312;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2313;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2316;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;8;10;6;2;3;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;579;Oegstgeest;2317;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;5;5;3;9;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;579;Oegstgeest;2318;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;2;3;2;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;579;Oegstgeest;2334;Leiden;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2341;Oegstgeest;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;22;30;20;32;21;20;37;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;204
+20171001;579;Oegstgeest;2342;Oegstgeest;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2343;Oegstgeest;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;579;Oegstgeest;2352;Leiderdorp;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2353;Leiderdorp;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2361;Teylingen;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;3823;Amersfoort;10DW;00;De Vogels;2341PM;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;  40;Onbekend;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2231;Katwijk;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2241;Wassenaar;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2316;Leiden;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2334;Leiden;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2341;Oegstgeest;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;2;1;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;579;Oegstgeest;2342;Oegstgeest;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2343;Oegstgeest;10VK;00;Daltonschool Oegstgeest;2343BK;OEGSTGEEST;Zuid-Holland;Bo;Openbaar;13682;0;15;29;16;30;25;17;17;23;6;0;0;0;0;0;0;0;0;0;0;0;0;0;178
+20171001;579;Oegstgeest;2158;Haarlemmermeer;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2231;Katwijk;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2334;Leiden;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2341;Oegstgeest;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;15;16;14;11;16;13;13;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;113
+20171001;579;Oegstgeest;2342;Oegstgeest;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;2;1;6;4;1;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;579;Oegstgeest;2343;Oegstgeest;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;10;9;9;11;10;9;13;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;579;Oegstgeest;2361;Teylingen;15GR;00;Hofdyckschool;2341SE;OEGSTGEEST;Zuid-Holland;Bo;Protestants-Christelijk;37233;0;0;0;1;0;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;579;Oegstgeest;2171;Teylingen;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2204;Noordwijk;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2224;Katwijk;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;579;Oegstgeest;2225;Katwijk;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2231;Katwijk;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;5;4;2;2;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;579;Oegstgeest;2235;Katwijk;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;9;9;4;5;2;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;579;Oegstgeest;2241;Wassenaar;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2321;Leiden;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;579;Oegstgeest;2331;Leiden;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;579;Oegstgeest;2332;Leiden;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;579;Oegstgeest;2341;Oegstgeest;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;11;8;4;4;6;6;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;579;Oegstgeest;2342;Oegstgeest;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;26;21;17;21;13;11;14;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;130
+20171001;579;Oegstgeest;2343;Oegstgeest;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;579;Oegstgeest;2353;Leiderdorp;29YF;00;Brede School Het Dok;2342BT;OEGSTGEEST;Zuid-Holland;Bo;Algemeen bijzonder;41807;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

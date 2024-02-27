@@ -1,0 +1,91 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1685;Landerd;  30;ander land;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5348;Oss;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5351;Oss;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5373;Oss;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5374;Landerd;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;17;32;21;19;22;20;21;21;6;0;0;0;0;0;0;0;0;0;0;0;0;0;179
+20171001;1685;Landerd;5375;Landerd;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;2;0;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1685;Landerd;5384;Bernheze;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5411;Landerd;05JE;00;Basissch Den Omgang;5374HT;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;2;2;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1685;Landerd;5361;Grave;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5363;Grave;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5374;Landerd;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5375;Landerd;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;18;14;11;15;15;24;13;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;124
+20171001;1685;Landerd;5411;Landerd;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5453;Mill en Sint Hubert;07SL;00;De Kreek'l;5375AG;REEK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;  20;Duitsland;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;  30;ander land;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5223;'s-Hertogenbosch;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5258;Sint-Michielsgestel;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5301;Zaltbommel;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5342;Oss;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5345;Oss;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5346;Oss;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5351;Oss;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5373;Oss;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;1;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1685;Landerd;5374;Landerd;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;46;45;48;41;40;50;38;36;4;0;0;0;0;0;0;0;0;0;0;0;0;0;348
+20171001;1685;Landerd;5375;Landerd;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1685;Landerd;5403;Uden;07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5853;Bergen (L.);07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5854;Bergen (L.);07VP;00;BS De Regenboog;5374AC;SCHAIJK;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;  30;ander land;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5374;Landerd;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5375;Landerd;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5388;Bernheze;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5411;Landerd;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;39;41;54;40;58;32;51;36;2;0;0;0;0;0;0;0;0;0;0;0;0;0;353
+20171001;1685;Landerd;5453;Mill en Sint Hubert;10YE;00;RK Basissch Vlasgaard;5411EA;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1685;Landerd;5408;Uden;11LT;00;RK Basissch t Oventje;5411NT;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5409;Uden;11LT;00;RK Basissch t Oventje;5411NT;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5411;Landerd;11LT;00;RK Basissch t Oventje;5411NT;ZEELAND;Noord-Brabant;Bo;Rooms-Katholiek;48348;0;5;5;3;6;7;9;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;1685;Landerd;5141;Waalwijk;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5213;'s-Hertogenbosch;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5231;'s-Hertogenbosch;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5341;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5342;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5343;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5344;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;2;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1685;Landerd;5345;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;2;0;1;4;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1685;Landerd;5346;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5348;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5351;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;1;1;2;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1685;Landerd;5361;Grave;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;1;3;1;4;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1685;Landerd;5363;Grave;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5364;Grave;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5371;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5373;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1685;Landerd;5374;Landerd;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5375;Landerd;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;2;0;2;1;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1685;Landerd;5384;Bernheze;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1685;Landerd;5386;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5388;Bernheze;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5394;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5396;Oss;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5401;Uden;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5402;Uden;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5403;Uden;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1685;Landerd;5406;Uden;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5408;Uden;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5411;Landerd;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5427;Boekel;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5431;Cuijk;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1685;Landerd;5451;Mill en Sint Hubert;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5453;Mill en Sint Hubert;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5454;Mill en Sint Hubert;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5455;Mill en Sint Hubert;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5463;Meierijstad;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1685;Landerd;5464;Meierijstad;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5467;Meierijstad;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1685;Landerd;5492;Meierijstad;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5506;Veldhoven;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5667;Geldrop-Mierlo;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5825;Boxmeer;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5831;Boxmeer;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5843;Sint Anthonis;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;6603;Wijchen;21IZ;00;De Vlinder;5375AG;REEK;Noord-Brabant;So;Rooms-Katholiek;30198;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5374;Landerd;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5375;Landerd;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5401;Uden;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1685;Landerd;5404;Uden;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5409;Uden;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1685;Landerd;5411;Landerd;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;29;24;15;17;7;13;9;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;1685;Landerd;5432;Cuijk;27UE;00;de Wizzert;5411EA;ZEELAND;Noord-Brabant;Bo;Openbaar;13674;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

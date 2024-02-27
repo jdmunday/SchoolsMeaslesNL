@@ -1,0 +1,423 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;203;Barneveld;3771;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;2;3;5;4;4;4;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;203;Barneveld;3772;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;14;8;11;9;8;4;5;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;203;Barneveld;3773;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3784;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3785;Barneveld;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6713;Ede;01VE;00;GBS De Bron;3771CS;BARNEVELD;Gelderland;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;1274;Huizen;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;1;0;2;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;203;Barneveld;3772;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;2;1;5;1;6;6;13;14;5;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;203;Barneveld;3773;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3774;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3776;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;1;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3781;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;3;1;2;1;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;203;Barneveld;3784;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3785;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3791;Leusden;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3794;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;1;1;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3871;Nijkerk;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3881;Putten;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3886;Barneveld;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3905;Veenendaal;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3925;Scherpenzeel;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;1;1;1;1;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;203;Barneveld;3927;Renswoude;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;1;0;0;0;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3931;Woudenberg;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;3994;Houten;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6711;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6712;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6714;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6715;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6717;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6718;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6721;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6732;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6733;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6741;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;203;Barneveld;6744;Ede;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;7322;Apeldoorn;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;8224;Lelystad;02AJ;00;Chr SSBO De Vogelhorst;3772TX;BARNEVELD;Gelderland;Sbo;Protestants-Christelijk;25897;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;5;4;4;2;5;3;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;203;Barneveld;3772;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;1;1;1;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3773;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;0;1;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3774;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;52;49;55;53;57;46;48;33;2;0;0;0;0;0;0;0;0;0;0;0;0;0;395
+20171001;203;Barneveld;3776;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;3;7;7;5;5;6;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;203;Barneveld;3781;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;4;5;4;3;3;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;203;Barneveld;3886;Barneveld;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;1;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;6731;Ede;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6732;Ede;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;3;6;5;6;3;8;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;203;Barneveld;6733;Ede;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;4;5;1;4;4;6;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;203;Barneveld;6741;Ede;03HU;00;Rehobothschool;3774DA;KOOTWIJKERBROEK;Gelderland;Bo;Reformatorisch;24481;0;2;4;2;2;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;203;Barneveld;  30;ander land;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;28;27;27;24;19;23;17;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;203;Barneveld;3772;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;11;17;20;18;20;14;13;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;203;Barneveld;3773;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;7;11;8;6;9;6;9;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;203;Barneveld;3774;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;2;0;1;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3784;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3785;Barneveld;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;2;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3791;Leusden;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;2;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3862;Nijkerk;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6718;Ede;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6733;Ede;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6741;Ede;04LD;00;De Vesting;3772AV;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;2;3;3;3;4;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;203;Barneveld;3784;Barneveld;04TN;00;Het Anker;3785LA;ZWARTEBROEK;Gelderland;Bo;Protestants-Christelijk;41337;0;5;2;1;1;3;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;203;Barneveld;3785;Barneveld;04TN;00;Het Anker;3785LA;ZWARTEBROEK;Gelderland;Bo;Protestants-Christelijk;41337;0;13;6;13;3;12;8;8;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;203;Barneveld;3812;Amersfoort;04TN;00;Het Anker;3785LA;ZWARTEBROEK;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3871;Nijkerk;04TN;00;Het Anker;3785LA;ZWARTEBROEK;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3751;Bunschoten;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3752;Bunschoten;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3771;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;32;20;28;17;28;19;20;22;0;0;0;0;0;0;0;0;0;0;0;0;0;0;186
+20171001;203;Barneveld;3772;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;38;35;36;29;32;29;31;25;1;0;0;0;0;0;0;0;0;0;0;0;0;0;256
+20171001;203;Barneveld;3773;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;7;7;5;4;1;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;203;Barneveld;3774;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;8;5;11;8;7;8;12;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;203;Barneveld;3776;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;1;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3781;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;2;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3784;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;1;2;2;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;203;Barneveld;3785;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3794;Barneveld;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;1;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;203;Barneveld;3861;Nijkerk;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3862;Nijkerk;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;1;0;3;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;203;Barneveld;3863;Nijkerk;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3864;Nijkerk;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3871;Nijkerk;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3881;Putten;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3882;Putten;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3927;Renswoude;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3931;Woudenberg;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6718;Ede;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6731;Ede;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6732;Ede;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;1;1;1;1;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;6733;Ede;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;0;0;1;2;0;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;203;Barneveld;6741;Ede;06JP;00;Eben Haezerschool;3771CH;BARNEVELD;Gelderland;Bo;Reformatorisch;40419;0;11;9;8;8;9;9;9;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;79
+20171001;203;Barneveld;3525;Utrecht;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;6;4;7;4;8;4;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;203;Barneveld;3772;Barneveld;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;15;11;15;12;14;12;4;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;203;Barneveld;3773;Barneveld;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;6741;Ede;06YT;00;Antonius Basissch;3772CC;BARNEVELD;Gelderland;Bo;Rooms-Katholiek;31237;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3784;Barneveld;07EK;00;NH Basisschool De Zaaier;3784WT;TERSCHUUR;Gelderland;Bo;Protestants-Christelijk;83579;0;10;10;5;6;5;6;6;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;203;Barneveld;3785;Barneveld;07EK;00;NH Basisschool De Zaaier;3784WT;TERSCHUUR;Gelderland;Bo;Protestants-Christelijk;83579;0;3;1;2;2;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;203;Barneveld;3871;Nijkerk;07EK;00;NH Basisschool De Zaaier;3784WT;TERSCHUUR;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;2967;Molenwaard;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;2973;Molenwaard;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3752;Bunschoten;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3774;Barneveld;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3776;Barneveld;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;20;29;27;31;29;25;39;31;3;0;0;0;0;0;0;0;0;0;0;0;0;0;234
+20171001;203;Barneveld;3784;Barneveld;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3862;Nijkerk;08BH;00;Kon Wilhelminaschool;3781GG;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3776;Barneveld;08WO;00;De Hoeksteen;3781BM;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3781;Barneveld;08WO;00;De Hoeksteen;3781BM;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;7;8;12;15;16;16;14;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;104
+20171001;203;Barneveld;3862;Nijkerk;08WO;00;De Hoeksteen;3781BM;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;5212;'s-Hertogenbosch;08WO;00;De Hoeksteen;3781BM;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;09BK;00;De Fontein Lijsterhof;3772AV;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;1;0;1;1;2;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;3772;Barneveld;09BK;00;De Fontein Lijsterhof;3772AV;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;24;29;30;26;33;23;22;15;5;0;0;0;0;0;0;0;0;0;0;0;0;0;207
+20171001;203;Barneveld;3772;Barneveld;09CZ;00;De Wheemschool;3781EV;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;09CZ;00;De Wheemschool;3781EV;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;30;40;25;25;40;27;33;34;1;0;0;0;0;0;0;0;0;0;0;0;0;0;255
+20171001;203;Barneveld;3862;Nijkerk;09CZ;00;De Wheemschool;3781EV;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;30673;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;1094;Amsterdam;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;1211;Hilversum;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3771;Barneveld;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3774;Barneveld;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3776;Barneveld;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;1;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3781;Barneveld;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;19;24;26;27;28;32;26;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;203;Barneveld;3784;Barneveld;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3824;Amersfoort;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3862;Nijkerk;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;3882;Putten;09UN;00;Dr W vd Berghschool;3781EJ;VOORTHUIZEN;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3521;Utrecht;09YB;00;Sch md Bijbel De Spreng;3771CT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;09YB;00;Sch md Bijbel De Spreng;3771CT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;22;23;21;18;20;25;17;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;165
+20171001;203;Barneveld;3772;Barneveld;09YB;00;Sch md Bijbel De Spreng;3771CT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;9;14;15;14;16;12;11;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;100
+20171001;203;Barneveld;3773;Barneveld;09YB;00;Sch md Bijbel De Spreng;3771CT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3784;Barneveld;09YB;00;Sch md Bijbel De Spreng;3771CT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3771;Barneveld;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3772;Barneveld;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3774;Barneveld;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;27;28;33;28;30;30;31;32;1;0;0;0;0;0;0;0;0;0;0;0;0;0;240
+20171001;203;Barneveld;3775;Barneveld;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6732;Ede;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;2;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;6741;Ede;09YJ;00;Koningin Beatrixschool;3774BG;KOOTWIJKERBROEK;Gelderland;Bo;Protestants-Christelijk;84423;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3772;Barneveld;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3776;Barneveld;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3852;Ermelo;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;1;1;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3862;Nijkerk;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3871;Nijkerk;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3881;Putten;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3886;Barneveld;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;23;13;14;22;12;21;11;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;203;Barneveld;3888;Apeldoorn;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;2;1;1;3;0;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;203;Barneveld;6732;Ede;10QQ;00;Chr Basissch Pr Bernhard;3886KA;GARDEREN;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;11FD;00;De Bron;3776MK;STROE;Gelderland;Bo;Protestants-Christelijk;84423;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3774;Barneveld;11FD;00;De Bron;3776MK;STROE;Gelderland;Bo;Protestants-Christelijk;84423;0;0;2;1;2;0;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;203;Barneveld;3776;Barneveld;11FD;00;De Bron;3776MK;STROE;Gelderland;Bo;Protestants-Christelijk;84423;0;12;20;14;11;18;16;9;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;203;Barneveld;3781;Barneveld;11FD;00;De Bron;3776MK;STROE;Gelderland;Bo;Protestants-Christelijk;84423;0;2;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;  40;Onbekend;11FZ;00;Plantijn;3772TD;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;11FZ;00;Plantijn;3772TD;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;1;0;1;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3772;Barneveld;11FZ;00;Plantijn;3772TD;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;13;11;9;21;15;11;10;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;203;Barneveld;3773;Barneveld;11FZ;00;Plantijn;3772TD;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3794;Barneveld;11FZ;00;Plantijn;3772TD;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3771;Barneveld;11RU;00;Obs De Lijster;3772AA;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;1;2;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;203;Barneveld;3772;Barneveld;11RU;00;Obs De Lijster;3772AA;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;7;13;15;8;20;9;12;7;2;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;203;Barneveld;3925;Scherpenzeel;11RU;00;Obs De Lijster;3772AA;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3069;Rotterdam;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3772;Barneveld;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3774;Barneveld;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3776;Barneveld;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;9;8;16;9;5;5;12;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;203;Barneveld;3862;Nijkerk;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;1;1;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3881;Putten;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3925;Scherpenzeel;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6582;Heumen;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6718;Ede;12LJ;00;Obs de Regenboog;3781GG;VOORTHUIZEN;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3771;Barneveld;12QO;00;Basisschool Kon Juliana;3771XM;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;20;22;21;24;22;20;16;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;168
+20171001;203;Barneveld;3772;Barneveld;12QO;00;Basisschool Kon Juliana;3771XM;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;2;1;3;1;6;2;3;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;203;Barneveld;3784;Barneveld;12QO;00;Basisschool Kon Juliana;3771XM;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;2;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3771;Barneveld;13JA;00;Basissch Pr W Alexander;3772AX;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;1;0;3;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;203;Barneveld;3772;Barneveld;13JA;00;Basissch Pr W Alexander;3772AX;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;18;18;17;19;26;17;22;24;5;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;203;Barneveld;3773;Barneveld;13JA;00;Basissch Pr W Alexander;3772AX;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;13JA;00;Basissch Pr W Alexander;3772AX;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3772;Barneveld;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;1;1;4;1;4;1;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;203;Barneveld;3794;Barneveld;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;3;3;4;1;2;3;1;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;203;Barneveld;3831;Leusden;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3925;Scherpenzeel;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;1;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3927;Renswoude;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6741;Ede;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;1;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;7322;Apeldoorn;13OA;00;Basisschool Pr Beatrix;3794MJ;DE GLIND;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;1222;Hilversum;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3055;Rotterdam;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3601;Stichtse Vecht;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3703;Zeist;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3707;Zeist;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3752;Bunschoten;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3752;Bunschoten;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3754;Bunschoten;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3762;Soest;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3765;Soest;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;1;4;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3772;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3772;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;3;4;1;4;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;3773;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3774;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3776;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;3;1;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3784;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3784;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3794;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;2;2;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;3794;Barneveld;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;4;10;7;6;1;0;0;0;0;0;0;0;0;29
+20171001;203;Barneveld;3812;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3813;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3813;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3822;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3822;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3823;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3824;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3824;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3825;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3825;Amersfoort;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3831;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3831;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3832;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3832;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3833;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3834;Leusden;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3861;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3861;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3862;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3862;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3863;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3864;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3871;Nijkerk;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3881;Putten;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3902;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3903;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3903;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3904;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;2;4;1;1;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3905;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;3;1;0;1;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3906;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3906;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3907;Veenendaal;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3911;Rhenen;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3925;Scherpenzeel;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3927;Renswoude;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3931;Woudenberg;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3931;Woudenberg;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3951;Utrechtse Heuvelrug;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3953;Utrechtse Heuvelrug;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3956;Utrechtse Heuvelrug;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3958;Utrechtse Heuvelrug;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3962;Wijk bij Duurstede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3962;Wijk bij Duurstede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4043;Neder-Betuwe;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;5375;Landerd;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;So;Protestants-Christelijk;41450;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6715;Ede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6716;Ede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6732;Ede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;7311;Apeldoorn;14RB;00;Jan Hein Donnerschool;3794NA;DE GLIND;Gelderland;Vso;Protestants-Christelijk;41450;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3194;Rotterdam;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3771;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;7;8;1;6;11;7;7;8;3;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;203;Barneveld;3772;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;8;6;7;5;3;9;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;203;Barneveld;3773;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;2;0;2;0;1;7;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;203;Barneveld;3774;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;2;3;1;2;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;203;Barneveld;3775;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3781;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3784;Barneveld;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6731;Ede;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;23DH;00;obs De Zandberg;3771KV;BARNEVELD;Gelderland;Bo;Openbaar;41481;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3703;Zeist;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;3772;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;1;2;4;3;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;203;Barneveld;3773;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3774;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;2;0;0;2;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3776;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3784;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3794;Barneveld;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3815;Amersfoort;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3816;Amersfoort;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3861;Nijkerk;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3862;Nijkerk;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3871;Nijkerk;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3881;Putten;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3882;Putten;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3901;Veenendaal;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3902;Veenendaal;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3903;Veenendaal;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3904;Veenendaal;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3905;Veenendaal;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3921;Rhenen;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3925;Scherpenzeel;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;3927;Renswoude;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3931;Woudenberg;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3959;Utrechtse Heuvelrug;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6711;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6712;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6713;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6714;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;6715;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6717;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6718;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6721;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6732;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6733;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;7322;Apeldoorn;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;7326;Apeldoorn;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;7331;Apeldoorn;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;7361;Apeldoorn;24DF;00;Rehoboth SBO, Barneveld;3771CH;BARNEVELD;Gelderland;Sbo;Reformatorisch;84515;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;3;0;3;0;1;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;203;Barneveld;3772;Barneveld;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;39;23;11;13;8;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;203;Barneveld;3773;Barneveld;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;15;10;17;11;10;7;6;16;5;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;203;Barneveld;3774;Barneveld;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6741;Ede;24RM;00;De Branding;3773AT;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3771;Barneveld;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;7;5;2;7;2;8;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;203;Barneveld;3772;Barneveld;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;5;10;2;3;6;3;5;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;203;Barneveld;3773;Barneveld;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;17;14;10;20;17;14;12;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;203;Barneveld;3774;Barneveld;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3781;Barneveld;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;24RN;00;Willem Van Oranjeschool;3773AS;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;1;2;1;0;2;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;1273;Huizen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3533;Utrecht;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3721;De Bilt;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3761;Soest;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;2;3;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;203;Barneveld;3771;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;2;1;1;2;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3772;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;2;0;0;3;1;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;3772;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3774;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;1;0;0;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;3774;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3781;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3784;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3785;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3814;Amersfoort;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3816;Amersfoort;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3831;Leusden;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3851;Ermelo;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;3852;Ermelo;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3853;Ermelo;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3871;Nijkerk;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3871;Nijkerk;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3881;Putten;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3882;Putten;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3886;Barneveld;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3888;Apeldoorn;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3888;Apeldoorn;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3902;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3902;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3903;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3903;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3904;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3905;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3905;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3907;Veenendaal;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3911;Rhenen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3911;Rhenen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3925;Scherpenzeel;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3925;Scherpenzeel;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3927;Renswoude;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3931;Woudenberg;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3931;Woudenberg;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3941;Utrechtse Heuvelrug;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3947;Wijk bij Duurstede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3953;Utrechtse Heuvelrug;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3956;Utrechtse Heuvelrug;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;4031;Buren;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;4033;Buren;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4041;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;4041;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;4043;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;4051;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4064;Neerijnen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4105;Culemborg;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4116;Buren;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4132;Vianen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4176;Neerijnen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4181;Neerijnen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;4182;Neerijnen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4191;Geldermalsen;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;4261;Aalburg;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;5313;Zaltbommel;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;5321;Maasdriel;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6669;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6669;Neder-Betuwe;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6711;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6712;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6713;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6714;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6717;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6718;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6732;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;203;Barneveld;6732;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6733;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;6741;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;1;0;0;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;203;Barneveld;6744;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;6744;Ede;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;Vso;Reformatorisch;84515;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;7008;Doetinchem;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;7021;Bronckhorst;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;8075;Nunspeet;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;8307;Noordoostpolder;26MW;00;Rehoboth (v)so, Barneveld;3771CH;BARNEVELD;Gelderland;So;Reformatorisch;84515;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3771;Barneveld;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;203;Barneveld;3772;Barneveld;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;37;46;40;37;47;40;34;22;3;0;0;0;0;0;0;0;0;0;0;0;0;0;306
+20171001;203;Barneveld;3773;Barneveld;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3784;Barneveld;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;3794;Barneveld;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;30RJ;00;Prinses Amalia;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;83579;0;3;4;1;4;4;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;203;Barneveld;3771;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;4;5;5;5;3;5;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;203;Barneveld;3772;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;35;30;32;32;22;21;30;23;1;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;203;Barneveld;3773;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;1;2;1;1;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;203;Barneveld;3774;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3792;Barneveld;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3925;Scherpenzeel;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6718;Ede;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6733;Ede;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;2;1;0;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;203;Barneveld;6741;Ede;30TF;00;De Burcht;3772ET;BARNEVELD;Gelderland;Bo;Reformatorisch;41884;0;8;13;10;13;2;18;10;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;203;Barneveld;3771;Barneveld;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;203;Barneveld;3772;Barneveld;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;24;36;42;34;39;25;32;32;2;0;0;0;0;0;0;0;0;0;0;0;0;0;266
+20171001;203;Barneveld;3773;Barneveld;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;1;2;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;203;Barneveld;3775;Barneveld;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;203;Barneveld;3781;Barneveld;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;203;Barneveld;6741;Ede;30VD;00;De Fontein Burgthof;3772TD;BARNEVELD;Gelderland;Bo;Protestants-Christelijk;41337;0;2;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6

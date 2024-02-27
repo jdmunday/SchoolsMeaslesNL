@@ -1,0 +1,85 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;585;Binnenmaas;3271;Binnenmaas;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3274;Binnenmaas;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3292;Strijen;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3295;Binnenmaas;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;7;9;10;9;9;9;11;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;585;Binnenmaas;3297;Binnenmaas;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;5;5;3;9;2;3;10;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;585;Binnenmaas;3299;Binnenmaas;03XE;00;Basissch Petrus Datheen;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Reformatorisch;30133;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;585;Binnenmaas;3291;Strijen;03YY;00;Basisschool Rehoboth;3299BR;MAASDAM;Zuid-Holland;Bo;Reformatorisch;30133;0;1;1;0;2;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;585;Binnenmaas;3292;Strijen;03YY;00;Basisschool Rehoboth;3299BR;MAASDAM;Zuid-Holland;Bo;Reformatorisch;30133;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3295;Binnenmaas;03YY;00;Basisschool Rehoboth;3299BR;MAASDAM;Zuid-Holland;Bo;Reformatorisch;30133;0;0;0;3;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;585;Binnenmaas;3297;Binnenmaas;03YY;00;Basisschool Rehoboth;3299BR;MAASDAM;Zuid-Holland;Bo;Reformatorisch;30133;0;4;3;1;2;0;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;585;Binnenmaas;3299;Binnenmaas;03YY;00;Basisschool Rehoboth;3299BR;MAASDAM;Zuid-Holland;Bo;Reformatorisch;30133;0;6;1;3;3;4;1;2;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;585;Binnenmaas;3271;Binnenmaas;05SK;00;PC Basisschool De Schelp;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;2;2;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;585;Binnenmaas;3274;Binnenmaas;05SK;00;PC Basisschool De Schelp;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3297;Binnenmaas;05SK;00;PC Basisschool De Schelp;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;12;10;22;19;23;18;14;21;0;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;585;Binnenmaas;3299;Binnenmaas;05SK;00;PC Basisschool De Schelp;3297BW;PUTTERSHOEK;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;2;1;5;4;4;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;585;Binnenmaas;2994;Barendrecht;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3271;Binnenmaas;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;26;26;22;18;16;14;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;585;Binnenmaas;3273;Binnenmaas;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;585;Binnenmaas;3274;Binnenmaas;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3286;Cromstrijen;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3297;Binnenmaas;07BN;00;Basisschool De Molenwiek;3271AM;MIJNSHEERENLAND;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3036;Rotterdam;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3271;Binnenmaas;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;1;0;0;0;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;585;Binnenmaas;3273;Binnenmaas;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;12;17;8;9;13;15;5;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;89
+20171001;585;Binnenmaas;3281;Cromstrijen;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3286;Cromstrijen;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3291;Strijen;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;585;Binnenmaas;3299;Binnenmaas;07NI;00;Basisschool De Weerklank;3273AB;WESTMAAS;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;2993;Barendrecht;07YN;00;Chr Basisschool De Bouwsteen;3295SH;'S-GRAVENDEEL;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3291;Strijen;07YN;00;Chr Basisschool De Bouwsteen;3295SH;'S-GRAVENDEEL;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3293;Strijen;07YN;00;Chr Basisschool De Bouwsteen;3295SH;'S-GRAVENDEEL;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3295;Binnenmaas;07YN;00;Chr Basisschool De Bouwsteen;3295SH;'S-GRAVENDEEL;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;28;46;46;49;52;51;56;39;10;0;0;0;0;0;0;0;0;0;0;0;0;0;377
+20171001;585;Binnenmaas;3299;Binnenmaas;07YN;00;Chr Basisschool De Bouwsteen;3295SH;'S-GRAVENDEEL;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;2991;Barendrecht;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3271;Binnenmaas;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3273;Binnenmaas;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3274;Binnenmaas;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;16;24;11;26;22;20;19;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;585;Binnenmaas;3286;Cromstrijen;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3297;Binnenmaas;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;585;Binnenmaas;3334;Zwijndrecht;07YY;00;Basisschool De Regenboog;3274CD;HEINENOORD;Zuid-Holland;Bo;Protestants-Christelijk;41127;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3271;Binnenmaas;09FD;00;OBS De Schelf;3295TM;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3286;Cromstrijen;09FD;00;OBS De Schelf;3295TM;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3293;Strijen;09FD;00;OBS De Schelf;3295TM;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3295;Binnenmaas;09FD;00;OBS De Schelf;3295TM;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;27;33;35;28;39;23;25;26;6;0;0;0;0;0;0;0;0;0;0;0;0;0;242
+20171001;585;Binnenmaas;3291;Strijen;10BC;00;Basisschool Juliana;3295EK;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3292;Strijen;10BC;00;Basisschool Juliana;3295EK;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3293;Strijen;10BC;00;Basisschool Juliana;3295EK;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3295;Binnenmaas;10BC;00;Basisschool Juliana;3295EK;'S-GRAVENDEEL;Zuid-Holland;Bo;Openbaar;41444;0;1;2;2;2;1;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;585;Binnenmaas;3073;Rotterdam;13VG;00;Het Anker;3274CD;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3271;Binnenmaas;13VG;00;Het Anker;3274CD;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3274;Binnenmaas;13VG;00;Het Anker;3274CD;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;3;13;7;6;9;6;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;585;Binnenmaas;3295;Binnenmaas;13VG;00;Het Anker;3274CD;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3299;Binnenmaas;13VG;00;Het Anker;3274CD;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;2988;Ridderkerk;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3271;Binnenmaas;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;585;Binnenmaas;3274;Binnenmaas;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;3;3;6;1;8;6;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;585;Binnenmaas;3295;Binnenmaas;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3297;Binnenmaas;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;0;0;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;585;Binnenmaas;3299;Binnenmaas;13YT;00;Burg van Bommelschool;3274LV;HEINENOORD;Zuid-Holland;Bo;Openbaar;41444;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;  30;ander land;14BZ;00;De Boomgaard;3271BB;MIJNSHEERENLAND;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3261;Oud-Beijerland;14BZ;00;De Boomgaard;3271BB;MIJNSHEERENLAND;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3271;Binnenmaas;14BZ;00;De Boomgaard;3271BB;MIJNSHEERENLAND;Zuid-Holland;Bo;Openbaar;41444;0;18;15;20;22;22;21;23;21;4;0;0;0;0;0;0;0;0;0;0;0;0;0;166
+20171001;585;Binnenmaas;3273;Binnenmaas;14BZ;00;De Boomgaard;3271BB;MIJNSHEERENLAND;Zuid-Holland;Bo;Openbaar;41444;0;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;585;Binnenmaas;3274;Binnenmaas;14BZ;00;De Boomgaard;3271BB;MIJNSHEERENLAND;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3265;Korendijk;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3273;Binnenmaas;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3274;Binnenmaas;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3281;Cromstrijen;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3295;Binnenmaas;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;2;1;3;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;585;Binnenmaas;3297;Binnenmaas;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;41;44;38;52;44;36;50;29;5;0;0;0;0;0;0;0;0;0;0;0;0;0;339
+20171001;585;Binnenmaas;3299;Binnenmaas;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;4;2;3;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;585;Binnenmaas;3314;Dordrecht;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3333;Zwijndrecht;14FA;00;Het Driespan;3297BS;PUTTERSHOEK;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3261;Oud-Beijerland;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3263;Oud-Beijerland;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3271;Binnenmaas;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;1;2;1;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;585;Binnenmaas;3273;Binnenmaas;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;3;3;11;7;8;14;9;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;585;Binnenmaas;3295;Binnenmaas;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;585;Binnenmaas;3299;Binnenmaas;14KH;00;De Vlashoek;3273AL;WESTMAAS;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3271;Binnenmaas;14MW;00;Obs de Pijler;3299BS;MAASDAM;Zuid-Holland;Bo;Openbaar;41444;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;585;Binnenmaas;3291;Strijen;14MW;00;Obs de Pijler;3299BS;MAASDAM;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;585;Binnenmaas;3297;Binnenmaas;14MW;00;Obs de Pijler;3299BS;MAASDAM;Zuid-Holland;Bo;Openbaar;41444;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;585;Binnenmaas;3299;Binnenmaas;14MW;00;Obs de Pijler;3299BS;MAASDAM;Zuid-Holland;Bo;Openbaar;41444;0;14;14;18;16;18;16;23;23;2;0;0;0;0;0;0;0;0;0;0;0;0;0;144
+20171001;585;Binnenmaas;3334;Zwijndrecht;14MW;00;Obs de Pijler;3299BS;MAASDAM;Zuid-Holland;Bo;Openbaar;41444;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

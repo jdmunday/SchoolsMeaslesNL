@@ -1,0 +1,303 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;826;Oosterhout;4901;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;16;14;18;13;12;4;7;7;5;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;826;Oosterhout;4902;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4904;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4905;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4907;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;1;0;0;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4908;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4909;Oosterhout;03UU;00;RK Bs Torenschouw;4901BE;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4273;Werkendam;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4771;Moerdijk;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4845;Drimmelen;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4902;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4904;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4905;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;2;3;3;1;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;826;Oosterhout;4911;Oosterhout;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;9;11;13;8;13;10;9;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;826;Oosterhout;4921;Drimmelen;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;0;2;0;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4924;Drimmelen;03WF;00;RK Bs De Achthoek;4911AT;DEN HOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4255;Werkendam;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4283;Woudrichem;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4817;Breda;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4824;Breda;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4849;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;7;2;3;6;3;2;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;826;Oosterhout;4902;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;2;3;2;2;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;826;Oosterhout;4904;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;3;1;3;4;2;0;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;826;Oosterhout;4905;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4906;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4907;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;9;4;4;5;2;4;6;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;826;Oosterhout;4908;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;2;1;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;826;Oosterhout;4909;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4911;Oosterhout;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4921;Drimmelen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4924;Drimmelen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4931;Geertruidenberg;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4941;Geertruidenberg;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4944;Geertruidenberg;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5101;Dongen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;1;1;0;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;826;Oosterhout;5102;Dongen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;1;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;5104;Dongen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5109;Dongen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5121;Gilze en Rijen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;5125;Gilze en Rijen;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5161;Waalwijk;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5165;Waalwijk;04FX;00;Vrijeschool De Strijene;4907XZ;OOSTERHOUT NB;Noord-Brabant;Bo;Antroposofisch;41246;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4902;Oosterhout;04TF;00;KC De Ontdekking;4904KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4904;Oosterhout;04TF;00;KC De Ontdekking;4904KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;21;19;25;17;22;31;30;24;2;0;0;0;0;0;0;0;0;0;0;0;0;0;191
+20171001;826;Oosterhout;4942;Geertruidenberg;04TF;00;KC De Ontdekking;4904KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5161;Waalwijk;04TF;00;KC De Ontdekking;4904KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4817;Breda;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4819;Breda;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4841;Breda;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4849;Oosterhout;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;27;24;24;19;28;19;27;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;184
+20171001;826;Oosterhout;4901;Oosterhout;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4903;Oosterhout;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4904;Oosterhout;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4911;Oosterhout;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5124;Gilze en Rijen;06FT;00;RK Basisschool Marcoen;4849BD;DORST;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;06MJ;00;RK Bs Paulo Freire;4901AW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;9;13;17;16;18;9;17;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;112
+20171001;826;Oosterhout;4902;Oosterhout;06MJ;00;RK Bs Paulo Freire;4901AW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4905;Oosterhout;06MJ;00;RK Bs Paulo Freire;4901AW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4906;Oosterhout;06MJ;00;RK Bs Paulo Freire;4901AW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4907;Oosterhout;06MJ;00;RK Bs Paulo Freire;4901AW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;2;1;3;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4902;Oosterhout;07DH;00;RK Basisschool St Jan;4909AW;OOSTEIND;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4909;Oosterhout;07DH;00;RK Basisschool St Jan;4909AW;OOSTEIND;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;4;7;8;7;6;10;9;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;826;Oosterhout;5102;Dongen;07DH;00;RK Basisschool St Jan;4909AW;OOSTEIND;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5104;Dongen;07DH;00;RK Basisschool St Jan;4909AW;OOSTEIND;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4847;Breda;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4902;Oosterhout;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;826;Oosterhout;4903;Oosterhout;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4904;Oosterhout;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;33;28;33;36;35;26;26;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;234
+20171001;826;Oosterhout;4906;Oosterhout;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;8242;Lelystad;08JV;00;De Menorah;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Protestants-Christelijk;41001;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4811;Breda;08WK;00;BS De Beiaard-Harlekijn;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;08WK;00;BS De Beiaard-Harlekijn;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4902;Oosterhout;08WK;00;BS De Beiaard-Harlekijn;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4903;Oosterhout;08WK;00;BS De Beiaard-Harlekijn;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4904;Oosterhout;08WK;00;BS De Beiaard-Harlekijn;4904PW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;25;20;15;19;14;24;32;21;5;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;826;Oosterhout;4823;Breda;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;2;1;5;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;826;Oosterhout;4902;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4904;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4907;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;6;6;6;4;2;4;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;826;Oosterhout;4908;Oosterhout;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;4;2;3;4;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;826;Oosterhout;4924;Drimmelen;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4941;Geertruidenberg;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4944;Geertruidenberg;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5101;Dongen;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5106;Dongen;08WK;01;Montessorischool Oosterhout;4907DP;OOSTERHOUT NB;Noord-Brabant;Bo;Algemeen bijzonder;40278;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;  40;Onbekend;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4822;Breda;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;3;4;2;3;3;4;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;826;Oosterhout;4902;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;1;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4903;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4904;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4905;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4906;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4907;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;50;51;43;48;50;59;32;57;2;0;0;0;0;0;0;0;0;0;0;0;0;0;392
+20171001;826;Oosterhout;4908;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;3;3;4;8;3;6;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;826;Oosterhout;4909;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4911;Oosterhout;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4921;Drimmelen;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4941;Geertruidenberg;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4942;Geertruidenberg;09IR;00;OBS Rubenshof;4907MX;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4849;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;7;4;0;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;826;Oosterhout;4902;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4903;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4904;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4907;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;23;18;23;19;26;25;15;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;167
+20171001;826;Oosterhout;4908;Oosterhout;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4931;Geertruidenberg;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4941;Geertruidenberg;10EG;00;OBS Sterrendonk;4907GH;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4902;Oosterhout;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;10;16;13;7;10;10;15;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;97
+20171001;826;Oosterhout;4903;Oosterhout;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4904;Oosterhout;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4907;Oosterhout;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5049;Tilburg;11AA;00;RK BS De Biencorf;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;11JR;00;OBS De Kameleon;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4902;Oosterhout;11JR;00;OBS De Kameleon;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;2;5;8;3;3;5;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;826;Oosterhout;4904;Oosterhout;11JR;00;OBS De Kameleon;4902ZP;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;2;4;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4273;Werkendam;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4844;Drimmelen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4845;Drimmelen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4847;Breda;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4849;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4851;Breda;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4861;Alphen-Chaam;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;1;0;0;5;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;826;Oosterhout;4902;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;3;2;3;0;5;7;14;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;826;Oosterhout;4903;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4904;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;1;0;2;4;3;8;9;7;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;826;Oosterhout;4905;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4906;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4907;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;1;3;1;6;7;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;826;Oosterhout;4908;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4909;Oosterhout;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4921;Drimmelen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;1;2;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;826;Oosterhout;4927;Drimmelen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4931;Geertruidenberg;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;1;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4941;Geertruidenberg;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;1;0;2;2;4;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;826;Oosterhout;4942;Geertruidenberg;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;2;0;3;1;2;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;826;Oosterhout;4944;Geertruidenberg;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5101;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;5102;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;1;0;1;1;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;826;Oosterhout;5103;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5104;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5105;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5107;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5109;Dongen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;5121;Gilze en Rijen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;5122;Gilze en Rijen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5124;Gilze en Rijen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5125;Gilze en Rijen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5126;Gilze en Rijen;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5171;Loon op Zand;12XR;00;SSBO De Wissel;4902ZC;OOSTERHOUT NB;Noord-Brabant;Sbo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;9;12;17;15;6;13;10;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;90
+20171001;826;Oosterhout;4902;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;30;19;24;21;29;28;19;17;1;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;826;Oosterhout;4903;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4904;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;3;2;1;8;3;1;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;826;Oosterhout;4905;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;4;3;5;4;4;4;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;826;Oosterhout;4906;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4907;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;4;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;826;Oosterhout;4909;Oosterhout;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5021;Tilburg;16BE;00;RK BS De Westhoek;4901KJ;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;32;13;25;20;17;27;21;16;2;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;826;Oosterhout;4902;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;10;7;16;10;8;14;10;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;826;Oosterhout;4903;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4904;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;3;2;2;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4905;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4906;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4907;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;1;2;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4908;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4909;Oosterhout;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4942;Geertruidenberg;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4944;Geertruidenberg;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5105;Dongen;16GU;00;RK BS de Touwbaan;4901GG;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;3029;Rotterdam;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4271;Werkendam;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4814;Breda;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4902;Oosterhout;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4907;Oosterhout;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;11;7;5;6;7;9;9;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;826;Oosterhout;4908;Oosterhout;16IB;00;RK BS De Berkenhof;4907KW;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;  30;ander land;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4816;Breda;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;2;1;1;3;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;826;Oosterhout;4902;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4904;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4905;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4907;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;11;12;13;20;20;15;13;11;5;0;0;0;0;0;0;0;0;0;0;0;0;0;120
+20171001;826;Oosterhout;4908;Oosterhout;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;23;26;15;23;21;26;21;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;826;Oosterhout;4941;Geertruidenberg;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5104;Dongen;21OY;00;OBS De Duizendpoot;4908CA;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4273;Werkendam;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4817;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4823;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4827;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4834;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4835;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4847;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4854;Breda;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4891;Zundert;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4904;Oosterhout;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;5;5;3;0;0;0;0;0;0;0;0;13
+20171001;826;Oosterhout;4907;Oosterhout;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4941;Geertruidenberg;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5121;Gilze en Rijen;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5706;Helmond;23GY;00;Het Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4834;Breda;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4891;Zundert;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4904;Oosterhout;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;2;2;3;3;1;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;5042;Tilburg;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5283;Boxtel;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5741;Laarbeek;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;6446;Brunssum;23GY;05;Gesl Jeugdz Inr Warandecollege;4904SC;OOSTERHOUT NB;Noord-Brabant;Vso;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;3313;Dordrecht;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4251;Werkendam;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4254;Werkendam;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4264;Aalburg;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4271;Werkendam;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4273;Werkendam;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4285;Woudrichem;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4286;Woudrichem;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4811;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4812;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4813;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4814;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4815;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4816;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4822;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4823;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4824;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4826;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4827;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4841;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4844;Drimmelen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4845;Drimmelen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4847;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4849;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4854;Breda;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4871;Etten-Leur;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4881;Zundert;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4901;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4902;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;826;Oosterhout;4904;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;2;0;1;3;2;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;826;Oosterhout;4906;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;4907;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;2;1;2;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;826;Oosterhout;4908;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4909;Oosterhout;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4921;Drimmelen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;4924;Drimmelen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4926;Drimmelen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4931;Geertruidenberg;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4941;Geertruidenberg;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;3;1;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;826;Oosterhout;4942;Geertruidenberg;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;4944;Geertruidenberg;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5101;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5102;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;5103;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;1;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;826;Oosterhout;5104;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5105;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;5106;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5109;Dongen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;826;Oosterhout;5111;Baarle-Nassau;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5121;Gilze en Rijen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;1;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;826;Oosterhout;5124;Gilze en Rijen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;5126;Gilze en Rijen;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;5165;Waalwijk;23GY;06;De Muldersteeg;4901ZG;OOSTERHOUT NB;Noord-Brabant;So;Algemeen bijzonder;41200;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;3075;Rotterdam;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4816;Breda;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4827;Breda;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4849;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;1;2;3;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;826;Oosterhout;4902;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;4;3;3;6;9;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;826;Oosterhout;4903;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4904;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;24;32;31;30;33;32;42;32;6;0;0;0;0;0;0;0;0;0;0;0;0;0;262
+20171001;826;Oosterhout;4905;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;1;3;2;2;5;2;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;826;Oosterhout;4906;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;5;6;2;6;7;6;8;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;826;Oosterhout;4907;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4908;Oosterhout;24NN;00;OBS de Pionier;4904VC;OOSTERHOUT NB;Noord-Brabant;Bo;Openbaar;40278;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4781;Moerdijk;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4822;Breda;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4847;Breda;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4849;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4901;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;3;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;826;Oosterhout;4902;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;1;0;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;826;Oosterhout;4904;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;2;2;4;5;3;9;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;826;Oosterhout;4905;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4906;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;32;33;30;32;34;28;22;30;6;0;0;0;0;0;0;0;0;0;0;0;0;0;247
+20171001;826;Oosterhout;4907;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4908;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4909;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;826;Oosterhout;4911;Oosterhout;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;826;Oosterhout;4921;Drimmelen;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;826;Oosterhout;4924;Drimmelen;24NP;00;de Meander;4906HB;OOSTERHOUT NB;Noord-Brabant;Bo;Rooms-Katholiek;40278;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

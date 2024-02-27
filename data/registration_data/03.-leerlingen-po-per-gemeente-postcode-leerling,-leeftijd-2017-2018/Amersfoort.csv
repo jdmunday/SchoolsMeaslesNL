@@ -1,0 +1,1197 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;307;Amersfoort;  40;Onbekend;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3751;Bunschoten;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3763;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3764;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3765;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3766;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3768;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;5;1;2;3;5;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;307;Amersfoort;3813;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;3;0;0;3;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3814;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;2;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3815;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;2;3;3;0;1;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3816;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;2;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3817;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;1;0;1;1;2;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;307;Amersfoort;3818;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;2;1;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3819;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;0;0;0;1;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3825;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3829;Amersfoort;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3832;Leusden;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3833;Leusden;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;2;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3862;Nijkerk;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3925;Scherpenzeel;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3953;Utrechtse Heuvelrug;00JL;00;SSBO Kingma;3817GA;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3707;Zeist;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3762;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3764;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;2;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3765;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3766;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3769;Soest;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3811;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;1;3;1;3;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3813;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;2;3;2;5;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;307;Amersfoort;3814;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;2;1;3;3;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3815;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;1;2;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3816;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;1;2;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3818;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;4;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3819;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3821;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3823;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3825;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;1;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3832;Leusden;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3833;Leusden;00UI;00;SSBO St Michael;3814RV;AMERSFOORT;Utrecht;Sbo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1211;Hilversum;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1214;Hilversum;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1222;Hilversum;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1223;Hilversum;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1261;Blaricum;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1271;Huizen;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1273;Huizen;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1275;Huizen;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1276;Huizen;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1403;Gooise Meren;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3706;Zeist;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3708;Zeist;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3742;Baarn;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3743;Baarn;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;2;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3752;Bunschoten;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3755;Eemnes;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3762;Soest;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3764;Soest;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3765;Soest;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;2;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3766;Soest;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3771;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3772;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;2;1;1;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3773;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3774;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3781;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3791;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3794;Barneveld;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;2;0;0;0;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3813;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;2;0;0;0;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3814;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;1;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3815;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;4;1;3;1;2;2;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;307;Amersfoort;3816;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;1;2;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3817;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3819;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;3;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3825;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;2;0;4;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3826;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3829;Amersfoort;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3831;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;3;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3832;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3833;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3834;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3835;Leusden;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3842;Harderwijk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3843;Harderwijk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3844;Harderwijk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3845;Harderwijk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3848;Harderwijk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3851;Ermelo;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3853;Ermelo;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3862;Nijkerk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3863;Nijkerk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3864;Nijkerk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3871;Nijkerk;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;2;1;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3881;Putten;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3882;Putten;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3888;Apeldoorn;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3891;Zeewolde;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3892;Zeewolde;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3893;Zeewolde;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3894;Zeewolde;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3896;Zeewolde;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3901;Veenendaal;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;1;3;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3903;Veenendaal;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3904;Veenendaal;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3905;Veenendaal;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3925;Scherpenzeel;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3927;Renswoude;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3931;Woudenberg;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3941;Utrechtse Heuvelrug;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3951;Utrechtse Heuvelrug;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3956;Utrechtse Heuvelrug;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3958;Utrechtse Heuvelrug;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3962;Wijk bij Duurstede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6714;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6716;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;6717;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6718;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6733;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6741;Ede;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;8244;Lelystad;01JO;00;Auris Prof. Groenschool;3813VE;AMERSFOORT;Utrecht;So;Algemeen bijzonder;41314;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3813;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;18;20;25;18;19;30;22;25;5;0;0;0;0;0;0;0;0;0;0;0;0;0;182
+20171001;307;Amersfoort;3814;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;2;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3815;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;1;4;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3817;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3818;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;2;1;0;0;2;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3824;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3864;Nijkerk;01VI;00;De Parkschool;3813LW;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3701;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3702;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3704;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3708;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3722;De Bilt;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1
+20171001;307;Amersfoort;3735;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3735;Zeist;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3741;Baarn;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;2;0;0;0;0;1;1;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3751;Bunschoten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3751;Bunschoten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3752;Bunschoten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;1;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3752;Bunschoten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;1;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3761;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3763;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3764;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3766;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3769;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3772;Barneveld;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3772;Barneveld;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3773;Barneveld;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3781;Barneveld;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3794;Barneveld;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3812;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3814;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3814;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3817;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3817;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3818;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3819;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3823;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3824;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3;1;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3825;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3825;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3826;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3831;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3832;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3833;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3833;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3834;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3835;Leusden;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3861;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3862;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3862;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3863;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3864;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3881;Putten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3882;Putten;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3927;Renswoude;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3941;Utrechtse Heuvelrug;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3947;Wijk bij Duurstede;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3951;Utrechtse Heuvelrug;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3961;Wijk bij Duurstede;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3962;Wijk bij Duurstede;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3971;Utrechtse Heuvelrug;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;Vso;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6717;Ede;02AC;00;ZMLK School Kon Emma;3816AJ;AMERSFOORT;Utrecht;So;Protestants-Christelijk;62662;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3818;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;7;2;9;1;7;6;2;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;307;Amersfoort;3824;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;5;5;3;5;9;5;6;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;46
+20171001;307;Amersfoort;3825;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3826;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;03TB;00;Basissch De Langenoord;3828EA;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;17;27;26;11;21;17;23;20;2;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;307;Amersfoort;3742;Baarn;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;0;1;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3811;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;1;7;4;8;5;8;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;307;Amersfoort;3812;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;7;13;11;12;10;16;8;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;307;Amersfoort;3813;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;2;0;1;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3814;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;1;1;3;4;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3815;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3816;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;2;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3817;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;9;5;12;3;5;5;7;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;52
+20171001;307;Amersfoort;3818;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;14;7;10;14;13;9;14;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;93
+20171001;307;Amersfoort;3819;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3825;Amersfoort;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3832;Leusden;04KD;00;A.S.V.;3818HA;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;25156;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1782;Den Helder;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;2;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3812;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;7;11;10;9;9;5;12;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;307;Amersfoort;3813;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;14;17;16;13;14;10;8;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;99
+20171001;307;Amersfoort;3814;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;3;2;5;2;3;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;307;Amersfoort;3815;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;6;15;5;11;9;9;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;307;Amersfoort;3816;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;5;3;6;3;4;4;10;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;307;Amersfoort;3817;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;2;4;6;2;1;3;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;307;Amersfoort;3818;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;1;1;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3822;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;3;6;3;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;307;Amersfoort;3823;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;1;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3824;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3861;Nijkerk;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;04KI;00;GBS De Regenboog;3813KM;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3812;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;4;2;5;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;307;Amersfoort;3813;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;2;7;1;5;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;307;Amersfoort;3814;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;1;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3815;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;2;1;2;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3816;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3817;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3819;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;1;1;2;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3823;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;1;2;2;2;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3828;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;2;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3829;Amersfoort;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3832;Leusden;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;04KI;01;EBS De Parel;3813VA;AMERSFOORT;Utrecht;Bo;Evangelisch;40945;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1782;Den Helder;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3811;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;3;1;2;4;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;307;Amersfoort;3812;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;9;0;3;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3813;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3814;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;2;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3817;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;14;19;17;16;27;18;23;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;146
+20171001;307;Amersfoort;3818;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;36;34;28;32;35;31;30;34;1;0;0;0;0;0;0;0;0;0;0;0;0;0;261
+20171001;307;Amersfoort;3823;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3833;Leusden;04WU;00;School op de Berg;3818VG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3572;Utrecht;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3769;Soest;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3811;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;2;1;2;0;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3812;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;15;14;15;14;9;14;5;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;307;Amersfoort;3813;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3814;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;2;0;1;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3816;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;2;2;3;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3817;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;7;5;2;4;5;3;5;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;307;Amersfoort;3818;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;9;12;17;14;15;17;15;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;307;Amersfoort;3824;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3825;Amersfoort;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3831;Leusden;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3832;Leusden;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;05VO;00;Montess BS Pallas Athene;3818JE;AMERSFOORT;Utrecht;Bo;Algemeen bijzonder;41226;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3735;Zeist;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3791;Leusden;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;2;0;2;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3814;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;2;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3815;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;3;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3816;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;1;1;2;0;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3817;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;2;1;3;3;5;6;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;307;Amersfoort;3818;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;1;1;2;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3822;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3825;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;3;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3832;Leusden;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;2;2;3;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3833;Leusden;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3931;Woudenberg;06GV;00;Johannes Calvijnschool;3817GV;AMERSFOORT;Utrecht;Bo;Reformatorisch;41534;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3812;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3823;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;4;1;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3825;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;06LM;00;Basisschool De Biezen;3828JN;HOOGLAND;Utrecht;Bo;Rooms-Katholiek;71488;0;16;19;15;13;25;22;33;27;3;0;0;0;0;0;0;0;0;0;0;0;0;0;173
+20171001;307;Amersfoort;3742;Baarn;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3821;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;4;3;2;6;8;7;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;42
+20171001;307;Amersfoort;3826;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;3;0;3;1;0;3;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3829;Amersfoort;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;38;53;56;42;56;42;44;36;5;0;0;0;0;0;0;0;0;0;0;0;0;0;372
+20171001;307;Amersfoort;3864;Nijkerk;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3871;Nijkerk;06ZN;00;Basissch St Josephschool;3829MD;HOOGLANDERVEEN;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3741;Baarn;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3743;Baarn;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3762;Soest;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3766;Soest;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3774;Barneveld;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;0;1;0;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3812;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;6;3;3;4;6;3;6;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;307;Amersfoort;3813;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;2;1;2;4;2;5;2;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;307;Amersfoort;3814;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;5;13;6;7;10;2;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;307;Amersfoort;3815;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;4;3;3;3;4;2;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;307;Amersfoort;3816;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;8;8;4;10;5;7;3;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;307;Amersfoort;3817;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;4;5;8;4;6;4;4;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;307;Amersfoort;3818;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;3;3;1;5;4;4;3;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;307;Amersfoort;3822;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;2;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3823;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;2;3;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3824;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;1;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3825;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;2;0;2;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3826;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3828;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3829;Amersfoort;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3831;Leusden;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;1;3;0;3;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3832;Leusden;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;3;1;2;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3833;Leusden;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3834;Leusden;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3835;Leusden;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3862;Nijkerk;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;8266;Kampen;07EX;00;Vrije School Amersfoort;3816SE;AMERSFOORT;Utrecht;Bo;Antroposofisch;84801;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3811;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;6;10;5;6;18;14;11;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;86
+20171001;307;Amersfoort;3825;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;16;21;22;23;25;17;18;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;307;Amersfoort;3826;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;7;8;11;5;6;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;307;Amersfoort;3829;Amersfoort;07IV;00;GBS Het Zwaluwnest;3825BN;AMERSFOORT;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;20;8;12;10;10;7;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;307;Amersfoort;  40;Onbekend;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;4;2;5;2;5;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;307;Amersfoort;3812;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;0;2;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3813;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3814;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;3;2;2;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3815;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;1;3;2;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3816;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;14;16;12;17;11;11;16;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;110
+20171001;307;Amersfoort;3817;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;18;19;17;16;16;15;11;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;128
+20171001;307;Amersfoort;3818;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;1;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3828;Amersfoort;08TE;00;PWA School;3817AE;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  40;Onbekend;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;26;28;30;23;31;18;21;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;190
+20171001;307;Amersfoort;3813;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3814;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3816;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3818;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3819;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;3;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3822;Amersfoort;10LI;00;'t Anker;3812EV;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3814;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;2;7;2;3;4;1;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;307;Amersfoort;3815;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;1;30;26;21;20;18;16;21;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;177
+20171001;307;Amersfoort;3816;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3904;Veenendaal;11AT;00;De Windroos;3815GS;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3769;Soest;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3791;Leusden;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;3;2;3;4;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;307;Amersfoort;3812;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;3;3;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3813;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3815;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;3;0;2;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3817;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;17;28;19;38;27;29;24;27;0;0;0;0;0;0;0;0;0;0;0;0;0;0;209
+20171001;307;Amersfoort;3818;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;16;22;27;11;23;19;22;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;161
+20171001;307;Amersfoort;3825;Amersfoort;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3832;Leusden;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3833;Leusden;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;12QU;00;De Bolster;3818RL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;  40;Onbekend;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3814;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;8;14;8;2;6;5;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;48
+20171001;307;Amersfoort;3824;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;1;3;8;3;4;3;7;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;307;Amersfoort;3825;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;21;20;24;20;18;16;16;15;3;0;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;307;Amersfoort;3891;Zeewolde;13DW;00;De Berkenschool;3828BN;HOOGLAND;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;  40;Onbekend;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;13;8;9;18;10;17;16;11;4;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;307;Amersfoort;3814;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3819;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;1;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3824;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3994;Houten;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6523;Nijmegen;14MK;00;De Magneet;3812HS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1221;Hilversum;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1326;Almere;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3707;Zeist;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3742;Baarn;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;0;0;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3743;Baarn;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3751;Bunschoten;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3752;Bunschoten;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;2;1;0;1;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3761;Soest;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3764;Soest;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3766;Soest;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3814;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3816;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;1;3;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3823;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;0;1;3;0;7;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;307;Amersfoort;3824;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;1;1;1;7;4;4;6;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;307;Amersfoort;3825;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;3;5;5;10;12;4;6;7;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;307;Amersfoort;3826;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;2;2;3;6;2;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;307;Amersfoort;3828;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;1;1;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3829;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;1;0;0;1;0;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3831;Leusden;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3832;Leusden;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3836;Amersfoort;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3864;Nijkerk;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;3;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3931;Woudenberg;14NB;00;SBO Boulevard 410;3825KL;AMERSFOORT;Utrecht;Sbo;Algemeen bijzonder;21881;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3763;Soest;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;2;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3813;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;1;2;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3814;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3816;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3823;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3824;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3828;Amersfoort;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;14RD;00;Koningin Wilhelmina SBO;3813HC;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3814;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;8;9;4;8;6;3;10;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;50
+20171001;307;Amersfoort;3817;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;36;36;28;39;29;43;29;32;4;0;0;0;0;0;0;0;0;0;0;0;0;0;276
+20171001;307;Amersfoort;3818;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3825;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3829;Amersfoort;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3833;Leusden;15CZ;00;RK Basisschool Aloysius;3817DV;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  40;Onbekend;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1318;Almere;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3812;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;23;33;30;36;22;28;25;23;6;0;0;0;0;0;0;0;0;0;0;0;0;0;226
+20171001;307;Amersfoort;3813;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;2;0;1;1;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3814;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3815;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3816;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3819;Amersfoort;15HB;00;RK Basisschool de Kubus;3812HG;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;2;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;  20;Duitsland;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3812;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;3;2;4;3;2;4;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;307;Amersfoort;3814;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;14;26;25;17;19;14;16;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;155
+20171001;307;Amersfoort;3815;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;2;4;4;0;2;3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;307;Amersfoort;3816;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3818;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;15KT;00;De Vlindervallei;3814SG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3811;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3814;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;3;2;2;1;1;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;307;Amersfoort;3815;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;3;3;2;2;1;3;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3816;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;46;32;31;29;26;33;36;32;8;0;0;0;0;0;0;0;0;0;0;0;0;0;273
+20171001;307;Amersfoort;3817;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;2;2;4;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;307;Amersfoort;3818;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3825;Amersfoort;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;15ML;00;RK Basissch St Caecilia;3816LZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3812;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;5;6;7;6;6;14;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;307;Amersfoort;3814;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;0;1;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3823;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3825;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;15OZ;00;RK Basissch De Drieslag;3813LW;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3752;Bunschoten;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3763;Soest;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3764;Soest;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;2;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3813;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;26;16;31;28;21;16;18;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;163
+20171001;307;Amersfoort;3814;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;3;0;1;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3815;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;5;5;6;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;307;Amersfoort;3816;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3817;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;2;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3818;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3822;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;2;3;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3823;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;1;0;2;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3824;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;6;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3825;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3826;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3828;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;2;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3829;Amersfoort;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3862;Nijkerk;15PV;00;OBS De Zevensprong;3813PV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;9;11;12;7;8;3;11;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;307;Amersfoort;3814;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;0;0;2;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3816;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;0;1;3;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3823;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3824;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3826;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;15SF;00;OBS De Weesboom;3813LW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3811;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;2;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3813;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3814;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;8;3;7;6;2;4;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;307;Amersfoort;3815;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;34;33;31;27;33;30;31;20;5;0;0;0;0;0;0;0;0;0;0;0;0;0;244
+20171001;307;Amersfoort;3816;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;6;4;0;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3817;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3823;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3871;Nijkerk;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3893;Zeewolde;15TT;00;RK Basissch De Kinderhof;3815KZ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3742;Baarn;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3743;Baarn;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3812;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;1;3;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3814;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;8;5;1;6;3;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;307;Amersfoort;3815;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;13;25;20;21;24;29;19;19;11;0;0;0;0;0;0;0;0;0;0;0;0;0;181
+20171001;307;Amersfoort;3816;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3817;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3822;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3823;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3825;Amersfoort;15WT;00;obs De Wijde Wereld;3815GS;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3741;Baarn;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;10;6;6;6;2;7;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;44
+20171001;307;Amersfoort;3812;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;3;3;3;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3813;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;19;20;33;28;39;28;40;22;9;0;0;0;0;0;0;0;0;0;0;0;0;0;238
+20171001;307;Amersfoort;3814;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;12;18;14;15;15;9;9;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;307;Amersfoort;3815;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3816;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;2;0;1;1;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3818;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3823;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3834;Leusden;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3862;Nijkerk;15YG;00;RK BS De Tafelronde;3813HC;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  30;ander land;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3814;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3815;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;4;8;4;3;7;12;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;47
+20171001;307;Amersfoort;3816;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;22;23;19;22;21;30;27;17;7;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;307;Amersfoort;3817;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3819;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;16CI;00;OBS t Spectrum;3816HJ;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1213;Hilversum;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3532;Utrecht;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3571;Utrecht;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;7;6;5;5;8;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;307;Amersfoort;3812;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;8;12;4;9;4;7;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;54
+20171001;307;Amersfoort;3813;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;3;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3814;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;3;3;2;1;4;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;307;Amersfoort;3817;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;16;14;17;22;17;15;19;18;1;0;0;0;0;0;0;0;0;0;0;0;0;0;139
+20171001;307;Amersfoort;3818;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;11;20;26;16;23;23;23;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;159
+20171001;307;Amersfoort;3819;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3834;Leusden;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;9725;Groningen;16GL;00;OBS J Vd Vondel;3818WB;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3751;Bunschoten;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3769;Soest;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;1;1;1;3;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3813;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;1;2;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3815;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3816;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3818;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;1;1;1;5;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3823;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;2;1;0;1;1;6;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3824;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;32;35;41;42;41;37;39;47;7;0;0;0;0;0;0;0;0;0;0;0;0;0;321
+20171001;307;Amersfoort;3825;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3826;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;11;10;6;7;9;13;11;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;307;Amersfoort;3863;Nijkerk;16HT;00;OBS De Bieshaar;3828JN;HOOGLAND;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3735;Zeist;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3742;Baarn;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3752;Bunschoten;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3763;Soest;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3764;Soest;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3765;Soest;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3791;Leusden;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;1;1;0;1;1;1;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3813;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;1;0;1;3;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3814;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;2;2;3;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3815;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;1;1;2;5;1;5;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;307;Amersfoort;3816;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;1;3;1;3;2;3;4;2;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;307;Amersfoort;3817;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3818;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;1;0;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3819;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3823;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;2;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3825;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3829;Amersfoort;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3832;Leusden;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3834;Leusden;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;16KH;00;SSBO Dr M vd Hoeve;3814WT;AMERSFOORT;Utrecht;Sbo;Openbaar;41514;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;1211;Hilversum;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1223;Hilversum;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1324;Almere;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3435;Nieuwegein;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3514;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3522;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3532;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3533;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3554;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3555;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3562;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3571;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3583;Utrecht;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3702;Zeist;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3704;Zeist;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3705;Zeist;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3707;Zeist;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3711;Zeist;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3721;De Bilt;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3723;De Bilt;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3743;Baarn;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3752;Bunschoten;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3764;Soest;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3769;Soest;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3772;Barneveld;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;5;3;1;2;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3813;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;3;1;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3814;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;5;2;4;0;0;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3816;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3817;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;2;3;0;1;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3818;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3823;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;2;0;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3825;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;3;2;1;1;3;1;0;0;0;0;0;0;0;0;11
+20171001;307;Amersfoort;3826;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3828;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;5;2;1;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3829;Amersfoort;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3832;Leusden;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3834;Leusden;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3863;Nijkerk;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3871;Nijkerk;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;1;2;0;0;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3904;Veenendaal;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3911;Rhenen;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3925;Scherpenzeel;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3945;Wijk bij Duurstede;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3953;Utrechtse Heuvelrug;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3956;Utrechtse Heuvelrug;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3962;Wijk bij Duurstede;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3994;Houten;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;4131;Vianen;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6721;Ede;16OJ;00;ZMOK Sch Dr Dqr M Houwer;3815VG;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1215;Hilversum;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1221;Hilversum;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1222;Hilversum;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1223;Hilversum;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1273;Huizen;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1312;Almere;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3401;IJsselstein;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3404;IJsselstein;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3432;Nieuwegein;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3448;Woerden;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3453;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3521;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3524;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3532;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3552;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3555;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3562;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3564;Utrecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3607;Stichtse Vecht;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3703;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3704;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3705;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3706;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3707;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3708;Zeist;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3721;De Bilt;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3731;De Bilt;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3742;Baarn;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3762;Soest;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3763;Soest;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3764;Soest;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3766;Soest;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;5;2;2;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3813;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3814;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3816;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3823;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;3;3;0;1;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3824;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;4;3;1;1;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3825;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;1;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3826;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3829;Amersfoort;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3831;Leusden;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;4;1;1;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3832;Leusden;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3861;Nijkerk;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3862;Nijkerk;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3863;Nijkerk;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3871;Nijkerk;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3891;Zeewolde;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3901;Veenendaal;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3902;Veenendaal;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3925;Scherpenzeel;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3941;Utrechtse Heuvelrug;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3951;Utrechtse Heuvelrug;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3961;Wijk bij Duurstede;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3962;Wijk bij Duurstede;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3984;Bunnik;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;4102;Culemborg;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;4105;Culemborg;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;6721;Ede;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;8225;Lelystad;16OJ;03;de Tinne;3815BA;AMERSFOORT;Utrecht;Vso;Openbaar;41208;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3611;Stichtse Vecht;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3742;Baarn;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3752;Bunschoten;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3764;Soest;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3766;Soest;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3776;Barneveld;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3814;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3815;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3816;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3817;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3819;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3824;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3825;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3826;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3829;Amersfoort;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3834;Leusden;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3864;Nijkerk;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3931;Woudenberg;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3956;Utrechtse Heuvelrug;19SU;00;Dr. A. v. Voorthuysenschool;3816AJ;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1274;Huizen;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3402;IJsselstein;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3432;Nieuwegein;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3521;Utrecht;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3607;Stichtse Vecht;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3703;Zeist;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3708;Zeist;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3723;De Bilt;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3741;Baarn;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3742;Baarn;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3762;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3763;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3764;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3765;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3766;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3769;Soest;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3776;Barneveld;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3794;Barneveld;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;2;1;3;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3813;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;1;1;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3814;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3815;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3816;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3818;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3822;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3823;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;2;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3825;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3826;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3828;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3829;Amersfoort;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3831;Leusden;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3832;Leusden;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3833;Leusden;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3862;Nijkerk;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3863;Nijkerk;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3962;Wijk bij Duurstede;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3971;Utrechtse Heuvelrug;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3972;Utrechtse Heuvelrug;19SU;02;Dr. A. v. Voorthuysenschool;3815VG;AMERSFOORT;Utrecht;So;Openbaar;41514;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  40;Onbekend;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;5;2;6;10;4;3;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;307;Amersfoort;3815;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3818;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;14;30;28;30;23;29;31;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;211
+20171001;307;Amersfoort;3823;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;4;2;6;2;5;11;9;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;307;Amersfoort;3824;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3825;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3826;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3829;Amersfoort;21RQ;00;OBS De Achtbaan;3822CD;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3525;Utrecht;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;7;4;5;5;4;6;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;307;Amersfoort;3815;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3818;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;20;16;11;19;22;16;19;11;3;0;0;0;0;0;0;0;0;0;0;0;0;0;137
+20171001;307;Amersfoort;3823;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;4;2;4;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;307;Amersfoort;3824;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3825;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3828;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3829;Amersfoort;21RS;00;De Zonnewijzer;3822CH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3813;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;3;0;0;1;2;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;307;Amersfoort;3814;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3822;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;4;19;11;18;22;19;25;18;6;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;307;Amersfoort;3823;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;1;3;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3825;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3829;Amersfoort;21RT;00;RK Basisschool Kameleon;3822DP;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1447;Purmerend;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;4;1;4;4;4;2;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;307;Amersfoort;3813;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;15;10;15;15;11;10;6;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;87
+20171001;307;Amersfoort;3814;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;2;1;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3822;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;1;3;1;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;307;Amersfoort;3823;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;5;10;5;13;5;9;5;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65
+20171001;307;Amersfoort;3824;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;3;6;5;4;4;9;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;307;Amersfoort;3825;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3826;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;8;13;7;10;11;11;9;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;80
+20171001;307;Amersfoort;3829;Amersfoort;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3832;Leusden;22FH;00;De Kosmos;3828AR;HOOGLAND;Utrecht;Bo;Algemeen bijzonder;40514;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3563;Utrecht;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3735;Zeist;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3752;Bunschoten;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3762;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3763;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3764;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3766;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3769;Soest;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3776;Barneveld;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3781;Barneveld;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3813;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3815;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3816;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3818;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3819;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3823;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3826;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3831;Leusden;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3853;Ermelo;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3861;Nijkerk;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3862;Nijkerk;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3864;Nijkerk;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3882;Putten;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3893;Zeewolde;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3945;Wijk bij Duurstede;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6714;Ede;23GH;01;De Lasenberg;3816AJ;AMERSFOORT;Utrecht;Vso;Algemeen bijzonder;21712;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3814;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3817;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;1;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3823;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;15;21;19;22;18;22;14;19;2;0;0;0;0;0;0;0;0;0;0;0;0;0;152
+20171001;307;Amersfoort;3824;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;2;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3825;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3829;Amersfoort;23PF;00;OBS de Meander;3823DW;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3768;Soest;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3823;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;15;24;30;38;24;37;26;27;2;0;0;0;0;0;0;0;0;0;0;0;0;0;223
+20171001;307;Amersfoort;3824;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;1;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3825;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3826;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;23PG;00;Basissch de Breede Hei;3823HL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;1;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3762;Soest;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3823;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;15;24;22;26;16;17;34;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;170
+20171001;307;Amersfoort;3824;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;1;1;1;4;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3825;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3828;Amersfoort;23PH;00;Gabrie Mehenschool;3823HL;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3706;Zeist;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;1;1;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3707;Zeist;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3761;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3762;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;2;1;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3763;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3764;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;7;4;7;1;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;307;Amersfoort;3765;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;3;1;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3768;Soest;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3812;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;2;2;2;5;1;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;307;Amersfoort;3814;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;2;3;8;2;2;6;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;307;Amersfoort;3815;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;3;5;7;2;7;4;4;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;307;Amersfoort;3816;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;4;4;3;5;0;6;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;307;Amersfoort;3817;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;4;1;2;2;3;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;307;Amersfoort;3818;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3819;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3822;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;2;1;0;3;1;0;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;307;Amersfoort;3826;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3829;Amersfoort;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3833;Leusden;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3862;Nijkerk;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;23UW;00;Basisschool Bilal;3817RP;AMERSFOORT;Utrecht;Bo;Islamitisch;31076;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1222;Hilversum;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;1;2;2;4;5;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;307;Amersfoort;3752;Bunschoten;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;2;4;2;3;4;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;307;Amersfoort;3754;Bunschoten;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3781;Barneveld;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3784;Barneveld;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3813;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3814;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3817;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3824;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;1;1;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;307;Amersfoort;3825;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3833;Leusden;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3834;Leusden;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3844;Harderwijk;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3853;Ermelo;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3871;Nijkerk;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3882;Putten;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3896;Zeewolde;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3931;Woudenberg;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3951;Utrechtse Heuvelrug;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;6713;Ede;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;6715;Ede;23WK;00;Geref SSBO De Werf;3814XD;AMERSFOORT;Utrecht;Sbo;Protestants-Christelijk;40945;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;3;0;3;2;4;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;307;Amersfoort;3822;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;4;5;6;6;8;8;12;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;307;Amersfoort;3823;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;11;9;14;9;18;6;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;307;Amersfoort;3824;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;13;8;10;5;10;0;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;307;Amersfoort;3825;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3826;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;4;4;9;6;10;10;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;53
+20171001;307;Amersfoort;3829;Amersfoort;24AR;00;GBS De Horizon;3828AZ;HOOGLAND;Utrecht;Bo;Gereformeerd vrijgemaakt;40945;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;2;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3823;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;9;8;16;13;10;15;10;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;307;Amersfoort;3824;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3828;Amersfoort;24EG;00;De Dubbelster;3823BV;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;1273;Huizen;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3768;Soest;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3814;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3824;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;47;56;54;57;69;50;60;56;6;0;0;0;0;0;0;0;0;0;0;0;0;0;455
+20171001;307;Amersfoort;3825;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3826;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3828;Amersfoort;27JH;00;De Wonderboom;3824EH;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;1381;Weesp;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1443;Purmerend;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3751;Bunschoten;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;2;1;0;4;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;307;Amersfoort;3752;Bunschoten;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3765;Soest;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3812;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3815;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;1;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3824;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;54;70;58;62;86;81;85;62;12;0;0;0;0;0;0;0;0;0;0;0;0;0;570
+20171001;307;Amersfoort;3825;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3826;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3828;Amersfoort;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;2;3;4;2;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;307;Amersfoort;3831;Leusden;27LV;00;RK Basisschool De Malelande;3824BE;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  40;Onbekend;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3712;Zeist;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3762;Soest;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3811;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3814;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3816;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3825;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;69;88;88;71;83;74;76;68;5;0;0;0;0;0;0;0;0;0;0;0;0;0;622
+20171001;307;Amersfoort;3826;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;7;6;7;10;7;6;4;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;56
+20171001;307;Amersfoort;3828;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3829;Amersfoort;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;2;3;4;3;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;307;Amersfoort;3863;Nijkerk;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3864;Nijkerk;27NR;00;de Marke;3825DJ;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3543;Utrecht;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3813;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3816;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;10;17;29;24;32;30;38;29;3;0;0;0;0;0;0;0;0;0;0;0;0;0;212
+20171001;307;Amersfoort;3826;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;43;55;56;32;40;39;34;23;3;0;0;0;0;0;0;0;0;0;0;0;0;0;325
+20171001;307;Amersfoort;3829;Amersfoort;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;2;8;3;2;3;2;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;307;Amersfoort;3861;Nijkerk;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3862;Nijkerk;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;3;0;1;0;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;307;Amersfoort;3864;Nijkerk;27NX;00;De Vuurvogel;3826EG;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;  40;Onbekend;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3813;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3814;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3824;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3825;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;11;9;9;12;22;13;18;19;6;0;0;0;0;0;0;0;0;0;0;0;0;0;119
+20171001;307;Amersfoort;3826;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;21;26;27;26;24;22;18;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;188
+20171001;307;Amersfoort;3829;Amersfoort;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;3;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;307;Amersfoort;3832;Leusden;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;27NY;00;De Gondelier;3826EG;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3751;Bunschoten;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3811;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3818;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;307;Amersfoort;3823;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3824;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3825;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;48;59;46;53;53;61;54;43;4;0;0;0;0;0;0;0;0;0;0;0;0;0;421
+20171001;307;Amersfoort;3826;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;15;19;20;22;18;14;16;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;307;Amersfoort;3829;Amersfoort;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;8;12;8;12;10;5;8;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;69
+20171001;307;Amersfoort;3863;Nijkerk;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3864;Nijkerk;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3871;Nijkerk;29XE;00;Atlantis;3825WC;AMERSFOORT;Utrecht;Bo;Openbaar;41514;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3815;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3822;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3823;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;307;Amersfoort;3824;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;1;2;1;2;0;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;307;Amersfoort;3825;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;44;57;54;42;38;32;43;17;4;0;0;0;0;0;0;0;0;0;0;0;0;0;331
+20171001;307;Amersfoort;3826;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;11;9;20;13;6;4;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;307;Amersfoort;3828;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3829;Amersfoort;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;4;7;9;5;7;5;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;307;Amersfoort;3861;Nijkerk;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3864;Nijkerk;29XR;00;Kon-Tiki;3825WC;AMERSFOORT;Utrecht;Bo;Protestants-Christelijk;30010;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;1057;Amsterdam;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3752;Bunschoten;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3822;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3823;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;1;1;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;307;Amersfoort;3824;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;307;Amersfoort;3825;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;9;12;23;15;13;12;14;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;307;Amersfoort;3826;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;11;9;12;15;9;10;16;8;1;1;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;307;Amersfoort;3828;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;307;Amersfoort;3829;Amersfoort;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;1;2;3;2;3;4;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;307;Amersfoort;3835;Leusden;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3861;Nijkerk;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3863;Nijkerk;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;307;Amersfoort;3864;Nijkerk;29XW;00;DOK12;3825KL;AMERSFOORT;Utrecht;Bo;Rooms-Katholiek;71488;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

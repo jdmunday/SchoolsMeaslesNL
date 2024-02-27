@@ -1,0 +1,518 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;606;Schiedam;3011;Rotterdam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3021;Rotterdam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3025;Rotterdam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3076;Rotterdam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3112;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3114;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3117;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3118;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3119;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3122;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3123;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3124;Schiedam;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3131;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;3;0;1;6;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3132;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3134;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3136;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3137;Vlaardingen;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;2;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3141;Maassluis;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3142;Maassluis;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3143;Maassluis;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3144;Maassluis;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3145;Maassluis;01AI;04;Mw Dr CP Gelinckschool;3121JN;SCHIEDAM;Zuid-Holland;So;Algemeen bijzonder;62077;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2642;Pijnacker-Nootdorp;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2652;Lansingerland;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2676;Westland;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2809;Gouda;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2903;Capelle aan den IJssel;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2904;Capelle aan den IJssel;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2905;Capelle aan den IJssel;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2907;Capelle aan den IJssel;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2923;Krimpen aan den IJssel;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3022;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3023;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3027;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3031;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3036;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3037;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3038;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3043;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3055;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3059;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3066;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3067;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3068;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3069;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3074;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3078;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3112;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3114;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3116;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3117;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;4;1;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3118;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3119;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3121;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3122;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;4;2;1;1;0;0;0;0;0;0;0;0;0;9
+20171001;606;Schiedam;3123;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3124;Schiedam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3131;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;1;0;1;1;2;1;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3132;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3133;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3134;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3135;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;3;2;1;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3136;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;3;1;0;1;2;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3137;Vlaardingen;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;1;1;4;1;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3141;Maassluis;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3142;Maassluis;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3143;Maassluis;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3144;Maassluis;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3146;Maassluis;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3151;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3155;Midden-Delfland;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3191;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3195;Rotterdam;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3233;Westvoorne;01UC;15;Yulius IIex College;3118GC;SCHIEDAM;Zuid-Holland;Vso;Algemeen bijzonder;85256;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2994;Barendrecht;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3012;Rotterdam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3023;Rotterdam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3112;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3114;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3117;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;1;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3118;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3119;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;2;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3121;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;3;4;10;9;12;2;9;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;606;Schiedam;3122;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;15;21;20;15;14;12;11;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;118
+20171001;606;Schiedam;3123;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;5;2;5;4;5;3;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;606;Schiedam;3124;Schiedam;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;2;12;10;6;2;8;9;12;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;606;Schiedam;3135;Vlaardingen;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;1;2;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3136;Vlaardingen;07OQ;00;IKC Kethel;3121JM;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;41338;0;0;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;1319;Almere;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2543;'s-Gravenhage;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2672;Westland;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3079;Rotterdam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3112;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;1;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3114;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3116;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3118;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3119;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3121;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3122;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;6;13;10;7;12;9;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;606;Schiedam;3123;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;23;22;30;24;27;18;31;25;4;0;0;0;0;0;0;0;0;0;0;0;0;0;204
+20171001;606;Schiedam;3124;Schiedam;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;4;2;9;8;7;8;6;14;2;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;606;Schiedam;3131;Vlaardingen;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;1;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3137;Vlaardingen;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3201;Nissewaard;08SP;00;De Regenboog;3123EN;SCHIEDAM;Zuid-Holland;Bo;Algemeen bijzonder;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3044;Rotterdam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3114;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3116;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3117;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3118;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3119;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;1;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3121;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;1;2;1;1;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;606;Schiedam;3122;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;2;4;1;2;1;6;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;606;Schiedam;3123;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;4;6;3;6;4;7;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;37
+20171001;606;Schiedam;3124;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;22;26;25;35;41;43;45;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;264
+20171001;606;Schiedam;3125;Schiedam;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;6;2;4;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;606;Schiedam;3131;Vlaardingen;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3134;Vlaardingen;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;08UO;00;De Vlinder;3124SG;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  40;Onbekend;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2651;Lansingerland;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3112;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3114;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;1;5;2;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;606;Schiedam;3116;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3117;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;11;6;9;8;7;11;6;16;1;0;0;0;0;0;0;0;0;0;0;0;0;0;75
+20171001;606;Schiedam;3118;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;1;1;0;3;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3119;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;0;3;4;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3122;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3124;Schiedam;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3136;Vlaardingen;09JB;00;CBS De Wieken;3117AZ;SCHIEDAM;Zuid-Holland;Bo;Protestants-Christelijk;40237;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3112;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3117;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3118;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;6;2;1;5;3;2;7;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;606;Schiedam;3119;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;18;14;16;14;22;8;25;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;136
+20171001;606;Schiedam;3122;Schiedam;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3201;Nissewaard;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3206;Nissewaard;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3981;Bunnik;09ST;00;IKC Blink;3119PJ;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2591;'s-Gravenhage;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2993;Barendrecht;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3042;Rotterdam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3073;Rotterdam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3111;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3112;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3114;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;25;21;30;31;36;31;24;36;5;0;0;0;0;0;0;0;0;0;0;0;0;0;239
+20171001;606;Schiedam;3116;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3117;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3118;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3119;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3122;Schiedam;11BQ;00;Sint Willibrordusschool;3114LC;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3023;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;2;3;8;1;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;606;Schiedam;3029;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3042;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3044;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3111;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;7;5;2;2;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;606;Schiedam;3112;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;20;18;23;14;23;15;10;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;606;Schiedam;3114;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3117;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3119;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;0;3;4;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;606;Schiedam;3122;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3123;Schiedam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3195;Rotterdam;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3208;Nissewaard;11OJ;00;Kaleidoscoop;3112RK;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2561;'s-Gravenhage;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2908;Capelle aan den IJssel;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3026;Rotterdam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;3;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3039;Rotterdam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3042;Rotterdam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3059;Rotterdam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;11;12;16;12;15;6;9;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;606;Schiedam;3112;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;5;8;7;6;5;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;38
+20171001;606;Schiedam;3114;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;13;16;16;6;6;7;12;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;606;Schiedam;3115;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3116;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;18;21;20;21;23;18;17;16;0;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;606;Schiedam;3117;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;11;12;21;10;21;11;6;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;106
+20171001;606;Schiedam;3118;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;4;2;3;1;2;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;606;Schiedam;3119;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;5;6;5;4;5;2;9;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;606;Schiedam;3121;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3122;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;1;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3123;Schiedam;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3131;Vlaardingen;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3132;Vlaardingen;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3134;Vlaardingen;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3143;Maassluis;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3232;Brielle;11ZQ;00;Sint Jozefschool;3116EX;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;1901;Castricum;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2394;Alphen aan den Rijn;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3024;Rotterdam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3042;Rotterdam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3083;Rotterdam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;1;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3112;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3114;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;2;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3115;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3116;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;4;5;3;4;3;4;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;606;Schiedam;3117;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;18;21;32;18;15;17;16;14;1;1;0;0;0;0;0;0;0;0;0;0;0;0;153
+20171001;606;Schiedam;3118;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;2;2;3;7;3;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;24
+20171001;606;Schiedam;3119;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;2;1;2;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3122;Schiedam;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3132;Vlaardingen;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3135;Vlaardingen;12RM;00;Sint Bernardus;3116JB;SCHIEDAM;Zuid-Holland;Bo;Rooms-Katholiek;22725;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;  30;ander land;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;  40;Onbekend;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3014;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3024;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3025;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3027;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3028;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;15;9;8;9;8;11;7;12;3;0;0;0;0;0;0;0;0;0;0;0;0;0;82
+20171001;606;Schiedam;3077;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3112;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;27;22;21;28;23;22;24;23;9;0;0;0;0;0;0;0;0;0;0;0;0;0;199
+20171001;606;Schiedam;3114;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3116;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3118;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3119;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;3;4;0;1;3;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;606;Schiedam;3121;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3122;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3124;Schiedam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3134;Vlaardingen;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3194;Rotterdam;13GL;00;Basisschool de Peperklip;3112ZM;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;  40;Onbekend;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;2632;Pijnacker-Nootdorp;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3022;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3023;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3024;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3025;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3026;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3027;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;4;3;3;2;6;0;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;606;Schiedam;3028;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;11;13;9;11;11;9;11;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;84
+20171001;606;Schiedam;3034;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3037;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3053;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3061;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3074;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3079;Rotterdam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;6;5;7;11;8;7;11;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;61
+20171001;606;Schiedam;3112;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;31;46;44;41;41;40;41;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;309
+20171001;606;Schiedam;3114;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;4;1;2;1;2;3;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;606;Schiedam;3116;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3117;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;2;3;6;4;5;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;606;Schiedam;3118;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;2;2;3;3;5;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;606;Schiedam;3119;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;4;6;16;7;9;20;7;6;3;0;0;0;0;0;0;0;0;0;0;0;0;0;78
+20171001;606;Schiedam;3121;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3122;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;1;3;2;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;606;Schiedam;3123;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3124;Schiedam;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3131;Vlaardingen;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3134;Vlaardingen;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3135;Vlaardingen;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3137;Vlaardingen;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;4814;Breda;13LM;00;Basisschool de Singel;3112GH;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  10;Belgie;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3024;Rotterdam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3025;Rotterdam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3111;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;5;4;1;5;4;0;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;606;Schiedam;3112;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;3;2;4;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;606;Schiedam;3114;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;2;4;2;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;606;Schiedam;3116;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;3;1;4;2;2;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;606;Schiedam;3117;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;13;8;10;8;8;10;6;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;73
+20171001;606;Schiedam;3118;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;2;1;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3119;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;4;4;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;606;Schiedam;3121;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3122;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3124;Schiedam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3131;Vlaardingen;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3134;Vlaardingen;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3137;Vlaardingen;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3143;Maassluis;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3195;Rotterdam;13XQ;00;Montessori Schiedam;3117LD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3111;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3112;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3114;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3116;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;3;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3117;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;15;17;15;14;12;14;25;16;3;0;0;0;0;0;0;0;0;0;0;0;0;0;131
+20171001;606;Schiedam;3118;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;7;4;5;4;2;4;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;34
+20171001;606;Schiedam;3119;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;5;0;4;1;3;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;606;Schiedam;3121;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3122;Schiedam;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;2;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3135;Vlaardingen;14AZ;00;Het Kleurrijk;3117WE;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  40;Onbekend;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;1025;Amsterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3011;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3025;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;2;2;2;1;4;1;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;606;Schiedam;3042;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3043;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3073;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3077;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3081;Rotterdam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;3;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;606;Schiedam;3112;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;2;9;5;4;5;7;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;606;Schiedam;3114;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3117;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;1;0;3;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3118;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;8;9;10;6;7;6;13;10;3;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;606;Schiedam;3119;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;39;36;26;38;38;23;30;30;7;0;0;0;0;0;0;0;0;0;0;0;0;0;267
+20171001;606;Schiedam;3122;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;1;1;6;1;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;606;Schiedam;3123;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3125;Schiedam;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3131;Vlaardingen;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3132;Vlaardingen;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3136;Vlaardingen;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3144;Maassluis;14EC;00;Het Startblok;3119GD;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2541;'s-Gravenhage;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3042;Rotterdam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3043;Rotterdam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3053;Rotterdam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3061;Rotterdam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3083;Rotterdam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3116;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3117;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;4;2;1;3;3;2;0;5;2;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;606;Schiedam;3118;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;15;18;18;15;11;17;15;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;121
+20171001;606;Schiedam;3119;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;14;5;7;4;8;7;4;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;59
+20171001;606;Schiedam;3122;Schiedam;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3132;Vlaardingen;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3161;Albrandswaard;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;4624;Bergen op Zoom;14GW;00;De Taaltuin;3118RW;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;1102;Amsterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2651;Lansingerland;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3014;Rotterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3022;Rotterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3028;Rotterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3066;Rotterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3117;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3118;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;1;1;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3119;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;2;3;4;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;606;Schiedam;3121;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;17;19;18;15;21;28;6;9;5;0;0;0;0;0;0;0;0;0;0;0;0;0;138
+20171001;606;Schiedam;3122;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;12;13;12;19;9;8;12;9;2;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;606;Schiedam;3123;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;3;2;4;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;606;Schiedam;3124;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;4;7;4;3;1;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;606;Schiedam;3125;Schiedam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3137;Vlaardingen;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3193;Rotterdam;14XU;00;Het Windas;3121XP;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3112;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3118;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3119;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3121;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3122;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;25;12;18;14;17;19;19;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;135
+20171001;606;Schiedam;3123;Schiedam;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3132;Vlaardingen;15EJ;00;Loep;3122TA;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2622;Delft;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3024;Rotterdam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3065;Rotterdam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3085;Rotterdam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3112;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3114;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3116;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3119;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;1;1;1;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;606;Schiedam;3121;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3122;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;2;1;2;1;1;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;606;Schiedam;3123;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;3;2;3;2;0;6;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;606;Schiedam;3124;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;28;32;33;36;33;32;29;28;3;0;0;0;0;0;0;0;0;0;0;0;0;0;254
+20171001;606;Schiedam;3125;Schiedam;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3135;Vlaardingen;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3218;Nissewaard;15HT;00;De Violier;3124SG;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;1722;Langedijk;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2652;Lansingerland;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2991;Barendrecht;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2994;Barendrecht;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3029;Rotterdam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3074;Rotterdam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3085;Rotterdam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3112;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3117;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3118;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3119;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3121;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;1;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3122;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;9;10;15;9;12;13;11;9;6;2;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;606;Schiedam;3123;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;21;15;25;29;23;27;20;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;174
+20171001;606;Schiedam;3124;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;4;2;5;1;4;6;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;606;Schiedam;3125;Schiedam;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3132;Vlaardingen;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3135;Vlaardingen;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3137;Vlaardingen;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3225;Hellevoetsluis;15KN;00;Basisschool de Klinker;3123CC;SCHIEDAM;Zuid-Holland;Bo;Openbaar;41567;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  30;ander land;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;  40;Onbekend;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2574;'s-Gravenhage;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2993;Barendrecht;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3028;Rotterdam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;1;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3111;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3112;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;1;0;2;1;5;5;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;26
+20171001;606;Schiedam;3114;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;2;0;0;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3116;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3117;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;1;2;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3118;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3119;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;3;2;2;4;3;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;606;Schiedam;3121;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3122;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;1;2;0;3;3;6;6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;606;Schiedam;3123;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;2;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3124;Schiedam;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3131;Vlaardingen;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3132;Vlaardingen;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3135;Vlaardingen;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3136;Vlaardingen;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3137;Vlaardingen;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;0;1;0;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3141;Maassluis;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3145;Maassluis;19VE;00;SBO De Poldervaart;3121JN;SCHIEDAM;Zuid-Holland;Sbo;Openbaar;41567;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;  40;Onbekend;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2225;Katwijk;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2613;Delft;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2622;Delft;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2623;Delft;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2624;Delft;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;2;2;0;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;606;Schiedam;2625;Delft;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;3;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3022;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3023;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3025;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3027;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3032;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3035;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3036;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3052;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3068;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3073;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3112;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3119;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;2;3;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;606;Schiedam;3121;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;2;1;0;1;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;606;Schiedam;3122;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;20;18;20;23;18;16;10;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;142
+20171001;606;Schiedam;3123;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3124;Schiedam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3131;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;2;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3132;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;1;0;3;2;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3134;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3135;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;3;3;3;4;4;2;4;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;606;Schiedam;3136;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;8;1;4;5;3;4;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;606;Schiedam;3137;Vlaardingen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;3;1;3;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;606;Schiedam;3141;Maassluis;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3142;Maassluis;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3143;Maassluis;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3144;Maassluis;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;1;2;0;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;606;Schiedam;3145;Maassluis;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;2;1;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3194;Rotterdam;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3202;Nissewaard;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;2;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3205;Nissewaard;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;4531;Terneuzen;23UY;00;El Furkan Basisschool;3122TK;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2525;'s-Gravenhage;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;2631;Pijnacker-Nootdorp;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;2905;Capelle aan den IJssel;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3014;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3022;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3023;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;1;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3024;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3025;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3026;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3027;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;2;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;606;Schiedam;3028;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;2;1;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;606;Schiedam;3029;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3031;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3034;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;606;Schiedam;3035;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3036;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3037;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3042;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;0;2;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3043;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3052;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;2;1;3;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;606;Schiedam;3053;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3071;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3072;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3076;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3111;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3112;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;4;5;7;6;6;4;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;39
+20171001;606;Schiedam;3114;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;3;1;3;0;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;606;Schiedam;3116;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3117;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;5;7;9;10;8;9;8;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;606;Schiedam;3118;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;15;14;12;8;6;9;13;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;606;Schiedam;3119;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;18;21;27;15;12;22;19;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;606;Schiedam;3121;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3122;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;1;2;1;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;606;Schiedam;3123;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;606;Schiedam;3124;Schiedam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3131;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;2;2;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;606;Schiedam;3132;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;3;3;6;5;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;606;Schiedam;3134;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3135;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;5;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;606;Schiedam;3136;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;1;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;606;Schiedam;3137;Vlaardingen;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;606;Schiedam;3141;Maassluis;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;606;Schiedam;3142;Maassluis;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3145;Maassluis;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3192;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;606;Schiedam;3194;Rotterdam;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;606;Schiedam;3209;Nissewaard;29UG;00;Ababil;3118RR;SCHIEDAM;Zuid-Holland;Bo;Islamitisch;31080;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

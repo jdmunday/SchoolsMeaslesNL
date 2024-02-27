@@ -1,0 +1,332 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;865;Vught;5071;Tilburg;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5074;Haaren;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5076;Haaren;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5231;'s-Hertogenbosch;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5258;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5261;Vught;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5262;Vught;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;1;2;2;0;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;865;Vught;5268;Haaren;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5271;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5272;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5275;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5282;Boxtel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5291;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5293;Sint-Michielsgestel;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5481;Meierijstad;00TR;00;SSBO Hertog van Brabantschool;5262JH;VUGHT;Noord-Brabant;Sbo;Algemeen bijzonder;41619;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5224;'s-Hertogenbosch;04ZW;00;Basissch De Springplank;5261VK;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5231;'s-Hertogenbosch;04ZW;00;Basissch De Springplank;5261VK;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;04ZW;00;Basissch De Springplank;5261VK;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;21;24;25;27;16;28;20;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;172
+20171001;865;Vught;5262;Vught;04ZW;00;Basissch De Springplank;5261VK;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;3;5;3;11;3;7;4;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;43
+20171001;865;Vught;5263;Vught;04ZW;00;Basissch De Springplank;5261VK;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;1;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;865;Vught;1072;Amsterdam;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5211;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;3;2;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;865;Vught;5212;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5213;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5216;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5223;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5224;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5231;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5232;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5237;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5243;'s-Hertogenbosch;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5256;Heusden;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5258;Sint-Michielsgestel;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;20;14;16;18;9;10;16;11;1;0;0;0;0;0;0;0;0;0;0;0;0;0;115
+20171001;865;Vught;5262;Vught;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;39;32;51;33;38;45;38;36;5;0;0;0;0;0;0;0;0;0;0;0;0;0;317
+20171001;865;Vught;5263;Vught;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;36;45;33;32;16;22;11;15;1;0;0;0;0;0;0;0;0;0;0;0;0;0;211
+20171001;865;Vught;5264;Vught;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5266;Vught;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5268;Haaren;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5271;Sint-Michielsgestel;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;1;1;2;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;865;Vught;5275;Sint-Michielsgestel;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5281;Boxtel;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5341;Oss;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5683;Best;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;6095;Leudal;06BQ;00;OBS De Piramide;5262XE;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5154;Heusden;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5223;'s-Hertogenbosch;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5224;'s-Hertogenbosch;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5251;Heusden;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5262;Vught;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5263;Vught;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5266;Vught;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;7;7;6;6;6;10;6;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;57
+20171001;865;Vught;5268;Haaren;07FJ;00;Basisschool De Leydraad;5266AV;CROMVOIRT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;1;0;1;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;865;Vught;5049;Tilburg;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5211;'s-Hertogenbosch;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;2;0;4;2;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;865;Vught;5262;Vught;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;20;22;34;30;32;33;36;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;231
+20171001;865;Vught;5263;Vught;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5266;Vught;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5296;Haaren;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5491;Meierijstad;08HD;00;De Lichtstraat;5262JH;VUGHT;Noord-Brabant;Bo;Openbaar;41633;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5171;Loon op Zand;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5221;'s-Hertogenbosch;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5223;'s-Hertogenbosch;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;2;3;2;2;2;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;865;Vught;5262;Vught;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;23;37;48;30;33;34;34;31;4;0;0;0;0;0;0;0;0;0;0;0;0;0;274
+20171001;865;Vught;5263;Vught;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;2;2;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;865;Vught;5266;Vught;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5296;Haaren;09LF;00;BS De Wieken;5262EN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;  40;Onbekend;10XG;00;Basisschool de Baarzen;5262HC;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5212;'s-Hertogenbosch;10XG;00;Basisschool de Baarzen;5262HC;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;10XG;00;Basisschool de Baarzen;5262HC;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5262;Vught;10XG;00;Basisschool de Baarzen;5262HC;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;14;13;18;19;14;28;25;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;865;Vught;5263;Vught;10XG;00;Basisschool de Baarzen;5262HC;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5076;Haaren;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5211;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5223;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5224;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5235;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5242;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5245;'s-Hertogenbosch;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;7;6;4;6;6;6;7;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;865;Vught;5262;Vught;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;28;29;26;31;31;32;26;19;3;0;0;0;0;0;0;0;0;0;0;0;0;0;225
+20171001;865;Vught;5263;Vught;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;9;17;19;24;20;16;22;18;2;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;865;Vught;5268;Haaren;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5296;Haaren;15CT;00;RK Basisschool de Schalm;5262BN;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;1861;Bergen (NH.);15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5211;'s-Hertogenbosch;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;2;0;1;1;1;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;865;Vught;5212;'s-Hertogenbosch;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5216;'s-Hertogenbosch;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5223;'s-Hertogenbosch;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5237;'s-Hertogenbosch;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;7;9;4;17;15;19;15;25;3;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;865;Vught;5262;Vught;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5263;Vught;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;28;28;24;31;31;26;26;19;5;0;0;0;0;0;0;0;0;0;0;0;0;0;218
+20171001;865;Vught;5293;Sint-Michielsgestel;15CU;00;RK Basissch Het Molenven;5263DP;VUGHT;Noord-Brabant;Bo;Rooms-Katholiek;39600;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4061;Neerijnen;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4181;Neerijnen;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4261;Aalburg;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5091;Oirschot;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5144;Waalwijk;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5151;Heusden;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5152;Heusden;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5211;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5212;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5213;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5215;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5216;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5221;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5223;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5224;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;865;Vught;5231;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5233;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5235;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5237;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5241;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5242;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5245;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5246;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5247;'s-Hertogenbosch;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5251;Heusden;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;3;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;865;Vught;5253;Heusden;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5262;Vught;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5268;Haaren;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5271;Sint-Michielsgestel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5272;Sint-Michielsgestel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5275;Sint-Michielsgestel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5282;Boxtel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5283;Boxtel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5296;Haaren;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5301;Zaltbommel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5305;Zaltbommel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5313;Zaltbommel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5321;Maasdriel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5324;Maasdriel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5328;Maasdriel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5331;Maasdriel;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5473;Bernheze;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5481;Meierijstad;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5482;Meierijstad;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5688;Oirschot;17GW;26;Kentalis Talent A;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;3707;Zeist;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4254;Werkendam;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4741;Halderberge;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4826;Breda;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4834;Breda;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4871;Etten-Leur;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4904;Oosterhout;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5011;Tilburg;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5022;Tilburg;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5042;Tilburg;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5044;Tilburg;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5061;Oisterwijk;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5103;Dongen;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5161;Waalwijk;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5165;Waalwijk;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5212;'s-Hertogenbosch;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5223;'s-Hertogenbosch;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5224;'s-Hertogenbosch;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5262;Vught;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5271;Sint-Michielsgestel;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5342;Oss;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5344;Oss;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5438;Grave;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5476;Bernheze;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5482;Meierijstad;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5521;Eersel;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5625;Eindhoven;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5662;Geldrop-Mierlo;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5667;Geldrop-Mierlo;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5684;Best;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5691;Son en Breugel;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5702;Helmond;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5703;Helmond;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5708;Helmond;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5709;Helmond;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5712;Someren;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5721;Asten;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5735;Laarbeek;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5966;Horst aan de Maas;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5993;Peel en Maas;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;6006;Weert;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;6096;Leudal;17GW;33;Kentalis Talent B;5263EE;VUGHT;Noord-Brabant;So;Rooms-Katholiek;54679;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4105;Culemborg;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4181;Neerijnen;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;4261;Aalburg;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;4261;Aalburg;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;4264;Aalburg;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5045;Tilburg;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5061;Oisterwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5061;Oisterwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5063;Oisterwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5081;Hilvarenbeek;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5091;Oirschot;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5141;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5142;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5144;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5144;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;865;Vught;5151;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;2;0;0;0;0;0;0;0;6
+20171001;865;Vught;5152;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5152;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5161;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5161;Waalwijk;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5171;Loon op Zand;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5171;Loon op Zand;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5172;Loon op Zand;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5211;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5212;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;2;2;3;1;1;0;0;0;0;0;0;0;9
+20171001;865;Vught;5213;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5213;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;2;1;0;2;1;0;0;0;0;0;0;0;6
+20171001;865;Vught;5215;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5216;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5216;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;1;0;0;0;0;0;4
+20171001;865;Vught;5221;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5221;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5222;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5223;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5223;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5224;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5224;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5231;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;2;2;1;0;0;0;0;0;0;0;0;0;7
+20171001;865;Vught;5233;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5233;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5235;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5235;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;2;0;1;3;0;0;0;0;0;0;0;0;8
+20171001;865;Vught;5236;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5236;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5237;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5237;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;865;Vught;5241;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5242;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5243;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5244;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5245;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5246;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;2;0;1;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5247;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5247;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;2;1;1;2;3;1;0;0;0;0;0;0;0;0;10
+20171001;865;Vught;5248;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5251;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5251;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;3;3;4;1;0;0;0;0;0;0;0;0;13
+20171001;865;Vught;5252;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5254;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5256;Heusden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5258;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5258;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5261;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5261;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5262;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5262;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;2;2;2;2;0;0;0;0;0;0;0;0;9
+20171001;865;Vught;5263;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5266;Vught;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5268;Haaren;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5271;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5271;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;3;1;1;0;0;1;0;0;0;0;0;0;7
+20171001;865;Vught;5272;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5275;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5275;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5281;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1;1;0;0;0;0;0;0;0;5
+20171001;865;Vught;5282;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5282;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;4
+20171001;865;Vught;5283;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5283;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;4;3;3;1;2;1;0;0;0;0;0;0;0;15
+20171001;865;Vught;5291;Sint-Michielsgestel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5296;Haaren;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5298;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5298;Boxtel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;865;Vught;5301;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5301;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;1;2;0;1;0;1;0;0;0;0;0;0;7
+20171001;865;Vught;5302;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5306;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5311;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5314;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5314;Zaltbommel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5321;Maasdriel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5324;Maasdriel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5324;Maasdriel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5325;Maasdriel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5331;Maasdriel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;2;0;1;1;1;0;0;0;0;0;0;0;5
+20171001;865;Vught;5341;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5342;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5344;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5345;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5345;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;4
+20171001;865;Vught;5346;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5346;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5348;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5371;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;865;Vught;5381;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5382;'s-Hertogenbosch;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5384;Bernheze;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5384;Bernheze;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;3;1;0;0;0;0;0;0;0;0;5
+20171001;865;Vught;5386;Oss;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5388;Bernheze;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5388;Bernheze;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5402;Uden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5402;Uden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5403;Uden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5406;Uden;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5461;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5462;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5463;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5464;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5467;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5467;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5473;Bernheze;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5481;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;4
+20171001;865;Vught;5482;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5482;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;2;0;1;0;1;1;0;0;0;0;0;0;0;5
+20171001;865;Vught;5491;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;865;Vught;5492;Meierijstad;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;865;Vught;5502;Veldhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5504;Veldhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5531;Bladel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5623;Eindhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5628;Eindhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5632;Eindhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5643;Eindhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5643;Eindhoven;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5682;Best;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5683;Best;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5684;Best;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2
+20171001;865;Vught;5685;Best;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5685;Best;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;865;Vught;5691;Son en Breugel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5701;Helmond;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5702;Helmond;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5706;Helmond;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;865;Vught;5731;Geldrop-Mierlo;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;So;Algemeen bijzonder;85269;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;865;Vught;5763;Gemert-Bakel;23XK;00;Zuiderbos;5261LT;VUGHT;Noord-Brabant;Vso;Algemeen bijzonder;85269;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1

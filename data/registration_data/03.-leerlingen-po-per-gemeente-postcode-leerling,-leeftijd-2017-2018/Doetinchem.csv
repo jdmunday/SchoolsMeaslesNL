@@ -1,0 +1,464 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;222;Doetinchem;6982;Doesburg;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7003;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7006;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7007;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7009;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7011;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;2;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7021;Bronckhorst;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7031;Doetinchem;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7037;Montferland;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7038;Montferland;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7039;Montferland;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7041;Montferland;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7051;Oude IJsselstreek;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7061;Oude IJsselstreek;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7064;Oude IJsselstreek;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7071;Oude IJsselstreek;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7081;Oude IJsselstreek;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7255;Bronckhorst;01FN;00;SSBO SAM, loc Boddens Hosang;7002JA;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;  20;Duitsland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  30;ander land;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;3794;Barneveld;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6852;Lingewaard;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6901;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;6902;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6903;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;6904;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6905;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;6911;Rijnwaarden;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6913;Rijnwaarden;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6915;Rijnwaarden;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;2;0;1;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;6916;Rijnwaarden;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6921;Duiven;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;6922;Duiven;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6923;Duiven;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6931;Westervoort;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6941;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;6942;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;5;1;2;3;4;1;0;0;0;0;0;0;0;0;16
+20171001;222;Doetinchem;6951;Rheden;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6971;Brummen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6981;Doesburg;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;2;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;6982;Doesburg;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6983;Doesburg;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;1;1;2;1;1;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;6986;Zevenaar;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;6996;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6997;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6998;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6999;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7001;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7002;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;3;2;1;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7003;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7004;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;3;2;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7006;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;6;5;7;10;4;1;3;0;0;0;0;0;0;0;36
+20171001;222;Doetinchem;7007;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;2;2;5;1;0;0;1;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7008;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7009;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;1;2;1;3;3;0;1;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7011;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;2;1;2;3;2;0;1;0;0;0;0;0;0;13
+20171001;222;Doetinchem;7021;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;3;2;3;3;0;0;0;0;0;0;0;0;0;11
+20171001;222;Doetinchem;7025;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;1;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7031;Doetinchem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;4;3;3;2;1;0;0;0;0;0;0;0;0;15
+20171001;222;Doetinchem;7035;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7036;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7037;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7038;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;1;0;1;1;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7039;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7041;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;6;2;2;3;0;0;0;0;0;0;0;0;0;14
+20171001;222;Doetinchem;7045;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7047;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7048;Montferland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7051;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;3;2;0;1;3;0;0;0;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7054;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7061;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;2;8;1;0;0;0;0;0;0;0;0;0;11
+20171001;222;Doetinchem;7064;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7071;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;2;1;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7075;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7076;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7078;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7081;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;3;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7084;Oude IJsselstreek;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7091;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;3;2;0;2;1;1;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7095;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7101;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7102;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7103;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;3;2;1;1;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7104;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7109;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7113;Winterswijk;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7121;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;2;5;0;0;4;0;1;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7122;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7123;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7126;Aalten;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7131;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;4;2;1;2;0;0;0;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7132;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7135;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;3;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7136;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7137;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7141;Oost Gelre;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;2;0;2;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7151;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7157;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7161;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7201;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7203;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7204;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7205;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7206;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7207;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;2;1;2;1;1;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7211;Lochem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7221;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7223;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7225;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7227;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7231;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7232;Zutphen;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;1;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7241;Lochem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7242;Lochem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7244;Lochem;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7251;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;1;2;0;3;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7255;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7256;Bronckhorst;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7261;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;1;2;0;2;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7271;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7275;Berkelland;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7475;Hof van Twente;01QH;01;Sgm Klein Borculo;7006HA;DOETINCHEM;Gelderland;Vso;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6903;Zevenaar;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6904;Zevenaar;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6941;Montferland;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6981;Doesburg;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6982;Doesburg;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6983;Doesburg;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6986;Zevenaar;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7003;Doetinchem;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7009;Doetinchem;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7011;Doetinchem;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7021;Bronckhorst;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7031;Doetinchem;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7041;Montferland;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7047;Montferland;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7064;Oude IJsselstreek;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7075;Oude IJsselstreek;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7081;Oude IJsselstreek;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7131;Oost Gelre;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7227;Bronckhorst;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7231;Zutphen;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7251;Bronckhorst;01RE;02;Mariendal;7009ND;DOETINCHEM;Gelderland;So;Algemeen bijzonder;40631;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6903;Zevenaar;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6932;Westervoort;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6942;Montferland;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7002;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;3;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7003;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7004;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;2;0;3;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;222;Doetinchem;7005;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;1;2;2;2;1;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;222;Doetinchem;7007;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;2;0;2;1;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7008;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7009;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;2;4;1;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7011;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7021;Bronckhorst;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7031;Doetinchem;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7047;Montferland;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7051;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7054;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7055;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7061;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7064;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7071;Oude IJsselstreek;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7091;Aalten;03AI;00;De Kleine Prins;7007BK;DOETINCHEM;Gelderland;Bo;Antroposofisch;77456;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7002;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;0;2;4;0;2;0;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;222;Doetinchem;7003;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7004;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;4;5;0;2;2;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;222;Doetinchem;7006;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;2;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7009;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;1;4;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;222;Doetinchem;7011;Doetinchem;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;2;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7021;Bronckhorst;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;2;1;0;2;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7025;Bronckhorst;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7061;Oude IJsselstreek;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7255;Bronckhorst;03RO;01;PC Bs Nijman IJzevoorde;7004HT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7004;Doetinchem;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;0;2;1;1;1;1;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;222;Doetinchem;7009;Doetinchem;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7011;Doetinchem;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;22;30;21;26;34;36;32;27;5;0;0;0;0;0;0;0;0;0;0;0;0;0;233
+20171001;222;Doetinchem;7036;Montferland;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7041;Montferland;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7061;Oude IJsselstreek;03TR;00;Gaanderwijs;7011BJ;GAANDEREN;Gelderland;Bo;Rooms-Katholiek;50844;0;3;4;4;1;2;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;222;Doetinchem;  20;Duitsland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  30;ander land;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6901;Zevenaar;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6903;Zevenaar;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6905;Zevenaar;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6915;Rijnwaarden;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6916;Rijnwaarden;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6921;Duiven;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6922;Duiven;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6932;Westervoort;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6941;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6942;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;6953;Rheden;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6971;Brummen;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6981;Doesburg;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6983;Doesburg;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6996;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6998;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6999;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7003;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7004;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;1;0;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7006;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;1;0;1;2;5;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;222;Doetinchem;7007;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;2;0;2;1;1;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7009;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7011;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7021;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7031;Doetinchem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;2;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7035;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7037;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7038;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7041;Montferland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;4;0;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7051;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7061;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7064;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7071;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7075;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7078;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7081;Oude IJsselstreek;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7107;Winterswijk;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7131;Oost Gelre;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7141;Oost Gelre;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7151;Berkelland;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7204;Zutphen;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7205;Zutphen;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7206;Zutphen;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7221;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7223;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7232;Zutphen;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7241;Lochem;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7251;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7255;Bronckhorst;04EJ;01;Sch v Speciaal Onderwijs;7006HA;DOETINCHEM;Gelderland;So;Interconfessioneel;83189;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6916;Rijnwaarden;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6999;Bronckhorst;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;1;1;2;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7002;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;18;14;14;16;3;8;5;13;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;222;Doetinchem;7003;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;3;3;6;4;4;5;3;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;35
+20171001;222;Doetinchem;7004;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;3;3;1;4;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;222;Doetinchem;7006;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;1;2;1;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;222;Doetinchem;7007;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;2;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7008;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7009;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;7;2;5;5;4;3;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;222;Doetinchem;7011;Doetinchem;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7021;Bronckhorst;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;3;1;6;3;1;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;222;Doetinchem;7025;Bronckhorst;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7035;Montferland;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7054;Oude IJsselstreek;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7064;Oude IJsselstreek;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7075;Oude IJsselstreek;04PI;00;Wilhelmina Basisschool;7002LN;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;36349;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;  20;Duitsland;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;1017;Amsterdam;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6942;Montferland;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6986;Zevenaar;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6998;Bronckhorst;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;1;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7007;Doetinchem;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7011;Doetinchem;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7031;Doetinchem;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;43;44;51;49;55;46;62;58;6;0;0;0;0;0;0;0;0;0;0;0;0;0;414
+20171001;222;Doetinchem;7035;Montferland;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7036;Montferland;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7038;Montferland;06HM;00;Het Timpaan;7031AC;WEHL;Gelderland;Bo;Rooms-Katholiek;31969;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7003;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7005;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;25;36;25;14;22;27;24;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;197
+20171001;222;Doetinchem;7007;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7008;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7009;Doetinchem;10OC;00;Basisschool Octa;7006SM;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;6883;Rheden;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6999;Bronckhorst;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;9;8;4;4;5;6;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;41
+20171001;222;Doetinchem;7002;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;5;3;4;2;1;4;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;222;Doetinchem;7003;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7004;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7007;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7008;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;1;2;1;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7009;Doetinchem;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;20;18;27;18;25;15;21;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;156
+20171001;222;Doetinchem;7038;Montferland;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7433;Deventer;10RO;00;Chr Basisschool de Haven;7001CT;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6836;Arnhem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6882;Rheden;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7002;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7003;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7004;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;7;7;8;6;11;9;8;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;222;Doetinchem;7007;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;17;18;13;18;18;26;19;17;3;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;222;Doetinchem;7008;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7009;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;1;1;0;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7011;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7031;Doetinchem;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7035;Montferland;11FX;00;CBS Anderz;7006DG;DOETINCHEM;Gelderland;Bo;Protestants-Christelijk;41011;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7003;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7004;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;19;18;18;27;16;17;13;9;3;0;0;0;0;0;0;0;0;0;0;0;0;0;140
+20171001;222;Doetinchem;7005;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;2;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7007;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7009;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;2;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7011;Doetinchem;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7152;Berkelland;11RS;00;De Zonneboom;7004EL;DOETINCHEM;Gelderland;Bo;Algemeen bijzonder;41011;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  40;Onbekend;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;1058;Amsterdam;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6921;Duiven;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6942;Montferland;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;2;3;5;2;8;1;7;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;32
+20171001;222;Doetinchem;7002;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;6;3;3;8;3;1;3;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;31
+20171001;222;Doetinchem;7003;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;3;1;4;2;4;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;222;Doetinchem;7004;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;3;2;4;0;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;222;Doetinchem;7005;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;1;0;1;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7006;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;0;1;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7007;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7009;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;10;10;11;4;4;5;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;222;Doetinchem;7021;Bronckhorst;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7031;Doetinchem;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7036;Montferland;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7051;Oude IJsselstreek;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7061;Oude IJsselstreek;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7071;Oude IJsselstreek;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7075;Oude IJsselstreek;12KE;00;Montessori BS De Pas;7001GL;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7002;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;2;4;2;3;3;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;222;Doetinchem;7003;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7007;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7009;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;17;24;22;13;20;20;36;20;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;222;Doetinchem;7011;Doetinchem;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7021;Bronckhorst;12NX;00;Basisschool Hagen;7009CZ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;  20;Duitsland;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  40;Onbekend;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6537;Nijmegen;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6904;Zevenaar;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6942;Montferland;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6987;Zevenaar;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;11;13;8;9;4;10;6;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;67
+20171001;222;Doetinchem;7002;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;5;10;13;8;14;7;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;63
+20171001;222;Doetinchem;7003;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;15;19;19;12;18;16;18;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;134
+20171001;222;Doetinchem;7004;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;22;14;8;10;11;11;8;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;222;Doetinchem;7005;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;2;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7006;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7007;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7009;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;2;1;3;1;4;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;222;Doetinchem;7031;Doetinchem;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7035;Montferland;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7255;Bronckhorst;12VX;00;Basisschool Hogenkamp;7003DJ;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;2;1;3;0;0;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;222;Doetinchem;7002;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7003;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7004;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;6;1;4;2;1;4;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;222;Doetinchem;7005;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;13;13;15;12;10;13;17;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;105
+20171001;222;Doetinchem;7007;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;7;9;12;11;12;8;5;5;3;0;0;0;0;0;0;0;0;0;0;0;0;0;72
+20171001;222;Doetinchem;7008;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;5;1;2;5;0;3;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;222;Doetinchem;7009;Doetinchem;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;1;0;0;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7038;Montferland;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7041;Montferland;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7048;Montferland;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7064;Oude IJsselstreek;13BV;00;Basisschool Canada;7006AD;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7002;Doetinchem;13HJ;00;Obs Wis en Wierig;7011BP;GAANDEREN;Gelderland;Bo;Openbaar;41371;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7004;Doetinchem;13HJ;00;Obs Wis en Wierig;7011BP;GAANDEREN;Gelderland;Bo;Openbaar;41371;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7007;Doetinchem;13HJ;00;Obs Wis en Wierig;7011BP;GAANDEREN;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7011;Doetinchem;13HJ;00;Obs Wis en Wierig;7011BP;GAANDEREN;Gelderland;Bo;Openbaar;41371;0;14;16;18;16;18;9;20;14;0;0;0;0;0;0;0;0;0;0;0;0;0;0;125
+20171001;222;Doetinchem;7061;Oude IJsselstreek;13HJ;00;Obs Wis en Wierig;7011BP;GAANDEREN;Gelderland;Bo;Openbaar;41371;0;0;1;2;1;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7001;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;1;3;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7002;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;14;10;21;22;9;30;36;23;9;1;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;222;Doetinchem;7003;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;1;3;1;3;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;222;Doetinchem;7004;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7006;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7009;Doetinchem;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;6;12;11;11;8;14;9;14;6;0;0;0;0;0;0;0;0;0;0;0;0;0;91
+20171001;222;Doetinchem;7035;Montferland;13MN;00; IKC Het Noorderlicht;7002CC;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  20;Duitsland;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6836;Arnhem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7002;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7004;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7006;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;15;19;24;24;20;11;19;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;222;Doetinchem;7007;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7008;Doetinchem;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7075;Oude IJsselstreek;13VC;00;OBS de Huet;7006DG;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  30;ander land;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7004;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;21;34;39;39;39;26;36;34;5;0;0;0;0;0;0;0;0;0;0;0;0;0;273
+20171001;222;Doetinchem;7007;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7008;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7031;Doetinchem;13YQ;00;Basissch de Plattenburg;7006SM;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;  20;Duitsland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6826;Arnhem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6942;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6981;Doesburg;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6982;Doesburg;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;6983;Doesburg;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6999;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7002;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;3;1;2;1;6;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;222;Doetinchem;7003;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;0;1;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7004;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;3;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7006;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;0;2;3;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;222;Doetinchem;7007;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;1;0;0;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7009;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;3;1;1;0;1;5;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;222;Doetinchem;7011;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7021;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;1;0;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7025;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7031;Doetinchem;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;222;Doetinchem;7035;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7037;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7038;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;222;Doetinchem;7041;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;0;2;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;222;Doetinchem;7047;Montferland;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7051;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7054;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7055;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7061;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;2;1;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7064;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;2;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7071;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;1;1;0;1;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;222;Doetinchem;7075;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7078;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7081;Oude IJsselstreek;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7221;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7255;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7256;Bronckhorst;19PA;00;SSBO SAM, loc v Limburg Stirum;7003BG;DOETINCHEM;Gelderland;Sbo;Algemeen bijzonder;22453;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;7001;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;0;1;1;1;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;222;Doetinchem;7002;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;1;2;1;0;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;222;Doetinchem;7004;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7008;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;1;0;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;222;Doetinchem;7009;Doetinchem;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;7;3;5;3;5;7;5;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;222;Doetinchem;7021;Bronckhorst;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;1;2;2;3;2;0;4;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;222;Doetinchem;7047;Montferland;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7054;Oude IJsselstreek;22LT;00;De Wijngaard;7009DZ;DOETINCHEM;Gelderland;Bo;Reformatorisch;30700;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;222;Doetinchem;6921;Duiven;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6981;Doesburg;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;6998;Bronckhorst;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7021;Bronckhorst;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7031;Doetinchem;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7055;Oude IJsselstreek;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7064;Oude IJsselstreek;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7078;Oude IJsselstreek;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7136;Oost Gelre;24HY;02;SGM Mariëndael (Tyltyl);7009ND;DOETINCHEM;Gelderland;So;Protestants-Christelijk;40631;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7004;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;1;2;2;2;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;222;Doetinchem;7007;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;34;33;46;44;44;44;40;35;3;0;0;0;0;0;0;0;0;0;0;0;0;0;323
+20171001;222;Doetinchem;7009;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7031;Doetinchem;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7051;Oude IJsselstreek;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7061;Oude IJsselstreek;27JK;00;RK BSO Dichterbij;7007LA;DOETINCHEM;Gelderland;Bo;Rooms-Katholiek;50844;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7001;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7002;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7005;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7006;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;3;0;1;1;0;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;222;Doetinchem;7007;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;25;32;28;26;39;41;25;40;2;0;0;0;0;0;0;0;0;0;0;0;0;0;258
+20171001;222;Doetinchem;7009;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7011;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;222;Doetinchem;7031;Doetinchem;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;222;Doetinchem;7045;Montferland;27LJ;00;Basisschool Mozaiek Dichteren;7007LA;DOETINCHEM;Gelderland;Bo;Openbaar;41371;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1

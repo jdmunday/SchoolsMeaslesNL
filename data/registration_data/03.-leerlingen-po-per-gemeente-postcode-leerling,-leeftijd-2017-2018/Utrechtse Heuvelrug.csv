@@ -1,0 +1,337 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;1581;Utrechtse Heuvelrug;1062;Amsterdam;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3402;IJsselstein;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3421;Oudewater;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3432;Nieuwegein;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3443;Woerden;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3451;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3466;Bodegraven-Reeuwijk;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3471;Woerden;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3474;Woerden;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3524;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3526;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3544;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3555;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3563;Utrecht;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3701;Zeist;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3705;Zeist;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3707;Zeist;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3721;De Bilt;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3812;Amersfoort;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3904;Veenendaal;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3911;Rhenen;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3945;Wijk bij Duurstede;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;1;7;1;0;0;0;0;0;0;0;0;0;9
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3962;Wijk bij Duurstede;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3984;Bunnik;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3991;Houten;01KI;00;SSVO School De Sprong;3953MC;MAARSBERGEN;Utrecht;Vso;Openbaar;42756;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;1214;Hilversum;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3401;IJsselstein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3404;IJsselstein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3411;Lopik;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3431;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3433;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3434;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;2;1;2;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3436;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3437;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3438;Nieuwegein;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3443;Woerden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3446;Woerden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3448;Woerden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3452;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3453;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3454;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3461;Montfoort;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3471;Woerden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3481;Woerden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3511;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3523;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3524;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3525;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3531;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3544;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3551;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3552;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3553;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3554;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3561;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3563;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3564;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3582;Utrecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3602;Stichtse Vecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3605;Stichtse Vecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3607;Stichtse Vecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3612;Stichtse Vecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3621;Stichtse Vecht;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3701;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3704;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3706;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3707;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3708;Zeist;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3721;De Bilt;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3723;De Bilt;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3731;De Bilt;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3742;Baarn;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3762;Soest;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3769;Soest;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3781;Barneveld;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3813;Amersfoort;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3831;Leusden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3832;Leusden;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3903;Veenendaal;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3904;Veenendaal;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3925;Scherpenzeel;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3927;Renswoude;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;2;0;0;1;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3945;Wijk bij Duurstede;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;3;2;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3962;Wijk bij Duurstede;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;2;1;0;0;3;1;0;0;0;0;0;0;0;0;7
+20171001;1581;Utrechtse Heuvelrug;3985;Bunnik;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3991;Houten;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3993;Houten;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4001;Tiel;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4005;Tiel;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4064;Neerijnen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4105;Culemborg;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;4112;Buren;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4131;Vianen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4132;Vianen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4133;Vianen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4157;Geldermalsen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4176;Neerijnen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4196;Geldermalsen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4197;Geldermalsen;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;7351;Apeldoorn;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;8232;Lelystad;02RM;00;Beukenrode Onderwijs;3941ZP;DOORN;Utrecht;Vso;Rooms-Katholiek;42605;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3522;Utrecht;03IX;00;Basisschool Valkenheuvel;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;03IX;00;Basisschool Valkenheuvel;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;03IX;00;Basisschool Valkenheuvel;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Rooms-Katholiek;69447;0;1;1;0;0;2;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;03IX;00;Basisschool Valkenheuvel;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Rooms-Katholiek;69447;0;12;8;11;10;15;14;23;26;8;0;0;0;0;0;0;0;0;0;0;0;0;0;127
+20171001;1581;Utrechtse Heuvelrug;7433;Deventer;03IX;00;Basisschool Valkenheuvel;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3925;Scherpenzeel;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;27;22;20;27;23;23;26;24;1;0;0;0;0;0;0;0;0;0;0;0;0;0;193
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;0;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;03SN;00;Daltonschool Nicolaas;3941HS;DOORN;Utrecht;Bo;Rooms-Katholiek;69447;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;1;2;3;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1581;Utrechtse Heuvelrug;3945;Wijk bij Duurstede;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;2;5;2;4;5;1;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;25
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;1;0;2;1;2;4;2;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;1;3;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1581;Utrechtse Heuvelrug;3962;Wijk bij Duurstede;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;1;4;2;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1581;Utrechtse Heuvelrug;3981;Bunnik;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3985;Bunnik;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;6744;Ede;03YZ;00;Bs Gisbertus Voetius;3941TB;DOORN;Utrecht;Bo;Reformatorisch;59516;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3514;Utrecht;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3704;Zeist;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3706;Zeist;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3708;Zeist;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3711;Zeist;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3825;Amersfoort;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;1;0;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3901;Veenendaal;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;4;2;1;5;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;1581;Utrechtse Heuvelrug;3945;Wijk bij Duurstede;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;8;7;11;9;4;4;7;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;55
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;18;18;19;14;20;9;12;10;2;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;1581;Utrechtse Heuvelrug;3981;Bunnik;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3984;Bunnik;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;3;0;2;1;3;1;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;1581;Utrechtse Heuvelrug;3985;Bunnik;03ZE;00;Vrije School Driebergen;3972PS;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Antroposofisch;59919;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3904;Veenendaal;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3905;Veenendaal;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3927;Renswoude;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;2;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;0;1;1;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3959;Utrechtse Heuvelrug;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;12;4;13;5;9;10;15;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;74
+20171001;1581;Utrechtse Heuvelrug;6706;Wageningen;04OB;00;Basisschool De Wegwijzer;3959AM;OVERBERG;Utrecht;Bo;Protestants-Christelijk;41621;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3583;Utrecht;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3732;De Bilt;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;0;1;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;21;16;18;18;24;17;20;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;149
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;05NI;00;Chr Basisschool Coolsma;3971KW;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;83786;0;7;14;10;12;4;12;9;15;0;0;0;0;0;0;0;0;0;0;0;0;0;0;83
+20171001;1581;Utrechtse Heuvelrug;3825;Amersfoort;05QM;00;Basisschool De Schakel;3956GL;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;05QM;00;Basisschool De Schakel;3956GL;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;05QM;00;Basisschool De Schakel;3956GL;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;19;20;19;16;30;20;17;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;164
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;05QM;00;Basisschool De Schakel;3956GL;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3772;Barneveld;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;14;10;24;20;24;20;19;16;8;0;0;0;0;0;0;0;0;0;0;0;0;0;155
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;3;2;1;0;1;1;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;1581;Utrechtse Heuvelrug;6021;Cranendonck;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;0;2;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;6717;Ede;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;9341;Noordenveld;05ZW;00;WereldKidz Meander;3956EW;LEERSUM;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;07ZP;00;Basisschool De Hoeksteen;3956DC;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;07ZP;00;Basisschool De Hoeksteen;3956DC;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;29;17;23;35;20;28;26;23;4;0;0;0;0;0;0;0;0;0;0;0;0;0;205
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;07ZP;00;Basisschool De Hoeksteen;3956DC;LEERSUM;Utrecht;Bo;Protestants-Christelijk;41528;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3061;Rotterdam;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3701;Zeist;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3709;Zeist;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;30;18;19;20;18;19;20;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;157
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;08EO;00;WereldKidz Dolfijn;3971CH;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Openbaar;41496;0;21;16;12;18;9;12;17;14;3;0;0;0;0;0;0;0;0;0;0;0;0;0;122
+20171001;1581;Utrechtse Heuvelrug;3906;Veenendaal;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3911;Rhenen;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3921;Rhenen;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;0;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3922;Utrechtse Heuvelrug;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;0;1;0;2;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;0;3;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;11;20;15;26;19;21;16;15;4;0;0;0;0;0;0;0;0;0;0;0;0;0;147
+20171001;1581;Utrechtse Heuvelrug;3959;Utrechtse Heuvelrug;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;4143;Leerdam;08US;00;Basisschool Wilhelmina;3958BL;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3708;Zeist;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;2;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;14;17;11;11;12;13;7;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;96
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;08VG;00;De Kring;3971PV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;13;13;13;18;20;14;16;13;3;0;0;0;0;0;0;0;0;0;0;0;0;0;123
+20171001;1581;Utrechtse Heuvelrug;3553;Utrecht;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3817;Amersfoort;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;21;27;25;18;18;19;21;26;1;0;0;0;0;0;0;0;0;0;0;0;0;0;176
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;2;0;1;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;1581;Utrechtse Heuvelrug;3995;Houten;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4141;Leerdam;09IP;00;Basisschool De Ladder;3951VL;MAARN;Utrecht;Bo;Algemeen bijzonder;30015;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3903;Veenendaal;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3905;Veenendaal;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3921;Rhenen;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;4;2;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1581;Utrechtse Heuvelrug;3922;Utrechtse Heuvelrug;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;1;1;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;15;26;18;22;29;15;27;30;5;0;0;0;0;0;0;0;0;0;0;0;0;0;187
+20171001;1581;Utrechtse Heuvelrug;3959;Utrechtse Heuvelrug;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3962;Wijk bij Duurstede;09SX;00;Basisschool De Regenboog;3958XK;AMERONGEN;Utrecht;Bo;Protestants-Christelijk;23674;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3711;Zeist;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;21;22;19;15;22;19;18;21;3;0;0;0;0;0;0;0;0;0;0;0;0;0;160
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;7;5;8;10;5;10;8;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;1581;Utrechtse Heuvelrug;3991;Houten;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;6715;Ede;09TJ;00;Basisschool De Zonheuvel;3971CV;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3402;IJsselstein;10MV;00;Basissch De Uilenburcht;3972XD;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3702;Zeist;10MV;00;Basissch De Uilenburcht;3972XD;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;10MV;00;Basissch De Uilenburcht;3972XD;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;10MV;00;Basissch De Uilenburcht;3972XD;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;2;1;0;1;2;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;10MV;00;Basissch De Uilenburcht;3972XD;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Protestants-Christelijk;41483;0;36;37;34;43;34;36;37;24;6;0;0;0;0;0;0;0;0;0;0;0;0;0;287
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;12HN;00;De Sterrenboog;3941VR;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;16;14;16;23;20;21;38;24;3;0;0;0;0;0;0;0;0;0;0;0;0;0;175
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;12HN;00;De Sterrenboog;3941VR;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;12HN;00;De Sterrenboog;3941VR;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;12HN;00;De Sterrenboog;3941VR;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;12QD;00;De Wijngaard;3941LL;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;8;8;18;18;15;15;21;22;4;0;0;0;0;0;0;0;0;0;0;0;0;0;129
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;12QD;00;De Wijngaard;3941LL;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;1;0;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;12QD;00;De Wijngaard;3941LL;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;12QD;00;De Wijngaard;3941LL;DOORN;Utrecht;Bo;Protestants-Christelijk;41483;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3523;Utrecht;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3524;Utrecht;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3573;Utrecht;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3701;Zeist;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3705;Zeist;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3707;Zeist;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3708;Zeist;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3818;Amersfoort;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;22;23;18;27;26;22;30;29;2;0;0;0;0;0;0;0;0;0;0;0;0;0;199
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;2;0;1;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;1;0;3;2;5;5;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;2;1;5;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;2;3;8;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;22
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;1;2;3;1;2;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;1581;Utrechtse Heuvelrug;4212;Lingewaal;18EA;00;WereldKidz Kameleon;3941RN;DOORN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;2611;Delft;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3711;Zeist;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3921;Rhenen;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3925;Scherpenzeel;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;23;23;15;21;18;24;17;12;1;0;0;0;0;0;0;0;0;0;0;0;0;0;154
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3956;Utrechtse Heuvelrug;18JW;00;WereldKidz Meent;3951CR;MAARN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;18LK;00;WereldKidz Merseberch;3953BR;MAARSBERGEN;Utrecht;Bo;Openbaar;41496;0;2;2;0;1;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;18LK;00;WereldKidz Merseberch;3953BR;MAARSBERGEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;18LK;00;WereldKidz Merseberch;3953BR;MAARSBERGEN;Utrecht;Bo;Openbaar;41496;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;18LK;00;WereldKidz Merseberch;3953BR;MAARSBERGEN;Utrecht;Bo;Openbaar;41496;0;7;2;4;4;5;1;5;8;0;0;0;0;0;0;0;0;0;0;0;0;0;0;36
+20171001;1581;Utrechtse Heuvelrug;3959;Utrechtse Heuvelrug;18LK;00;WereldKidz Merseberch;3953BR;MAARSBERGEN;Utrecht;Bo;Openbaar;41496;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;2625;Delft;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;2957;Molenwaard;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3404;IJsselstein;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3404;IJsselstein;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3432;Nieuwegein;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3443;Woerden;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3453;Utrecht;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3466;Bodegraven-Reeuwijk;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3607;Stichtse Vecht;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3615;De Bilt;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3621;Stichtse Vecht;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3704;Zeist;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3707;Zeist;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3721;De Bilt;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3734;Zeist;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3742;Baarn;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3752;Bunschoten;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3769;Soest;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3771;Barneveld;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3794;Barneveld;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3812;Amersfoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3814;Amersfoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3818;Amersfoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3823;Amersfoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3825;Amersfoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3831;Leusden;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3862;Nijkerk;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3947;Wijk bij Duurstede;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3958;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3961;Wijk bij Duurstede;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3999;Houten;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4041;Neder-Betuwe;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4132;Vianen;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4133;Vianen;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;4145;Leerdam;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;6708;Wageningen;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;6931;Westervoort;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;6981;Doesburg;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;Vso;Protestants-Christelijk;93744;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;7443;Hellendoorn;25GR;01;Bartimeus OVVGL;3941XM;DOORN;Utrecht;So;Protestants-Christelijk;93744;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3702;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3703;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3705;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3707;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3708;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3711;Zeist;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;1581;Utrechtse Heuvelrug;3723;De Bilt;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3769;Soest;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3931;Woudenberg;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;1581;Utrechtse Heuvelrug;3941;Utrechtse Heuvelrug;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;1;1;2;1;1;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;1581;Utrechtse Heuvelrug;3951;Utrechtse Heuvelrug;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3953;Utrechtse Heuvelrug;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3971;Utrechtse Heuvelrug;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;1581;Utrechtse Heuvelrug;3972;Utrechtse Heuvelrug;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;2;3;1;1;2;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;1581;Utrechtse Heuvelrug;3981;Bunnik;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3984;Bunnik;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;1581;Utrechtse Heuvelrug;3985;Bunnik;29XZ;00;De Ontdekkingsreis;3972XL;DRIEBERGEN-RIJSENBURG;Utrecht;Bo;Algemeen bijzonder;41799;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2

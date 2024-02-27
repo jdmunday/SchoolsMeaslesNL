@@ -1,0 +1,391 @@
+PEILDATUM;GEMEENTENUMMER;GEMEENTENAAM;POSTCODE_LEERLING;GEMEENTENAAM_LEERLING;BRIN_NUMMER;VESTIGINGSNUMMER;INSTELLINGSNAAM_VESTIGING;POSTCODE_VESTIGING;PLAATSNAAM;PROVINCIE;SOORT_PO;DENOMINATIE_VESTIGING;BEVOEGD_GEZAG_NUMMER;LEEFTIJD_JONGER;LEEFTIJD_4;LEEFTIJD_5;LEEFTIJD_6;LEEFTIJD_7;LEEFTIJD_8;LEEFTIJD_9;LEEFTIJD_10;LEEFTIJD_11;LEEFTIJD_12;LEEFTIJD_13;LEEFTIJD_14;LEEFTIJD_15;LEEFTIJD_16;LEEFTIJD_17;LEEFTIJD_18;LEEFTIJD_19;LEEFTIJD_20;LEEFTIJD_21;LEEFTIJD_22;LEEFTIJD_23;LEEFTIJD_24;LEEFTIJD_OUDER;TOTAAL
+20171001;375;Beverwijk;1901;Castricum;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1902;Castricum;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1906;Castricum;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1911;Uitgeest;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1921;Castricum;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1943;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1944;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;1;3;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1945;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;3;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1946;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;2;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1947;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1948;Beverwijk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1951;Velsen;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1962;Heemskerk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1963;Heemskerk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1964;Heemskerk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1966;Heemskerk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1967;Heemskerk;00RL;10;Antoniusschool;1945NC;BEVERWIJK;Noord-Holland;So;Samenwerking PC, RK;41008;0;0;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1021;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1032;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1057;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1082;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1098;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1102;Amsterdam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1111;Diemen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1121;Landsmeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1132;Edam-Volendam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1135;Edam-Volendam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1141;Waterland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;2
+20171001;375;Beverwijk;1161;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1171;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1181;Amstelveen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1186;Amstelveen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1187;Amstelveen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1422;Uithoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1431;Aalsmeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1433;Aalsmeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1441;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1441;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;0;0;1;0;2;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1442;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1447;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1447;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1448;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1448;Purmerend;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1462;Beemster;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1471;Edam-Volendam;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1483;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1501;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1502;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1503;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1504;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1504;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1505;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1506;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1507;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;5;0;0;2;1;1;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1509;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1509;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1511;Oostzaan;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1521;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1521;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1531;Wormerland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1531;Wormerland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;1;1;5;1;0;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1536;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1541;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1544;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1551;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1551;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1561;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;3;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1561;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;3
+20171001;375;Beverwijk;1562;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1562;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;1;2;2;2;1;2;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1566;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1566;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;4;2;2;0;1;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1567;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1567;Zaanstad;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;2;0;0;2;1;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1611;Stede Broec;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1613;Stede Broec;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1616;Drechterland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1619;Medemblik;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1621;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1625;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1628;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1628;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1634;Koggenland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1636;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1671;Medemblik;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1674;Medemblik;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1687;Medemblik;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1689;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1689;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1695;Hoorn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1701;Heerhugowaard;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1702;Heerhugowaard;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1703;Heerhugowaard;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1704;Heerhugowaard;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1705;Heerhugowaard;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1713;Koggenland;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1721;Langedijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1732;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1733;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1738;Schagen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1741;Schagen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1747;Schagen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1751;Schagen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1755;Schagen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1761;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1764;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1775;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1778;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1779;Hollands Kroon;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1781;Den Helder;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1782;Den Helder;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1785;Den Helder;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1813;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1814;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1816;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1817;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1823;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1824;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1825;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1826;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1827;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1829;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1834;Langedijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1841;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1842;Alkmaar;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1851;Heiloo;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1852;Heiloo;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1862;Bergen (NH.);01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1901;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;1;3;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1901;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;3;2;5;2;1;1;1;0;0;0;0;0;0;15
+20171001;375;Beverwijk;1902;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1902;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1906;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1906;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1911;Uitgeest;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;2;1;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1911;Uitgeest;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;2;6;1;1;1;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1921;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1921;Castricum;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;3;1;1;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1934;Bergen (NH.);01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1935;Bergen (NH.);01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1942;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1943;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1943;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1944;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;3;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1944;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;2;1;1;2;1;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1945;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1945;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;2;1;1;1;0;1;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1946;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;1;0;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1946;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;2;1;4;2;3;0;0;0;0;0;0;0;0;14
+20171001;375;Beverwijk;1947;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1947;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;2;3;0;0;1;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1948;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;1;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1948;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;2;3;3;3;2;2;0;0;0;0;0;0;0;15
+20171001;375;Beverwijk;1949;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1949;Beverwijk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;1;1;3;3;0;1;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1951;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1951;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;2;0;3;1;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1961;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1962;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1962;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;4;3;2;1;1;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1963;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1963;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1964;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1964;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;2;0;0;0;3;1;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1965;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1965;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;2;4;1;2;2;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1966;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1966;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;1;2;2;2;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1967;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1967;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;3;2;6;2;5;3;1;0;0;0;0;0;0;0;22
+20171001;375;Beverwijk;1968;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1969;Heemskerk;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1971;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1971;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;2;0;2;1;1;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1972;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1972;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1973;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1973;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1974;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1974;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1975;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1975;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1981;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1985;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1991;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1991;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;2;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1992;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;2;0;1;0;0;1;0;0;0;0;0;0;4
+20171001;375;Beverwijk;2012;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2013;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2013;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2021;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2021;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2022;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;2023;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;2;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2025;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2026;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2031;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2033;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2033;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2035;Haarlem;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2041;Zandvoort;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2042;Zandvoort;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;2042;Zandvoort;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2061;Bloemendaal;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2071;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2071;Velsen;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2101;Heemstede;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2105;Heemstede;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2131;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2132;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2133;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2151;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2152;Haarlemmermeer;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;Vso;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2401;Alphen aan den Rijn;01MI;00;Heliomare Onderwijs;1949EC;WIJK AAN ZEE;Noord-Holland;So;Algemeen bijzonder;40837;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1901;Castricum;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;1;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1902;Castricum;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1906;Castricum;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1911;Uitgeest;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1921;Castricum;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1943;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1944;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;2;2;1;0;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1945;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;1;3;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1946;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;1;3;5;2;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;15
+20171001;375;Beverwijk;1947;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;2;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1948;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;0;0;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1949;Beverwijk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1951;Velsen;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;1;2;2;3;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;375;Beverwijk;1962;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;3;0;2;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1963;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1964;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1965;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;0;2;0;6;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;375;Beverwijk;1966;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;2;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1967;Heemskerk;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2071;Velsen;02EH;00;SSBO De Zeearend;1945NC;BEVERWIJK;Noord-Holland;Sbo;Algemeen bijzonder;26158;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1942;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1944;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1945;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1946;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1949;Beverwijk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;15;10;22;13;12;9;15;13;0;0;0;0;0;0;0;0;0;0;0;0;0;0;109
+20171001;375;Beverwijk;1964;Heemskerk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1965;Heemskerk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1969;Heemskerk;03QL;00;Basisschool De Vryheit;1949EG;WIJK AAN ZEE;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1505;Zaanstad;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1782;Den Helder;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;2;2;3;2;4;1;5;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;375;Beverwijk;1942;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1944;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;3;0;8;5;2;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;29
+20171001;375;Beverwijk;1945;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;4;11;4;4;4;3;3;6;1;0;0;0;0;0;0;0;0;0;0;0;0;0;40
+20171001;375;Beverwijk;1946;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;2;0;0;0;2;2;2;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13
+20171001;375;Beverwijk;1947;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;22;15;19;20;24;16;25;15;2;0;0;0;0;0;0;0;0;0;0;0;0;0;158
+20171001;375;Beverwijk;1948;Beverwijk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1951;Velsen;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1966;Heemskerk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1967;Heemskerk;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;2013;Haarlem;06FF;00;Basissch De Sleutelbloem;1947ZB;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1566;Zaanstad;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1941;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;2;2;0;1;2;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1942;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;2;4;3;2;3;2;4;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;375;Beverwijk;1943;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;5;8;5;6;7;10;8;8;1;0;0;0;0;0;0;0;0;0;0;0;0;0;58
+20171001;375;Beverwijk;1944;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;3;10;5;11;9;12;11;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;68
+20171001;375;Beverwijk;1945;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;2;3;2;3;1;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16
+20171001;375;Beverwijk;1947;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;2;2;0;3;1;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1948;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;2;2;1;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1949;Beverwijk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;1;1;0;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1951;Velsen;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;4;7;4;2;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;27
+20171001;375;Beverwijk;1961;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1962;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;0;2;1;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1964;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;1;0;2;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1965;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;0;0;2;0;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1966;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1967;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1969;Heemskerk;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1985;Velsen;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1991;Velsen;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;2037;Haarlem;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;7207;Zutphen;08CD;00;Montessori Basisschool;1943MN;BEVERWIJK;Noord-Holland;Bo;Algemeen bijzonder;94771;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;  30;ander land;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1901;Castricum;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;6;1;4;5;3;6;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;30
+20171001;375;Beverwijk;1942;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;3;5;5;2;8;7;8;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;49
+20171001;375;Beverwijk;1943;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;23;16;14;21;17;16;18;21;2;0;0;0;0;0;0;0;0;0;0;0;0;0;148
+20171001;375;Beverwijk;1944;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;11;13;6;9;20;10;12;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;375;Beverwijk;1945;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;2;1;3;1;3;1;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;375;Beverwijk;1946;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1947;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;2;2;2;2;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1948;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1949;Beverwijk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1951;Velsen;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;4;4;4;2;10;4;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;33
+20171001;375;Beverwijk;1962;Heemskerk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1964;Heemskerk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1965;Heemskerk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1966;Heemskerk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1967;Heemskerk;09JN;00;Basisschool De Anjelier;1943DA;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1941;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;3;3;0;3;5;3;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;375;Beverwijk;1942;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;12;7;9;7;7;9;4;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;60
+20171001;375;Beverwijk;1943;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;16;13;16;8;18;12;11;9;0;0;0;0;0;0;0;0;0;0;0;0;0;0;103
+20171001;375;Beverwijk;1944;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;10;7;11;9;9;14;6;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;375;Beverwijk;1945;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;2;2;1;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1946;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;1;0;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1947;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;2;1;0;4;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1948;Beverwijk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;0;1;3;0;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1951;Velsen;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1966;Heemskerk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1967;Heemskerk;09YE;00;Basisschool Bethel;1943DM;BEVERWIJK;Noord-Holland;Bo;Protestants-Christelijk;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;  30;ander land;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1911;Uitgeest;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1921;Castricum;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;2;0;1;2;2;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1942;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1943;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;2;3;2;2;4;1;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;375;Beverwijk;1944;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;12;14;18;13;9;15;18;14;1;0;0;0;0;0;0;0;0;0;0;0;0;0;114
+20171001;375;Beverwijk;1945;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;2;2;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1946;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1947;Beverwijk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1951;Velsen;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1962;Heemskerk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1967;Heemskerk;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1971;Velsen;11VP;00;Rk Bs de Wilgeroos;1944TD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1567;Zaanstad;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1761;Hollands Kroon;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;2;1;0;0;2;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1943;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1944;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;3;0;1;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1945;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;2;3;3;2;2;3;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;19
+20171001;375;Beverwijk;1946;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;19;11;14;19;11;10;12;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;107
+20171001;375;Beverwijk;1947;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;3;5;2;3;2;2;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;20
+20171001;375;Beverwijk;1948;Beverwijk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;1;1;2;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10
+20171001;375;Beverwijk;1965;Heemskerk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1966;Heemskerk;12IF;00;Obs het Kompas;1946AZ;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1816;Alkmaar;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1911;Uitgeest;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;2;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1943;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;2;0;0;0;2;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1944;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;3;2;4;5;3;4;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;23
+20171001;375;Beverwijk;1945;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;20;14;16;13;14;11;12;10;1;0;0;0;0;0;0;0;0;0;0;0;0;0;111
+20171001;375;Beverwijk;1946;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;6;4;11;9;9;8;8;12;4;0;0;0;0;0;0;0;0;0;0;0;0;0;71
+20171001;375;Beverwijk;1947;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;3;1;2;3;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;14
+20171001;375;Beverwijk;1948;Beverwijk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;0;1;2;1;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1951;Velsen;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1962;Heemskerk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;0;0;3;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8
+20171001;375;Beverwijk;1964;Heemskerk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;1;2;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1965;Heemskerk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;3;0;3;2;1;3;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;17
+20171001;375;Beverwijk;1966;Heemskerk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;2;1;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1967;Heemskerk;12YB;00;Obs de Sterrekijker;1945TT;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1941;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;4;0;3;1;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1942;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;1;0;3;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9
+20171001;375;Beverwijk;1943;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;6;4;4;9;2;4;6;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;45
+20171001;375;Beverwijk;1944;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;13;10;14;6;13;9;16;11;0;0;0;0;0;0;0;0;0;0;0;0;0;0;92
+20171001;375;Beverwijk;1945;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;3;1;6;2;3;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;18
+20171001;375;Beverwijk;1946;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;1;0;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;5
+20171001;375;Beverwijk;1947;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;2;4;1;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1948;Beverwijk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;2;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1951;Velsen;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;1;1;1;2;5;8;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;21
+20171001;375;Beverwijk;1962;Heemskerk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1965;Heemskerk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1967;Heemskerk;13SP;00;Obs 't Kraaienest;1943MH;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1566;Zaanstad;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1941;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;1;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1944;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1945;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;1;1;2;0;2;3;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1946;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;3;7;5;2;6;0;1;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;28
+20171001;375;Beverwijk;1947;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;3;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7
+20171001;375;Beverwijk;1948;Beverwijk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;47;66;54;69;56;64;65;42;2;0;0;0;0;0;0;0;0;0;0;0;0;0;465
+20171001;375;Beverwijk;1951;Velsen;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1963;Heemskerk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1964;Heemskerk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1965;Heemskerk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1966;Heemskerk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;2;2;0;0;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;11
+20171001;375;Beverwijk;1967;Heemskerk;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;17;18;28;21;25;23;18;20;1;0;0;0;0;0;0;0;0;0;0;0;0;0;171
+20171001;375;Beverwijk;1975;Velsen;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;2032;Haarlem;27JJ;00;Basisschool Panta Rhei;1948DD;BEVERWIJK;Noord-Holland;Bo;Rooms-Katholiek;26158;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1566;Zaanstad;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1782;Den Helder;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1941;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1943;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+20171001;375;Beverwijk;1945;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;1;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1946;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1947;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;1;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1948;Beverwijk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;29;22;38;29;34;35;33;19;1;0;0;0;0;0;0;0;0;0;0;0;0;0;240
+20171001;375;Beverwijk;1951;Velsen;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;1;1;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6
+20171001;375;Beverwijk;1962;Heemskerk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4
+20171001;375;Beverwijk;1963;Heemskerk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2
+20171001;375;Beverwijk;1965;Heemskerk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3
+20171001;375;Beverwijk;1966;Heemskerk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;2;1;1;2;1;2;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12
+20171001;375;Beverwijk;1967;Heemskerk;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;7;8;12;7;18;10;9;9;1;0;0;0;0;0;0;0;0;0;0;0;0;0;81
+20171001;375;Beverwijk;1973;Velsen;27ML;00;OBS De Zeester;1948DD;BEVERWIJK;Noord-Holland;Bo;Openbaar;41375;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
